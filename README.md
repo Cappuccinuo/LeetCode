@@ -13,10 +13,11 @@
 |9|476|[Number Complement][476]|Python|Easy|2017.1.12|
 |10|455|[Assign-cookies][455]|Python|Easy|2017.1.16|
 |11|453|[Minimum Moves to Equal Array Elements][453]|Python|Easy|2017.1.18|
+|12|118|[Pascal's Triangle][118]|Java|Easy|2017.2.20|
 
 
 
-
+[118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
