@@ -1,7 +1,7 @@
 #LeetCode
 ---
 |No.| #  | Title | Solution | Difficulty | Solved Date| Tag| Review Date|
-|:-:|:----:|:-----:|:--------:|:----------:|:----------:|
+|:-:|:----:|:-----:|:--------:|:----------:|:----------:|:-------:|:--------:|
 |1|461|[Hamming Distance][461]|Python|Easy|2017.1.6|
 |2|412|[Fizz Buzz][412]|Python|Easy|2017.1.7|
 |3|344|[Reverse String][344]|Python|Easy|2017.1.7|
