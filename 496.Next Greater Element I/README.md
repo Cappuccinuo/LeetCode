@@ -36,4 +36,4 @@ Stack:</br>
 
 4. Stack.peek() < num</br>
 
-5. <em>while</em> (!stack.isEmpty() && Stack.peek() < num)
+5. <strong><em>while</em></strong> (!stack.isEmpty() && Stack.peek() < num)
