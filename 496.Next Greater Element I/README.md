@@ -33,3 +33,7 @@ Stack:</br>
 <code>stack.peek();(Element on the top of the stack)</code></br>
 <code>stack.isEmpty();</code></br>
 <code>stack.size();</code></br>
+
+4. Stack.peek() < num</br>
+
+5. <em>while</em> (!stack.isEmpty() && Stack.peek() < num)
