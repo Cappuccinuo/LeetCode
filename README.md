@@ -1,6 +1,6 @@
 #LeetCode
 ---
-|No.| #  | Title | Solution | Difficulty | Solved Date|
+|No.| #  | Title | Solution | Difficulty | Solved Date| Tag| Review Date|
 |:-:|:----:|:-----:|:--------:|:----------:|:----------:|
 |1|461|[Hamming Distance][461]|Python|Easy|2017.1.6|
 |2|412|[Fizz Buzz][412]|Python|Easy|2017.1.7|
@@ -14,12 +14,12 @@
 |10|455|[Assign-cookies][455]|Python|Easy|2017.1.16|
 |11|453|[Minimum Moves to Equal Array Elements][453]|Python|Easy|2017.1.18|
 |12|118|[Pascal's Triangle][118]|Java|Easy|2017.2.20|
-|13|21|[Merge Two Sorted Lists][21]|Java|Easy|2017.2.20|
+|13|21|[Merge Two Sorted Lists][21]|Java|Easy|2017.2.20|Linked List|
 |14|1|[Two Sum][1]|Java|Easy|2017.3.9|
 |15|7|[Reverse Integer][7]|Java|Easy|2017.3.9|
 |16|9|[Palindrome Number][9]|Java|Easy|2017.3.9|
 |17|14|[Longest Common Prefix][14]|Java|Easy|2017.3.9|
-|18|20|[Valid Parentheses][20]|Java|Easy|2017.3.9|
+|18|20|[Valid Parentheses][20]|Java|Easy|2017.3.9|Stack|
 |19|26|[Remove Duplicates from Sorted Array][26]|Java|Easy|2017.3.10|
 |20|27|[Remove Element][27]|Java|Easy|2017.3.10|
 |21|28|[Implement strStr()][28]|Java|Easy|2017.3.15|
@@ -35,13 +35,49 @@
 |31|119|[Pascal's Triangle Ⅱ][119]|Java|Easy|2017.3.22|
 |32|121|[Best Time to Buy and Sell Stock][121]|Java|Easy|2017.3.23|
 |33|122|[Best Time to Buy and Sell Stock Ⅱ][122]|Java|Easy|2017.3.23|
+|34|167|[Two Sum Ⅱ - Input array is sorted][167]|Java|Easy|2017.3.24|
+|35|414|[Third Maximum Number][414]|Java|Easy|2017.3.27|
+|36|268|[Missing Number][268]|Java|Easy|2017.3.27|
+|37|485|[Max Consecutive Ones][485]|Java|Easy|2017.3.28|
+|38|219|[Contains Duplicate Ⅱ][219]|Java|Easy|2017.3.28|
+|39|500|[Keyboard Row][500]|Java|Easy|2017.4.1|
+|40|349|[Intersection of Two Arrays][349]|Java|Easy|2017.4.1|
+|41|409|[Longest Palindrome][409]|Java|Easy|2017.4.7|
+|42|350|[Intersection of Two Arrays Ⅱ][350]|Java|Easy|2017.4.7|
+|43|141|[Linked List Cycle][141]|Java|Easy|2017.5.25|Linked List, Two Pointers|
+|44|142|[Linked List Cycle Ⅱ][142]|Java|Medium|2017.5.25|Linked List, Two Pointers|
+|45|160|[Intersection of Two Linked Lists][160]|Java|Easy|2017.5.25|Linked List|
+|46|234|[Palindrome Linked List][234]|Java|Easy|2017.5.26|Linked List, Two Pointers|
+|47|203|[Remove Linked List Elements][203]|Java|Easy|2017.5.27|Linked List|
+|48|2|[Add Two Numbers][2]|Java|Medium|2017.5.27|Linked List, Math|
+|49|445|[Add Two Numbers Ⅱ][445]|Java|Medium|2017.5.30|Linked List|
+|50|24|[Swap Nodes in Pairs][24]|Java|Medium|2017.6.2|Linked List|
+|51|19|[Remove Nth Node From End of List][19]|Java|Medium|2017.6.2|Linked List|
+|52|147|[Insertion Sort List][147]|Java|Medium|2017.6.7|Linked List, Sort|
+|53|86|[Partition List][86]|Java|Medium|2017.6.7|Linked List, Two Pointers|
+|54|92|[Reverse Linked List Ⅱ][92]|Java|Medium|2017.6.8|Linked List|
+|55|82|[Remove Duplicates from Sorted List Ⅱ][82]|Java|Medium|2017.6.8|Linked List|
+|56|61|[Rotate List][61]|Java|Medium|2017.6.9|Linked List, Two Pointers|
+|57|25|[Reverse Nodes in k-Group][25]|Java|Hard|2017.6.10|Linked List|
+|58|148|[Sort List][148]|Java|Medium|2017.6.11|Linked List|
+|59|237|[Delete Node in a Linked List][237]|Java|Easy|2017.6.14|Linked List|
+|60|206|[Reverse Linked List][206]|Java|Easy|2017.6.14|Linked List|
+|61|328|[Odd Even Linked List][328]|Java|Medium|2017.6.15|Linked List|
+|62|83|[Remove Duplicates from Sorted List][83]|Java|Easy|2017.6.15|Linked List|
+|63|109|[Convert Sorted List to Binary Search Tree][109]|Java|Medium|2017.6.17|Linked List|
+|64|496|[Next Greater Element I][496]|Java|Easy|2017.6.19|Stack|
+
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
+[2]:<https://leetcode.com/problems/add-two-numbers/> "Add Two Numbers"
 [7]:<https://leetcode.com/problems/reverse-integer/> "Reverse Integer"
 [9]:<https://leetcode.com/problems/palindrome-number/> "Palindrome Number"
 [14]:<https://leetcode.com/problems/longest-common-prefix/> "Longest Common Prefix"
+[19]:<https://leetcode.com/problems/remove-nth-node-from-end-of-list/> "Remove Nth Node From End of List"
 [20]:<https://leetcode.com/problems/valid-parentheses/> "Valid Parentheses"
 [21]:<https://leetcode.com/problems/merge-two-sorted-lists/> "Merge Two Sorted Lists"
+[24]:<https://leetcode.com/problems/swap-nodes-in-pairs/> "Swap Nodes In Pairs"
+[25]:<https://leetcode.com/problems/reverse-nodes-in-k-group/> "Reverse Nodes in k-groups"
 [26]:<https://leetcode.com/problems/remove-duplicates-from-sorted-array/> "Remove Duplicates from Sorted Array"
 [27]:<https://leetcode.com/problems/remove-element/> "Remove Element"
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
@@ -49,23 +85,50 @@
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
 [53]:<https://leetcode.com/problems/maximum-subarray/> "Maximum Subarray"
 [58]:<https://leetcode.com/problems/length-of-last-word/> "Length of Last Word"
+[61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
 [66]:<https://leetcode.com/problems/plus-one/> "Plus One"
 [67]:<https://leetcode.com/problems/add-binary/> "Add Binary"
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
+[82]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/> "Remove Duplicated From Sorted List Ⅱ"
+[83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
+[86]:<https://leetcode.com/problems/partition-list/> "Partition List"
 [88]:<https://leetcode.com/problems/merge-sorted-array/> "Merge Sorted Array"
+[92]:<https://leetcode.com/problems/reverse-linked-list-ii/> "Reverse Linked List Ⅱ"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
+[109]:<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/> "Convert Sorted List to Binary Search Tree"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
 [121]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/> "Best Time to Buy and Sell Stock"
 [122]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/> "Best Time to Buy and Sell Stock Ⅱ"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
+[141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
+[142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
+[147]:<https://leetcode.com/problems/insertion-sort-list/> "Insertion Sort List"
+[148]:<https://leetcode.com/problems/sort-list/> "Sort List"
+[160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
+[167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
+[203]:<https://leetcode.com/problems/remove-linked-list-elements/> "Remove linked list elements"
+[206]:<https://leetcode.com/problems/reverse-linked-list/> "Reverse Linked List"
+[219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
+[234]:<https://leetcode.com/problems/palindrome-linked-list/> "Palindrome Linked List"
+[237]:<https://leetcode.com/problems/delete-node-in-a-linked-list/> "Delete Node In a Linked List"
+[268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
+[328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
+[349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
+[350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
+[409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
+[414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
+[445]:<https://leetcode.com/problems/add-two-numbers-ii/> "Add Two Numbers Ⅱ"
 [448]:<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/> "Find All Numbers Disappeared in an Array"
 [453]:<https://leetcode.com/problems/minimum-moves-to-equal-array-elements/> "Minimum Moves to Equal Array Elements"
 [455]:<https://leetcode.com/problems/assign-cookies/> "Assign-cookies"
 [461]:<https://leetcode.com/problems/hamming-distance> "Hamming Distance"
 [463]:<https://leetcode.com/problems/island-perimeter/> "Island Perimeter"
 [476]:<https://leetcode.com/problems/number-complement/> "Number Complement"
+[485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
+[496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
+[500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
