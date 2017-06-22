@@ -1,6 +1,6 @@
 public class Solution {
     public list<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> list = new List<Integer>();
+        List<Integer> list = new ArrayList<Integer>();
         Stack<TreeNode> stack = new Stack<Integer>();
         TreeNode tempNode = root;
         stack.push(tempNode);
