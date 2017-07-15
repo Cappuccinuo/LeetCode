@@ -1,7 +1,7 @@
 #LeetCode
 ---
 |No.| #  | Title | Solution | Difficulty | Solved Date| Tag| Review Date|
-|:-:|:----:|:-----:|:--------:|:----------:|:----------:|:-------:|:--------:|
+|:-:|:----:|:-----:|:--------:|:----------:|:----------:|:--------:|:--------:|
 |1|461|[Hamming Distance][461]|Python|Easy|2017.1.6|
 |2|412|[Fizz Buzz][412]|Python|Easy|2017.1.7|
 |3|344|[Reverse String][344]|Python|Easy|2017.1.7|
@@ -65,8 +65,33 @@
 |61|328|[Odd Even Linked List][328]|Java|Medium|2017.6.15|Linked List|
 |62|83|[Remove Duplicates from Sorted List][83]|Java|Easy|2017.6.15|Linked List|
 |63|109|[Convert Sorted List to Binary Search Tree][109]|Java|Medium|2017.6.17|Linked List|
-|64|496|[Next Greater Element I][496]|Java|Easy|2017.6.19|Stack|
-
+|64|496|[Next Greater Element I][496]|Java|Easy|2017.6.19|Stack, HashMap|
+|65|503|[Next Greater Element II][503]|Java|Medium|2017.6.19|Stack|
+|66|94|[Binary Tree Inorder Travelsal][94]|Java|Medium|2017.6.20|Stack|
+|67|144|[Binary Tree Preorder Travelsal][144]|Java|Medium|2017.6.22|Stack|
+|68|145|[Binary Tree Postorder Travelsal][145]|Java|Hard|2017.6.22|Stack|
+|69|394|[Decode String][394]|Java|Medium|2017.6.27|Stack|
+|70|341|[Flatten Nested List Iterator][341]|Java|Medium|2017.6.27|Stack|
+|71|173|[Binary Search Tree Iterator][173]|Java|Medium|2017.6.27|Stack|
+|72|155|[Min Stack][155]|Java|Easy|2017.7.4|Stack|
+|73|225|[Implement Stack using Queues][225]|Java|Easy|2017.7.5|Stack|
+|74|232|[Implement Queue using Stacks][232]|Java|Easy|2017.7.5|Stack|
+|75|331|[Verify Preorder Serialization of a Binary Tree][331]|Java|Medium|2017.7.6|Stack|
+|76|561|[Array Partition I][561]|Java|Easy|2017.7.10|Array|
+|77|189|[Rotate Array][189]|Java|Easy|2017.7.10|Array|
+|78|605|[Can Place Flowers][605]|Java|Easy|2017.7.10|Array|
+|79|581|[Shortest Unsorted Continuous Subarray][581]|Java|Easy|2017.7.11|Array|
+|80|566|[Reshape the Matrix][566]|Java|Easy|2017.7.11|Array|
+|81|628|[Maximum Product of Three Numbers][628]|Java|Easy|2017.7.13|Array|
+|82|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|Java|Medium|2017.7.14|Array|
+|83|106|[Construct Binary Tree from Inorder and Postorder Traversal][106]|Java|Medium|2017.7.15|Array|
+|84|532|[K-diff Pairs in an Array][532]|Java|Easy|2017.7.15|Array|
+|85|521|[Longest Uncommon Subsequence I][521]|Java|Easy|2017.7.15|String|
+|86|606|[Construct String from Binary Tree][606]|Java|Easy|2017.7.15|String|
+|87|125|[Valid Palindrome][125]|Java|Easy|2017.7.15|String|
+|88|520|[Detect Capital][520]|Java|Easy|2017.7.15|String|
+|89|383|[Ransom Note][383]|Java|Easy|2017.7.15|String|
+|90|551|[Student Attendance Record I][551]|Java|Easy|2017.7.15|String|
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
 [2]:<https://leetcode.com/problems/add-two-numbers/> "Add Two Numbers"
@@ -94,31 +119,46 @@
 [86]:<https://leetcode.com/problems/partition-list/> "Partition List"
 [88]:<https://leetcode.com/problems/merge-sorted-array/> "Merge Sorted Array"
 [92]:<https://leetcode.com/problems/reverse-linked-list-ii/> "Reverse Linked List Ⅱ"
+[94]:<https://leetcode.com/problems/binary-tree-inorder-traversal/> "Binary Tree Inorder Travelsal"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
+[105]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/> "Construct Binary Tree From Preorder and Inorder Traversal"
+[106]:<https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/> "Construct Binary Tree From Inorder and Postorder Traversal"
 [109]:<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/> "Convert Sorted List to Binary Search Tree"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
 [121]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/> "Best Time to Buy and Sell Stock"
 [122]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/> "Best Time to Buy and Sell Stock Ⅱ"
+[125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
 [141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
 [142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
+[144]:<https://leetcode.com/problems/binary-tree-preorder-traversal/> "Binary Tree Preorder Travelsal"
+[145]:<https://leetcode.com/problems/binary-tree-postorder-traversal/> "Binary Tree Postorder Travelsal"
 [147]:<https://leetcode.com/problems/insertion-sort-list/> "Insertion Sort List"
 [148]:<https://leetcode.com/problems/sort-list/> "Sort List"
+[155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
+[173]:<https://leetcode.com/problems/binary-search-tree-iterator/> "Binary Search Tree Iterator"
+[189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [203]:<https://leetcode.com/problems/remove-linked-list-elements/> "Remove linked list elements"
 [206]:<https://leetcode.com/problems/reverse-linked-list/> "Reverse Linked List"
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
+[225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
+[232]:<https://leetcode.com/problems/implement-queue-using-stacks/> "Implement Stack Using Queues"
 [234]:<https://leetcode.com/problems/palindrome-linked-list/> "Palindrome Linked List"
 [237]:<https://leetcode.com/problems/delete-node-in-a-linked-list/> "Delete Node In a Linked List"
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
+[331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
+[341]:<https://leetcode.com/problems/flatten-nested-list-iterator/> "Flatten Nested List Iterator"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
 [349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
+[383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
+[394]:<https://leetcode.com/problems/decode-string/> "Decode String"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
 [414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
@@ -132,3 +172,14 @@
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
+[503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
+[520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
+[521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
+[532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
+[551]:<https://leetcode.com/problems/student-attendance-record-i/> "Student Attendance Record I"
+[561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
+[566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
+[581]:<https://leetcode.com/problems/shortest-unsorted-continuous-subarray/> "Shortest Unsorted Continuous Subarray"
+[605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
+[606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
+[628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
