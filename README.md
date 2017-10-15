@@ -1,4 +1,5 @@
-#LeetCode
+# LeetCode
+
 | No.  |  #   |                  Title                   | Solution | Difficulty | Solved Date |                   Tag                    | Review Date |
 | :--: | :--: | :--------------------------------------: | :------: | :--------: | :---------: | :--------------------------------------: | :---------: |
 |  1   | 461  |         [Hamming Distance][461]          |  Python  |    Easy    |  2017.1.6   |                                          |             |
