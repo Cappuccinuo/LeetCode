@@ -120,6 +120,7 @@
 | 116  | 693  | [Binary Number with Alternating Bits][693] |   Java   |    Easy    | 2017.10.12  |             Bit Manipulation             |             |
 | 117  | 347  |      [Top K Frequent Element][347]       |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
 | 118  | 692  |       [Top K Frequent Words][692]        |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
+| 119  | 657  |        [Judge Route Circle][657]         |   Java   |    Easy    | 2017.10.17  |                  String                  |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -259,6 +260,7 @@
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
+[657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
