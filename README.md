@@ -121,6 +121,7 @@
 | 117  | 347  |      [Top K Frequent Element][347]       |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
 | 118  | 692  |       [Top K Frequent Words][692]        |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
 | 119  | 657  |        [Judge Route Circle][657]         |   Java   |    Easy    | 2017.10.17  |                  String                  |             |
+| 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -207,7 +208,12 @@
 [283]:
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
+[303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
+
 [292]:
+
+
+
 [326]:
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
