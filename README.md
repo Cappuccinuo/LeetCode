@@ -122,6 +122,7 @@
 | 118  | 692  |       [Top K Frequent Words][692]        |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
 | 119  | 657  |        [Judge Route Circle][657]         |   Java   |    Easy    | 2017.10.17  |                  String                  |             |
 | 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |             |
+| 121  | 387  | [First Unique Character in a String][387] |   Java   |    Easy    | 2017.10.19  |                  String                  |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -226,6 +227,7 @@
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
+[387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
 [394]:<https://leetcode.com/problems/decode-string/> "Decode String"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
