@@ -125,6 +125,7 @@
 | 121  | 387  | [First Unique Character in a String][387] |   Java   |    Easy    | 2017.10.19  |                  String                  |             |
 | 122  | 108  | [Convert Sorted Array to Binary Search Tree][108] |   Java   |    Easy    | 2017.10.19  |                Tree, DFS                 |             |
 | 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            |             |
+| 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    | 2017.10.20  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -183,6 +184,7 @@
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
 [169]:<https://leetcode.com/problems/majority-element/> "Majority Element"
 [171]:<https://leetcode.com/problems/excel-sheet-column-number/> "Excel Sheet Column Number"
+[172]:<https://leetcode.com/problems/factorial-trailing-zeroes/> "Factorial Trailing Zeroes"
 [173]:<https://leetcode.com/problems/binary-search-tree-iterator/> "Binary Search Tree Iterator"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
