@@ -126,6 +126,7 @@
 | 122  | 108  | [Convert Sorted Array to Binary Search Tree][108] |   Java   |    Easy    | 2017.10.19  |                Tree, DFS                 |             |
 | 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            |             |
 | 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    | 2017.10.20  |                   Math                   |             |
+| 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    | 2017.10.22  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
