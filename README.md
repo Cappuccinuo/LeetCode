@@ -127,6 +127,7 @@
 | 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            |             |
 | 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    | 2017.10.20  |                   Math                   |             |
 | 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    | 2017.10.22  |                   Math                   |             |
+| 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    | 2017.10.25  |             Bit Manipulation             |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -188,6 +189,7 @@
 [172]:<https://leetcode.com/problems/factorial-trailing-zeroes/> "Factorial Trailing Zeroes"
 [173]:<https://leetcode.com/problems/binary-search-tree-iterator/> "Binary Search Tree Iterator"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
+[190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
 
 [191]:
