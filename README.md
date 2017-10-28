@@ -128,10 +128,12 @@
 | 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    | 2017.10.20  |                   Math                   |             |
 | 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    | 2017.10.22  |                   Math                   |             |
 | 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    | 2017.10.25  |             Bit Manipulation             |             |
+| 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   | 2017.10.27  |     HashTable, Two Pointers, String      |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
 [2]:<https://leetcode.com/problems/add-two-numbers/> "Add Two Numbers"
+[3]:<https://leetcode.com/problems/longest-substring-without-repeating-characters/> "Longest Substring Without Repeating Characters"
 [7]:<https://leetcode.com/problems/reverse-integer/> "Reverse Integer"
 [9]:<https://leetcode.com/problems/palindrome-number/> "Palindrome Number"
 [12]:<https://leetcode.com/problems/integer-to-roman/> "Integer to Roman"
