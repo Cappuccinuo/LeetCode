@@ -129,6 +129,7 @@
 | 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    | 2017.10.22  |                   Math                   |             |
 | 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    | 2017.10.25  |             Bit Manipulation             |             |
 | 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   | 2017.10.27  |     HashTable, Two Pointers, String      |             |
+| 128  |  50  |             [Pow(x, n)][50]              |   Java   |   Medium   |  2017.11.1  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -149,6 +150,7 @@
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
+[50]:<https://leetcode.com/problems/powx-n/> "powx-n"
 [53]:<https://leetcode.com/problems/maximum-subarray/> "Maximum Subarray"
 [58]:<https://leetcode.com/problems/length-of-last-word/> "Length of Last Word"
 [61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
