@@ -130,6 +130,7 @@
 | 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    | 2017.10.25  |             Bit Manipulation             |             |
 | 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   | 2017.10.27  |     HashTable, Two Pointers, String      |             |
 | 128  |  50  |             [Pow(x, n)][50]              |   Java   |   Medium   |  2017.11.1  |                   Math                   |             |
+| 129  | 374  |   [Guess Number Higher or Lower][374]    |   Java   |    Easy    |  2017.11.2  |              Binary Search               |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -240,6 +241,7 @@
 [349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
+[374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
