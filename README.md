@@ -36,7 +36,7 @@
 |  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |   Java   |    Easy    |  2017.3.23  |                                          |             |
 |  33  | 122  | [Best Time to Buy and Sell Stock Ⅱ][122] |   Java   |    Easy    |  2017.3.23  |                                          |             |
 |  34  | 167  | [Two Sum Ⅱ - Input array is sorted][167] |   Java   |    Easy    |  2017.3.24  |                                          |             |
-|  35  | 414  |       [Third Maximum Number][414]        |   Java   |    Easy    |  2017.3.27  |                                          |             |
+|  35  | 414  |       [Third Maximum Number][414]        |   Java   |    Easy    |  2017.3.27  |                  Array                   |  2017.11.3  |
 |  36  | 268  |          [Missing Number][268]           |   Java   |    Easy    |  2017.3.27  |                                          |             |
 |  37  | 485  |       [Max Consecutive Ones][485]        |   Java   |    Easy    |  2017.3.28  |                                          |             |
 |  38  | 219  |       [Contains Duplicate Ⅱ][219]        |   Java   |    Easy    |  2017.3.28  |                                          |             |
@@ -131,6 +131,9 @@
 | 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   | 2017.10.27  |     HashTable, Two Pointers, String      |             |
 | 128  |  50  |             [Pow(x, n)][50]              |   Java   |   Medium   |  2017.11.1  |                   Math                   |             |
 | 129  | 374  |   [Guess Number Higher or Lower][374]    |   Java   |    Easy    |  2017.11.2  |              Binary Search               |             |
+| 130  | 242  |           [Valid Anagram][242]           |   Java   |    Easy    |  2017.11.4  |             Hash Table, Sort             |             |
+| 131  | 110  |       [Balanced Binary Tree][110]        |   Java   |    Easy    |  2017.11.5  |                Tree, DFS                 |             |
+| 132  | 168  |     [Excel Sheet Column Title][168]      |   Java   |    Easy    |  2017.11.5  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -173,6 +176,7 @@
 [106]:<https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/> "Construct Binary Tree From Inorder and Postorder Traversal"
 [108]:<https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/> "Convert Sorted Array to Binary Search Tree"
 [109]:<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/> "Convert Sorted List to Binary Search Tree"
+[110]:<https://leetcode.com/problems/balanced-binary-tree/> "Balanced Binary Tree"
 [111]:<https://leetcode.com/problems/minimum-depth-of-binary-tree/> "Minimum Depth of Binary Tree"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
@@ -189,6 +193,7 @@
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
+[168]:<https://leetcode.com/problems/excel-sheet-column-title/> "Excel Sheet Column Title"
 [169]:<https://leetcode.com/problems/majority-element/> "Majority Element"
 [171]:<https://leetcode.com/problems/excel-sheet-column-number/> "Excel Sheet Column Number"
 [172]:<https://leetcode.com/problems/factorial-trailing-zeroes/> "Factorial Trailing Zeroes"
@@ -216,7 +221,9 @@
 [235]:
 
 [237]:<https://leetcode.com/problems/delete-node-in-a-linked-list/> "Delete Node In a Linked List"
-[242]:
+[242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
+
+
 [258]:
 [263]:
 
