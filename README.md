@@ -134,13 +134,26 @@
 | 130  | 242  |           [Valid Anagram][242]           |   Java   |    Easy    |  2017.11.4  |             Hash Table, Sort             |             |
 | 131  | 110  |       [Balanced Binary Tree][110]        |   Java   |    Easy    |  2017.11.5  |                Tree, DFS                 |             |
 | 132  | 168  |     [Excel Sheet Column Title][168]      |   Java   |    Easy    |  2017.11.5  |                   Math                   |             |
+| 133  |  11  |     [Container With Most Water][11]      |   Java   |   Medium   |  2017.11.7  |           Array, Two Pointers            |             |
+| 134  | 238  |   [Product of Array Except Self][238]    |   Java   |   Medium   |  2017.11.8  |                  Array                   |             |
+| 135  |  5   |    [Longest Palindromic Substring][5]    |   Java   |   Medium   | 2017.11.11  |                  String                  |             |
+| 136  | 580  | [Count Student Number in Departments][580] |   SQL    |    East    | 2017.11.11  |                 Database                 |             |
+| 137  | 243  |      [Shortest Word Distance][243]       |   Java   |    Easy    | 2017.11.12  |                  Array                   |             |
+| 138  | 661  |          [Image Smoother][661]           |   Java   |    Easy    | 2017.11.12  |                  Array                   |             |
+| 139  | 586  | [Customer Placing the Largest Number of Orders][586] |   SQL    |    Easy    | 2017.11.12  |                 Database                 |             |
+| 140  | 595  |           [Big Countries][595]           |   SQL    |    Easy    | 2017.11.12  |                 Database                 |             |
+| 141  | 339  |      [Nested List Weight Sum][339]       |   Java   |    Easy    | 2017.11.13  |                   DFS                    |             |
+| 142  | 728  |       [Self Dividing Numbers][728]       |   Java   |    Easy    | 2017.11.20  |                   Math                   |             |
+| 143  | 346  |  [Moving Average from Data Stream][346]  |   Java   |    Easy    | 2017.11.20  |              Design, Queue               |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
 [2]:<https://leetcode.com/problems/add-two-numbers/> "Add Two Numbers"
 [3]:<https://leetcode.com/problems/longest-substring-without-repeating-characters/> "Longest Substring Without Repeating Characters"
+[5]:<https://leetcode.com/problems/longest-palindromic-substring/> "Longest Palindromic Substring"
 [7]:<https://leetcode.com/problems/reverse-integer/> "Reverse Integer"
 [9]:<https://leetcode.com/problems/palindrome-number/> "Palindrome Number"
+[11]:<https://leetcode.com/problems/container-with-most-water/> "Container with Most Water"
 [12]:<https://leetcode.com/problems/integer-to-roman/> "Integer to Roman"
 [13]:<https://leetcode.com/problems/roman-to-integer/> "Roman to Integer"
 [14]:<https://leetcode.com/problems/longest-common-prefix/> "Longest Common Prefix"
@@ -221,7 +234,9 @@
 [235]:
 
 [237]:<https://leetcode.com/problems/delete-node-in-a-linked-list/> "Delete Node In a Linked List"
+[238]:<https://leetcode.com/problems/product-of-array-except-self/> "Product of Array Except Self"
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
+[243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
 
 
 [258]:
@@ -241,9 +256,11 @@
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
+[339]:<https://leetcode.com/problems/nested-list-weight-sum/> "Nested List Weight Sum"
 [341]:<https://leetcode.com/problems/flatten-nested-list-iterator/> "Flatten Nested List Iterator"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
 [345]:<https://leetcode.com/problems/reverse-vowels-of-a-string/> "Reverse Vowels of a String"
+[346]:<https://leetcode.com/problems/moving-average-from-data-stream/> "Moving Average from Data Stream"
 [347]:<https://leetcode.com/problems/top-k-frequent-elements/> "Top K Frequent Elements"
 [349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
@@ -282,8 +299,11 @@
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
+[580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
 [581]:<https://leetcode.com/problems/shortest-unsorted-continuous-subarray/> "Shortest Unsorted Continuous Subarray"
+[586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
+[595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
@@ -292,7 +312,9 @@
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
+[661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
+[728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
