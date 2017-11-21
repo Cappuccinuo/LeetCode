@@ -147,6 +147,7 @@
 | 143  | 346  |  [Moving Average from Data Stream][346]  |   Java   |    Easy    | 2017.11.20  |              Design, Queue               |             |
 | 144  | 266  |      [Palindrome Permutation][266]       |   Java   |    Easy    | 2017.11.20  |                 HashMap                  |             |
 | 145  | 682  |           [Baseball Game][682]           |   Java   |    Easy    | 2017.11.20  |                  Stack                   |             |
+| 146  | 669  |     [Trim a Binary Search Tree][669]     |   Java   |    Easy    | 2017.11.20  |                   Tree                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -316,6 +317,7 @@
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
+[669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
