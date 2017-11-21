@@ -146,6 +146,7 @@
 | 142  | 728  |       [Self Dividing Numbers][728]       |   Java   |    Easy    | 2017.11.20  |                   Math                   |             |
 | 143  | 346  |  [Moving Average from Data Stream][346]  |   Java   |    Easy    | 2017.11.20  |              Design, Queue               |             |
 | 144  | 266  |      [Palindrome Permutation][266]       |   Java   |    Easy    | 2017.11.20  |                 HashMap                  |             |
+| 145  | 682  |           [Baseball Game][682]           |   Java   |    Easy    | 2017.11.20  |                  Stack                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -315,6 +316,7 @@
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
+[682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
