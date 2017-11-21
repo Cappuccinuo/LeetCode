@@ -148,6 +148,7 @@
 | 144  | 266  |      [Palindrome Permutation][266]       |   Java   |    Easy    | 2017.11.20  |                 HashMap                  |             |
 | 145  | 682  |           [Baseball Game][682]           |   Java   |    Easy    | 2017.11.20  |                  Stack                   |             |
 | 146  | 669  |     [Trim a Binary Search Tree][669]     |   Java   |    Easy    | 2017.11.20  |                   Tree                   |             |
+| 147  | 293  |             [Flip Game][293]             |   Java   |    Easy    | 2017.11.21  |                  String                  |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -250,6 +251,7 @@
 [283]:
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
+[293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 
 [292]:
