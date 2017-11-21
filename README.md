@@ -149,6 +149,7 @@
 | 145  | 682  |           [Baseball Game][682]           |   Java   |    Easy    | 2017.11.20  |                  Stack                   |             |
 | 146  | 669  |     [Trim a Binary Search Tree][669]     |   Java   |    Easy    | 2017.11.20  |                   Tree                   |             |
 | 147  | 293  |             [Flip Game][293]             |   Java   |    Easy    | 2017.11.21  |                  String                  |             |
+| 148  | 637  | [Average of Levels in Binary Tree][637]  |   Java   |    Easy    | 2017.11.21  |                   Tree                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -315,6 +316,7 @@
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
+[637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
