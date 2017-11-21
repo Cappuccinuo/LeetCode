@@ -145,6 +145,7 @@
 | 141  | 339  |      [Nested List Weight Sum][339]       |   Java   |    Easy    | 2017.11.13  |                   DFS                    |             |
 | 142  | 728  |       [Self Dividing Numbers][728]       |   Java   |    Easy    | 2017.11.20  |                   Math                   |             |
 | 143  | 346  |  [Moving Average from Data Stream][346]  |   Java   |    Easy    | 2017.11.20  |              Design, Queue               |             |
+| 144  | 266  |      [Palindrome Permutation][266]       |   Java   |    Easy    | 2017.11.20  |                 HashMap                  |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -237,6 +238,7 @@
 [238]:<https://leetcode.com/problems/product-of-array-except-self/> "Product of Array Except Self"
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
+[266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
 [258]:
