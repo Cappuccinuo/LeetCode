@@ -150,6 +150,7 @@
 | 146  | 669  |     [Trim a Binary Search Tree][669]     |   Java   |    Easy    | 2017.11.20  |                   Tree                   |             |
 | 147  | 293  |             [Flip Game][293]             |   Java   |    Easy    | 2017.11.21  |                  String                  |             |
 | 148  | 637  | [Average of Levels in Binary Tree][637]  |   Java   |    Easy    | 2017.11.21  |                   Tree                   |             |
+| 149  | 696  |      [Count Binary Substrings][696]      |   Java   |    Easy    | 2017.11.22  |                  String                  |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -327,4 +328,5 @@
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
+[696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
