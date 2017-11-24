@@ -151,6 +151,7 @@
 | 147  | 293  |             [Flip Game][293]             |   Java   |    Easy    | 2017.11.21  |                  String                  |             |
 | 148  | 637  | [Average of Levels in Binary Tree][637]  |   Java   |    Easy    | 2017.11.21  |                   Tree                   |             |
 | 149  | 696  |      [Count Binary Substrings][696]      |   Java   |    Easy    | 2017.11.22  |                  String                  |             |
+| 150  | 717  |    [1-bit and 2-bit Characters][717]     |   Java   |    Easy    | 2017.11.24  |                  Array                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -329,4 +330,5 @@
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
+[717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
