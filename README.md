@@ -2,7 +2,7 @@
 
 | No.  |  #   |                  Title                   | Solution | Difficulty | Solved Date |                   Tag                    | Review Date |
 | :--: | :--: | :--------------------------------------: | :------: | :--------: | :---------: | :--------------------------------------: | :---------: |
-|  1   | 461  |         [Hamming Distance][461]          |  Python  |    Easy    |  2017.1.6   |                                          |             |
+|  1   | 461  |         [Hamming Distance][461]          |  Python  |    Easy    |  2017.1.6   |          Math, Bit manipulation          | 2017.11.25  |
 |  2   | 412  |             [Fizz Buzz][412]             |  Python  |    Easy    |  2017.1.7   |                                          |             |
 |  3   | 344  |          [Reverse String][344]           |  Python  |    Easy    |  2017.1.7   |                                          |             |
 |  4   | 463  |         [Island Perimeter][463]          |  Python  |    Easy    |  2017.1.8   |                                          |             |
@@ -155,6 +155,7 @@
 | 151  | 653  |            [Two Sum IV][653]             |   Java   |    Easy    | 2017.11.24  |                   Tree                   |             |
 | 152  | 252  |           [Meeting Rooms][252]           |   Java   |    Easy    | 2017.11.25  |                   Sort                   |             |
 | 153  | 504  |              [Base 7][504]               |   Java   |    Easy    | 2017.11.25  |                   Math                   |             |
+| 154  | 477  |      [Total Hamming Distance][477]       |   Java   |    Easy    | 2017.11.25  |          Math, Bit manipulation          |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -299,6 +300,7 @@
 [461]:<https://leetcode.com/problems/hamming-distance> "Hamming Distance"
 [463]:<https://leetcode.com/problems/island-perimeter/> "Island Perimeter"
 [476]:<https://leetcode.com/problems/number-complement/> "Number Complement"
+[477]:<https://leetcode.com/problems/total-hamming-distance/> "Total Hamming Distance"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
