@@ -152,6 +152,9 @@
 | 148  | 637  | [Average of Levels in Binary Tree][637]  |   Java   |    Easy    | 2017.11.21  |                   Tree                   |             |
 | 149  | 696  |      [Count Binary Substrings][696]      |   Java   |    Easy    | 2017.11.22  |                  String                  |             |
 | 150  | 717  |    [1-bit and 2-bit Characters][717]     |   Java   |    Easy    | 2017.11.24  |                  Array                   |             |
+| 151  | 653  |            [Two Sum IV][653]             |   Java   |    Easy    | 2017.11.24  |                   Tree                   |             |
+| 152  | 252  |           [Meeting Rooms][252]           |   Java   |    Easy    | 2017.11.25  |                   Sort                   |             |
+| 153  | 504  |              [Base 7][504]               |   Java   |    Easy    | 2017.11.25  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -244,6 +247,7 @@
 [238]:<https://leetcode.com/problems/product-of-array-except-self/> "Product of Array Except Self"
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
+[252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
@@ -299,6 +303,7 @@
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
+[504]:<https://leetcode.com/problems/base-7/> "Base 7"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
@@ -321,6 +326,7 @@
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
+[653]:<https://leetcode.com/problems/two-sum-iv-input-is-a-bst/> "Two Sum IV Input is a BST"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
