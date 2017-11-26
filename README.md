@@ -156,6 +156,7 @@
 | 152  | 252  |           [Meeting Rooms][252]           |   Java   |    Easy    | 2017.11.25  |                   Sort                   |             |
 | 153  | 504  |              [Base 7][504]               |   Java   |    Easy    | 2017.11.25  |                   Math                   |             |
 | 154  | 477  |      [Total Hamming Distance][477]       |   Java   |    Easy    | 2017.11.25  |          Math, Bit manipulation          |             |
+| 155  | 112  |             [Path Sum][112]              |   Java   |    Easy    | 2017.11.25  |                Tree, DFS                 |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -202,6 +203,7 @@
 [109]:<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/> "Convert Sorted List to Binary Search Tree"
 [110]:<https://leetcode.com/problems/balanced-binary-tree/> "Balanced Binary Tree"
 [111]:<https://leetcode.com/problems/minimum-depth-of-binary-tree/> "Minimum Depth of Binary Tree"
+[112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
 [121]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/> "Best Time to Buy and Sell Stock"
