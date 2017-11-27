@@ -165,6 +165,7 @@
 | 161  | 342  |           [Power of Four][342]           |   Java   |    Easy    | 2017.11.27  |             Bit Manipulation             |             |
 | 162  | 231  |           [Power of Two][231]            |   Java   |    Easy    | 2017.11.27  |          Math, Bit Manipulation          |             |
 | 163  | 326  |          [Power of Three][326]           |   Java   |    Easy    | 2017.11.27  |                   Math                   |             |
+| 164  | 654  |        [Maximum Binary Tree][654]        |   Java   |    Easy    | 2017.11.27  |                   Tree                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -341,6 +342,7 @@
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [653]:<https://leetcode.com/problems/two-sum-iv-input-is-a-bst/> "Two Sum IV Input is a BST"
+[654]:<https://leetcode.com/problems/maximum-binary-tree/> "Maximum Binary Tree"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
