@@ -161,6 +161,7 @@
 | 157  | 733  |            [Flood Fill][733]             |   Java   |    Easy    | 2017.11.25  |                   DFS                    |             |
 | 158  | 735  |        [Asteroid Collision][735]         |   Java   |   Medium   | 2017.11.26  |                  Stack                   |             |
 | 159  | 170  |            [Two Sum III][170]            |   Java   |    Easy    | 2017.11.26  |            Hash Table, Design            |             |
+| 160  | 256  |            [Paint House][256]            |   Java   |    Easy    | 2017.11.27  |           Dynamic Programming            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -256,6 +257,7 @@
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
+[256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
