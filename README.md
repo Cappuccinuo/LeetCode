@@ -162,6 +162,8 @@
 | 158  | 735  |        [Asteroid Collision][735]         |   Java   |   Medium   | 2017.11.26  |                  Stack                   |             |
 | 159  | 170  |            [Two Sum III][170]            |   Java   |    Easy    | 2017.11.26  |            Hash Table, Design            |             |
 | 160  | 256  |            [Paint House][256]            |   Java   |    Easy    | 2017.11.27  |           Dynamic Programming            |             |
+| 161  | 342  |           [Power of Four][342]           |   Java   |    Easy    | 2017.11.27  |             Bit Manipulation             |             |
+| 162  | 231  |           [Power of Two][231]            |   Java   |    Easy    | 2017.11.27  |          Math, Bit Manipulation          |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -245,8 +247,10 @@
 
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
+[231]:<https://leetcode.com/problems/power-of-two/> "Power of Two"
+
 [226]:
-[231]:
+
 
 [232]:<https://leetcode.com/problems/implement-queue-using-stacks/> "Implement Stack Using Queues"
 [234]:<https://leetcode.com/problems/palindrome-linked-list/> "Palindrome Linked List"
@@ -281,6 +285,7 @@
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
 [339]:<https://leetcode.com/problems/nested-list-weight-sum/> "Nested List Weight Sum"
 [341]:<https://leetcode.com/problems/flatten-nested-list-iterator/> "Flatten Nested List Iterator"
+[342]:<https://leetcode.com/problems/power-of-four/> "Power of Four"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
 [345]:<https://leetcode.com/problems/reverse-vowels-of-a-string/> "Reverse Vowels of a String"
 [346]:<https://leetcode.com/problems/moving-average-from-data-stream/> "Moving Average from Data Stream"
