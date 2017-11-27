@@ -164,6 +164,7 @@
 | 160  | 256  |            [Paint House][256]            |   Java   |    Easy    | 2017.11.27  |           Dynamic Programming            |             |
 | 161  | 342  |           [Power of Four][342]           |   Java   |    Easy    | 2017.11.27  |             Bit Manipulation             |             |
 | 162  | 231  |           [Power of Two][231]            |   Java   |    Easy    | 2017.11.27  |          Math, Bit Manipulation          |             |
+| 163  | 326  |          [Power of Three][326]           |   Java   |    Easy    | 2017.11.27  |                   Math                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -274,12 +275,9 @@
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
+[326]:<https://leetcode.com/problems/power-of-three/> "Power of Three"
 
 [292]:
-
-
-
-[326]:
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
