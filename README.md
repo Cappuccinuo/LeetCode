@@ -157,6 +157,9 @@
 | 153  | 504  |              [Base 7][504]               |   Java   |    Easy    | 2017.11.25  |                   Math                   |             |
 | 154  | 477  |      [Total Hamming Distance][477]       |   Java   |    Easy    | 2017.11.25  |          Math, Bit manipulation          |             |
 | 155  | 112  |             [Path Sum][112]              |   Java   |    Easy    | 2017.11.25  |                Tree, DFS                 |             |
+| 156  | 734  |        [Sentence Similarity][734]        |   Java   |    Easy    | 2017.11.25  |                Hash Table                |             |
+| 157  | 733  |            [Flood Fill][733]             |   Java   |    Easy    | 2017.11.25  |                   DFS                    |             |
+| 158  | 735  |        [Asteroid Collision][735]         |   Java   |   Medium   | 2017.11.26  |                  Stack                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -342,3 +345,6 @@
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
+[733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
+[734]:<https://leetcode.com/problems/sentence-similarity/> "Sentence Similarity"
+[735]:<https://leetcode.com/problems/asteroid-collision/> "Asteroid Collision"
