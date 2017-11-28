@@ -166,6 +166,7 @@
 | 162  | 231  |           [Power of Two][231]            |   Java   |    Easy    | 2017.11.27  |          Math, Bit Manipulation          |             |
 | 163  | 326  |          [Power of Three][326]           |   Java   |    Easy    | 2017.11.27  |                   Math                   |             |
 | 164  | 654  |        [Maximum Binary Tree][654]        |   Java   |    Easy    | 2017.11.27  |                   Tree                   |             |
+| 165  | 191  |         [Number of 1 Bits][191]          |   Java   |    Easy    | 2017.11.27  |             Bit manipulation             |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -236,9 +237,9 @@
 [173]:<https://leetcode.com/problems/binary-search-tree-iterator/> "Binary Search Tree Iterator"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
+[191]:<https://leetcode.com/problems/number-of-1-bits/> "Number of 1 Bits"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
 
-[191]:
 [202]:
 
 [203]:<https://leetcode.com/problems/remove-linked-list-elements/> "Remove linked list elements"
