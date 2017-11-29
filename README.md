@@ -168,6 +168,8 @@
 | 164  | 654  |        [Maximum Binary Tree][654]        |   Java   |    Easy    | 2017.11.27  |                   Tree                   |             |
 | 165  | 191  |         [Number of 1 Bits][191]          |   Java   |    Easy    | 2017.11.27  |             Bit manipulation             |             |
 | 166  | 624  |    [Maximum Distance in Arrays][624]     |   Java   |    Easy    | 2017.11.27  |                  Array                   |             |
+| 167  | 197  |        [Rising Temperature][197]         |   SQL    |    Easy    | 2017.11.27  |                 Database                 |             |
+| 168  |  96  |     [Unique Binary Search Trees][96]     |   Java   |    Easy    | 2017.11.28  |        Dynamic Programming, Tree         |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -204,6 +206,7 @@
 [88]:<https://leetcode.com/problems/merge-sorted-array/> "Merge Sorted Array"
 [92]:<https://leetcode.com/problems/reverse-linked-list-ii/> "Reverse Linked List Ⅱ"
 [94]:<https://leetcode.com/problems/binary-tree-inorder-traversal/> "Binary Tree Inorder Travelsal"
+[96]:<https://leetcode.com/problems/unique-binary-search-trees/> "Unique Binary Search Trees"
 [100]:<https://leetcode.com/problems/same-tree/> "Same Tree"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
 [104]:
@@ -239,6 +242,7 @@
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
 [191]:<https://leetcode.com/problems/number-of-1-bits/> "Number of 1 Bits"
+[197]:<https://leetcode.com/problems/rising-temperature/> "Rising Temperature"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
 
 [202]:
