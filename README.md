@@ -171,6 +171,7 @@
 | 167  | 197  |        [Rising Temperature][197]         |   SQL    |    Easy    | 2017.11.27  |                 Database                 |             |
 | 168  |  96  |     [Unique Binary Search Trees][96]     |   Java   |    Easy    | 2017.11.28  |        Dynamic Programming, Tree         |             |
 | 169  | 338  |           [Counting Bits][338]           |   Java   |   Medium   | 2017.11.29  |  Dynamic Programming, Bit manipulation   |             |
+| 170  | 257  |         [Binary Tree Paths][257]         |   Java   |    Easy    | 2017.11.29  |                Tree, DFS                 |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -272,6 +273,7 @@
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
+[257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
 
 
 [258]:
