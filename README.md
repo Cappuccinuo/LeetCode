@@ -170,6 +170,7 @@
 | 166  | 624  |    [Maximum Distance in Arrays][624]     |   Java   |    Easy    | 2017.11.27  |                  Array                   |             |
 | 167  | 197  |        [Rising Temperature][197]         |   SQL    |    Easy    | 2017.11.27  |                 Database                 |             |
 | 168  |  96  |     [Unique Binary Search Trees][96]     |   Java   |    Easy    | 2017.11.28  |        Dynamic Programming, Tree         |             |
+| 169  | 338  |           [Counting Bits][338]           |   Java   |   Medium   | 2017.11.29  |  Dynamic Programming, Bit manipulation   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -288,6 +289,7 @@
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
+[338]:<https://leetcode.com/problems/counting-bits/> "Counting Bits"
 [339]:<https://leetcode.com/problems/nested-list-weight-sum/> "Nested List Weight Sum"
 [341]:<https://leetcode.com/problems/flatten-nested-list-iterator/> "Flatten Nested List Iterator"
 [342]:<https://leetcode.com/problems/power-of-four/> "Power of Four"
