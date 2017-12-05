@@ -173,8 +173,8 @@
 | 169  | 338  |           [Counting Bits][338]           |   Java   |   Medium   | 2017.11.29  |  Dynamic Programming, Bit manipulation   |             |
 | 170  | 257  |         [Binary Tree Paths][257]         |   Java   |    Easy    | 2017.11.29  |                Tree, DFS                 |             |
 | 171  | 404  |        [Sum of Left Leaves][404]         |   Java   |    Easy    | 2017.11.29  |                   Tree                   |             |
-| 172  | 739  |        [Daily Temperatures][739]         |   Java   |    Easy    |  2017.12.2  |                  Stack                   |  2017.12.4  |
-| 173  |      |                                          |          |            |             |                                          |             |
+| 172  | 739  |        [Daily Temperatures][739]         |   Java   |   Medium   |  2017.12.2  |                  Stack                   |  2017.12.4  |
+| 173  | 738  |     [Monotone Incresing Digits][738]     |   Java   |   Medium   |  2017.12.2  |                  Greedy                  |  2017.12.4  |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -372,4 +372,5 @@
 [733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
 [734]:<https://leetcode.com/problems/sentence-similarity/> "Sentence Similarity"
 [735]:<https://leetcode.com/problems/asteroid-collision/> "Asteroid Collision"
+[738]:<https://leetcode.com/problems/monotone-increasing-digits/> "Monotone Incresing Digits"
 [739]:<https://leetcode.com/problems/daily-temperatures/> "Daily Temperatures"
