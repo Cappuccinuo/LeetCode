@@ -124,7 +124,7 @@
 | 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |             |
 | 121  | 387  | [First Unique Character in a String][387] |   Java   |    Easy    | 2017.10.19  |                  String                  |             |
 | 122  | 108  | [Convert Sorted Array to Binary Search Tree][108] |   Java   |    Easy    | 2017.10.19  |                Tree, DFS                 |             |
-| 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            |             |
+| 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            |  2017.12.5  |
 | 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    | 2017.10.20  |                   Math                   |             |
 | 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    | 2017.10.22  |                   Math                   |             |
 | 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    | 2017.10.25  |             Bit Manipulation             |             |
