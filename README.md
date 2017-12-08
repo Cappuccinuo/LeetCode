@@ -176,6 +176,8 @@
 | 172  | 739  |        [Daily Temperatures][739]         |   Java   |   Medium   |  2017.12.2  |                  Stack                   |  2017.12.4  |
 | 173  | 738  |     [Monotone Incresing Digits][738]     |   Java   |   Medium   |  2017.12.2  |                  Greedy                  |  2017.12.4  |
 | 174  |  6   |          [ZigZag Conversion][6]          |   Java   |   Medium   |  2017.12.7  |                  String                  |             |
+| 175  |  15  |                [3Sum][6]                 |   Java   |   Medium   |  2017.12.7  |           Array, Two Pointers            |             |
+| 176  |  16  |            [3Sum Closest][16]            |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -189,6 +191,8 @@
 [12]:<https://leetcode.com/problems/integer-to-roman/> "Integer to Roman"
 [13]:<https://leetcode.com/problems/roman-to-integer/> "Roman to Integer"
 [14]:<https://leetcode.com/problems/longest-common-prefix/> "Longest Common Prefix"
+[15]:<https://leetcode.com/problems/3sum/> "3Sum"
+[16]:<https://leetcode.com/problems/3sum-closest/> "3Sum Closest"
 [19]:<https://leetcode.com/problems/remove-nth-node-from-end-of-list/> "Remove Nth Node From End of List"
 [20]:<https://leetcode.com/problems/valid-parentheses/> "Valid Parentheses"
 [21]:<https://leetcode.com/problems/merge-two-sorted-lists/> "Merge Two Sorted Lists"
