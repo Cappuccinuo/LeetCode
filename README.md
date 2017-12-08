@@ -178,6 +178,7 @@
 | 174  |  6   |          [ZigZag Conversion][6]          |   Java   |   Medium   |  2017.12.7  |                  String                  |             |
 | 175  |  15  |                [3Sum][6]                 |   Java   |   Medium   |  2017.12.7  |           Array, Two Pointers            |             |
 | 176  |  16  |            [3Sum Closest][16]            |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
+| 177  | 259  |           [3Sum Smaller][259]            |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -281,8 +282,9 @@
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
-[266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
+[259]:<https://leetcode.com/problems/3sum-smaller/> "3Sum Smaller"
+[266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
 [258]:
