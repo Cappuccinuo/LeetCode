@@ -184,6 +184,7 @@
 | 180  | 287  |     [Find the Duplicate Number][287]     |   Java   |   Medium   |  2017.12.8  |    Array, Two Pointers, Binary Search    |             |
 | 181  |  80  | [Remove Duplicates from Sorted Array II][80] |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
 | 182  | 107  | [Binary Tree Level Order Traversal II][107] |   Java   |    Easy    |  2017.12.9  |                Tree, BFS                 |             |
+| 183  | 278  |         [First Bad Version][278]         |   Java   |    Easy    |  2017.12.9  |              Binary Search               |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -298,6 +299,7 @@
 [263]:
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
+[278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
 
 [283]:
