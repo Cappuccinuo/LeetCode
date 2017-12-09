@@ -181,6 +181,7 @@
 | 177  | 259  |           [3Sum Smaller][259]            |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
 | 178  |  18  |                [4Sum][18]                |   Java   |   Medium   |  2017.12.8  |           Array, Two Pointers            |             |
 | 179  | 454  |              [4Sum II][454]              |   Java   |   Medium   |  2017.12.8  |            Array, Hash Table             |             |
+| 180  | 287  |     [Find the Duplicate Number][287]     |   Java   |   Medium   |  2017.12.8  |    Array, Two Pointers, Binary Search    |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -294,6 +295,8 @@
 [263]:
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
+[287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
+
 [283]:
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
