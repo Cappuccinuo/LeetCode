@@ -78,7 +78,7 @@
 |  74  | 232  |   [Implement Queue using Stacks][232]    |   Java   |    Easy    |  2017.7.5   |                  Stack                   |             |
 |  75  | 331  | [Verify Preorder Serialization of a Binary Tree][331] |   Java   |   Medium   |  2017.7.6   |                  Stack                   |             |
 |  76  | 561  |         [Array Partition I][561]         |   Java   |    Easy    |  2017.7.10  |                  Array                   |             |
-|  77  | 189  |           [Rotate Array][189]            |   Java   |    Easy    |  2017.7.10  |                  Array                   |             |
+|  77  | 189  |           [Rotate Array][189]            |   Java   |    Easy    |  2017.7.10  |                  Array                   | 2017.12.10  |
 |  78  | 605  |         [Can Place Flowers][605]         |   Java   |    Easy    |  2017.7.10  |                  Array                   |             |
 |  79  | 581  | [Shortest Unsorted Continuous Subarray][581] |   Java   |    Easy    |  2017.7.11  |                  Array                   |             |
 |  80  | 566  |        [Reshape the Matrix][566]         |   Java   |    Easy    |  2017.7.11  |                  Array                   |             |
