@@ -189,6 +189,7 @@
 | 185  |  17  | [Letter Combinations of a Phone Number][17] |   Java   |   Medium   | 2017.12.10  |           String, Backtracking           |             |
 | 186  | 151  |     [Reverse Words in a String][151]     |   Java   |   Medium   | 2017.12.10  |                  String                  |             |
 | 187  | 186  |   [Reverse Words in a String II][186]    |   Java   |   Medium   | 2017.12.10  |                  String                  |             |
+| 188  |  22  |        [Generate Parentheses][22]        |   Java   |   Medium   | 2017.12.10  |           String, Backtracking           |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -209,6 +210,7 @@
 [19]:<https://leetcode.com/problems/remove-nth-node-from-end-of-list/> "Remove Nth Node From End of List"
 [20]:<https://leetcode.com/problems/valid-parentheses/> "Valid Parentheses"
 [21]:<https://leetcode.com/problems/merge-two-sorted-lists/> "Merge Two Sorted Lists"
+[22]:<https://leetcode.com/problems/generate-parentheses/> "Generate Parentheses"
 [24]:<https://leetcode.com/problems/swap-nodes-in-pairs/> "Swap Nodes In Pairs"
 [25]:<https://leetcode.com/problems/reverse-nodes-in-k-group/> "Reverse Nodes in k-groups"
 [26]:<https://leetcode.com/problems/remove-duplicates-from-sorted-array/> "Remove Duplicates from Sorted Array"
