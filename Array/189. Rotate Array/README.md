@@ -34,3 +34,10 @@ First reverse the nums array : [7, 6, 5, 4, 3, 2, 1]
 Then reverse 0 - (k - 1)            : [5, 6, 7, 4, 3, 2, 1]
 
 The end reverse k - (len - 1)   : [5, 6, 7, 1, 2, 3, 4]
+
+Solution 3:
+
+Use another array to store.
+
+replace[(i + k) % nums.length] = nums[i]
+
