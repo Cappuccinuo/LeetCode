@@ -192,6 +192,7 @@
 | 188  |  22  |        [Generate Parentheses][22]        |   Java   |   Medium   | 2017.12.10  |           String, Backtracking           |             |
 | 189  | 437  |           [Path Sum III][437]            |   Java   |    Easy    | 2017.12.10  |                   Tree                   |             |
 | 190  | 458  |             [Poor Pigs][458]             |   Java   |    Easy    | 2017.12.11  |                   Math                   |             |
+| 191  | 720  |    [Longest Word in Dictionary][720]     |   Java   |    Easy    | 2017.12.12  |             HashTable, Trie              |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -401,6 +402,7 @@
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
+[720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
 [733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
 [734]:<https://leetcode.com/problems/sentence-similarity/> "Sentence Similarity"
