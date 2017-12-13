@@ -15,7 +15,7 @@
 |  11  | 453  | [Minimum Moves to Equal Array Elements][453] |  Python  |    Easy    |  2017.1.18  |                                          |             |
 |  12  | 118  |         [Pascal's Triangle][118]         |   Java   |    Easy    |  2017.2.20  |                                          |             |
 |  13  |  21  |       [Merge Two Sorted Lists][21]       |   Java   |    Easy    |  2017.2.20  |               Linked List                |             |
-|  14  |  1   |               [Two Sum][1]               |   Java   |    Easy    |  2017.3.9   |                                          |             |
+|  14  |  1   |               [Two Sum][1]               |   Java   |    Easy    |  2017.3.9   |            Array, Hash Table             | 2017.12.13  |
 |  15  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    |  2017.3.9   |                                          |             |
 |  16  |  9   |          [Palindrome Number][9]          |   Java   |    Easy    |  2017.3.9   |                                          |             |
 |  17  |  14  |       [Longest Common Prefix][14]        |   Java   |    Easy    |  2017.3.9   |                                          |             |
