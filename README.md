@@ -35,7 +35,7 @@
 |  31  | 119  |        [Pascal's Triangle Ⅱ][119]        |   Java   |    Easy    |  2017.3.22  |                                          |             |
 |  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |   Java   |    Easy    |  2017.3.23  |                                          |             |
 |  33  | 122  | [Best Time to Buy and Sell Stock Ⅱ][122] |   Java   |    Easy    |  2017.3.23  |                                          |             |
-|  34  | 167  | [Two Sum Ⅱ - Input array is sorted][167] |   Java   |    Easy    |  2017.3.24  |                                          |             |
+|  34  | 167  | [Two Sum Ⅱ - Input array is sorted][167] |   Java   |    Easy    |  2017.3.24  |    Array, Two Pointers, Binary Search    | 2017.12.13  |
 |  35  | 414  |       [Third Maximum Number][414]        |   Java   |    Easy    |  2017.3.27  |                  Array                   |  2017.11.3  |
 |  36  | 268  |          [Missing Number][268]           |   Java   |    Easy    |  2017.3.27  |                                          |             |
 |  37  | 485  |       [Max Consecutive Ones][485]        |   Java   |    Easy    |  2017.3.28  |                                          |             |
