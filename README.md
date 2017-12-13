@@ -160,7 +160,7 @@
 | 156  | 734  |        [Sentence Similarity][734]        |   Java   |    Easy    | 2017.11.25  |                Hash Table                |             |
 | 157  | 733  |            [Flood Fill][733]             |   Java   |    Easy    | 2017.11.25  |                   DFS                    |             |
 | 158  | 735  |        [Asteroid Collision][735]         |   Java   |   Medium   | 2017.11.26  |                  Stack                   |             |
-| 159  | 170  |            [Two Sum III][170]            |   Java   |    Easy    | 2017.11.26  |            Hash Table, Design            |             |
+| 159  | 170  |            [Two Sum III][170]            |   Java   |    Easy    | 2017.11.26  |            Hash Table, Design            | 2017.12.13  |
 | 160  | 256  |            [Paint House][256]            |   Java   |    Easy    | 2017.11.27  |           Dynamic Programming            |             |
 | 161  | 342  |           [Power of Four][342]           |   Java   |    Easy    | 2017.11.27  |             Bit Manipulation             |             |
 | 162  | 231  |           [Power of Two][231]            |   Java   |    Easy    | 2017.11.27  |          Math, Bit Manipulation          |             |
