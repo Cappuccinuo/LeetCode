@@ -195,6 +195,7 @@
 | 191  | 720  |    [Longest Word in Dictionary][720]     |   Java   |    Easy    | 2017.12.12  |             HashTable, Trie              |             |
 | 192  | 538  |    [Convert BST to Greater Tree][538]    |   Java   |    Easy    | 2017.12.12  |                   Tree                   |             |
 | 193  | 544  |      [Output Contest Matches][544]       |   Java   |   Medium   | 2017.12.12  |                  String                  |             |
+| 194  | 419  |      [Battleships in a Board][419]       |   Java   |   Medium   | 2017.12.12  |                  Array                   |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -347,6 +348,7 @@
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
 [414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
+[419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
 [434]:<https://leetcode.com/problems/number-of-segments-in-a-string/> "Number of Segments in a String"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
 [438]:<https://leetcode.com/problems/find-all-anagrams-in-a-string/> "Find All Anagrams"
