@@ -28,7 +28,7 @@
 |  24  |  53  |          [Maximum Subarray][53]          |   Java   |    Easy    |  2017.3.16  |                                          |             |
 |  25  |  58  |        [Length of Last Word][58]         |   Java   |    Easy    |  2017.3.16  |                                          |             |
 |  26  |  66  |              [Plus One][66]              |   Java   |    Easy    |  2017.3.17  |                                          |             |
-|  27  |  67  |             [Add Binary][67]             |   Java   |    Easy    |  2017.3.17  |                                          |             |
+|  27  |  67  |             [Add Binary][67]             |   Java   |    Easy    |  2017.3.17  |               Math, String               | 2017.12.13  |
 |  28  |  69  |              [Sqrt(x)][69]               |   Java   |    Easy    |  2017.3.17  |                                          |             |
 |  29  |  88  |         [Merge Sorted Array][88]         |   Java   |    Easy    |  2017.3.21  |                                          |             |
 |  30  | 101  |          [Symmetric Tree][101]           |   Java   |    Easy    |  2017.3.21  |                                          |             |
@@ -49,8 +49,8 @@
 |  45  | 160  | [Intersection of Two Linked Lists][160]  |   Java   |    Easy    |  2017.5.25  |               Linked List                |             |
 |  46  | 234  |      [Palindrome Linked List][234]       |   Java   |    Easy    |  2017.5.26  |        Linked List, Two Pointers         |             |
 |  47  | 203  |    [Remove Linked List Elements][203]    |   Java   |    Easy    |  2017.5.27  |               Linked List                |             |
-|  48  |  2   |           [Add Two Numbers][2]           |   Java   |   Medium   |  2017.5.27  |            Linked List, Math             |             |
-|  49  | 445  |         [Add Two Numbers Ⅱ][445]         |   Java   |   Medium   |  2017.5.30  |               Linked List                |             |
+|  48  |  2   |           [Add Two Numbers][2]           |   Java   |   Medium   |  2017.5.27  |            Linked List, Math             | 2017.12.13  |
+|  49  | 445  |         [Add Two Numbers Ⅱ][445]         |   Java   |   Medium   |  2017.5.30  |               Linked List                | 2017.12.13  |
 |  50  |  24  |        [Swap Nodes in Pairs][24]         |   Java   |   Medium   |  2017.6.2   |               Linked List                |             |
 |  51  |  19  |  [Remove Nth Node From End of List][19]  |   Java   |   Medium   |  2017.6.2   |               Linked List                |             |
 |  52  | 147  |        [Insertion Sort List][147]        |   Java   |   Medium   |  2017.6.7   |            Linked List, Sort             |             |
@@ -152,7 +152,7 @@
 | 148  | 637  | [Average of Levels in Binary Tree][637]  |   Java   |    Easy    | 2017.11.21  |                   Tree                   |             |
 | 149  | 696  |      [Count Binary Substrings][696]      |   Java   |    Easy    | 2017.11.22  |                  String                  |             |
 | 150  | 717  |    [1-bit and 2-bit Characters][717]     |   Java   |    Easy    | 2017.11.24  |                  Array                   |             |
-| 151  | 653  |            [Two Sum IV][653]             |   Java   |    Easy    | 2017.11.24  |                   Tree                   |             |
+| 151  | 653  |            [Two Sum IV][653]             |   Java   |    Easy    | 2017.11.24  |                   Tree                   | 2017.12.13  |
 | 152  | 252  |           [Meeting Rooms][252]           |   Java   |    Easy    | 2017.11.25  |                   Sort                   |             |
 | 153  | 504  |              [Base 7][504]               |   Java   |    Easy    | 2017.11.25  |                   Math                   |             |
 | 154  | 477  |      [Total Hamming Distance][477]       |   Java   |    Easy    | 2017.11.25  |          Math, Bit manipulation          |             |
