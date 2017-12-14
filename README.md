@@ -197,6 +197,8 @@
 | 193  | 544  |      [Output Contest Matches][544]       |   Java   |   Medium   | 2017.12.12  |                  String                  |             |
 | 194  | 419  |      [Battleships in a Board][419]       |   Java   |   Medium   | 2017.12.12  |                  Array                   |             |
 | 195  | 415  |            [Add Strings][415]            |   Java   |    Easy    | 2017.12.13  |                   Math                   |             |
+| 196  | 208  |   [Implement Trie (Prefix Tree)][208]    |   Java   |   Medium   | 2017.12.14  |               Design Trie                |             |
+| 197  | 211  | [Add and Search Word - Data structure design][211] |   Java   |   Medium   | 2017.12.14  |        Backtracking, Design, Trie        |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -287,6 +289,9 @@
 [204]:<https://leetcode.com/problems/count-primes/> "Count Primes"
 [205]:<https://leetcode.com/problems/isomorphic-strings/> "Isomorphic Strings"
 [206]:<https://leetcode.com/problems/reverse-linked-list/> "Reverse Linked List"
+[208]:<https://leetcode.com/problems/implement-trie-prefix-tree/> "Implement Trie (Prefix Tree)"
+[211]:<https://leetcode.com/problems/add-and-search-word-data-structure-design/> "Add and Search Word Data Structure Design"
+
 [217]:
 
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
