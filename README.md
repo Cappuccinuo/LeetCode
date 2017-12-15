@@ -199,6 +199,7 @@
 | 195  | 415  |            [Add Strings][415]            |   Java   |    Easy    | 2017.12.13  |                   Math                   |             |
 | 196  | 208  |   [Implement Trie (Prefix Tree)][208]    |   Java   |   Medium   | 2017.12.14  |               Design Trie                |             |
 | 197  | 211  | [Add and Search Word - Data structure design][211] |   Java   |   Medium   | 2017.12.14  |        Backtracking, Design, Trie        |             |
+| 198  | 369  |       [Plus One Linked List][369]        |   Java   |   Medium   | 2017.12.14  |               Linked List                |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -344,6 +345,7 @@
 [347]:<https://leetcode.com/problems/top-k-frequent-elements/> "Top K Frequent Elements"
 [349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
+[369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
