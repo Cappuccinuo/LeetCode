@@ -27,7 +27,7 @@
 |  23  |  38  |           [Count and Say][38]            |   Java   |    Easy    |  2017.3.16  |                                          |             |
 |  24  |  53  |          [Maximum Subarray][53]          |   Java   |    Easy    |  2017.3.16  |                                          |             |
 |  25  |  58  |        [Length of Last Word][58]         |   Java   |    Easy    |  2017.3.16  |                                          |             |
-|  26  |  66  |              [Plus One][66]              |   Java   |    Easy    |  2017.3.17  |                                          |             |
+|  26  |  66  |              [Plus One][66]              |   Java   |    Easy    |  2017.3.17  |               Math. Array                | 2017.12.14  |
 |  27  |  67  |             [Add Binary][67]             |   Java   |    Easy    |  2017.3.17  |               Math, String               | 2017.12.13  |
 |  28  |  69  |              [Sqrt(x)][69]               |   Java   |    Easy    |  2017.3.17  |                                          |             |
 |  29  |  88  |         [Merge Sorted Array][88]         |   Java   |    Easy    |  2017.3.21  |                                          |             |
