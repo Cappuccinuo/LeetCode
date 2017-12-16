@@ -118,7 +118,7 @@
 | 114  | 690  |        [Employee Importance][690]        |   Java   |    Easy    | 2017.10.11  |                   DFS                    |             |
 | 115  | 695  |        [Max Area of Island][695]         |   Java   |    Easy    | 2017.10.12  |                   DFS                    |             |
 | 116  | 693  | [Binary Number with Alternating Bits][693] |   Java   |    Easy    | 2017.10.12  |             Bit Manipulation             |             |
-| 117  | 347  |      [Top K Frequent Element][347]       |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
+| 117  | 347  |      [Top K Frequent Element][347]       |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             | 2017.12.16  |
 | 118  | 692  |       [Top K Frequent Words][692]        |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |             |
 | 119  | 657  |        [Judge Route Circle][657]         |   Java   |    Easy    | 2017.10.17  |                  String                  |             |
 | 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |             |
