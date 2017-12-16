@@ -201,6 +201,7 @@
 | 197  | 211  | [Add and Search Word - Data structure design][211] |   Java   |   Medium   | 2017.12.14  |        Backtracking, Design, Trie        |             |
 | 198  | 369  |       [Plus One Linked List][369]        |   Java   |   Medium   | 2017.12.14  |               Linked List                |             |
 | 199  | 104  |   [Maximum Depth of Binary Tree][104]    |   Java   |    Easy    | 2017.12.15  |                Tree, DFS                 |             |
+| 200  | 202  |           [Happy Number][202]            |   Java   |    Easy    | 2017.12.15  |             Hash Table, Math             |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -283,9 +284,7 @@
 [191]:<https://leetcode.com/problems/number-of-1-bits/> "Number of 1 Bits"
 [197]:<https://leetcode.com/problems/rising-temperature/> "Rising Temperature"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
-
-[202]:
-
+[202]:<https://leetcode.com/problems/happy-number/> "Happy Number"
 [203]:<https://leetcode.com/problems/remove-linked-list-elements/> "Remove linked list elements"
 [204]:<https://leetcode.com/problems/count-primes/> "Count Primes"
 [205]:<https://leetcode.com/problems/isomorphic-strings/> "Isomorphic Strings"
