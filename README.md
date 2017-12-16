@@ -62,7 +62,7 @@
 |  58  | 148  |             [Sort List][148]             |   Java   |   Medium   |  2017.6.11  |               Linked List                | 2017.12.15  |
 |  59  | 237  |   [Delete Node in a Linked List][237]    |   Java   |    Easy    |  2017.6.14  |               Linked List                | 2017.12.14  |
 |  60  | 206  |        [Reverse Linked List][206]        |   Java   |    Easy    |  2017.6.14  |               Linked List                | 2017.12.15  |
-|  61  | 328  |       [Odd Even Linked List][328]        |   Java   |   Medium   |  2017.6.15  |               Linked List                |             |
+|  61  | 328  |       [Odd Even Linked List][328]        |   Java   |   Medium   |  2017.6.15  |               Linked List                | 2017.12.16  |
 |  62  |  83  | [Remove Duplicates from Sorted List][83] |   Java   |    Easy    |  2017.6.15  |               Linked List                |             |
 |  63  | 109  | [Convert Sorted List to Binary Search Tree][109] |   Java   |   Medium   |  2017.6.17  |               Linked List                |             |
 |  64  | 496  |      [Next Greater Element I][496]       |   Java   |    Easy    |  2017.6.19  |              Stack, HashMap              |             |
