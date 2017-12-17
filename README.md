@@ -205,7 +205,7 @@
 | 201  | 725  |    [Split Linked List in Parts][725]     |   Java   |   Medium   | 2017.12.16  |               Linked List                |             |
 | 202  | 215  |  [Kth Largest Element in an Array][215]  |   Java   |   Medium   | 2017.12.16  |         Divide and Conquer, Heap         |             |
 | 203  | 748  |     [Shortest Completing Word][748]      |   Java   |    Easy    | 2017.12.16  |                Hash Table                |             |
-| 204  | 740  |          [Delete and Earn][740]          |   Java   |   Medium   |             |           Dynamic Programming            |             |
+| 204  | 740  |          [Delete and Earn][740]          |   Java   |   Medium   |  2017.12.6  |           Dynamic Programming            | 2017.12.17  |
 | 205  | 746  |     [Min Cost Climbing Stairs][746]      |   Java   |    Easy    | 2017.12.17  |           Dynamic Programming            |             |
 
 
