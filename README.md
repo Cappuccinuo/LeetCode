@@ -203,6 +203,10 @@
 | 199  | 104  |   [Maximum Depth of Binary Tree][104]    |   Java   |    Easy    | 2017.12.15  |                Tree, DFS                 |             |
 | 200  | 202  |           [Happy Number][202]            |   Java   |    Easy    | 2017.12.15  |             Hash Table, Math             |             |
 | 201  | 725  |    [Split Linked List in Parts][725]     |   Java   |   Medium   | 2017.12.16  |               Linked List                |             |
+| 202  | 215  |  [Kth Largest Element in an Array][215]  |   Java   |   Medium   | 2017.12.16  |         Divide and Conquer, Heap         |             |
+| 203  | 748  |     [Shortest Completing Word][748]      |   Java   |    Easy    | 2017.12.16  |                Hash Table                |             |
+| 204  | 740  |          [Delete and Earn][740]          |   Java   |   Medium   |             |           Dynamic Programming            |             |
+| 205  | 746  |     [Min Cost Climbing Stairs][746]      |   Java   |    Easy    | 2017.12.17  |           Dynamic Programming            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -292,6 +296,7 @@
 [206]:<https://leetcode.com/problems/reverse-linked-list/> "Reverse Linked List"
 [208]:<https://leetcode.com/problems/implement-trie-prefix-tree/> "Implement Trie (Prefix Tree)"
 [211]:<https://leetcode.com/problems/add-and-search-word-data-structure-design/> "Add and Search Word Data Structure Design"
+[215]:<https://leetcode.com/problems/kth-largest-element-in-an-array/> "Kth largest element in an array"
 
 [217]:
 
@@ -425,3 +430,6 @@
 [735]:<https://leetcode.com/problems/asteroid-collision/> "Asteroid Collision"
 [738]:<https://leetcode.com/problems/monotone-increasing-digits/> "Monotone Incresing Digits"
 [739]:<https://leetcode.com/problems/daily-temperatures/> "Daily Temperatures"
+[740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
+[746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
+[748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
