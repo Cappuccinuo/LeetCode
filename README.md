@@ -207,6 +207,7 @@
 | 203  | 748  |     [Shortest Completing Word][748]      |   Java   |    Easy    | 2017.12.16  |                Hash Table                |             |
 | 204  | 740  |          [Delete and Earn][740]          |   Java   |   Medium   |  2017.12.6  |           Dynamic Programming            | 2017.12.17  |
 | 205  | 746  |     [Min Cost Climbing Stairs][746]      |   Java   |    Easy    | 2017.12.17  |           Dynamic Programming            |             |
+| 206  | 276  |            [Paint House][276]            |   Java   |    Easy    | 2017.12.17  |           Dynamic Programming            |             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -326,6 +327,7 @@
 [263]:
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
+[276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
 
