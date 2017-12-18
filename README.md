@@ -111,7 +111,7 @@
 | 107  |  13  |          [Roman to Integer][13]          |   Java   |    Easy    |  2017.7.27  |               Math, String               |             |
 | 108  | 111  |   [Minimum Depth of Binary Tree][111]    |   Java   |    Easy    |  2017.7.27  |              Tree, DFS, BFS              |             |
 | 109  | 617  |      [Merge Two Binary Trees][617]       |   Java   |    Easy    |  2017.7.31  |                   Tree                   |             |
-| 110  |  70  |          [Climbing Stairs][70]           |   Java   |    Easy    |  2017.8.2   |           Dynamic Programming            |             |
+| 110  |  70  |          [Climbing Stairs][70]           |   Java   |    Easy    |  2017.8.2   |           Dynamic Programming            | 2017.12.17  |
 | 111  | 100  |             [Same Tree][100]             |   Java   |    Easy    |  2017.8.4   |                Tree, DFS                 |             |
 | 112  | 169  |         [Majority Element][169]          |   Java   |    Easy    |  2017.8.6   | Array, Divide and Conquer, Bit Manipulation |             |
 | 113  | 171  |     [Excel Sheet Column Number][171]     |   Java   |    Easy    |  2017.8.6   |                   Math                   |             |
