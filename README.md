@@ -33,7 +33,7 @@
 |  29  |  88  |         [Merge Sorted Array][88]         |   Java   |    Easy    |  2017.3.21  |                                          |             |
 |  30  | 101  |          [Symmetric Tree][101]           |   Java   |    Easy    |  2017.3.21  |                                          |             |
 |  31  | 119  |        [Pascal's Triangle Ⅱ][119]        |   Java   |    Easy    |  2017.3.22  |                                          |             |
-|  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |   Java   |    Easy    |  2017.3.23  |                                          |             |
+|  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |   Java   |    Easy    |  2017.3.23  |        Array, Dynamic Programming        | 2017.12.17  |
 |  33  | 122  | [Best Time to Buy and Sell Stock Ⅱ][122] |   Java   |    Easy    |  2017.3.23  |                                          |             |
 |  34  | 167  | [Two Sum Ⅱ - Input array is sorted][167] |   Java   |    Easy    |  2017.3.24  |    Array, Two Pointers, Binary Search    | 2017.12.13  |
 |  35  | 414  |       [Third Maximum Number][414]        |   Java   |    Easy    |  2017.3.27  |                  Array                   |  2017.11.3  |
