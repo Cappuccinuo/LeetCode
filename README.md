@@ -170,7 +170,7 @@
 | 166  | 624  |    [Maximum Distance in Arrays][624]     |   Java   |    Easy    | 2017.11.27  |                  Array                   |                       |
 | 167  | 197  |        [Rising Temperature][197]         |   SQL    |    Easy    | 2017.11.27  |                 Database                 |                       |
 | 168  |  96  |     [Unique Binary Search Trees][96]     |   Java   |    Easy    | 2017.11.28  |        Dynamic Programming, Tree         |                       |
-| 169  | 338  |           [Counting Bits][338]           |   Java   |   Medium   | 2017.11.29  |  Dynamic Programming, Bit manipulation   |                       |
+| 169  | 338  |           [Counting Bits][338]           |   Java   |   Medium   | 2017.11.29  |  Dynamic Programming, Bit manipulation   |      2017.12.18       |
 | 170  | 257  |         [Binary Tree Paths][257]         |   Java   |    Easy    | 2017.11.29  |                Tree, DFS                 |                       |
 | 171  | 404  |        [Sum of Left Leaves][404]         |   Java   |    Easy    | 2017.11.29  |                   Tree                   |                       |
 | 172  | 739  |        [Daily Temperatures][739]         |   Java   |   Medium   |  2017.12.2  |                  Stack                   |       2017.12.4       |
