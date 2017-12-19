@@ -121,7 +121,7 @@
 | 117  | 347  |      [Top K Frequent Element][347]       |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |      2017.12.16       |
 | 118  | 692  |       [Top K Frequent Words][692]        |   Java   |   Medium   | 2017.10.14  |             Hash Table, Heap             |                       |
 | 119  | 657  |        [Judge Route Circle][657]         |   Java   |    Easy    | 2017.10.17  |                  String                  |                       |
-| 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |                       |
+| 120  | 303  |    [Range Sum Query - Immutable][303]    |   Java   |    Easy    | 2017.10.18  |           Dynamic Programming            |      2017.12.19       |
 | 121  | 387  | [First Unique Character in a String][387] |   Java   |    Easy    | 2017.10.19  |                  String                  |                       |
 | 122  | 108  | [Convert Sorted Array to Binary Search Tree][108] |   Java   |    Easy    | 2017.10.19  |                Tree, DFS                 |                       |
 | 123  | 198  |           [House Robber][198]            |   Java   |    Easy    | 2017.10.19  |           Dynamic Programming            | 2017.12.5  2017.12.18 |
