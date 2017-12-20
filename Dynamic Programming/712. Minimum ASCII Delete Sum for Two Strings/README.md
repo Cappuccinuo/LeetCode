@@ -37,3 +37,13 @@ When `s1[i] != s2[j]`, we will have to delete at least one of them. We'll have `
 
 dp\[i][j] = Math.min(dp\[i + 1][j] + Integer.valueOf(s1.charAt(i))), dp\[i][j + 1] + Integer.valueOf(s2.charAt(j)))
 
+
+
+sea
+
+eat
+
+dp\[1][0] = dp\[2][1] = dp\[3][2] = t's ascii value
+
+dp\[0][0] = Math.min(delete s, delete e) => Math.min(dp\[0][1] + Integer.valueOf(s), dp\[1][0] + Integer.valueOf(e))
+
