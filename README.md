@@ -213,6 +213,7 @@
 | 209  | 337  |         [House Robber III][337]          |   Java   |   Medium   | 2017.12.19  |           Dynamic Programming            |                       |
 | 210  | 647  |      [Palindromic Substrings][647]       |   Java   |   Medium   | 2017.12.19  |           Dynamic Programming            |                       |
 | 211  | 413  |         [Arithmetic Slices][413]         |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
+| 212  | 712  | [Minimum ASCII Delete Sum for Two Strings][712] |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -433,6 +434,7 @@
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
+[712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
 [725]:<https://leetcode.com/problems/split-linked-list-in-parts/> "Split Linked List in Parts"
