@@ -212,6 +212,7 @@
 | 208  | 213  |          [House Robber II][213]          |   Java   |   Medium   | 2017.12.19  |           Dynamic Programming            |                       |
 | 209  | 337  |         [House Robber III][337]          |   Java   |   Medium   | 2017.12.19  |           Dynamic Programming            |                       |
 | 210  | 647  |      [Palindromic Substrings][647]       |   Java   |   Medium   | 2017.12.19  |           Dynamic Programming            |                       |
+| 211  | 413  |         [Arithmetic Slices][413]         |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -369,6 +370,7 @@
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
+[413]:<https://leetcode.com/problems/arithmetic-slices/> "Arithmetic Slices"
 [414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
 [415]:<https://leetcode.com/problems/add-strings/> "Add Strings"
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
