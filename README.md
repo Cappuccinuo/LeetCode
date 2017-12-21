@@ -218,6 +218,7 @@
 | 214  |  62  |            [Unique Paths][62]            |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 215  |  63  |          [Unique Paths II][63]           |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
+| 217  | 120  |             [Triangle][120]              |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -278,6 +279,7 @@
 [112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
+[120]:<https://leetcode.com/problems/triangle/> "Triangle"
 [121]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/> "Best Time to Buy and Sell Stock"
 [122]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/> "Best Time to Buy and Sell Stock Ⅱ"
 [125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
