@@ -220,6 +220,7 @@
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 217  | 120  |             [Triangle][120]              |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 218  | 138  |            [Word Break][138]             |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
+| 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    | 2017.12.21  |                   Math                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -338,11 +339,11 @@
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
+[258]:<https://leetcode.com/problems/add-digits/> "Add Digits"
 [259]:<https://leetcode.com/problems/3sum-smaller/> "3Sum Smaller"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
-[258]:
 [263]:
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
