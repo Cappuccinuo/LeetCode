@@ -217,6 +217,7 @@
 | 213  | 357  | [Count Numbers with Unique Digits][357]  |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 214  |  62  |            [Unique Paths][62]            |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 215  |  63  |          [Unique Paths II][63]           |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
+| 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -251,6 +252,7 @@
 [61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
 [62]:<https://leetcode.com/problems/unique-paths/> "Unique Paths"
 [63]:<https://leetcode.com/problems/unique-paths-ii/> "Unique Paths II"
+[64]:<https://leetcode.com/problems/minimum-path-sum/> "Minimum Path Sum"
 [66]:<https://leetcode.com/problems/plus-one/> "Plus One"
 [67]:<https://leetcode.com/problems/add-binary/> "Add Binary"
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
