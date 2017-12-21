@@ -215,6 +215,8 @@
 | 211  | 413  |         [Arithmetic Slices][413]         |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 212  | 712  | [Minimum ASCII Delete Sum for Two Strings][712] |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 213  | 357  | [Count Numbers with Unique Digits][357]  |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
+| 214  |  62  |            [Unique Paths][62]            |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
+| 215  |  63  |          [Unique Paths II][63]           |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -247,6 +249,8 @@
 [53]:<https://leetcode.com/problems/maximum-subarray/> "Maximum Subarray"
 [58]:<https://leetcode.com/problems/length-of-last-word/> "Length of Last Word"
 [61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
+[62]:<https://leetcode.com/problems/unique-paths/> "Unique Paths"
+[63]:<https://leetcode.com/problems/unique-paths-ii/> "Unique Paths II"
 [66]:<https://leetcode.com/problems/plus-one/> "Plus One"
 [67]:<https://leetcode.com/problems/add-binary/> "Add Binary"
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
