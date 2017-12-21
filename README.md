@@ -219,6 +219,7 @@
 | 215  |  63  |          [Unique Paths II][63]           |   Java   |   Medium   | 2017.12.20  |           Dynamic Programming            |                       |
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 217  | 120  |             [Triangle][120]              |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
+| 218  | 138  |            [Word Break][138]             |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -284,6 +285,7 @@
 [122]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/> "Best Time to Buy and Sell Stock Ⅱ"
 [125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
+[138]:<https://leetcode.com/problems/word-break/> "Word Break"
 [141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
 [142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
 [144]:<https://leetcode.com/problems/binary-tree-preorder-traversal/> "Binary Tree Preorder Travelsal"
