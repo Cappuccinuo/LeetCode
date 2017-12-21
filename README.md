@@ -220,7 +220,7 @@
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 217  | 120  |             [Triangle][120]              |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 218  | 138  |            [Word Break][138]             |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
-| 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    | 2017.12.21  |                   Math                   |                       |
+| 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    |  2016.3.21  |                   Math                   |      2017.12.21       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
