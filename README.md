@@ -220,7 +220,8 @@
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 217  | 120  |             [Triangle][120]              |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
 | 218  | 138  |            [Word Break][138]             |   Java   |   Medium   | 2017.12.21  |           Dynamic Programming            |                       |
-| 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    |  2016.3.21  |                   Math                   |       2017.12.        |
+| 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    |  2016.3.21  |                   Math                   |      2017.12.21       |
+| 220  | 401  |           [Binary Watch][401]            |   Java   |    Easy    | 2017.12.21  |      Backtracking, Bit manipulation      |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -381,6 +382,7 @@
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
 [394]:<https://leetcode.com/problems/decode-string/> "Decode String"
+[401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
