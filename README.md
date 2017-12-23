@@ -223,7 +223,8 @@
 | 219  | 258  |            [Add Digits][258]             |   Java   |    Easy    |       2016.3.21       |                   Math                   |      2017.12.21       |
 | 220  | 401  |           [Binary Watch][401]            |   Java   |    Easy    | 2017.12.21 2017.12.22 |      Bit manipulation Backtracking       |                       |
 | 221  |  52  |            [N-Queens II][52]             |   Java   |    Hard    |      2017.12.22       |               Backtracking               |                       |
-| 222  |  51  |              [N-Queens][51]              |   Java   |    Hard    |      2017.12.22       |                                          |                       |
+| 222  |  51  |              [N-Queens][51]              |   Java   |    Hard    |      2017.12.22       |               Backtracking               |                       |
+| 223  | 152  |     [Maximum Product Subarray][152]      |   Java   |   Medium   |      2017.12.22       |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -299,6 +300,7 @@
 [147]:<https://leetcode.com/problems/insertion-sort-list/> "Insertion Sort List"
 [148]:<https://leetcode.com/problems/sort-list/> "Sort List"
 [151]:<https://leetcode.com/problems/reverse-words-in-a-string/> "Reverse Words in a String"
+[152]:<https://leetcode.com/problems/maximum-product-subarray/> "Maximum Product Subarray"
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
