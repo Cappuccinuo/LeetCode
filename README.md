@@ -225,6 +225,7 @@
 | 221  |  52  |            [N-Queens II][52]             |   Java   |    Hard    |      2017.12.22       |               Backtracking               |                       |
 | 222  |  51  |              [N-Queens][51]              |   Java   |    Hard    |      2017.12.22       |               Backtracking               |                       |
 | 223  | 152  |     [Maximum Product Subarray][152]      |   Java   |   Medium   |      2017.12.22       |           Dynamic Programming            |                       |
+| 224  | 474  |          [Ones and Zeroes][474]          |   Java   |   Medium   |      2017.12.23       |           Dynamic Programming            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
