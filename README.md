@@ -46,7 +46,7 @@
 |  42  | 350  |   [Intersection of Two Arrays Ⅱ][350]    |   Java   |    Easy    |       2017.4.7        |                                          |                       |
 |  43  | 141  |         [Linked List Cycle][141]         |   Java   |    Easy    |       2017.5.25       |        Linked List, Two Pointers         |      2017.12.15       |
 |  44  | 142  |        [Linked List Cycle Ⅱ][142]        |   Java   |   Medium   |       2017.5.25       |        Linked List, Two Pointers         |                       |
-|  45  | 160  | [Intersection of Two Linked Lists][160]  |   Java   |    Easy    |       2017.5.25       |               Linked List                |                       |
+|  45  | 160  | [Intersection of Two Linked Lists][160]  |   Java   |    Easy    |       2017.5.25       |               Linked List                |      2017.12.23       |
 |  46  | 234  |      [Palindrome Linked List][234]       |   Java   |    Easy    |       2017.5.26       |        Linked List, Two Pointers         |      2017.12.23       |
 |  47  | 203  |    [Remove Linked List Elements][203]    |   Java   |    Easy    |       2017.5.27       |               Linked List                |                       |
 |  48  |  2   |           [Add Two Numbers][2]           |   Java   |   Medium   |       2017.5.27       |            Linked List, Math             |      2017.12.13       |
