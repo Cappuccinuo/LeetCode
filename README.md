@@ -18,7 +18,7 @@
 |  14  |  1   |               [Two Sum][1]               |   Java   |    Easy    |       2017.3.9        |            Array, Hash Table             |      2017.12.13       |
 |  15  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    |       2017.3.9        |                                          |                       |
 |  16  |  9   |          [Palindrome Number][9]          |   Java   |    Easy    |       2017.3.9        |                                          |                       |
-|  17  |  14  |       [Longest Common Prefix][14]        |   Java   |    Easy    |       2017.3.9        |                                          |                       |
+|  17  |  14  |       [Longest Common Prefix][14]        |   Java   |    Easy    |       2017.3.9        |                  String                  |      2017.12.24       |
 |  18  |  20  |         [Valid Parentheses][20]          |   Java   |    Easy    |       2017.3.9        |                  Stack                   |                       |
 |  19  |  26  | [Remove Duplicates from Sorted Array][26] |   Java   |    Easy    |       2017.3.10       |                                          |                       |
 |  20  |  27  |           [Remove Element][27]           |   Java   |    Easy    |       2017.3.10       |                                          |                       |
