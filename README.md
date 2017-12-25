@@ -226,6 +226,7 @@
 | 222  |  51  |              [N-Queens][51]              |   Java   |    Hard    |      2017.12.22       |               Backtracking               |                       |
 | 223  | 152  |     [Maximum Product Subarray][152]      |   Java   |   Medium   |      2017.12.22       |           Dynamic Programming            |                       |
 | 224  | 474  |          [Ones and Zeroes][474]          |   Java   |   Medium   |      2017.12.23       |           Dynamic Programming            |                       |
+| 225  |  79  |            [Word Search][79]             |   Java   |   Medium   |      2017.12.25       |           Array, Backtracking            |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -267,6 +268,7 @@
 [67]:<https://leetcode.com/problems/add-binary/> "Add Binary"
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
 [70]:<https://leetcode.com/problems/climbing-stairs/> "Climbing Stairs"
+[79]:<https://leetcode.com/problems/word-search/> "Word Search"
 [82]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/> "Remove Duplicated From Sorted List Ⅱ"
 [83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
 [86]:<https://leetcode.com/problems/partition-list/> "Partition List"
