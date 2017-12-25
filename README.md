@@ -227,6 +227,7 @@
 | 223  | 152  |     [Maximum Product Subarray][152]      |   Java   |   Medium   |      2017.12.22       |           Dynamic Programming            |                       |
 | 224  | 474  |          [Ones and Zeroes][474]          |   Java   |   Medium   |      2017.12.23       |           Dynamic Programming            |                       |
 | 225  |  79  |            [Word Search][79]             |   Java   |   Medium   |      2017.12.25       |           Array, Backtracking            |                       |
+| 226  | 674  | [Longest Continuous Increasing Subsequence][674] |   Java   |    Easy    |      2017.12.25       |                  Array                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -452,6 +453,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
+[674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
