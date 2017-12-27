@@ -228,6 +228,10 @@
 | 224  | 474  |          [Ones and Zeroes][474]          |   Java   |   Medium   |      2017.12.23       |           Dynamic Programming            |                       |
 | 225  |  79  |            [Word Search][79]             |   Java   |   Medium   |      2017.12.25       |           Array, Backtracking            |                       |
 | 226  | 674  | [Longest Continuous Increasing Subsequence][674] |   Java   |    Easy    |      2017.12.25       |                  Array                   |                       |
+| 227  | 175  |        [Combine Two Tables][175]         |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
+| 228  | 176  |       [Second Highest Salary][176]       |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
+| 229  | 177  |        [Nth Highest Salary][177]         |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
+| 230  | 178  |            [Rank Scores][178]            |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -314,6 +318,10 @@
 [171]:<https://leetcode.com/problems/excel-sheet-column-number/> "Excel Sheet Column Number"
 [172]:<https://leetcode.com/problems/factorial-trailing-zeroes/> "Factorial Trailing Zeroes"
 [173]:<https://leetcode.com/problems/binary-search-tree-iterator/> "Binary Search Tree Iterator"
+[175]:<https://leetcode.com/problems/combine-two-tables/> "Combine Two Tables"
+[176]:<https://leetcode.com/problems/second-highest-salary/> "Second Highest Salary"
+[177]:<https://leetcode.com/problems/nth-highest-salary/> "Nth Highest Salary"
+[178]:<https://leetcode.com/problems/rank-scores/> "Rank Scores"
 [186]:<https://leetcode.com/problems/reverse-words-in-a-string-ii/> "Reverse Words in a String II"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
