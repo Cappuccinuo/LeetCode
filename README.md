@@ -232,6 +232,9 @@
 | 228  | 176  |       [Second Highest Salary][176]       |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
 | 229  | 177  |        [Nth Highest Salary][177]         |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
 | 230  | 178  |            [Rank Scores][178]            |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
+| 231  | 180  |        [Consecutive Numbers][180]        |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
+| 232  | 181  | [Employees Earning More Than Their Managers][181] |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
+| 233  | 182  |         [Duplicate Emails][182]          |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -322,6 +325,9 @@
 [176]:<https://leetcode.com/problems/second-highest-salary/> "Second Highest Salary"
 [177]:<https://leetcode.com/problems/nth-highest-salary/> "Nth Highest Salary"
 [178]:<https://leetcode.com/problems/rank-scores/> "Rank Scores"
+[180]:<https://leetcode.com/problems/consecutive-numbers/> "Consecutive Numbers"
+[181]:<https://leetcode.com/problems/employees-earning-more-than-their-managers/> "Employees Earning More Than Their Managers"
+[182]:<https://leetcode.com/problems/duplicate-emails/> "Duplicate Emails"
 [186]:<https://leetcode.com/problems/reverse-words-in-a-string-ii/> "Reverse Words in a String II"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
