@@ -241,6 +241,7 @@
 | 237  | 676  |    [Implement Magic Dictionary][676]     |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
 | 238  | 185  |   [Department Top Three Salaries][185]   |   SQL    |    Hard    |      2017.12.29       |                 DataBase                 |                       |
 | 239  | 196  |      [Delete Duplicate Emails][196]      |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
+| 240  | 627  |            [Swap Salary][627]            |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -467,6 +468,7 @@
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
 [624]:<https://leetcode.com/problems/maximum-distance-in-arrays/> "Maximum Distance in Arrays"
+[627]:<https://leetcode.com/problems/swap-salary/> "Swap Salary"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
