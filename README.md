@@ -238,6 +238,7 @@
 | 234  | 183  |     [Customers Who Never Order][183]     |   SQL    |    Easy    |      2017.12.27       |                 DataBase                 |                       |
 | 235  | 184  |     [Department Highest Salary][184]     |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
 | 236  | 677  |           [Map Sum Pairs][677]           |   Java   |   Medium   |      2017.12.28       |                   Trie                   |                       |
+| 237  | 676  |    [Implement Magic Dictionary][676]     |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -473,6 +474,7 @@
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
+[676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
