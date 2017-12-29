@@ -242,6 +242,7 @@
 | 238  | 185  |   [Department Top Three Salaries][185]   |   SQL    |    Hard    |      2017.12.29       |                 DataBase                 |                       |
 | 239  | 196  |      [Delete Duplicate Emails][196]      |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 | 240  | 627  |            [Swap Salary][627]            |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
+| 241  | 648  |           [Replace Words][648]           |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -474,6 +475,7 @@
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [647]:<https://leetcode.com/problems/palindromic-substrings/> "Palindromic Substrings"
+[648]:<https://leetcode.com/problems/replace-words/> "Replace Words"
 [653]:<https://leetcode.com/problems/two-sum-iv-input-is-a-bst/> "Two Sum IV Input is a BST"
 [654]:<https://leetcode.com/problems/maximum-binary-tree/> "Maximum Binary Tree"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
