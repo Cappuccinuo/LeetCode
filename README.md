@@ -239,6 +239,8 @@
 | 235  | 184  |     [Department Highest Salary][184]     |   SQL    |   Medium   |      2017.12.27       |                 DataBase                 |                       |
 | 236  | 677  |           [Map Sum Pairs][677]           |   Java   |   Medium   |      2017.12.28       |                   Trie                   |                       |
 | 237  | 676  |    [Implement Magic Dictionary][676]     |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
+| 238  | 185  |   [Department Top Three Salaries][185]   |   SQL    |    Hard    |      2017.12.29       |                 DataBase                 |                       |
+| 239  | 196  |      [Delete Duplicate Emails][196]      |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -334,10 +336,12 @@
 [182]:<https://leetcode.com/problems/duplicate-emails/> "Duplicate Emails"
 [183]:<https://leetcode.com/problems/customers-who-never-order/> "Customers Who Never Order"
 [184]:<https://leetcode.com/problems/department-highest-salary/> "Department Highest Salary"
+[185]:<https://leetcode.com/problems/department-top-three-salaries/> "Department Top Three Salaries"
 [186]:<https://leetcode.com/problems/reverse-words-in-a-string-ii/> "Reverse Words in a String II"
 [189]:<https://leetcode.com/problems/rotate-array/> "Rotate Array"
 [190]:<https://leetcode.com/problems/reverse-bits/> "Reverse Bits"
 [191]:<https://leetcode.com/problems/number-of-1-bits/> "Number of 1 Bits"
+[196]:<https://leetcode.com/problems/delete-duplicate-emails/> "Delete Duplicate Emails"
 [197]:<https://leetcode.com/problems/rising-temperature/> "Rising Temperature"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
 [202]:<https://leetcode.com/problems/happy-number/> "Happy Number"
@@ -495,4 +499,3 @@
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
-[Math/258. Add Digits/]: 
