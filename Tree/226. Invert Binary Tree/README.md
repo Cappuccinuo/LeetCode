@@ -22,9 +22,11 @@ Output:
 
 
 
-1. Use Recursion. Actually like a bottom-up solution.
+1. Use Recursion.  Actually like a bottom-up solution.
 
-2. ​     4
+2. Use Iterative with Queue. Swap the left and right node.
+
+3. ​     4
       /   \
      2     7
     / \   / \
