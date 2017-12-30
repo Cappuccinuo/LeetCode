@@ -246,6 +246,7 @@
 | 242  | 421  | [Maximum XOR of Two Numbers in an Array][421] |   Java   |   Medium   |      2017.12.30       |             Bit Manipulation             |                       |
 | 243  | 620  |         [Not Boring Movies][620]         |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                       |
 | 244  | 619  |       [Biggest Single Number][619]       |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                       |
+| 245  | 226  |        [Invert Binary Tree][226]         |   Java   |    Easy    |      2017.12.30       |                   Tree                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -363,9 +364,8 @@
 
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
+[226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
 [231]:<https://leetcode.com/problems/power-of-two/> "Power of Two"
-
-[226]:
 
 
 [232]:<https://leetcode.com/problems/implement-queue-using-stacks/> "Implement Stack Using Queues"
