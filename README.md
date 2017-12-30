@@ -244,6 +244,8 @@
 | 240  | 627  |            [Swap Salary][627]            |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 | 241  | 648  |           [Replace Words][648]           |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
 | 242  | 421  | [Maximum XOR of Two Numbers in an Array][421] |   Java   |   Medium   |      2017.12.30       |             Bit Manipulation             |                       |
+| 243  | 620  |         [Not Boring Movies][620]         |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                       |
+| 244  | 619  |       [Biggest Single Number][619]       |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -470,6 +472,8 @@
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
+[619]:<https://leetcode.com/problems/biggest-single-number/> "Biggest Single Number"
+[620]:<https://leetcode.com/problems/not-boring-movies/> "Not Boring Movies"
 [624]:<https://leetcode.com/problems/maximum-distance-in-arrays/> "Maximum Distance in Arrays"
 [627]:<https://leetcode.com/problems/swap-salary/> "Swap Salary"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
