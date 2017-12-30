@@ -243,6 +243,7 @@
 | 239  | 196  |      [Delete Duplicate Emails][196]      |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 | 240  | 627  |            [Swap Salary][627]            |   SQL    |    Easy    |      2017.12.29       |                 DataBase                 |                       |
 | 241  | 648  |           [Replace Words][648]           |   Java   |   Medium   |      2017.12.29       |                   Trie                   |                       |
+| 242  | 421  | [Maximum XOR of Two Numbers in an Array][421] |   Java   |   Medium   |      2017.12.30       |             Bit Manipulation             |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -426,6 +427,7 @@
 [414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
 [415]:<https://leetcode.com/problems/add-strings/> "Add Strings"
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
+[421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
 [434]:<https://leetcode.com/problems/number-of-segments-in-a-string/> "Number of Segments in a String"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
 [438]:<https://leetcode.com/problems/find-all-anagrams-in-a-string/> "Find All Anagrams"
