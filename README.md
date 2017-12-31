@@ -72,7 +72,7 @@
 |  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |   Java   |    Hard    |       2017.6.22       |                  Stack                   |                       |
 |  69  | 394  |           [Decode String][394]           |   Java   |   Medium   |       2017.6.27       |                  Stack                   |                       |
 |  70  | 341  |   [Flatten Nested List Iterator][341]    |   Java   |   Medium   |       2017.6.27       |                  Stack                   |                       |
-|  71  | 173  |    [Binary Search Tree Iterator][173]    |   Java   |   Medium   |       2017.6.27       |                  Stack                   |                       |
+|  71  | 173  |    [Binary Search Tree Iterator][173]    |   Java   |   Medium   |       2017.6.27       |                  Stack                   |      2017.12.31       |
 |  72  | 155  |             [Min Stack][155]             |   Java   |    Easy    |       2017.7.4        |                  Stack                   |                       |
 |  73  | 225  |   [Implement Stack using Queues][225]    |   Java   |    Easy    |       2017.7.5        |                  Stack                   |                       |
 |  74  | 232  |   [Implement Queue using Stacks][232]    |   Java   |    Easy    |       2017.7.5        |                  Stack                   |                       |
