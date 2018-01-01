@@ -31,7 +31,7 @@
 |  27  |  67  |             [Add Binary][67]             |   Java   |    Easy    |       2017.3.17       |               Math, String               |      2017.12.13       |
 |  28  |  69  |              [Sqrt(x)][69]               |   Java   |    Easy    |       2017.3.17       |                                          |                       |
 |  29  |  88  |         [Merge Sorted Array][88]         |   Java   |    Easy    |       2017.3.21       |                                          |                       |
-|  30  | 101  |          [Symmetric Tree][101]           |   Java   |    Easy    |       2017.3.21       |                                          |                       |
+|  30  | 101  |          [Symmetric Tree][101]           |   Java   |    Easy    |       2017.3.21       |                   Tree                   |       2018.1.1        |
 |  31  | 119  |        [Pascal's Triangle Ⅱ][119]        |   Java   |    Easy    |       2017.3.22       |                                          |                       |
 |  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |   Java   |    Easy    |       2017.3.23       |        Array, Dynamic Programming        |      2017.12.17       |
 |  33  | 122  | [Best Time to Buy and Sell Stock Ⅱ][122] |   Java   |    Easy    |       2017.3.23       |              Array, Greedy               |      2017.12.18       |
