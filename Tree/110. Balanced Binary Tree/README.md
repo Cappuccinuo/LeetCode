@@ -22,6 +22,6 @@ DESIGN STRATEGY: General Recursion
 
 
 
-1. The depth of one tree is obvious, define a function
+1. The depth of one tree can use recursion to get.
 2. if the abs difference between the left tree depth and right tree depth <= 1, than the tree is height-balanced
-3. remember we need to judge isBalanced(root.right) && isBalanced(root.left)
+3.  judge isBalanced(root.right) && isBalanced(root.left)

@@ -132,7 +132,7 @@
 | 128  |  50  |             [Pow(x, n)][50]              |   Java   |   Medium   |       2017.11.1       |                   Math                   |                       |
 | 129  | 374  |   [Guess Number Higher or Lower][374]    |   Java   |    Easy    |       2017.11.2       |              Binary Search               |                       |
 | 130  | 242  |           [Valid Anagram][242]           |   Java   |    Easy    |       2017.11.4       |             Hash Table, Sort             |                       |
-| 131  | 110  |       [Balanced Binary Tree][110]        |   Java   |    Easy    |       2017.11.5       |                Tree, DFS                 |                       |
+| 131  | 110  |       [Balanced Binary Tree][110]        |   Java   |    Easy    |       2017.11.5       |                Tree, DFS                 |      2017.12.31       |
 | 132  | 168  |     [Excel Sheet Column Title][168]      |   Java   |    Easy    |       2017.11.5       |                   Math                   |                       |
 | 133  |  11  |     [Container With Most Water][11]      |   Java   |   Medium   |       2017.11.7       |           Array, Two Pointers            |                       |
 | 134  | 238  |   [Product of Array Except Self][238]    |   Java   |   Medium   |       2017.11.8       |                  Array                   |                       |
@@ -248,6 +248,8 @@
 | 244  | 619  |       [Biggest Single Number][619]       |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                       |
 | 245  | 226  |        [Invert Binary Tree][226]         |   Java   |    Easy    |      2017.12.30       |                   Tree                   |                       |
 | 246  | 235  | [Lowest Common Ancestor of a Binary Search Tree][235] |   Java   |    Easy    |      2017.12.31       |                   Tree                   |                       |
+| 247  | 613  |    [Shortest Distance in a Line][613]    |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
+| 248  | 577  |          [Employee Bonus][577]           |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -463,6 +465,7 @@
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
+[577]:<https://leetcode.com/problems/employee-bonus/> "Employee Bonus"
 [580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
 [581]:<https://leetcode.com/problems/shortest-unsorted-continuous-subarray/> "Shortest Unsorted Continuous Subarray"
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
@@ -471,6 +474,7 @@
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
+[613]:<https://leetcode.com/problems/shortest-distance-in-a-line/> "Shortest Distance in a Line"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
 [619]:<https://leetcode.com/problems/biggest-single-number/> "Biggest Single Number"
 [620]:<https://leetcode.com/problems/not-boring-movies/> "Not Boring Movies"
