@@ -250,6 +250,7 @@
 | 246  | 235  | [Lowest Common Ancestor of a Binary Search Tree][235] |   Java   |    Easy    |      2017.12.31       |                   Tree                   |                       |
 | 247  | 613  |    [Shortest Distance in a Line][613]    |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
 | 248  | 577  |          [Employee Bonus][577]           |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
+| 249  | 584  |       [Find Customer Referee][584]       |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -468,6 +469,7 @@
 [577]:<https://leetcode.com/problems/employee-bonus/> "Employee Bonus"
 [580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
 [581]:<https://leetcode.com/problems/shortest-unsorted-continuous-subarray/> "Shortest Unsorted Continuous Subarray"
+[584]:<https://leetcode.com/problems/find-customer-referee/> "Find Customer Referee"
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
