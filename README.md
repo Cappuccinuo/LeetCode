@@ -137,7 +137,7 @@
 | 133  |  11  |     [Container With Most Water][11]      |   Java   |   Medium   |       2017.11.7       |           Array, Two Pointers            |                       |
 | 134  | 238  |   [Product of Array Except Self][238]    |   Java   |   Medium   |       2017.11.8       |                  Array                   |                       |
 | 135  |  5   |    [Longest Palindromic Substring][5]    |   Java   |   Medium   |      2017.11.11       |                  String                  |                       |
-| 136  | 580  | [Count Student Number in Departments][580] |   SQL    |    East    |      2017.11.11       |                 Database                 |                       |
+| 136  | 580  | [Count Student Number in Departments][580] |   SQL    |   Medium   |      2017.11.11       |                 Database                 |       2018.1.2        |
 | 137  | 243  |      [Shortest Word Distance][243]       |   Java   |    Easy    |      2017.11.12       |                  Array                   |                       |
 | 138  | 661  |          [Image Smoother][661]           |   Java   |    Easy    |      2017.11.12       |                  Array                   |                       |
 | 139  | 586  | [Customer Placing the Largest Number of Orders][586] |   SQL    |    Easy    |      2017.11.12       |                 Database                 |                       |
