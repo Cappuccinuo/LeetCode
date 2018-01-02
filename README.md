@@ -253,6 +253,7 @@
 | 249  | 584  |       [Find Customer Referee][584]       |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                       |
 | 250  | 124  |   [Binary Tree Maximum Path Sum][124]    |   Java   |    Hard    |       2018.1.1        |                   Tree                   |                       |
 | 251  | 244  |     [Shortest Word Distance II][244]     |   Java   |   Medium   |       2018.1.2        |             HashTable, Array             |                       |
+| 252  | 245  |    [Shortest Word Distance III][245]     |   Java   |   Medium   |       2018.1.2        |                  Array                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -383,6 +384,7 @@
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
 [244]:<https://leetcode.com/problems/shortest-word-distance-ii/> "Shortest Word Distance II"
+[245]:<https://leetcode.com/problems/shortest-word-distance-iii/> "Shortest Word Distance III"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
