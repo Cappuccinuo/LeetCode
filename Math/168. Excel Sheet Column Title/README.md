@@ -30,3 +30,15 @@ DESIGN STRATEGY: Transcribe formula
 2. (char)(0 + 65) -> 'A', so (n - 1) % 26 + 65 is the letter append
 3. n = (n - 1) / 26 for every loop
 4. result = ch + result so we don't need to reverse the string
+
+
+
+Use a StringBuilder.
+
+append(char('A' + (n - 1) % 26))
+
+At last reverse the string.
+
+Or
+
+insert(0, char(...))
