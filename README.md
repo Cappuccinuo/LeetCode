@@ -139,7 +139,7 @@
 | 135  |  5   |    [Longest Palindromic Substring][5]    |   Java   |   Medium   |      2017.11.11       |                  String                  |       2018.1.3        |
 | 136  | 580  | [Count Student Number in Departments][580] |   SQL    |   Medium   |      2017.11.11       |                 Database                 |       2018.1.2        |
 | 137  | 243  |      [Shortest Word Distance][243]       |   Java   |    Easy    |      2017.11.12       |                  Array                   |       2018.1.2        |
-| 138  | 661  |          [Image Smoother][661]           |   Java   |    Easy    |      2017.11.12       |                  Array                   |                       |
+| 138  | 661  |          [Image Smoother][661]           |   Java   |    Easy    |      2017.11.12       |                  Array                   |       2018.1.3        |
 | 139  | 586  | [Customer Placing the Largest Number of Orders][586] |   SQL    |    Easy    |      2017.11.12       |                 Database                 |                       |
 | 140  | 595  |           [Big Countries][595]           |   SQL    |    Easy    |      2017.11.12       |                 Database                 |                       |
 | 141  | 339  |      [Nested List Weight Sum][339]       |   Java   |    Easy    |      2017.11.13       |                   DFS                    |                       |
