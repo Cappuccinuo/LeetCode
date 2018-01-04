@@ -69,7 +69,7 @@
 |  65  | 503  |      [Next Greater Element II][503]      |     Java     |   Medium   |       2017.6.19       |                  Stack                   |                       |
 |  66  |  94  |   [Binary Tree Inorder Travelsal][94]    |     Java     |   Medium   |       2017.6.20       |                  Stack                   |       2018.1.4        |
 |  67  | 144  |  [Binary Tree Preorder Travelsal][144]   |     Java     |   Medium   |       2017.6.22       |                  Stack                   |       2018.1.4        |
-|  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |     Java     |    Hard    |       2017.6.22       |                  Stack                   |                       |
+|  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |     Java     |    Hard    |       2017.6.22       |                  Stack                   |       2018.1.4        |
 |  69  | 394  |           [Decode String][394]           |     Java     |   Medium   |       2017.6.27       |                  Stack                   |                       |
 |  70  | 341  |   [Flatten Nested List Iterator][341]    |     Java     |   Medium   |       2017.6.27       |                  Stack                   |                       |
 |  71  | 173  |    [Binary Search Tree Iterator][173]    |     Java     |   Medium   |       2017.6.27       |                  Stack                   |      2017.12.31       |

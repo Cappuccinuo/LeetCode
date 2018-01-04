@@ -1,23 +1,30 @@
-public class Solution {
-    public List<Integer> postorderTravelsal(TreeNode root) {
-        LinkedList<Integer> list = new LinkedList<Integer>();
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        LinkedList<Integer> result = new LinkedList<>();
         if (root == null) {
-            return list;
+            return result;
         }
-        
-        Stack<TreeNode> stack = new Stack<TreeNode>();
         stack.push(root);
-        
         while (!stack.isEmpty()) {
-            TreeNode tempNode = stack.pop();
-            list.addFirst(tempNode.val);
-            if (tempNode.left != null) {
-                stack.push(tempNode.left);
+            TreeNode top = stack.pop();
+            result.addFirst(top.val);
+            if (top.left != null) {
+                stack.push(top.left);
             }
-            if (tempNode.right != null) {
-                stack.push(tempNode.right);
+            if (top.right != null) {
+                stack.push(top.right);
             }
         }
-        return list;
+        return result;
     }
 }
