@@ -111,8 +111,8 @@
 | 107  |  13  |          [Roman to Integer][13]          |     Java     |    Easy    |       2017.7.27       |               Math, String               |       2018.1.4        |
 | 108  | 111  |   [Minimum Depth of Binary Tree][111]    |     Java     |    Easy    |       2017.7.27       |              Tree, DFS, BFS              |       2018.1.4        |
 | 109  | 617  |      [Merge Two Binary Trees][617]       |     Java     |    Easy    |       2017.7.31       |                   Tree                   |      2017.12.30       |
-| 110  |  70  |          [Climbing Stairs][70]           |     Java     |    Easy    |       2017.8.2        |           Dynamic Programming            |      2017.12.17       |
-| 111  | 100  |             [Same Tree][100]             |     Java     |    Easy    |       2017.8.4        |                Tree, DFS                 |      2017.12.30       |
+| 110  |  70  |          [Climbing Stairs][70]           |     Java     |    Easy    |       2017.8.2        |           Dynamic Programming            |  2017.12.17 2018.1.5  |
+| 111  | 100  |             [Same Tree][100]             |     Java     |    Easy    |       2017.8.4        |                Tree, DFS                 |  2017.12.30 2018.1.5  |
 | 112  | 169  |         [Majority Element][169]          |     Java     |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |                       |
 | 113  | 171  |     [Excel Sheet Column Number][171]     |     Java     |    Easy    |       2017.8.6        |                   Math                   |                       |
 | 114  | 690  |        [Employee Importance][690]        |     Java     |    Easy    |      2017.10.11       |                   DFS                    |                       |
@@ -200,7 +200,7 @@
 | 196  | 208  |   [Implement Trie (Prefix Tree)][208]    |     Java     |   Medium   |      2017.12.14       |               Design Trie                |                       |
 | 197  | 211  | [Add and Search Word - Data structure design][211] |     Java     |   Medium   |      2017.12.14       |        Backtracking, Design, Trie        |                       |
 | 198  | 369  |       [Plus One Linked List][369]        |     Java     |   Medium   |      2017.12.14       |               Linked List                |                       |
-| 199  | 104  |   [Maximum Depth of Binary Tree][104]    |     Java     |    Easy    |      2017.12.15       |                Tree, DFS                 |      2017.12.30       |
+| 199  | 104  |   [Maximum Depth of Binary Tree][104]    |     Java     |    Easy    |      2017.12.15       |                Tree, DFS                 |  2017.12.30 2018.1.5  |
 | 200  | 202  |           [Happy Number][202]            |     Java     |    Easy    |      2017.12.15       |             Hash Table, Math             |                       |
 | 201  | 725  |    [Split Linked List in Parts][725]     |     Java     |   Medium   |      2017.12.16       |               Linked List                |                       |
 | 202  | 215  |  [Kth Largest Element in an Array][215]  |     Java     |   Medium   |      2017.12.16       |         Divide and Conquer, Heap         |                       |
