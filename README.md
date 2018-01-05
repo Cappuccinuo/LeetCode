@@ -83,7 +83,7 @@
 |  79  | 581  | [Shortest Unsorted Continuous Subarray][581] |     Java     |    Easy    |       2017.7.11       |                  Array                   |                       |
 |  80  | 566  |        [Reshape the Matrix][566]         |     Java     |    Easy    |       2017.7.11       |                  Array                   |                       |
 |  81  | 628  | [Maximum Product of Three Numbers][628]  |     Java     |    Easy    |       2017.7.13       |                  Array                   |                       |
-|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |     Java     |   Medium   |       2017.7.14       |                  Array                   |       2017.7.16       |
+|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |     Java     |   Medium   |       2017.7.14       |                  Array                   |  2017.7.16 2018.1.5   |
 |  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |     Java     |   Medium   |       2017.7.15       |                  Array                   |       2017.7.16       |
 |  84  | 532  |     [K-diff Pairs in an Array][532]      |     Java     |    Easy    |       2017.7.15       |                  Array                   |       2017.7.16       |
 |  85  | 521  |  [Longest Uncommon Subsequence I][521]   |     Java     |    Easy    |       2017.7.15       |                  String                  |       2017.7.16       |
