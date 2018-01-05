@@ -8,6 +8,33 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode result = new ListNode(0);
+        ListNode head = result;
+        ListNode head1 = l1;
+        ListNode head2 = l2;
+        while (head1 != null && head2 != null) {
+            if (head1.val <= head2.val) {
+                head.next = head1;
+                head1 = head1.next;
+            }
+            else if (head1.val > head2.val) {
+                head.next = head2;
+                head2 = head2.next;
+            }
+            head = head.next;
+        }
+        if (head1 == null) {
+            head.next = head2;
+        }
+        if (head2 == null) {
+            head.next = head1;
+        }
+        return result.next;
+    }
+}
+
+class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode p = l1;
         ListNode q = l2;
         ListNode dummy = new ListNode(0);
