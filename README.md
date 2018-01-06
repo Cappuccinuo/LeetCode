@@ -13,7 +13,7 @@
 |  9   | 476  |         [Number Complement][476]         |    Python    |    Easy    |       2017.1.12       |                                          |                       |
 |  10  | 455  |          [Assign-cookies][455]           |    Python    |    Easy    |       2017.1.16       |                                          |                       |
 |  11  | 453  | [Minimum Moves to Equal Array Elements][453] |    Python    |    Easy    |       2017.1.18       |                                          |                       |
-|  12  | 118  |         [Pascal's Triangle][118]         |     Java     |    Easy    |       2017.2.20       |                                          |                       |
+|  12  | 118  |         [Pascal's Triangle][118]         |     Java     |    Easy    |       2017.2.20       |                  Array                   |       2018.1.6        |
 |  13  |  21  |       [Merge Two Sorted Lists][21]       |     Java     |    Easy    |       2017.2.20       |               Linked List                |  2017.12.15 2018.1.5  |
 |  14  |  1   |               [Two Sum][1]               |     Java     |    Easy    |       2017.3.9        |            Array, Hash Table             |      2017.12.13       |
 |  15  |  7   |           [Reverse Integer][7]           |     Java     |    Easy    |       2017.3.9        |                                          |                       |
