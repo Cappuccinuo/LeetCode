@@ -254,7 +254,8 @@
 | 250  | 124  |   [Binary Tree Maximum Path Sum][124]    |     Java     |    Hard    |       2018.1.1        |                   Tree                   |                       |
 | 251  | 244  |     [Shortest Word Distance II][244]     |     Java     |   Medium   |       2018.1.2        |             HashTable, Array             |                       |
 | 252  | 245  |    [Shortest Word Distance III][245]     |     Java     |   Medium   |       2018.1.2        |                  Array                   |                       |
-| 253  | 229  |        [Majority Element II][229]        |     Java     |   Medium   |        20181.6        |                  Array                   |                       |
+| 253  | 229  |        [Majority Element II][229]        |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
+| 254  | 570  | [Managers with at Least 5 Direct Reports][570] |     SQL      |   Medium   |       2018.1.6        |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -473,6 +474,7 @@
 [557]:<https://leetcode.com/problems/reverse-words-in-a-string-iii/> "Reverse Words In A String III"
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
+[570]:<https://leetcode.com/problems/managers-with-at-least-5-direct-reports/> "Managers with at Least 5 Direct Reports"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
 [577]:<https://leetcode.com/problems/employee-bonus/> "Employee Bonus"
 [580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
