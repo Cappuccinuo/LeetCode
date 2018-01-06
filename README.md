@@ -254,6 +254,7 @@
 | 250  | 124  |   [Binary Tree Maximum Path Sum][124]    |     Java     |    Hard    |       2018.1.1        |                   Tree                   |                       |
 | 251  | 244  |     [Shortest Word Distance II][244]     |     Java     |   Medium   |       2018.1.2        |             HashTable, Array             |                       |
 | 252  | 245  |    [Shortest Word Distance III][245]     |     Java     |   Medium   |       2018.1.2        |                  Array                   |                       |
+| 253  | 229  |        [Majority Element II][229]        |     Java     |   Medium   |        20181.6        |                  Array                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -373,6 +374,7 @@
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
 [226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
+[229]:<https://leetcode.com/problems/majority-element-ii/> "Majority Element II"
 [231]:<https://leetcode.com/problems/power-of-two/> "Power of Two"
 
 
