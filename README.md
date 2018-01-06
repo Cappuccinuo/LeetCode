@@ -88,7 +88,7 @@
 |  84  | 532  |     [K-diff Pairs in an Array][532]      |     Java     |    Easy    |       2017.7.15       |                  Array                   |       2017.7.16       |
 |  85  | 521  |  [Longest Uncommon Subsequence I][521]   |     Java     |    Easy    |       2017.7.15       |                  String                  |       2017.7.16       |
 |  86  | 606  | [Construct String from Binary Tree][606] |     Java     |    Easy    |       2017.7.15       |                  String                  |                       |
-|  87  | 125  |         [Valid Palindrome][125]          |     Java     |    Easy    |       2017.7.15       |                  String                  |       2017.7.17       |
+|  87  | 125  |         [Valid Palindrome][125]          |     Java     |    Easy    |       2017.7.15       |                  String                  |  2017.7.17 2018.1.6   |
 |  88  | 520  |          [Detect Capital][520]           |     Java     |    Easy    |       2017.7.15       |                  String                  |       2017.7.17       |
 |  89  | 383  |            [Ransom Note][383]            |     Java     |    Easy    |       2017.7.15       |                  String                  |                       |
 |  90  | 551  |    [Student Attendance Record I][551]    |     Java     |    Easy    |       2017.7.15       |                  String                  |                       |
@@ -113,7 +113,7 @@
 | 109  | 617  |      [Merge Two Binary Trees][617]       |     Java     |    Easy    |       2017.7.31       |                   Tree                   |      2017.12.30       |
 | 110  |  70  |          [Climbing Stairs][70]           |     Java     |    Easy    |       2017.8.2        |           Dynamic Programming            |  2017.12.17 2018.1.5  |
 | 111  | 100  |             [Same Tree][100]             |     Java     |    Easy    |       2017.8.4        |                Tree, DFS                 |  2017.12.30 2018.1.5  |
-| 112  | 169  |         [Majority Element][169]          |     Java     |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |                       |
+| 112  | 169  |         [Majority Element][169]          |     Java     |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |       2018.1.6        |
 | 113  | 171  |     [Excel Sheet Column Number][171]     |     Java     |    Easy    |       2017.8.6        |                   Math                   |                       |
 | 114  | 690  |        [Employee Importance][690]        |     Java     |    Easy    |      2017.10.11       |                   DFS                    |                       |
 | 115  | 695  |        [Max Area of Island][695]         |     Java     |    Easy    |      2017.10.12       |                   DFS                    |                       |
