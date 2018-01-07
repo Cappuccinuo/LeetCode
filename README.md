@@ -257,6 +257,7 @@
 | 253  | 229  |        [Majority Element II][229]        |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
 | 254  | 570  | [Managers with at Least 5 Direct Reports][570] |     SQL      |   Medium   |       2018.1.6        |                 DataBase                 |                       |
 | 255  | 596  |   [Classes More Than 5 Students][596]    |     SQL      |    Easy    |       2018.1.6        |                 DataBase                 |                       |
+| 256  |  56  |          [Merge Intervals][56]           |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -289,6 +290,7 @@
 [51]:<https://leetcode.com/problems/n-queens/> "N-Queens"
 [52]:<https://leetcode.com/problems/n-queens-ii/> "N-Queens II"
 [53]:<https://leetcode.com/problems/maximum-subarray/> "Maximum Subarray"
+[56]:<https://leetcode.com/problems/merge-intervals/> "Merge Intervals"
 [58]:<https://leetcode.com/problems/length-of-last-word/> "Length of Last Word"
 [61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
 [62]:<https://leetcode.com/problems/unique-paths/> "Unique Paths"
