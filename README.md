@@ -106,7 +106,7 @@
 | 102  | 205  |        [Isomorphic Strings][205]         |     Java     |    Easy    |       2017.7.23       |                Hash Table                |       2018.1.7        |
 | 103  | 645  |           [Set Mismatch][645]            |     Java     |    Easy    |       2017.7.23       |                 HashMap                  |                       |
 | 104  | 204  |           [Count Primes][204]            |     Java     |    Easy    |       2017.7.24       |              HashMap, Math               |       2018.1.7        |
-| 105  | 290  |           [Word Pattern][290]            |     Java     |    Easy    |       2017.7.24       |                 HashMap                  |                       |
+| 105  | 290  |           [Word Pattern][290]            |     Java     |    Easy    |       2017.7.24       |                HashTable                 |       2018.1.7        |
 | 106  |  12  |          [Integer to Roman][12]          |     Java     |   Medium   |       2017.7.27       |               Math, String               |       2018.1.4        |
 | 107  |  13  |          [Roman to Integer][13]          |     Java     |    Easy    |       2017.7.27       |               Math, String               |       2018.1.4        |
 | 108  | 111  |   [Minimum Depth of Binary Tree][111]    |     Java     |    Easy    |       2017.7.27       |              Tree, DFS, BFS              |       2018.1.4        |
