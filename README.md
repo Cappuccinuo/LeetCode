@@ -114,7 +114,7 @@
 | 110  |  70  |          [Climbing Stairs][70]           |     Java     |    Easy    |       2017.8.2        |           Dynamic Programming            |  2017.12.17 2018.1.5  |
 | 111  | 100  |             [Same Tree][100]             |     Java     |    Easy    |       2017.8.4        |                Tree, DFS                 |  2017.12.30 2018.1.5  |
 | 112  | 169  |         [Majority Element][169]          |     Java     |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |       2018.1.6        |
-| 113  | 171  |     [Excel Sheet Column Number][171]     |     Java     |    Easy    |       2017.8.6        |                   Math                   |                       |
+| 113  | 171  |     [Excel Sheet Column Number][171]     |     Java     |    Easy    |       2017.8.6        |                   Math                   |       2018.1.7        |
 | 114  | 690  |        [Employee Importance][690]        |     Java     |    Easy    |      2017.10.11       |                   DFS                    |                       |
 | 115  | 695  |        [Max Area of Island][695]         |     Java     |    Easy    |      2017.10.12       |                   DFS                    |                       |
 | 116  | 693  | [Binary Number with Alternating Bits][693] |     Java     |    Easy    |      2017.10.12       |             Bit Manipulation             |                       |
