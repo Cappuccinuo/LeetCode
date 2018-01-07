@@ -256,6 +256,7 @@
 | 252  | 245  |    [Shortest Word Distance III][245]     |     Java     |   Medium   |       2018.1.2        |                  Array                   |                       |
 | 253  | 229  |        [Majority Element II][229]        |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
 | 254  | 570  | [Managers with at Least 5 Direct Reports][570] |     SQL      |   Medium   |       2018.1.6        |                 DataBase                 |                       |
+| 255  | 596  |   [Classes More Than 5 Students][596]    |     SQL      |    Easy    |       2018.1.6        |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -483,6 +484,7 @@
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
+[596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
