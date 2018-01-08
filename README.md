@@ -71,7 +71,7 @@
 |  67  | 144  |  [Binary Tree Preorder Travelsal][144]   |     Java     |   Medium   |       2017.6.22       |                  Stack                   |       2018.1.4        |
 |  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |     Java     |    Hard    |       2017.6.22       |                  Stack                   |       2018.1.4        |
 |  69  | 394  |           [Decode String][394]           |     Java     |   Medium   |       2017.6.27       |                  Stack                   |                       |
-|  70  | 341  |   [Flatten Nested List Iterator][341]    |     Java     |   Medium   |       2017.6.27       |                  Stack                   |                       |
+|  70  | 341  |   [Flatten Nested List Iterator][341]    |     Java     |   Medium   |       2017.6.27       |              Design, Stack               |       2018.1.8        |
 |  71  | 173  |    [Binary Search Tree Iterator][173]    |     Java     |   Medium   |       2017.6.27       |                  Stack                   |  2017.12.31 2018.1.7  |
 |  72  | 155  |             [Min Stack][155]             |     Java     |    Easy    |       2017.7.4        |                  Stack                   |                       |
 |  73  | 225  |   [Implement Stack using Queues][225]    |     Java     |    Easy    |       2017.7.5        |                  Stack                   |                       |
@@ -142,7 +142,7 @@
 | 138  | 661  |          [Image Smoother][661]           |     Java     |    Easy    |      2017.11.12       |                  Array                   |       2018.1.3        |
 | 139  | 586  | [Customer Placing the Largest Number of Orders][586] |     SQL      |    Easy    |      2017.11.12       |                 Database                 |                       |
 | 140  | 595  |           [Big Countries][595]           |     SQL      |    Easy    |      2017.11.12       |                 Database                 |                       |
-| 141  | 339  |      [Nested List Weight Sum][339]       |     Java     |    Easy    |      2017.11.13       |                   DFS                    |                       |
+| 141  | 339  |      [Nested List Weight Sum][339]       |     Java     |    Easy    |      2017.11.13       |                   DFS                    |       2018.1.8        |
 | 142  | 728  |       [Self Dividing Numbers][728]       |     Java     |    Easy    |      2017.11.20       |                   Math                   |                       |
 | 143  | 346  |  [Moving Average from Data Stream][346]  |     Java     |    Easy    |      2017.11.20       |              Design, Queue               |                       |
 | 144  | 266  |      [Palindrome Permutation][266]       |     Java     |    Easy    |      2017.11.20       |                 HashMap                  |                       |
