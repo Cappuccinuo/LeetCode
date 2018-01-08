@@ -36,7 +36,7 @@
 |  32  | 121  |  [Best Time to Buy and Sell Stock][121]  |     Java     |    Easy    |       2017.3.23       |        Array, Dynamic Programming        |      2017.12.17       |
 |  33  | 122  | [Best Time to Buy and Sell Stock Ⅱ][122] |     Java     |    Easy    |       2017.3.23       |              Array, Greedy               |      2017.12.18       |
 |  34  | 167  | [Two Sum Ⅱ - Input array is sorted][167] |     Java     |    Easy    |       2017.3.24       |    Array, Two Pointers, Binary Search    |      2017.12.13       |
-|  35  | 414  |       [Third Maximum Number][414]        |     Java     |    Easy    |       2017.3.27       |                  Array                   |       2017.11.3       |
+|  35  | 414  |       [Third Maximum Number][414]        |     Java     |    Easy    |       2017.3.27       |                  Array                   |  2017.11.3 2018.1.8   |
 |  36  | 268  |          [Missing Number][268]           |     Java     |    Easy    |       2017.3.27       |                                          |                       |
 |  37  | 485  |       [Max Consecutive Ones][485]        |     Java     |    Easy    |       2017.3.28       |                                          |                       |
 |  38  | 219  |       [Contains Duplicate Ⅱ][219]        |     Java     |    Easy    |       2017.3.28       |                                          |                       |
