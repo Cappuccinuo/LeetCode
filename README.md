@@ -70,7 +70,7 @@
 |  66  |  94  |   [Binary Tree Inorder Travelsal][94]    |     Java     |   Medium   |       2017.6.20       |                  Stack                   |       2018.1.4        |
 |  67  | 144  |  [Binary Tree Preorder Travelsal][144]   |     Java     |   Medium   |       2017.6.22       |                  Stack                   |       2018.1.4        |
 |  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |     Java     |    Hard    |       2017.6.22       |                  Stack                   |       2018.1.4        |
-|  69  | 394  |           [Decode String][394]           |     Java     |   Medium   |       2017.6.27       |                  Stack                   |                       |
+|  69  | 394  |           [Decode String][394]           |     Java     |   Medium   |       2017.6.27       |                  Stack                   |       2018.1.9        |
 |  70  | 341  |   [Flatten Nested List Iterator][341]    |     Java     |   Medium   |       2017.6.27       |              Design, Stack               |       2018.1.8        |
 |  71  | 173  |    [Binary Search Tree Iterator][173]    |     Java     |   Medium   |       2017.6.27       |                  Stack                   |  2017.12.31 2018.1.7  |
 |  72  | 155  |             [Min Stack][155]             |     Java     |    Easy    |       2017.7.4        |                  Stack                   |                       |
@@ -205,7 +205,7 @@
 | 201  | 725  |    [Split Linked List in Parts][725]     |     Java     |   Medium   |      2017.12.16       |               Linked List                |                       |
 | 202  | 215  |  [Kth Largest Element in an Array][215]  |     Java     |   Medium   |      2017.12.16       |         Divide and Conquer, Heap         |                       |
 | 203  | 748  |     [Shortest Completing Word][748]      |     Java     |    Easy    |      2017.12.16       |                Hash Table                |                       |
-| 204  | 740  |          [Delete and Earn][740]          |     Java     |   Medium   |       2017.12.6       |           Dynamic Programming            |      2017.12.17       |
+| 204  | 740  |          [Delete and Earn][740]          |     Java     |   Medium   |       2017.12.6       |           Dynamic Programming            |  2017.12.17 2018.1.9  |
 | 205  | 746  |     [Min Cost Climbing Stairs][746]      |     Java     |    Easy    |      2017.12.17       |           Dynamic Programming            |                       |
 | 206  | 276  |            [Paint House][276]            |     Java     |    Easy    |      2017.12.17       |           Dynamic Programming            |                       |
 | 207  |  91  |            [Decode Ways][91]             |     Java     |   Medium   |      2017.12.18       |           Dynamic Programming            |                       |
