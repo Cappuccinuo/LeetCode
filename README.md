@@ -46,7 +46,7 @@
 |  42  | 350  |   [Intersection of Two Arrays Ⅱ][350]    |     Java     |    Easy    |       2017.4.7        |                                          |                       |
 |  43  | 141  |         [Linked List Cycle][141]         |     Java     |    Easy    |       2017.5.25       |        Linked List, Two Pointers         |      2017.12.15       |
 |  44  | 142  |        [Linked List Cycle Ⅱ][142]        |     Java     |   Medium   |       2017.5.25       |        Linked List, Two Pointers         |      2017.12.25       |
-|  45  | 160  | [Intersection of Two Linked Lists][160]  |     Java     |    Easy    |       2017.5.25       |               Linked List                |      2017.12.23       |
+|  45  | 160  | [Intersection of Two Linked Lists][160]  |     Java     |    Easy    |       2017.5.25       |               Linked List                |  2017.12.23 2018.1.9  |
 |  46  | 234  |      [Palindrome Linked List][234]       |     Java     |    Easy    |       2017.5.26       |        Linked List, Two Pointers         |      2017.12.23       |
 |  47  | 203  |    [Remove Linked List Elements][203]    |     Java     |    Easy    |       2017.5.27       |               Linked List                |      2017.12.26       |
 |  48  |  2   |           [Add Two Numbers][2]           |     Java     |   Medium   |       2017.5.27       |            Linked List, Math             |      2017.12.13       |
@@ -258,6 +258,7 @@
 | 254  | 570  | [Managers with at Least 5 Direct Reports][570] |     SQL      |   Medium   |       2018.1.6        |                 DataBase                 |                       |
 | 255  | 596  |   [Classes More Than 5 Students][596]    |     SQL      |    Easy    |       2018.1.6        |                 DataBase                 |                       |
 | 256  |  56  |          [Merge Intervals][56]           |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
+| 257  | 610  |        [Triangle Judgement][610]         |     SQL      |    Easy    |       2018.1.9        |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -490,6 +491,7 @@
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
+[610]:<https://leetcode.com/problems/triangle-judgement/> "Triangle Judgement"
 [613]:<https://leetcode.com/problems/shortest-distance-in-a-line/> "Shortest Distance in a Line"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
 [619]:<https://leetcode.com/problems/biggest-single-number/> "Biggest Single Number"
