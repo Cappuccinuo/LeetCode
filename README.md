@@ -246,7 +246,7 @@
 | 242  | 421  | [Maximum XOR of Two Numbers in an Array][421] |     Java     |   Medium   |      2017.12.30       |             Bit Manipulation             |                       |
 | 243  | 620  |         [Not Boring Movies][620]         |     SQL      |    Easy    |      2017.12.30       |                 DataBase                 |                       |
 | 244  | 619  |       [Biggest Single Number][619]       |     SQL      |    Easy    |      2017.12.30       |                 DataBase                 |                       |
-| 245  | 226  |        [Invert Binary Tree][226]         |     Java     |    Easy    |      2017.12.30       |                   Tree                   |                       |
+| 245  | 226  |        [Invert Binary Tree][226]         |     Java     |    Easy    |      2017.12.30       |                   Tree                   |       2018.1.11       |
 | 246  | 235  | [Lowest Common Ancestor of a Binary Search Tree][235] |     Java     |    Easy    |      2017.12.31       |                   Tree                   |                       |
 | 247  | 613  |    [Shortest Distance in a Line][613]    |     SQL      |    Easy    |      2017.12.31       |                 DataBase                 |                       |
 | 248  | 577  |          [Employee Bonus][577]           |     SQL      |    Easy    |      2017.12.31       |                 DataBase                 |                       |
@@ -259,6 +259,7 @@
 | 255  | 596  |   [Classes More Than 5 Students][596]    |     SQL      |    Easy    |       2018.1.6        |                 DataBase                 |                       |
 | 256  |  56  |          [Merge Intervals][56]           |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
 | 257  | 610  |        [Triangle Judgement][610]         |     SQL      |    Easy    |       2018.1.9        |                 DataBase                 |                       |
+| 258  | 607  |           [Sales Person][607]            |     SQL      |    Easy    |       2018.1.11       |                 DataBase                 |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -491,6 +492,7 @@
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
+[607]:<https://leetcode.com/problems/sales-person/> "Sales Person"
 [610]:<https://leetcode.com/problems/triangle-judgement/> "Triangle Judgement"
 [613]:<https://leetcode.com/problems/shortest-distance-in-a-line/> "Shortest Distance in a Line"
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
