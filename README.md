@@ -66,7 +66,7 @@
 |  62  |  83  | [Remove Duplicates from Sorted List][83] |     Java     |    Easy    |       2017.6.15       |               Linked List                |      2017.12.26       |
 |  63  | 109  | [Convert Sorted List to Binary Search Tree][109] |     Java     |   Medium   |       2017.6.17       |               Linked List                |                       |
 |  64  | 496  |      [Next Greater Element I][496]       |     Java     |    Easy    |       2017.6.19       |              Stack, HashMap              |       2018.1.12       |
-|  65  | 503  |      [Next Greater Element II][503]      |     Java     |   Medium   |       2017.6.19       |                  Stack                   |                       |
+|  65  | 503  |      [Next Greater Element II][503]      |     Java     |   Medium   |       2017.6.19       |                  Stack                   |       2018.1.13       |
 |  66  |  94  |   [Binary Tree Inorder Travelsal][94]    |     Java     |   Medium   |       2017.6.20       |                  Stack                   |       2018.1.4        |
 |  67  | 144  |  [Binary Tree Preorder Travelsal][144]   |     Java     |   Medium   |       2017.6.22       |                  Stack                   |       2018.1.4        |
 |  68  | 145  |  [Binary Tree Postorder Travelsal][145]  |     Java     |    Hard    |       2017.6.22       |                  Stack                   |       2018.1.4        |
