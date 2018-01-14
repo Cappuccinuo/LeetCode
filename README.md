@@ -104,7 +104,7 @@
 | 100  | 438  |   [Find All Anagrams in a String][438]   |     Java     |    Easy    |       2017.7.21       |                 HashMap                  |                       |
 | 101  | 599  |  [Minimum Index Sum of Two Lists][599]   |     Java     |    Easy    |       2017.7.21       |                 HashMap                  |                       |
 | 102  | 205  |        [Isomorphic Strings][205]         |     Java     |    Easy    |       2017.7.23       |                Hash Table                |       2018.1.7        |
-| 103  | 645  |           [Set Mismatch][645]            |     Java     |    Easy    |       2017.7.23       |                 HashMap                  |                       |
+| 103  | 645  |           [Set Mismatch][645]            |     Java     |    Easy    |       2017.7.23       |              HashMap, Array              |       2018.1.14       |
 | 104  | 204  |           [Count Primes][204]            |     Java     |    Easy    |       2017.7.24       |              HashMap, Math               |       2018.1.7        |
 | 105  | 290  |           [Word Pattern][290]            |     Java     |    Easy    |       2017.7.24       |                HashTable                 |       2018.1.7        |
 | 106  |  12  |          [Integer to Roman][12]          |     Java     |   Medium   |       2017.7.27       |               Math, String               |       2018.1.4        |
