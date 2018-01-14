@@ -3,7 +3,7 @@
 | No.  |  #   |                  Title                   |   Solution   | Difficulty |      Solved Date      |                   Tag                    |      Review Date      |
 | :--: | :--: | :--------------------------------------: | :----------: | :--------: | :-------------------: | :--------------------------------------: | :-------------------: |
 |  1   | 461  |         [Hamming Distance][461]          | Python, Java |    Easy    |       2017.1.6        |          Math, Bit manipulation          |      2017.11.25       |
-|  2   | 412  |             [Fizz Buzz][412]             |    Python    |    Easy    |       2017.1.7        |                                          |                       |
+|  2   | 412  |             [Fizz Buzz][412]             |    Python    |    Easy    |       2017.1.7        |                  String                  |       2018.1.14       |
 |  3   | 344  |          [Reverse String][344]           |     Java     |    Easy    |       2017.1.7        |           Two Pointers, String           |       2018.1.8        |
 |  4   | 463  |         [Island Perimeter][463]          |    Python    |    Easy    |       2017.1.8        |                                          |                       |
 |  5   | 448  | [Find All Numbers Disappeared in an array][448] |     Java     |    Easy    |       2017.1.8        |                  Array                   |       2018.1.10       |
