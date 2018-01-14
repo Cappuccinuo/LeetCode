@@ -260,6 +260,7 @@
 | 256  |  56  |          [Merge Intervals][56]           |     Java     |   Medium   |       2018.1.6        |                  Array                   |                       |
 | 257  | 610  |        [Triangle Judgement][610]         |     SQL      |    Easy    |       2018.1.9        |                 DataBase                 |                       |
 | 258  | 607  |           [Sales Person][607]            |     SQL      |    Easy    |       2018.1.11       |                 DataBase                 |                       |
+| 259  | 556  |     [Next Greater Element III][556]      |     Java     |   Medium   |       2018.1.13       |                  String                  |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -476,6 +477,7 @@
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"
 [544]:<https://leetcode.com/problems/output-contest-matches/> "Output Contest Matches"
 [551]:<https://leetcode.com/problems/student-attendance-record-i/> "Student Attendance Record I"
+[556]:<https://leetcode.com/problems/next-greater-element-iii/> "Next Greater Element III"
 [557]:<https://leetcode.com/problems/reverse-words-in-a-string-iii/> "Reverse Words In A String III"
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
