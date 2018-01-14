@@ -34,7 +34,7 @@ class Solution {
         stack.push(new TreeNode[]{t1, t2});
         while (!stack.isEmpty()) {
             TreeNode[] t = stack.pop();
-            if (t[0] == null || t[1] == null) {
+            if (t[1] == null) {
                 continue;
             }
             
