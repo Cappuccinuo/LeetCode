@@ -95,7 +95,7 @@
 |  91  | 557  |   [Reverse Words in a String III][557]   |     Java     |    Easy    |       2017.7.18       |                  String                  |                              |
 |  92  | 541  |         [Reverse String II][541]         |     Java     |    Easy    |       2017.7.19       |                  String                  |           2018.1.8           |
 |  93  | 459  |    [Repeated Substring Pattern][459]     |     Java     |    Easy    |       2017.7.19       |                  String                  |          2018.1.15           |
-|  94  | 434  |  [Number of Segments in a String][434]   |     Java     |    Easy    |       2017.7.19       |                  String                  |                              |
+|  94  | 434  |  [Number of Segments in a String][434]   |     Java     |    Easy    |       2017.7.19       |                  String                  |          2018.1.16           |
 |  95  | 345  |    [Reverse Vowels of a String][345]     |     Java     |    Easy    |       2017.7.20       |                  String                  |          2018.1.16           |
 |  96  | 643  |    [Maximum Average Subarray I][643]     |     Java     |    Easy    |       2017.7.20       |                  Array                   |                              |
 |  97  | 594  |  [Longest Harmonious Subsequence][594]   |     Java     |    Easy    |       2017.7.20       |                 HashMap                  |                              |
