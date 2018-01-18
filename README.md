@@ -262,6 +262,7 @@
 | 258  | 607  |           [Sales Person][607]            |     SQL      |    Easy    |       2018.1.11       |                 DataBase                 |                              |
 | 259  | 556  |     [Next Greater Element III][556]      |     Java     |   Medium   |       2018.1.13       |                  String                  |                              |
 | 260  |  72  |           [Edit Distance][72]            |     Java     |    Hard    |       2018.1.18       |           Dynamic Programming            |                              |
+| 261  | 283  |            [Move Zeroes][283]            |     Java     |    Easy    |       2018.1.18       |           Array, Two Pointers            |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -409,9 +410,8 @@
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
+[283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
-
-[283]:
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
