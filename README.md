@@ -261,6 +261,7 @@
 | 257  | 610  |        [Triangle Judgement][610]         |     SQL      |    Easy    |       2018.1.9        |                 DataBase                 |                              |
 | 258  | 607  |           [Sales Person][607]            |     SQL      |    Easy    |       2018.1.11       |                 DataBase                 |                              |
 | 259  | 556  |     [Next Greater Element III][556]      |     Java     |   Medium   |       2018.1.13       |                  String                  |                              |
+| 260  |  72  |           [Edit Distance][72]            |     Java     |    Hard    |       2018.1.18       |           Dynamic Programming            |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -303,6 +304,7 @@
 [67]:<https://leetcode.com/problems/add-binary/> "Add Binary"
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
 [70]:<https://leetcode.com/problems/climbing-stairs/> "Climbing Stairs"
+[72]:<https://leetcode.com/problems/edit-distance> "Edit Distance"
 [79]:<https://leetcode.com/problems/word-search/> "Word Search"
 [82]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/> "Remove Duplicated From Sorted List Ⅱ"
 [83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
