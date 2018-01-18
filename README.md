@@ -116,7 +116,7 @@
 | 112  | 169  |         [Majority Element][169]          |     Java     |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |           2018.1.6           |
 | 113  | 171  |     [Excel Sheet Column Number][171]     |     Java     |    Easy    |       2017.8.6        |                   Math                   |           2018.1.7           |
 | 114  | 690  |        [Employee Importance][690]        |     Java     |    Easy    |      2017.10.11       |                   DFS                    |                              |
-| 115  | 695  |        [Max Area of Island][695]         |     Java     |    Easy    |      2017.10.12       |                   DFS                    |                              |
+| 115  | 695  |        [Max Area of Island][695]         |     Java     |    Easy    |      2017.10.12       |                   DFS                    |          2018.1.18           |
 | 116  | 693  | [Binary Number with Alternating Bits][693] |     Java     |    Easy    |      2017.10.12       |             Bit Manipulation             |                              |
 | 117  | 347  |      [Top K Frequent Element][347]       |     Java     |   Medium   |      2017.10.14       |             Hash Table, Heap             |          2017.12.16          |
 | 118  | 692  |       [Top K Frequent Words][692]        |     Java     |   Medium   |      2017.10.14       |             Hash Table, Heap             |                              |
