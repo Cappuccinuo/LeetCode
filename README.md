@@ -92,7 +92,7 @@
 |  88  | 520  |          [Detect Capital][520]           |   Java   |    Easy    |       2017.7.15       |                  String                  |     2017.7.17 2018.1.10      |
 |  89  | 383  |            [Ransom Note][383]            |   Java   |    Easy    |       2017.7.15       |                  String                  |                              |
 |  90  | 551  |    [Student Attendance Record I][551]    |   Java   |    Easy    |       2017.7.15       |                  String                  |                              |
-|  91  | 557  |   [Reverse Words in a String III][557]   |   Java   |    Easy    |       2017.7.18       |                  String                  |                              |
+|  91  | 557  |   [Reverse Words in a String III][557]   |   Java   |    Easy    |       2017.7.18       |                  String                  |          2018.1.19           |
 |  92  | 541  |         [Reverse String II][541]         |   Java   |    Easy    |       2017.7.19       |                  String                  |           2018.1.8           |
 |  93  | 459  |    [Repeated Substring Pattern][459]     |   Java   |    Easy    |       2017.7.19       |                  String                  |          2018.1.15           |
 |  94  | 434  |  [Number of Segments in a String][434]   |   Java   |    Easy    |       2017.7.19       |                  String                  |          2018.1.16           |
