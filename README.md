@@ -263,6 +263,8 @@
 | 259  | 556  |     [Next Greater Element III][556]      |   Java   |   Medium   |       2018.1.13       |                  String                  |                              |
 | 260  |  72  |           [Edit Distance][72]            |   Java   |    Hard    |       2018.1.18       |           Dynamic Programming            |                              |
 | 261  | 283  |            [Move Zeroes][283]            |   Java   |    Easy    |       2018.1.18       |           Array, Two Pointers            |                              |
+| 262  | 766  |          [Toeplitz Matrix][766]          |   Java   |    Easy    |       2018.1.21       |                  Array                   |                              |
+| 263  | 769  |     [Max Chunks To Make Sorted][769]     |   Java   |   Medium   |       2018.1.21       |                  Array                   |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -537,3 +539,5 @@
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
+[766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
+[769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
