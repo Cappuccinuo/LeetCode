@@ -101,7 +101,7 @@
 |  97  | 594  |  [Longest Harmonious Subsequence][594]   |   Java   |    Easy    |       2017.7.20       |                HashTable                 |          2018.1.20           |
 |  98  | 575  |        [Distribute Candies][575]         |   Java   |    Easy    |       2017.7.20       |                HashTable                 |          2018.1.16           |
 |  99  | 447  |       [Number of Boomerangs][447]        |   Java   |    Easy    |       2017.7.20       |                HashTable                 |          2018.1.20           |
-| 100  | 438  |   [Find All Anagrams in a String][438]   |   Java   |    Easy    |       2017.7.21       |                 HashMap                  |                              |
+| 100  | 438  |   [Find All Anagrams in a String][438]   |   Java   |    Easy    |       2017.7.21       |                 HashMap                  |          2018.1.22           |
 | 101  | 599  |  [Minimum Index Sum of Two Lists][599]   |   Java   |    Easy    |       2017.7.21       |                 HashMap                  |          2018.1.17           |
 | 102  | 205  |        [Isomorphic Strings][205]         |   Java   |    Easy    |       2017.7.23       |                Hash Table                |           2018.1.7           |
 | 103  | 645  |           [Set Mismatch][645]            |   Java   |    Easy    |       2017.7.23       |              HashMap, Array              |          2018.1.14           |
