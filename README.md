@@ -128,7 +128,7 @@
 | 124  | 172  |     [Factorial Trailing Zeroes][172]     |   Java   |    Easy    |      2017.10.20       |                   Math                   |                              |
 | 125  |  7   |           [Reverse Integer][7]           |   Java   |    Easy    |      2017.10.22       |                   Math                   |                              |
 | 126  | 190  |           [Reverse Bits][190]            |   Java   |    Easy    |      2017.10.25       |             Bit Manipulation             |                              |
-| 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   |      2017.10.27       |     HashTable, Two Pointers, String      |                              |
+| 127  |  3   | [Longest Substring Without Repeating Characters][3] |   Java   |   Medium   |      2017.10.27       |     HashTable, Two Pointers, String      |          2018.1.22           |
 | 128  |  50  |             [Pow(x, n)][50]              |   Java   |   Medium   |       2017.11.1       |                   Math                   |                              |
 | 129  | 374  |   [Guess Number Higher or Lower][374]    |   Java   |    Easy    |       2017.11.2       |              Binary Search               |                              |
 | 130  | 242  |           [Valid Anagram][242]           |   Java   |    Easy    |       2017.11.4       |             Hash Table, Sort             |                              |
@@ -266,6 +266,8 @@
 | 262  | 766  |          [Toeplitz Matrix][766]          |   Java   |    Easy    |       2018.1.21       |                  Array                   |                              |
 | 263  | 769  |     [Max Chunks To Make Sorted][769]     |   Java   |   Medium   |       2018.1.21       |                  Array                   |                              |
 | 264  |  76  |      [Minimum Window Substring][76]      |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
+| 265  | 159  | [Longest Substring with At Most Two Distinct Characters][159] |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
+| 266  | 340  | [Longest Substring with At Most K Distinct Characters][340] |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -348,6 +350,7 @@
 [151]:<https://leetcode.com/problems/reverse-words-in-a-string/> "Reverse Words in a String"
 [152]:<https://leetcode.com/problems/maximum-product-subarray/> "Maximum Product Subarray"
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
+[159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
 [168]:<https://leetcode.com/problems/excel-sheet-column-title/> "Excel Sheet Column Title"
@@ -429,6 +432,7 @@
 [337]:<https://leetcode.com/problems/house-robber-iii/> "House Robber III"
 [338]:<https://leetcode.com/problems/counting-bits/> "Counting Bits"
 [339]:<https://leetcode.com/problems/nested-list-weight-sum/> "Nested List Weight Sum"
+[340]:<https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/> "Longest substring with at most k distinct characters"
 [341]:<https://leetcode.com/problems/flatten-nested-list-iterator/> "Flatten Nested List Iterator"
 [342]:<https://leetcode.com/problems/power-of-four/> "Power of Four"
 [344]:<https://leetcode.com/problems/reverse-string/> "Reverse String"
