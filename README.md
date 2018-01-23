@@ -265,6 +265,7 @@
 | 261  | 283  |            [Move Zeroes][283]            |   Java   |    Easy    |       2018.1.18       |           Array, Two Pointers            |                              |
 | 262  | 766  |          [Toeplitz Matrix][766]          |   Java   |    Easy    |       2018.1.21       |                  Array                   |                              |
 | 263  | 769  |     [Max Chunks To Make Sorted][769]     |   Java   |   Medium   |       2018.1.21       |                  Array                   |                              |
+| 264  |  76  |      [Minimum Window Substring][76]      |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -308,6 +309,7 @@
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
 [70]:<https://leetcode.com/problems/climbing-stairs/> "Climbing Stairs"
 [72]:<https://leetcode.com/problems/edit-distance> "Edit Distance"
+[76]:<https://leetcode.com/problems/minimum-window-substring/> "Minimum Window Substring"
 [79]:<https://leetcode.com/problems/word-search/> "Word Search"
 [82]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/> "Remove Duplicated From Sorted List Ⅱ"
 [83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
