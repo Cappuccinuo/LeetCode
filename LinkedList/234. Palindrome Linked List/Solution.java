@@ -36,6 +36,49 @@ class Solution {
     }
 }
 
+// Recursive
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        int listLen = getListLen(head);
+        Result res = isPalindromeHelper(head, listLen);
+        return res.result;
+    }
+    
+    private Result isPalindromeHelper(ListNode head, int currLen) {
+        if (currLen == 0) {
+            return new Result(head, true);
+        }
+        if (currLen == 1) {
+            return new Result(head.next, true);
+        }
+        Result ans = isPalindromeHelper(head.next, currLen - 2);
+        if (!ans.result || ans.node == null) {
+            return ans;
+        }
+        ans.result = (head.val == ans.node.val);
+        ans.node = ans.node.next;
+        return ans;
+    }
+    
+    private int getListLen(ListNode head) {
+        int len = 0;
+        while (head != null) {
+            len++;
+            head = head.next;
+        }
+        return len;
+    }
+}
+
+class Result {
+    ListNode node;
+    boolean result;
+    Result (ListNode node, boolean result) {
+        this.node = node;
+        this.result = result;
+    }
+}
+
 // Iterative
 class Solution {
     public boolean isPalindrome(ListNode head) {
