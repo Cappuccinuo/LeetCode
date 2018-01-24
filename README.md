@@ -25,7 +25,7 @@
 |  21  |  28  |         [Implement strStr()][28]         |   Java   |    Easy    |       2017.3.15       |                                          |                              |
 |  22  |  35  |       [Search Insert Position][35]       |   Java   |    Easy    |       2017.3.15       |                                          |                              |
 |  23  |  38  |           [Count and Say][38]            |   Java   |    Easy    |       2017.3.16       |                                          |                              |
-|  24  |  53  |          [Maximum Subarray][53]          |   Java   |    Easy    |       2017.3.16       | Array, Divide and Conquer,Dynamic Programming |          2017.12.17          |
+|  24  |  53  |          [Maximum Subarray][53]          |   Java   |    Easy    |       2017.3.16       | Array, Divide and Conquer,Dynamic Programming |     2017.12.17 2018.1.23     |
 |  25  |  58  |        [Length of Last Word][58]         |   Java   |    Easy    |       2017.3.16       |                                          |                              |
 |  26  |  66  |              [Plus One][66]              |   Java   |    Easy    |       2017.3.17       |               Math. Array                |          2017.12.14          |
 |  27  |  67  |             [Add Binary][67]             |   Java   |    Easy    |       2017.3.17       |               Math, String               |          2017.12.13          |
@@ -268,6 +268,7 @@
 | 264  |  76  |      [Minimum Window Substring][76]      |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
 | 265  | 159  | [Longest Substring with At Most Two Distinct Characters][159] |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
 | 266  | 340  | [Longest Substring with At Most K Distinct Characters][340] |   Java   |    Hard    |       2018.1.23       |     HashTable, Two Pointers, String      |                              |
+| 267  | 697  |        [Degree of an Array][697]         |   Java   |    Easy    |       2018.1.23       |                  Array                   |                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -532,6 +533,7 @@
 [693]:<https://leetcode.com/problems/binary-number-with-alternating-bits/> "Binary Number with Alternating Bits"
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
+[697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
