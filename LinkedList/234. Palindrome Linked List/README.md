@@ -12,7 +12,7 @@ RETURNS: True iff the linked list is palindrome
 
 3. Third Method: Use recursive.
 
-   ![Recursive](/Users/cappuccinuo/Documents/GitHub/LeetCode/LinkedList/234. Palindrome Linked List/Recursive.png)
+   ![Recursive](https://github.com/Cappuccinuo/LeetCode/blob/master/LinkedList/234.%20Palindrome%20Linked%20List/Recursive.png?raw=true)
 
 
 
