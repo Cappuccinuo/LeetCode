@@ -6,6 +6,11 @@ RETURNS: True iff the linked list is palindrome
 
 
 
+1. First Method : Reverse the second half list and compare.
+2. Second Method: Use fast and slow pointer. Use a stack to store the first half list, and compare. Pay attention to the odd condition. Odd: fast will not become null at last. But even will.
+
+
+
 There are many cases in this senario.
 
 Palindrome : 
