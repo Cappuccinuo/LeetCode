@@ -8,6 +8,46 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode head1 = reverseList(l1);
+        ListNode head2 = reverseList(l2);
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
+        int carry = 0;
+        while (head1 != null || head2 != null || carry != 0) {
+            int sum = 0;
+            if (head1 != null) {
+                sum += head1.val;
+                head1 = head1.next;
+            }
+            if (head2 != null) {
+                sum += head2.val;
+                head2 = head2.next;
+            }
+            if (carry != 0) {
+                sum += carry;
+            }
+            carry = sum / 10;
+            temp.next = new ListNode(sum % 10);
+            temp = temp.next;
+        }
+        return reverseList(dummy.next);
+    }
+    
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        return prev;
+    }
+}
+
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode p = l1;
         ListNode q = l2;
