@@ -207,7 +207,7 @@
 | 203  | 748  |     [Shortest Completing Word][748]      |   Java   |    Easy    |      2017.12.16       |                Hash Table                |                                 |
 | 204  | 740  |          [Delete and Earn][740]          |   Java   |   Medium   |       2017.12.6       |           Dynamic Programming            |       2017.12.17 2018.1.9       |
 | 205  | 746  |     [Min Cost Climbing Stairs][746]      |   Java   |    Easy    |      2017.12.17       |           Dynamic Programming            |            2018.1.27            |
-| 206  | 276  |            [Paint House][276]            |   Java   |    Easy    |      2017.12.17       |           Dynamic Programming            |                                 |
+| 206  | 276  |            [Paint House][276]            |   Java   |    Easy    |      2017.12.17       |           Dynamic Programming            |            2018.1.29            |
 | 207  |  91  |            [Decode Ways][91]             |   Java   |   Medium   |      2017.12.18       |           Dynamic Programming            |                                 |
 | 208  | 213  |          [House Robber II][213]          |   Java   |   Medium   |      2017.12.19       |           Dynamic Programming            |                                 |
 | 209  | 337  |         [House Robber III][337]          |   Java   |   Medium   |      2017.12.19       |           Dynamic Programming            |                                 |

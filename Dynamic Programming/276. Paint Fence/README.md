@@ -8,6 +8,8 @@ Note: no more than two adjacent fence posts have the same color, not adjacent fe
 
 
 
+**The basic idea is, the current fence color can be two situation, not the same color with the previous one, or not the same color with the one before the previous one. That is dp[3] = dp[2] * (k - 1) + dp[1] * (k - 1)**
+
 n = 0, return 0.
 
 n = 1, return k.
