@@ -215,7 +215,7 @@
 | 211  | 413  |         [Arithmetic Slices][413]         |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |                                 |
 | 212  | 712  | [Minimum ASCII Delete Sum for Two Strings][712] |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |                                 |
 | 213  | 357  | [Count Numbers with Unique Digits][357]  |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |                                 |
-| 214  |  62  |            [Unique Paths][62]            |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |                                 |
+| 214  |  62  |            [Unique Paths][62]            |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |            2018.1.30            |
 | 215  |  63  |          [Unique Paths II][63]           |   Java   |   Medium   |      2017.12.20       |           Dynamic Programming            |                                 |
 | 216  |  64  |          [Minimum Path Sum][64]          |   Java   |   Medium   |      2017.12.21       |           Dynamic Programming            |                                 |
 | 217  | 120  |             [Triangle][120]              |   Java   |   Medium   |      2017.12.21       |           Dynamic Programming            |                                 |
