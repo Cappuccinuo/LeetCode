@@ -272,6 +272,7 @@
 | 268  | 608  |             [Tree Node][608]             |   SQL    |   Medium   |       2018.1.25       |                 DataBase                 |                                 |
 | 269  | 775  |    [Global and Local Inversions][775]    |   Java   |   Medium   |       2018.1.29       |               Array, Math                |                                 |
 | 270  | 750  |    [Number of Corner Rectangles][750]    |   Java   |   Medium   |       2018.1.30       |           Dynamic Programming            |                                 |
+| 271  |  42  |        [Trapping Rain Water][42]         |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -300,6 +301,7 @@
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
+[42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [50]:<https://leetcode.com/problems/powx-n/> "powx-n"
 [51]:<https://leetcode.com/problems/n-queens/> "N-Queens"
 [52]:<https://leetcode.com/problems/n-queens-ii/> "N-Queens II"
