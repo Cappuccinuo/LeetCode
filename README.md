@@ -271,6 +271,7 @@
 | 267  | 697  |        [Degree of an Array][697]         |   Java   |    Easy    |       2018.1.23       |                  Array                   |                                 |
 | 268  | 608  |             [Tree Node][608]             |   SQL    |   Medium   |       2018.1.25       |                 DataBase                 |                                 |
 | 269  | 775  |    [Global and Local Inversions][775]    |   Java   |   Medium   |       2018.1.29       |               Array, Math                |                                 |
+| 270  | 750  |    [Number of Corner Rectangles][750]    |   Java   |   Medium   |       2018.1.30       |           Dynamic Programming            |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -550,6 +551,7 @@
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
+[750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
 [766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
 [775]:<https://leetcode.com/problems/global-and-local-inversions/> "Global and Local Inversions"
