@@ -273,6 +273,7 @@
 | 269  | 775  |    [Global and Local Inversions][775]    |   Java   |   Medium   |       2018.1.29       |               Array, Math                |                                 |
 | 270  | 750  |    [Number of Corner Rectangles][750]    |   Java   |   Medium   |       2018.1.30       |           Dynamic Programming            |                                 |
 | 271  |  42  |        [Trapping Rain Water][42]         |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                 |
+| 272  | 217  |        [Contains Duplicate][217]         |   Java   |    Easy    |       2018.2.2        |              Array, HashMap              |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -391,9 +392,7 @@
 [211]:<https://leetcode.com/problems/add-and-search-word-data-structure-design/> "Add and Search Word Data Structure Design"
 [213]:<https://leetcode.com/problems/house-robber-ii/> "House Robber II"
 [215]:<https://leetcode.com/problems/kth-largest-element-in-an-array/> "Kth largest element in an array"
-
-[217]:
-
+[217]:<https://leetcode.com/problems/contains-duplicate/> "Contains Duplicate"
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
 [226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
