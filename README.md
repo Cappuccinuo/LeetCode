@@ -154,7 +154,7 @@
 | 150  | 717  |    [1-bit and 2-bit Characters][717]     |   Java   |    Easy    |      2017.11.24       |                  Array                   |                                 |
 | 151  | 653  |            [Two Sum IV][653]             |   Java   |    Easy    |      2017.11.24       |                   Tree                   |           2017.12.13            |
 | 152  | 252  |           [Meeting Rooms][252]           |   Java   |    Easy    |      2017.11.25       |                   Sort                   |                                 |
-| 153  | 504  |              [Base 7][504]               |   Java   |    Easy    |      2017.11.25       |                   Math                   |                                 |
+| 153  | 504  |              [Base 7][504]               |   Java   |    Easy    |      2017.11.25       |                   Math                   |            2018.2.3             |
 | 154  | 477  |      [Total Hamming Distance][477]       |   Java   |    Easy    |      2017.11.25       |          Math, Bit manipulation          |                                 |
 | 155  | 112  |             [Path Sum][112]              |   Java   |    Easy    |      2017.11.25       |                Tree, DFS                 |                                 |
 | 156  | 734  |        [Sentence Similarity][734]        |   Java   |    Easy    |      2017.11.25       |                Hash Table                |                                 |
@@ -274,6 +274,7 @@
 | 270  | 750  |    [Number of Corner Rectangles][750]    |   Java   |   Medium   |       2018.1.30       |           Dynamic Programming            |                                 |
 | 271  |  42  |        [Trapping Rain Water][42]         |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                 |
 | 272  | 217  |        [Contains Duplicate][217]         |   Java   |    Easy    |       2018.2.2        |              Array, HashMap              |                                 |
+| 273  | 537  |   [Complex Number Multiplication][537]   |   Java   |   Medium   |       2018.2.4        |               String, Math               |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -488,6 +489,7 @@
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
+[537]:<https://leetcode.com/problems/complex-number-multiplication/> "Complex Number Multiplication"
 [538]:<https://leetcode.com/problems/convert-bst-to-greater-tree/> "Convert BST to greater tree"
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"
 [544]:<https://leetcode.com/problems/output-contest-matches/> "Output Contest Matches"
