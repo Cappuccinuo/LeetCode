@@ -246,7 +246,7 @@
 | 242  | 421  | [Maximum XOR of Two Numbers in an Array][421] |   Java   |   Medium   |      2017.12.30       |             Bit Manipulation             |                                 |
 | 243  | 620  |         [Not Boring Movies][620]         |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                                 |
 | 244  | 619  |       [Biggest Single Number][619]       |   SQL    |    Easy    |      2017.12.30       |                 DataBase                 |                                 |
-| 245  | 226  |        [Invert Binary Tree][226]         |   Java   |    Easy    |      2017.12.30       |                   Tree                   |            2018.1.11            |
+| 245  | 226  |        [Invert Binary Tree][226]         |   Java   |    Easy    |      2017.12.30       |                   Tree                   |       2018.1.11 2018.2.5        |
 | 246  | 235  | [Lowest Common Ancestor of a Binary Search Tree][235] |   Java   |    Easy    |      2017.12.31       |                   Tree                   |                                 |
 | 247  | 613  |    [Shortest Distance in a Line][613]    |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                                 |
 | 248  | 577  |          [Employee Bonus][577]           |   SQL    |    Easy    |      2017.12.31       |                 DataBase                 |                                 |
@@ -276,6 +276,7 @@
 | 272  | 217  |        [Contains Duplicate][217]         |   Java   |    Easy    |       2018.2.2        |              Array, HashMap              |                                 |
 | 273  | 537  |   [Complex Number Multiplication][537]   |   Java   |   Medium   |       2018.2.4        |               String, Math               |                                 |
 | 274  | 598  |         [Range Addition II][598]         |   Java   |    Easy    |       2018.2.5        |                   Math                   |                                 |
+| 275  | 771  |         [Jewels and Stones][771]         |   Java   |    Easy    |       2018.2.5        |                Hash Table                |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -559,4 +560,5 @@
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
 [766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
+[771]:<https://leetcode.com/problems/jewels-and-stones/> "Jewels and Stones"
 [775]:<https://leetcode.com/problems/global-and-local-inversions/> "Global and Local Inversions"
