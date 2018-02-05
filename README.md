@@ -275,6 +275,7 @@
 | 271  |  42  |        [Trapping Rain Water][42]         |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                 |
 | 272  | 217  |        [Contains Duplicate][217]         |   Java   |    Easy    |       2018.2.2        |              Array, HashMap              |                                 |
 | 273  | 537  |   [Complex Number Multiplication][537]   |   Java   |   Medium   |       2018.2.4        |               String, Math               |                                 |
+| 274  | 598  |         [Range Addition II][598]         |   Java   |    Easy    |       2018.2.5        |                   Math                   |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -508,6 +509,7 @@
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
 [596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
+[598]:<https://leetcode.com/problems/range-addition-ii/> "Range-addition-ii"
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
