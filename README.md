@@ -110,7 +110,7 @@
 | 106  |  12  |          [Integer to Roman][12]          |   Java   |   Medium   |       2017.7.27       |               Math, String               |            2018.1.4             |
 | 107  |  13  |          [Roman to Integer][13]          |   Java   |    Easy    |       2017.7.27       |               Math, String               |            2018.1.4             |
 | 108  | 111  |   [Minimum Depth of Binary Tree][111]    |   Java   |    Easy    |       2017.7.27       |              Tree, DFS, BFS              |            2018.1.4             |
-| 109  | 617  |      [Merge Two Binary Trees][617]       |   Java   |    Easy    |       2017.7.31       |                   Tree                   |      2017.12.30 2018.1.14       |
+| 109  | 617  |      [Merge Two Binary Trees][617]       |   Java   |    Easy    |       2017.7.31       |                   Tree                   |  2017.12.30 2018.1.14 2018.2.5  |
 | 110  |  70  |          [Climbing Stairs][70]           |   Java   |    Easy    |       2017.8.2        |           Dynamic Programming            |       2017.12.17 2018.1.5       |
 | 111  | 100  |             [Same Tree][100]             |   Java   |    Easy    |       2017.8.4        |                Tree, DFS                 |       2017.12.30 2018.1.5       |
 | 112  | 169  |         [Majority Element][169]          |   Java   |    Easy    |       2017.8.6        | Array, Divide and Conquer, Bit Manipulation |            2018.1.6             |
@@ -141,7 +141,7 @@
 | 137  | 243  |      [Shortest Word Distance][243]       |   Java   |    Easy    |      2017.11.12       |                  Array                   |            2018.1.2             |
 | 138  | 661  |          [Image Smoother][661]           |   Java   |    Easy    |      2017.11.12       |                  Array                   |            2018.1.3             |
 | 139  | 586  | [Customer Placing the Largest Number of Orders][586] |   SQL    |    Easy    |      2017.11.12       |                 Database                 |                                 |
-| 140  | 595  |           [Big Countries][595]           |   SQL    |    Easy    |      2017.11.12       |                 Database                 |                                 |
+| 140  | 595  |           [Big Countries][595]           |   SQL    |    Easy    |      2017.11.12       |                 Database                 |            2018.2.5             |
 | 141  | 339  |      [Nested List Weight Sum][339]       |   Java   |    Easy    |      2017.11.13       |                   DFS                    |            2018.1.8             |
 | 142  | 728  |       [Self Dividing Numbers][728]       |   Java   |    Easy    |      2017.11.20       |                   Math                   |                                 |
 | 143  | 346  |  [Moving Average from Data Stream][346]  |   Java   |    Easy    |      2017.11.20       |              Design, Queue               |                                 |
