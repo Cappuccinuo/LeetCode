@@ -27,7 +27,9 @@ row 3: 0110
 row 4: 01101001
 ```
 
+Time Complexity: O(N), we need to go through N - 1 steps
 
+Space Complexity: O(1)
 
 Solution 1 : Recursion (Parent Variant)
 
@@ -46,3 +48,19 @@ When parent is 0, if K is odd, result is 1, if K is even, result is 0.
 So we can use ^ to achieve the goal, cause 1 ^ 0 = 1, 0 ^ 0 = 0.
 
 Parent digit can be called by recursive, kthGrammar(N - 1, (K + 1) / 2). Operate ^ with (~K & 1)
+
+
+
+Solution 2 : Recursion (Flip Variant)
+
+We can see that the left half is exactly the same as last row, and right half is flip the left half.
+
+So K <= 1 << N - 2(half of N - 1). return kthGrammar(N - 1, K)
+
+else, return kthGrammar(N -1, K - (1 << N - 2)) ^ 1.
+
+
+
+Solution 3 : Binary Count
+
+The number of times we will flip the final answer is just the number of 1s in the binary representation of  K - 1
