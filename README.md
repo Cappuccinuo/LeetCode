@@ -277,6 +277,7 @@
 | 273  | 537  |   [Complex Number Multiplication][537]   |   Java   |   Medium   |       2018.2.4        |               String, Math               |                                 |
 | 274  | 598  |         [Range Addition II][598]         |   Java   |    Easy    |       2018.2.5        |                   Math                   |                                 |
 | 275  | 771  |         [Jewels and Stones][771]         |   Java   |    Easy    |       2018.2.5        |                Hash Table                |                                 |
+| 276  | 779  |      [K-th Symbol in Grammar][779]       |   Java   |   Medium   |       2018.2.7        |                Recursion                 |                                 |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -562,3 +563,4 @@
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
 [771]:<https://leetcode.com/problems/jewels-and-stones/> "Jewels and Stones"
 [775]:<https://leetcode.com/problems/global-and-local-inversions/> "Global and Local Inversions"
+[779]:<https://leetcode.com/problems/k-th-symbol-in-grammar/> "K-th symbol in grammar"
