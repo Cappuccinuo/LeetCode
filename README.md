@@ -61,7 +61,7 @@
 |  57  |  25  |      [Reverse Nodes in k-Group][25]      |   Java   |    Hard    |       2017.6.10       |               Linked List                |                                 |
 |  58  | 148  |             [Sort List][148]             |   Java   |   Medium   |       2017.6.11       |               Linked List                |           2017.12.15            |
 |  59  | 237  |   [Delete Node in a Linked List][237]    |   Java   |    Easy    |       2017.6.14       |               Linked List                |           2017.12.14            |
-|  60  | 206  |        [Reverse Linked List][206]        |   Java   |    Easy    |       2017.6.14       |               Linked List                |      2017.12.15 2018.1.17       |
+|  60  | 206  |        [Reverse Linked List][206]        |   Java   |    Easy    |       2017.6.14       |               Linked List                |  2017.12.15 2018.1.17 2018.2.8  |
 |  61  | 328  |       [Odd Even Linked List][328]        |   Java   |   Medium   |       2017.6.15       |               Linked List                |           2017.12.16            |
 |  62  |  83  | [Remove Duplicates from Sorted List][83] |   Java   |    Easy    |       2017.6.15       |               Linked List                |           2017.12.26            |
 |  63  | 109  | [Convert Sorted List to Binary Search Tree][109] |   Java   |   Medium   |       2017.6.17       |               Linked List                |                                 |
@@ -199,7 +199,7 @@
 | 195  | 415  |            [Add Strings][415]            |   Java   |    Easy    |      2017.12.13       |                   Math                   |                                 |
 | 196  | 208  |   [Implement Trie (Prefix Tree)][208]    |   Java   |   Medium   |      2017.12.14       |               Design Trie                |                                 |
 | 197  | 211  | [Add and Search Word - Data structure design][211] |   Java   |   Medium   |      2017.12.14       |        Backtracking, Design, Trie        |                                 |
-| 198  | 369  |       [Plus One Linked List][369]        |   Java   |   Medium   |      2017.12.14       |               Linked List                |                                 |
+| 198  | 369  |       [Plus One Linked List][369]        |   Java   |   Medium   |      2017.12.14       |               Linked List                |            2018.2.8             |
 | 199  | 104  |   [Maximum Depth of Binary Tree][104]    |   Java   |    Easy    |      2017.12.15       |                Tree, DFS                 |       2017.12.30 2018.1.5       |
 | 200  | 202  |           [Happy Number][202]            |   Java   |    Easy    |      2017.12.15       |             Hash Table, Math             |                                 |
 | 201  | 725  |    [Split Linked List in Parts][725]     |   Java   |   Medium   |      2017.12.16       |               Linked List                |                                 |
