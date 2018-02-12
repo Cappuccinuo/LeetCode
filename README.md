@@ -20,7 +20,7 @@
 |  16  |  9   |                    [Palindrome Number][9]                    |   Java   |    Easy    |       2017.3.9        |                                                 |                                         |
 |  17  |  14  |                 [Longest Common Prefix][14]                  |   Java   |    Easy    |       2017.3.9        |                     String                      |               2017.12.24                |
 |  18  |  20  |                   [Valid Parentheses][20]                    |   Java   |    Easy    |       2017.3.9        |                      Stack                      |                                         |
-|  19  |  26  |          [Remove Duplicates from Sorted Array][26]           |   Java   |    Easy    |       2017.3.10       |                                                 |                                         |
+|  19  |  26  |          [Remove Duplicates from Sorted Array][26]           |   Java   |    Easy    |       2017.3.10       |                   Linked List                   |                2018.2.11                |
 |  20  |  27  |                     [Remove Element][27]                     |   Java   |    Easy    |       2017.3.10       |                                                 |                                         |
 |  21  |  28  |                   [Implement strStr()][28]                   |   Java   |    Easy    |       2017.3.15       |                                                 |                                         |
 |  22  |  35  |                 [Search Insert Position][35]                 |   Java   |    Easy    |       2017.3.15       |                                                 |                                         |
@@ -47,9 +47,9 @@
 |  43  | 141  |                   [Linked List Cycle][141]                   |   Java   |    Easy    |       2017.5.25       |            Linked List, Two Pointers            |     2017.12.15 2018.1.24 2018.2.10      |
 |  44  | 142  |                  [Linked List Cycle Ⅱ][142]                  |   Java   |   Medium   |       2017.5.25       |            Linked List, Two Pointers            |          2017.12.25 2018.2.10           |
 |  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |      2017.12.23 2018.1.9 2018.2.10      |
-|  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |          2017.12.23 2018.1.24           |
-|  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |               2017.12.26                |
-|  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |          2017.12.13 2018.1.26           |
+|  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |     2017.12.23 2018.1.24 2018.2.11      |
+|  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |          2017.12.26 2018.2.11           |
+|  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |     2017.12.13 2018.1.26 2018.2.11      |
 |  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |   Java   |   Medium   |       2017.5.30       |                   Linked List                   |          2017.12.13 2018.1.26           |
 |  50  |  24  |                  [Swap Nodes in Pairs][24]                   |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |               2017.12.25                |
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |               2017.12.25                |
@@ -62,7 +62,7 @@
 |  58  | 148  |                       [Sort List][148]                       |   Java   |   Medium   |       2017.6.11       |                   Linked List                   |               2017.12.15                |
 |  59  | 237  |             [Delete Node in a Linked List][237]              |   Java   |    Easy    |       2017.6.14       |                   Linked List                   |          2017.12.14 2018.2.10           |
 |  60  | 206  |                  [Reverse Linked List][206]                  |   Java   |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 |
-|  61  | 328  |                 [Odd Even Linked List][328]                  |   Java   |   Medium   |       2017.6.15       |                   Linked List                   |               2017.12.16                |
+|  61  | 328  |                 [Odd Even Linked List][328]                  |   Java   |   Medium   |       2017.6.15       |                   Linked List                   |          2017.12.16 2018.2.11           |
 |  62  |  83  |           [Remove Duplicates from Sorted List][83]           |   Java   |    Easy    |       2017.6.15       |                   Linked List                   |               2017.12.26                |
 |  63  | 109  |       [Convert Sorted List to Binary Search Tree][109]       |   Java   |   Medium   |       2017.6.17       |                   Linked List                   |                                         |
 |  64  | 496  |                [Next Greater Element I][496]                 |   Java   |    Easy    |       2017.6.19       |                 Stack, HashMap                  |                2018.1.12                |
@@ -199,7 +199,7 @@
 | 195  | 415  |                      [Add Strings][415]                      |   Java   |    Easy    |      2017.12.13       |                      Math                       |                                         |
 | 196  | 208  |             [Implement Trie (Prefix Tree)][208]              |   Java   |   Medium   |      2017.12.14       |                   Design Trie                   |                                         |
 | 197  | 211  |      [Add and Search Word - Data structure design][211]      |   Java   |   Medium   |      2017.12.14       |           Backtracking, Design, Trie            |                                         |
-| 198  | 369  |                 [Plus One Linked List][369]                  |   Java   |   Medium   |      2017.12.14       |                   Linked List                   |                2018.2.8                 |
+| 198  | 369  |                 [Plus One Linked List][369]                  |   Java   |   Medium   |      2017.12.14       |                   Linked List                   |           2018.2.8 2018.2.11            |
 | 199  | 104  |             [Maximum Depth of Binary Tree][104]              |   Java   |    Easy    |      2017.12.15       |                    Tree, DFS                    |           2017.12.30 2018.1.5           |
 | 200  | 202  |                     [Happy Number][202]                      |   Java   |    Easy    |      2017.12.15       |                Hash Table, Math                 |                                         |
 | 201  | 725  |              [Split Linked List in Parts][725]               |   Java   |   Medium   |      2017.12.16       |                   Linked List                   |                                         |
@@ -281,6 +281,7 @@
 | 277  | 783  |          [Minimum Distance Between BST Nodes][783]           |   Java   |    Easy    |       2018.2.10       |                      Tree                       |                                         |
 | 278  | 781  |                  [Rabbits in Forrest][781]                   |   Java   |   Medium   |       2018.2.10       |                    HashTable                    |                                         |
 | 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                                         |
+| 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                         |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -357,6 +358,7 @@
 [138]:<https://leetcode.com/problems/word-break/> "Word Break"
 [141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
 [142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
+[143]:<https://leetcode.com/problems/reorder-list/> "Reorder List"
 [144]:<https://leetcode.com/problems/binary-tree-preorder-traversal/> "Binary Tree Preorder Travelsal"
 [145]:<https://leetcode.com/problems/binary-tree-postorder-traversal/> "Binary Tree Postorder Travelsal"
 [147]:<https://leetcode.com/problems/insertion-sort-list/> "Insertion Sort List"

@@ -6,6 +6,71 @@
  *     ListNode(int x) { val = x; }
  * }
  */
+
+class Solution {
+    public ListNode plusOne(ListNode head) {
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode beforeNine = dummy;
+        ListNode lastNode = dummy;
+        
+        while (lastNode.next != null) {
+            lastNode = lastNode.next;
+            if (lastNode.val != 9) {
+                beforeNine = lastNode;
+            }
+        }
+        
+        if (lastNode.val != 9) {
+            lastNode.val = lastNode.val + 1;
+        }
+        else {
+            beforeNine.val = beforeNine.val + 1;
+            while (beforeNine != lastNode) {
+                beforeNine = beforeNine.next;
+                beforeNine.val = 0;
+            }
+        }
+        return dummy.val == 0 ? dummy.next : dummy;
+    }
+}
+
+class Solution {
+    public ListNode plusOne(ListNode head) {
+        head = reverseList(head);
+        ListNode curr = head;
+        int carry = 1;
+        while (curr.next != null) {
+            int sum = curr.val + carry;
+            curr.val = sum % 10;
+            carry = sum / 10;
+            curr = curr.next;
+        }
+        if (carry != 0) {
+            int sum = curr.val + carry;
+            ListNode temp = new ListNode(sum / 10);
+            curr.val = sum % 10;
+            if (temp.val != 0) {
+                curr.next = temp;
+            }
+        }
+        return reverseList(head);
+    }
+    
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        return prev;
+    }
+}
+
+
 class Solution {
     public ListNode plusOne(ListNode head) {
         Stack<Integer> stack = pushValToStack(head);

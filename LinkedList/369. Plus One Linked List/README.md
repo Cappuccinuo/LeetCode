@@ -17,3 +17,9 @@ Output:
 
 
 Same idea with 445.
+
+
+
+Solution 1 : First reverse the list, then do the same as add two number. Initial carry is 1.
+
+Solution 2 : keep two pointer, one beforeNine pointer, keep the node before 9. If the lastNode.val != 9, then just add 1 to that node is ok. Otherwise add one two node before nine. Until the beforeNine node is equal to lastNode. Pay attention that the two node should be at first dummy.
