@@ -55,7 +55,7 @@
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |               2017.12.25                |
 |  52  | 147  |                  [Insertion Sort List][147]                  |   Java   |   Medium   |       2017.6.7        |                Linked List, Sort                |                                         |
 |  53  |  86  |                     [Partition List][86]                     |   Java   |   Medium   |       2017.6.7        |            Linked List, Two Pointers            |                2018.1.25                |
-|  54  |  92  |                 [Reverse Linked List Ⅱ][92]                  |   Java   |   Medium   |       2017.6.8        |                   Linked List                   |                                         |
+|  54  |  92  |                 [Reverse Linked List Ⅱ][92]                  |   Java   |   Medium   |       2017.6.8        |                   Linked List                   |                2018.2.12                |
 |  55  |  82  |          [Remove Duplicates from Sorted List Ⅱ][82]          |   Java   |   Medium   |       2017.6.8        |                   Linked List                   |                                         |
 |  56  |  61  |                      [Rotate List][61]                       |   Java   |   Medium   |       2017.6.9        |            Linked List, Two Pointers            |                                         |
 |  57  |  25  |                [Reverse Nodes in k-Group][25]                |   Java   |    Hard    |       2017.6.10       |                   Linked List                   |                                         |
