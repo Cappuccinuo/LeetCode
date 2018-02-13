@@ -50,7 +50,7 @@
 |  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |     2017.12.23 2018.1.24 2018.2.11      |
 |  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |          2017.12.26 2018.2.11           |
 |  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |     2017.12.13 2018.1.26 2018.2.11      |
-|  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |   Java   |   Medium   |       2017.5.30       |                   Linked List                   |          2017.12.13 2018.1.26           |
+|  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |   Java   |   Medium   |       2017.5.30       |                   Linked List                   |     2017.12.13 2018.1.26 2018.2.12      |
 |  50  |  24  |                  [Swap Nodes in Pairs][24]                   |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |               2017.12.25                |
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |               2017.12.25                |
 |  52  | 147  |                  [Insertion Sort List][147]                  |   Java   |   Medium   |       2017.6.7        |                Linked List, Sort                |                                         |
