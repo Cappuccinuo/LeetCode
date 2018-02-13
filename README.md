@@ -64,7 +64,7 @@
 |  60  | 206  |                  [Reverse Linked List][206]                  |   Java   |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 |
 |  61  | 328  |                 [Odd Even Linked List][328]                  |   Java   |   Medium   |       2017.6.15       |                   Linked List                   |          2017.12.16 2018.2.11           |
 |  62  |  83  |           [Remove Duplicates from Sorted List][83]           |   Java   |    Easy    |       2017.6.15       |                   Linked List                   |               2017.12.26                |
-|  63  | 109  |       [Convert Sorted List to Binary Search Tree][109]       |   Java   |   Medium   |       2017.6.17       |                   Linked List                   |                                         |
+|  63  | 109  |       [Convert Sorted List to Binary Search Tree][109]       |   Java   |   Medium   |       2017.6.17       |                Linked List, DFS                 |                2018.2.12                |
 |  64  | 496  |                [Next Greater Element I][496]                 |   Java   |    Easy    |       2017.6.19       |                 Stack, HashMap                  |                2018.1.12                |
 |  65  | 503  |                [Next Greater Element II][503]                |   Java   |   Medium   |       2017.6.19       |                      Stack                      |                2018.1.13                |
 |  66  |  94  |             [Binary Tree Inorder Travelsal][94]              |   Java   |   Medium   |       2017.6.20       |                      Stack                      |                2018.1.4                 |
