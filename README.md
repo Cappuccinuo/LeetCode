@@ -282,6 +282,7 @@
 | 278  | 781  |                  [Rabbits in Forrest][781]                   |   Java   |   Medium   |       2018.2.10       |                    HashTable                    |                                         |
 | 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                                         |
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                         |
+| 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                         |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -459,6 +460,7 @@
 [369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
+[379]:<https://leetcode.com/problems/design-phone-directory/> "Design Phone Directory"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
