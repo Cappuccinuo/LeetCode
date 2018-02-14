@@ -83,8 +83,8 @@
 |  79  | 581  |         [Shortest Unsorted Continuous Subarray][581]         |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                         |
 |  80  | 566  |                  [Reshape the Matrix][566]                   |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                         |
 |  81  | 628  |           [Maximum Product of Three Numbers][628]            |   Java   |    Easy    |       2017.7.13       |                      Array                      |                2018.1.18                |
-|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |   Java   |   Medium   |       2017.7.14       |                      Array                      |           2017.7.16 2018.1.5            |
-|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |   Java   |   Medium   |       2017.7.15       |                      Array                      |           2017.7.16 2018.1.5            |
+|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |   Java   |   Medium   |       2017.7.14       |                      Array                      |      2017.7.16 2018.1.5 2018.2.13       |
+|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |   Java   |   Medium   |       2017.7.15       |                      Array                      |      2017.7.16 2018.1.5 2018.2.13       |
 |  84  | 532  |               [K-diff Pairs in an Array][532]                |   Java   |    Easy    |       2017.7.15       |                      Array                      |      2017.7.16 2018.1.8 2018.1.15       |
 |  85  | 521  |            [Longest Uncommon Subsequence I][521]             |   Java   |    Easy    |       2017.7.15       |                     String                      |                2017.7.16                |
 |  86  | 606  |           [Construct String from Binary Tree][606]           |   Java   |    Easy    |       2017.7.15       |                     String                      |                                         |
@@ -183,7 +183,7 @@
 | 179  | 454  |                        [4Sum II][454]                        |   Java   |   Medium   |       2017.12.8       |                Array, Hash Table                |                                         |
 | 180  | 287  |               [Find the Duplicate Number][287]               |   Java   |   Medium   |       2017.12.8       |       Array, Two Pointers, Binary Search        |                                         |
 | 181  |  80  |         [Remove Duplicates from Sorted Array II][80]         |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                         |
-| 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |   Java   |    Easy    |       2017.12.9       |                    Tree, BFS                    |                                         |
+| 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |   Java   |    Easy    |       2017.12.9       |                    Tree, BFS                    |                2018.2.13                |
 | 183  | 278  |                   [First Bad Version][278]                   |   Java   |    Easy    |       2017.12.9       |                  Binary Search                  |                                         |
 | 184  | 744  |       [Find Smallest Letter Greater Than Target][744]        |   Java   |    Easy    |       2017.12.9       |                                                 |                                         |
 | 185  |  17  |         [Letter Combinations of a Phone Number][17]          |   Java   |   Medium   |      2017.12.10       |              String, Backtracking               |                                         |
@@ -283,6 +283,7 @@
 | 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                                         |
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                         |
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                         |
+| 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                         |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -339,6 +340,7 @@
 [96]:<https://leetcode.com/problems/unique-binary-search-trees/> "Unique Binary Search Trees"
 [100]:<https://leetcode.com/problems/same-tree/> "Same Tree"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
+[102]:<https://leetcode.com/problems/binary-tree-level-order-traversal/> "Binary Tree Level Order Traversal"
 [104]:<https://leetcode.com/problems/maximum-depth-of-binary-tree/> "Maximum Depth of Binary Tree"
 [105]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/> "Construct Binary Tree From Preorder and Inorder Traversal"
 [106]:<https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/> "Construct Binary Tree From Inorder and Postorder Traversal"
