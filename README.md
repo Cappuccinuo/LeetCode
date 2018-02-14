@@ -219,7 +219,7 @@
 | 215  |  63  |                    [Unique Paths II][63]                     |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                2018.1.30                |
 | 216  |  64  |                    [Minimum Path Sum][64]                    |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                         |
 | 217  | 120  |                       [Triangle][120]                        |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                         |
-| 218  | 138  |                      [Word Break][138]                       |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                         |
+| 218  | 139  |                      [Word Break][138]                       |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                         |
 | 219  | 258  |                      [Add Digits][258]                       |   Java   |    Easy    |       2016.3.21       |                      Math                       |               2017.12.21                |
 | 220  | 401  |                     [Binary Watch][401]                      |   Java   |    Easy    | 2017.12.21 2017.12.22 |          Bit manipulation Backtracking          |                                         |
 | 221  |  52  |                      [N-Queens II][52]                       |   Java   |    Hard    |      2017.12.22       |                  Backtracking                   |                                         |
@@ -284,6 +284,7 @@
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                         |
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                         |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                         |
+| 283  | 138  |             [Copy List with Random Pointer][138]             |   Java   |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                                         |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -358,7 +359,8 @@
 [124]:<https://leetcode.com/problems/binary-tree-maximum-path-sum/> "Binary Tree Maximum Path Sum"
 [125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
-[138]:<https://leetcode.com/problems/word-break/> "Word Break"
+[138]:<https://leetcode.com/problems/copy-list-with-random-pointer/> "Copy List With Random Pointer"
+[139]:<https://leetcode.com/problems/word-break/> "Word Break"
 [141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
 [142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
 [143]:<https://leetcode.com/problems/reorder-list/> "Reorder List"
