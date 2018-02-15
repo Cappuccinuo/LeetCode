@@ -39,7 +39,7 @@
 |  35  | 414  |                 [Third Maximum Number][414]                  |   Java   |    Easy    |       2017.3.27       |                      Array                      |           2017.11.3 2018.1.8            |
 |  36  | 268  |                    [Missing Number][268]                     |   Java   |    Easy    |       2017.3.27       |                                                 |                                         |
 |  37  | 485  |                 [Max Consecutive Ones][485]                  |   Java   |    Easy    |       2017.3.28       |                                                 |                                         |
-|  38  | 219  |                 [Contains Duplicate Ⅱ][219]                  |   Java   |    Easy    |       2017.3.28       |                                                 |                                         |
+|  38  | 219  |                 [Contains Duplicate Ⅱ][219]                  |   Java   |    Easy    |       2017.3.28       |                 Array, HashMap                  |                2018.2.14                |
 |  39  | 500  |                     [Keyboard Row][500]                      |   Java   |    Easy    |       2017.4.1        |                                                 |                                         |
 |  40  | 349  |              [Intersection of Two Arrays][349]               |   Java   |    Easy    |       2017.4.1        |                                                 |                                         |
 |  41  | 409  |                  [Longest Palindrome][409]                   |   Java   |    Easy    |       2017.4.7        |                                                 |                                         |
@@ -122,7 +122,7 @@
 | 118  | 692  |                 [Top K Frequent Words][692]                  |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |                                         |
 | 119  | 657  |                  [Judge Route Circle][657]                   |   Java   |    Easy    |      2017.10.17       |                     String                      |                                         |
 | 120  | 303  |              [Range Sum Query - Immutable][303]              |   Java   |    Easy    |      2017.10.18       |               Dynamic Programming               |          2017.12.19 2018.1.29           |
-| 121  | 387  |          [First Unique Character in a String][387]           |   Java   |    Easy    |      2017.10.19       |                     String                      |                                         |
+| 121  | 387  |          [First Unique Character in a String][387]           |   Java   |    Easy    |      2017.10.19       |                     String                      |                2018.2.14                |
 | 122  | 108  |      [Convert Sorted Array to Binary Search Tree][108]       |   Java   |    Easy    |      2017.10.19       |                    Tree, DFS                    |                2018.1.1                 |
 | 123  | 198  |                     [House Robber][198]                      |   Java   |    Easy    |      2017.10.19       |               Dynamic Programming               |     2017.12.5  2017.12.18 2018.1.28     |
 | 124  | 172  |               [Factorial Trailing Zeroes][172]               |   Java   |    Easy    |      2017.10.20       |                      Math                       |                                         |
@@ -273,7 +273,7 @@
 | 269  | 775  |              [Global and Local Inversions][775]              |   Java   |   Medium   |       2018.1.29       |                   Array, Math                   |                                         |
 | 270  | 750  |              [Number of Corner Rectangles][750]              |   Java   |   Medium   |       2018.1.30       |               Dynamic Programming               |                                         |
 | 271  |  42  |                  [Trapping Rain Water][42]                   |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                         |
-| 272  | 217  |                  [Contains Duplicate][217]                   |   Java   |    Easy    |       2018.2.2        |                 Array, HashMap                  |                                         |
+| 272  | 217  |                  [Contains Duplicate][217]                   |   Java   |    Easy    |       2018.2.2        |                 Array, HashMap                  |                2018.2.14                |
 | 273  | 537  |             [Complex Number Multiplication][537]             |   Java   |   Medium   |       2018.2.4        |                  String, Math                   |                                         |
 | 274  | 598  |                   [Range Addition II][598]                   |   Java   |    Easy    |       2018.2.5        |                      Math                       |                                         |
 | 275  | 771  |                   [Jewels and Stones][771]                   |   Java   |    Easy    |       2018.2.5        |                   Hash Table                    |                                         |
