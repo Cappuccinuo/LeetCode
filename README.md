@@ -257,7 +257,7 @@
 | 253  | 229  |                  [Majority Element II][229]                  |   Java   |   Medium   |       2018.1.6        |                      Array                      |                                         |
 | 254  | 570  |        [Managers with at Least 5 Direct Reports][570]        |   SQL    |   Medium   |       2018.1.6        |                    DataBase                     |                                         |
 | 255  | 596  |             [Classes More Than 5 Students][596]              |   SQL    |    Easy    |       2018.1.6        |                    DataBase                     |                                         |
-| 256  |  56  |                    [Merge Intervals][56]                     |   Java   |   Medium   |       2018.1.6        |                      Array                      |                                         |
+| 256  |  56  |                    [Merge Intervals][56]                     |   Java   |   Medium   |       2018.1.6        |                      Array                      |                2018.2.16                |
 | 257  | 610  |                  [Triangle Judgement][610]                   |   SQL    |    Easy    |       2018.1.9        |                    DataBase                     |                                         |
 | 258  | 607  |                     [Sales Person][607]                      |   SQL    |    Easy    |       2018.1.11       |                    DataBase                     |                                         |
 | 259  | 556  |               [Next Greater Element III][556]                |   Java   |   Medium   |       2018.1.13       |                     String                      |                                         |
