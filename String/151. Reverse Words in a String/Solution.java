@@ -23,3 +23,38 @@ public class Solution2 {
         return String.join(" ", words);
     }
 }
+
+public class Solution3 {
+    public String reverseWords(String s) {
+        String[] afterSplit = s.trim().split("\\s+");
+        int start = 0;
+        int end = afterSplit.length - 1;
+        while (start < end) {
+            String temp = afterSplit[start];
+            afterSplit[start] = afterSplit[end];
+            afterSplit[end] = temp;
+            start++;
+            end--;
+        }
+        StringBuilder sb = new StringBuilder();
+        for (String str : afterSplit) {
+            sb.append(str);
+            sb.append(" ");
+        }
+        return sb.toString().trim();
+    }
+}
+
+public class Solution4 {
+    public String reverseWords(String s) {
+        if (s.length() == 0) {
+            return "";
+        }
+        String[] afterSplit = s.split("\\s+");
+        StringBuilder sb = new StringBuilder();
+        for (int i = afterSplit.length - 1; i >= 0; i--) {
+            sb.append(afterSplit[i]).append(" ");
+        }
+        return sb.toString().trim();
+    }
+}
