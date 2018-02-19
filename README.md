@@ -200,7 +200,7 @@
 | 196  | 208  |             [Implement Trie (Prefix Tree)][208]              |   Java   |   Medium   |      2017.12.14       |                   Design Trie                   |                                         |
 | 197  | 211  |      [Add and Search Word - Data structure design][211]      |   Java   |   Medium   |      2017.12.14       |           Backtracking, Design, Trie            |                                         |
 | 198  | 369  |                 [Plus One Linked List][369]                  |   Java   |   Medium   |      2017.12.14       |                   Linked List                   |           2018.2.8 2018.2.11            |
-| 199  | 104  |             [Maximum Depth of Binary Tree][104]              |   Java   |    Easy    |      2017.12.15       |                    Tree, DFS                    |           2017.12.30 2018.1.5           |
+| 199  | 104  |             [Maximum Depth of Binary Tree][104]              |   Java   |    Easy    |      2017.12.15       |                    Tree, DFS                    |      2017.12.30 2018.1.5 2018.2.17      |
 | 200  | 202  |                     [Happy Number][202]                      |   Java   |    Easy    |      2017.12.15       |                Hash Table, Math                 |                                         |
 | 201  | 725  |              [Split Linked List in Parts][725]               |   Java   |   Medium   |      2017.12.16       |                   Linked List                   |                                         |
 | 202  | 215  |            [Kth Largest Element in an Array][215]            |   Java   |   Medium   |      2017.12.16       |            Divide and Conquer, Heap             |                                         |
