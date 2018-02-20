@@ -112,7 +112,7 @@
 | 108  | 111  |             [Minimum Depth of Binary Tree][111]              |   Java   |    Easy    |       2017.7.27       |                 Tree, DFS, BFS                  |                2018.1.4                 |
 | 109  | 617  |                [Merge Two Binary Trees][617]                 |   Java   |    Easy    |       2017.7.31       |                      Tree                       |      2017.12.30 2018.1.14 2018.2.5      |
 | 110  |  70  |                    [Climbing Stairs][70]                     |   Java   |    Easy    |       2017.8.2        |               Dynamic Programming               |           2017.12.17 2018.1.5           |
-| 111  | 100  |                       [Same Tree][100]                       |   Java   |    Easy    |       2017.8.4        |                    Tree, DFS                    |           2017.12.30 2018.1.5           |
+| 111  | 100  |                       [Same Tree][100]                       |   Java   |    Easy    |       2017.8.4        |                    Tree, DFS                    |      2017.12.30 2018.1.5 2018.2.19      |
 | 112  | 169  |                   [Majority Element][169]                    |   Java   |    Easy    |       2017.8.6        |   Array, Divide and Conquer, Bit Manipulation   |            2018.1.6 2018.2.6            |
 | 113  | 171  |               [Excel Sheet Column Number][171]               |   Java   |    Easy    |       2017.8.6        |                      Math                       |                2018.1.7                 |
 | 114  | 690  |                  [Employee Importance][690]                  |   Java   |    Easy    |      2017.10.11       |                       DFS                       |                                         |
@@ -142,7 +142,7 @@
 | 138  | 661  |                    [Image Smoother][661]                     |   Java   |    Easy    |      2017.11.12       |                      Array                      |                2018.1.3                 |
 | 139  | 586  |     [Customer Placing the Largest Number of Orders][586]     |   SQL    |    Easy    |      2017.11.12       |                    Database                     |                                         |
 | 140  | 595  |                     [Big Countries][595]                     |   SQL    |    Easy    |      2017.11.12       |                    Database                     |                2018.2.5                 |
-| 141  | 339  |                [Nested List Weight Sum][339]                 |   Java   |    Easy    |      2017.11.13       |                       DFS                       |                2018.1.8                 |
+| 141  | 339  |                [Nested List Weight Sum][339]                 |   Java   |    Easy    |      2017.11.13       |                       DFS                       |           2018.1.8 2018.2.19            |
 | 142  | 728  |                 [Self Dividing Numbers][728]                 |   Java   |    Easy    |      2017.11.20       |                      Math                       |                                         |
 | 143  | 346  |            [Moving Average from Data Stream][346]            |   Java   |    Easy    |      2017.11.20       |                  Design, Queue                  |                                         |
 | 144  | 266  |                [Palindrome Permutation][266]                 |   Java   |    Easy    |      2017.11.20       |                     HashMap                     |                                         |
