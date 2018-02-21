@@ -285,6 +285,7 @@
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                         |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                         |
 | 283  | 138  |             [Copy List with Random Pointer][138]             |   Java   |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                                         |
+| 284  | 161  |                   [One Edit Distance][161]                   |   Java   |   Medium   |       2018.2.20       |                     String                      |                                         |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -373,6 +374,7 @@
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
+[161]:<https://leetcode.com/problems/one-edit-distance/> "One Edit Distance"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
 [168]:<https://leetcode.com/problems/excel-sheet-column-title/> "Excel Sheet Column Title"
 [169]:<https://leetcode.com/problems/majority-element/> "Majority Element"
