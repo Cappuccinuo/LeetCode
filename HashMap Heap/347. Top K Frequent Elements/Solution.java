@@ -47,3 +47,49 @@ class Solution {
         Collections.reverse(result);
     }
 }
+
+class Solution {
+    public List<Integer> topKFrequent(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(k, (o1, o2) -> map.get(o1) - map.get(o2));
+        for (int i : map.keySet()) {
+            pq.add(i);
+            if (pq.size() > k) {
+                pq.poll();
+            }
+        }
+        List<Integer> result = new ArrayList<>();
+        while (!pq.isEmpty()) {
+            result.add(pq.poll());
+        }
+        Collections.reverse(result);
+        return result;
+    }
+}
+
+class Solution {
+    public List<Integer> topKFrequent(int[] nums, int k) {
+        List<Integer>[] bucket = new List[nums.length + 1];
+        List<Integer> result = new ArrayList<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+        for (int key : map.keySet()) {
+            int frequency = map.get(key);
+            if (bucket[frequency] == null) {
+                bucket[frequency] = new ArrayList<>();
+            }
+            bucket[frequency].add(key);
+        }
+        for (int i = bucket.length - 1; i > 0 && result.size() < k; i--) {
+            if (bucket[i] != null) {
+                result.addAll(bucket[i]);
+            }
+        }
+        return result;
+    }
+}

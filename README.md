@@ -118,7 +118,7 @@
 | 114  | 690  |                  [Employee Importance][690]                  |   Java   |    Easy    |      2017.10.11       |                       DFS                       |                                           |
 | 115  | 695  |                  [Max Area of Island][695]                   |   Java   |    Easy    |      2017.10.12       |                       DFS                       |                 2018.1.18                 |
 | 116  | 693  |          [Binary Number with Alternating Bits][693]          |   Java   |    Easy    |      2017.10.12       |                Bit Manipulation                 |                                           |
-| 117  | 347  |                [Top K Frequent Element][347]                 |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |                2017.12.16                 |
+| 117  | 347  |                [Top K Frequent Element][347]                 |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |           2017.12.16 2018.2.22            |
 | 118  | 692  |                 [Top K Frequent Words][692]                  |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |                                           |
 | 119  | 657  |                  [Judge Route Circle][657]                   |   Java   |    Easy    |      2017.10.17       |                     String                      |                                           |
 | 120  | 303  |              [Range Sum Query - Immutable][303]              |   Java   |    Easy    |      2017.10.18       |               Dynamic Programming               |      2017.12.19 2018.1.29 2018.2.22       |
@@ -271,7 +271,7 @@
 | 267  | 697  |                  [Degree of an Array][697]                   |   Java   |    Easy    |       2018.1.23       |                      Array                      |                                           |
 | 268  | 608  |                       [Tree Node][608]                       |   SQL    |   Medium   |       2018.1.25       |                    DataBase                     |                                           |
 | 269  | 775  |              [Global and Local Inversions][775]              |   Java   |   Medium   |       2018.1.29       |                   Array, Math                   |                                           |
-| 270  | 750  |              [Number of Corner Rectangles][750]              |   Java   |   Medium   |       2018.1.30       |               Dynamic Programming               |                                           |
+| 270  | 750  |              [Number of Corner Rectangles][750]              |   Java   |   Medium   |       2018.1.30       |               Dynamic Programming               |                 2018.2.21                 |
 | 271  |  42  |                  [Trapping Rain Water][42]                   |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                           |
 | 272  | 217  |                  [Contains Duplicate][217]                   |   Java   |    Easy    |       2018.2.2        |                 Array, HashMap                  |                 2018.2.14                 |
 | 273  | 537  |             [Complex Number Multiplication][537]             |   Java   |   Medium   |       2018.2.4        |                  String, Math                   |                                           |
@@ -288,6 +288,8 @@
 | 284  | 161  |                   [One Edit Distance][161]                   |   Java   |   Medium   |       2018.2.20       |                     String                      |                                           |
 | 285  | 384  |                   [Shuffle an Array][384]                    |   Java   |   Medium   |       2018.2.21       |                     Design                      |                                           |
 | 286  | 364  |               [Nested List Weight Sum II][364]               |   Java   |   Medium   |       2018.2.22       |                       DFS                       |                                           |
+| 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |   Java   |   Medium   |       2018.2.22       |                    BFS, Tree                    |                                           |
+|      |      |                                                              |          |            |                       |                                                 |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -345,6 +347,7 @@
 [100]:<https://leetcode.com/problems/same-tree/> "Same Tree"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
 [102]:<https://leetcode.com/problems/binary-tree-level-order-traversal/> "Binary Tree Level Order Traversal"
+[103]:<https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/> "Binary Tree Zigzag Level Order Traversal"
 [104]:<https://leetcode.com/problems/maximum-depth-of-binary-tree/> "Maximum Depth of Binary Tree"
 [105]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/> "Construct Binary Tree From Preorder and Inorder Traversal"
 [106]:<https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/> "Construct Binary Tree From Inorder and Postorder Traversal"
