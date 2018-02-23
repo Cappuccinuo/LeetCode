@@ -289,7 +289,7 @@
 | 285  | 384  |                   [Shuffle an Array][384]                    |   Java   |   Medium   |       2018.2.21       |                     Design                      |                                           |
 | 286  | 364  |               [Nested List Weight Sum II][364]               |   Java   |   Medium   |       2018.2.22       |                       DFS                       |                                           |
 | 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |   Java   |   Medium   |       2018.2.22       |                    BFS, Tree                    |                                           |
-|      |      |                                                              |          |            |                       |                                                 |                                           |
+| 288  | 516  |            [Longest Palindromic Subsequence][516]            |   Java   |   Medium   |       2018.2.23       |               Dynamic Programming               |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -509,6 +509,7 @@
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
+[516]:<https://leetcode.com/problems/longest-palindromic-subsequence/> "Longest Palindromic Subsequence"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
