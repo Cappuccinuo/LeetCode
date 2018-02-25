@@ -13,6 +13,26 @@ The longest increasing subsequence is `[2, 3, 7, 101]`, therefore the length is 
 
 
 
+O(nlogn) Solution:
+
+Using binary search. Go through the array and find the right spot that we can insert the num into the dp array.
+
+Array: [0, 8, 4, 12, 2]
+
+dp:[0]
+
+dp:[0, 8]
+
+dp:[0, 4]
+
+dp:[0, 4, 12]
+
+dp:[0, 2, 12]
+
+
+
+
+
 O(n^2) Solution:
 
 make an DP array.

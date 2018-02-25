@@ -276,11 +276,11 @@
 | 272  | 217  |                  [Contains Duplicate][217]                   |   Java   |    Easy    |       2018.2.2        |                 Array, HashMap                  |                 2018.2.14                 |
 | 273  | 537  |             [Complex Number Multiplication][537]             |   Java   |   Medium   |       2018.2.4        |                  String, Math                   |                                           |
 | 274  | 598  |                   [Range Addition II][598]                   |   Java   |    Easy    |       2018.2.5        |                      Math                       |                                           |
-| 275  | 771  |                   [Jewels and Stones][771]                   |   Java   |    Easy    |       2018.2.5        |                   Hash Table                    |                                           |
+| 275  | 771  |                   [Jewels and Stones][771]                   |   Java   |    Easy    |       2018.2.5        |                   Hash Table                    |                 2018.2.24                 |
 | 276  | 779  |                [K-th Symbol in Grammar][779]                 |   Java   |   Medium   |       2018.2.7        |                    Recursion                    |                                           |
 | 277  | 783  |          [Minimum Distance Between BST Nodes][783]           |   Java   |    Easy    |       2018.2.10       |                      Tree                       |                                           |
 | 278  | 781  |                  [Rabbits in Forrest][781]                   |   Java   |   Medium   |       2018.2.10       |                    HashTable                    |                                           |
-| 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                                           |
+| 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                 2018.2.23                 |
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                           |
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                           |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                           |
@@ -290,6 +290,7 @@
 | 286  | 364  |               [Nested List Weight Sum II][364]               |   Java   |   Medium   |       2018.2.22       |                       DFS                       |                                           |
 | 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |   Java   |   Medium   |       2018.2.22       |                    BFS, Tree                    |                                           |
 | 288  | 516  |            [Longest Palindromic Subsequence][516]            |   Java   |   Medium   |       2018.2.23       |               Dynamic Programming               |                                           |
+| 289  | 322  |                      [Coin Change][322]                      |   Java   |   Medium   |       2018.2.24       |               Dynamic Programming               |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -449,9 +450,8 @@
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
+[322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
 [326]:<https://leetcode.com/problems/power-of-three/> "Power of Three"
-
-[292]:
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
