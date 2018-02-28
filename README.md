@@ -75,7 +75,7 @@
 |  71  | 173  |              [Binary Search Tree Iterator][173]              |   Java   |   Medium   |       2017.6.27       |                      Stack                      |            2017.12.31 2018.1.7            |
 |  72  | 155  |                       [Min Stack][155]                       |   Java   |    Easy    |       2017.7.4        |                      Stack                      |                                           |
 |  73  | 225  |             [Implement Stack using Queues][225]              |   Java   |    Easy    |       2017.7.5        |                      Stack                      |                 2018.2.27                 |
-|  74  | 232  |             [Implement Queue using Stacks][232]              |   Java   |    Easy    |       2017.7.5        |                      Stack                      |                                           |
+|  74  | 232  |             [Implement Queue using Stacks][232]              |   Java   |    Easy    |       2017.7.5        |                      Queue                      |                 2018.2.27                 |
 |  75  | 331  |    [Verify Preorder Serialization of a Binary Tree][331]     |   Java   |   Medium   |       2017.7.6        |                      Stack                      |                                           |
 |  76  | 561  |                   [Array Partition I][561]                   |   Java   |    Easy    |       2017.7.10       |                      Array                      |                                           |
 |  77  | 189  |                     [Rotate Array][189]                      |   Java   |    Easy    |       2017.7.10       |                      Array                      |                2017.12.10                 |
