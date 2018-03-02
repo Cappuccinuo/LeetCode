@@ -294,6 +294,8 @@
 | 290  |  75  |                      [Sort Colors][75]                       |   Java   |   Medium   |       2018.2.28       |                      Sort                       |                                           |
 | 291  | 435  |               [Non-overlapping Intervals][435]               |   Java   |   Medium   |       2018.2.28       |                     Greedy                      |                                           |
 | 292  | 134  |                      [Gas Station][134]                      |   Java   |   Medium   |       2018.3.1        |                     Greedy                      |                                           |
+| 293  | 518  |                     [Coin Change 2][518]                     |   Java   |   Medium   |       2018.3.1        |               Dynamic Programming               |                                           |
+| 294  | 723  |       [Longest Continuous Increasing Subsequence][723]       |   Java   |    Easy    |       2018.3.1        |                      Array                      |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -516,6 +518,7 @@
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
 [516]:<https://leetcode.com/problems/longest-palindromic-subsequence/> "Longest Palindromic Subsequence"
+[518]:<https://leetcode.com/problems/coin-change-2/> "Coin Change 2"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
@@ -575,6 +578,7 @@
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
+[723]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [725]:<https://leetcode.com/problems/split-linked-list-in-parts/> "Split Linked List in Parts"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
 [733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
