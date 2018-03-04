@@ -113,7 +113,7 @@
 | 109  | 617  |                [Merge Two Binary Trees][617]                 |   Java   |    Easy    |       2017.7.31       |                      Tree                       |       2017.12.30 2018.1.14 2018.2.5       |
 | 110  |  70  |                    [Climbing Stairs][70]                     |   Java   |    Easy    |       2017.8.2        |               Dynamic Programming               |       2017.12.17 2018.1.5 2018.2.21       |
 | 111  | 100  |                       [Same Tree][100]                       |   Java   |    Easy    |       2017.8.4        |                    Tree, DFS                    |       2017.12.30 2018.1.5 2018.2.19       |
-| 112  | 169  |                   [Majority Element][169]                    |   Java   |    Easy    |       2017.8.6        |   Array, Divide and Conquer, Bit Manipulation   |             2018.1.6 2018.2.6             |
+| 112  | 169  |                   [Majority Element][169]                    |   Java   |    Easy    |       2017.8.6        |   Array, Divide and Conquer, Bit Manipulation   |        2018.1.6 2018.2.6 2018.3.2         |
 | 113  | 171  |               [Excel Sheet Column Number][171]               |   Java   |    Easy    |       2017.8.6        |                      Math                       |                 2018.1.7                  |
 | 114  | 690  |                  [Employee Importance][690]                  |   Java   |    Easy    |      2017.10.11       |                       DFS                       |                                           |
 | 115  | 695  |                  [Max Area of Island][695]                   |   Java   |    Easy    |      2017.10.12       |                       DFS                       |                 2018.1.18                 |
@@ -254,7 +254,7 @@
 | 250  | 124  |             [Binary Tree Maximum Path Sum][124]              |   Java   |    Hard    |       2018.1.1        |                      Tree                       |                 2018.2.9                  |
 | 251  | 244  |               [Shortest Word Distance II][244]               |   Java   |   Medium   |       2018.1.2        |                HashTable, Array                 |                                           |
 | 252  | 245  |              [Shortest Word Distance III][245]               |   Java   |   Medium   |       2018.1.2        |                      Array                      |                                           |
-| 253  | 229  |                  [Majority Element II][229]                  |   Java   |   Medium   |       2018.1.6        |                      Array                      |                                           |
+| 253  | 229  |                  [Majority Element II][229]                  |   Java   |   Medium   |       2018.1.6        |                      Array                      |                 2018.3.2                  |
 | 254  | 570  |        [Managers with at Least 5 Direct Reports][570]        |   SQL    |   Medium   |       2018.1.6        |                    DataBase                     |                                           |
 | 255  | 596  |             [Classes More Than 5 Students][596]              |   SQL    |    Easy    |       2018.1.6        |                    DataBase                     |                                           |
 | 256  |  56  |                    [Merge Intervals][56]                     |   Java   |   Medium   |       2018.1.6        |                      Array                      |                 2018.2.16                 |
@@ -280,7 +280,7 @@
 | 276  | 779  |                [K-th Symbol in Grammar][779]                 |   Java   |   Medium   |       2018.2.7        |                    Recursion                    |                                           |
 | 277  | 783  |          [Minimum Distance Between BST Nodes][783]           |   Java   |    Easy    |       2018.2.10       |                      Tree                       |                                           |
 | 278  | 781  |                  [Rabbits in Forrest][781]                   |   Java   |   Medium   |       2018.2.10       |                    HashTable                    |                                           |
-| 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                 2018.2.23                 |
+| 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |            2018.2.23 2018.3.2             |
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                           |
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                           |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                           |
