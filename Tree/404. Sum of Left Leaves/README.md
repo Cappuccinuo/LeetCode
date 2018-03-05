@@ -18,7 +18,7 @@ Input:
 
 Output: 24
 
-First method we can use is DFS
+First method we can use is DFS(Stack is the same idea with Queue)
 
 1. When the root is null, we return 0
 2. We only need to pay attention to root's left node, when it comes to root's right node, we treat it as a new root and call the method on root's right.
@@ -30,3 +30,4 @@ Second method we can use is BFS
 1. Initiate queue and offer root to the queue.
 2. The hard part is how to tell whether a node is left leaf or right leaf. So for a node, we look deeper for one level, that is we look root.left.left, root.left.right, only when they are both null, we add the value. Otherwise we offer the root to the queue.
 3. If root.right is not null, we offer it to the queue.
+
