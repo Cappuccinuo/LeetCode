@@ -297,6 +297,7 @@
 | 293  | 518  |                     [Coin Change 2][518]                     |   Java   |   Medium   |       2018.3.1        |               Dynamic Programming               |                                           |
 | 294  | 723  |       [Longest Continuous Increasing Subsequence][723]       |   Java   |    Easy    |       2018.3.1        |                      Array                      |                                           |
 | 295  | 200  |                   [Number of Islands][200]                   |   Java   |   Medium   |       2018.3.4        |              DFS, BFS, Union-find               |                                           |
+| 296  | 543  |                [Diameter of Binary Tree][543]                |   Java   |    Easy    |       2018.3.6        |                    DFS, Tree                    |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -527,6 +528,7 @@
 [537]:<https://leetcode.com/problems/complex-number-multiplication/> "Complex Number Multiplication"
 [538]:<https://leetcode.com/problems/convert-bst-to-greater-tree/> "Convert BST to greater tree"
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"
+[543]:<https://leetcode.com/problems/diameter-of-binary-tree/> "Diameter of binary tree"
 [544]:<https://leetcode.com/problems/output-contest-matches/> "Output Contest Matches"
 [551]:<https://leetcode.com/problems/student-attendance-record-i/> "Student Attendance Record I"
 [556]:<https://leetcode.com/problems/next-greater-element-iii/> "Next Greater Element III"
