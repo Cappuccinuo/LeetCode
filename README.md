@@ -298,6 +298,7 @@
 | 294  | 723  |       [Longest Continuous Increasing Subsequence][723]       |   Java   |    Easy    |       2018.3.1        |                      Array                      |                                           |
 | 295  | 200  |                   [Number of Islands][200]                   |   Java   |   Medium   |       2018.3.4        |              DFS, BFS, Union-find               |                                           |
 | 296  | 543  |                [Diameter of Binary Tree][543]                |   Java   |    Easy    |       2018.3.6        |                    DFS, Tree                    |                                           |
+| 297  | 671  |         [Second Minimum Node In a Binary Tree][671]          |   Java   |    Easy    |       2018.3.6        |                    BFS, Tree                    |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -569,6 +570,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
+[671]:<>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
