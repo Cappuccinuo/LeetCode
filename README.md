@@ -299,6 +299,7 @@
 | 295  | 200  |                   [Number of Islands][200]                   |   Java   |   Medium   |       2018.3.4        |              DFS, BFS, Union-find               |                                           |
 | 296  | 543  |                [Diameter of Binary Tree][543]                |   Java   |    Easy    |       2018.3.6        |                    DFS, Tree                    |                                           |
 | 297  | 671  |         [Second Minimum Node In a Binary Tree][671]          |   Java   |    Easy    |       2018.3.6        |                    BFS, Tree                    |                                           |
+| 298  | 270  |           [Closest Binary Search Tree Value][270]            |   Java   |    Easy    |       2018.3.6        |               Binary Search, Tree               |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -453,6 +454,7 @@
 [263]:
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
+[270]:<https://leetcode.com/problems/closest-binary-search-tree-value/> "Closest Binary Search Tree Value"
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
