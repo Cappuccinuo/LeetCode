@@ -36,3 +36,9 @@ Explanation: The smallest value is 2, but there isn't any second smallest value.
 Solution : BFS (Use the idea of level order traversal)
 
 Use a boolean isFind to record if there is a more larger number than root, if there is, then the second smallest number must exist. Just need to pick the min one every time we come across a larger num than root.val.
+
+
+
+Solution : DFS
+
+Just need to see if root.val is larger than smallest, and smaller than final ans. Otherwise if root.val == smallest, we dfs its left and right child. Otherwise we don't need to traverse, cause there is no chance a large node has second smaller num.

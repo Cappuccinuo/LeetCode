@@ -8,6 +8,30 @@
  * }
  */
 class Solution {
+    int smallest;
+    long smaller;
+    
+    public int findSecondMinimumValue(TreeNode root) {
+        smallest = root.val;
+        smaller = Long.MAX_VALUE;
+        dfs(root);
+        return (int)smaller;
+    }
+    
+    public void dfs(TreeNode root) {
+        if (root != null) {
+            if (root.val > smallest && root.val < smaller) {
+                smaller = root.val;
+            }
+            else if (root.val == smallest) {
+                dfs(root.left);
+                dfs(root.right);
+            }
+        }
+    }
+}
+
+class Solution {
     public int findSecondMinimumValue(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
         int smallest = root.val;
