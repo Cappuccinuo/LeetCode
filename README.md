@@ -73,7 +73,7 @@
 |  69  | 394  |                     [Decode String][394]                     |   Java   |   Medium   |       2017.6.27       |                      Stack                      |                 2018.1.9                  |
 |  70  | 341  |             [Flatten Nested List Iterator][341]              |   Java   |   Medium   |       2017.6.27       |                  Design, Stack                  |            2018.1.8 2018.1.28             |
 |  71  | 173  |              [Binary Search Tree Iterator][173]              |   Java   |   Medium   |       2017.6.27       |                      Stack                      |       2017.12.31 2018.1.7 2018.3.5        |
-|  72  | 155  |                       [Min Stack][155]                       |   Java   |    Easy    |       2017.7.4        |                      Stack                      |                                           |
+|  72  | 155  |                       [Min Stack][155]                       |   Java   |    Easy    |       2017.7.4        |                      Stack                      |                 2018.3.7                  |
 |  73  | 225  |             [Implement Stack using Queues][225]              |   Java   |    Easy    |       2017.7.5        |                      Stack                      |                 2018.2.27                 |
 |  74  | 232  |             [Implement Queue using Stacks][232]              |   Java   |    Easy    |       2017.7.5        |                      Queue                      |                 2018.2.27                 |
 |  75  | 331  |    [Verify Preorder Serialization of a Binary Tree][331]     |   Java   |   Medium   |       2017.7.6        |                      Stack                      |                                           |
@@ -215,8 +215,8 @@
 | 211  | 413  |                   [Arithmetic Slices][413]                   |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                                           |
 | 212  | 712  |       [Minimum ASCII Delete Sum for Two Strings][712]        |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                                           |
 | 213  | 357  |           [Count Numbers with Unique Digits][357]            |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                                           |
-| 214  |  62  |                      [Unique Paths][62]                      |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                 2018.1.30                 |
-| 215  |  63  |                    [Unique Paths II][63]                     |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |                 2018.1.30                 |
+| 214  |  62  |                      [Unique Paths][62]                      |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |            2018.1.30 2018.3.7             |
+| 215  |  63  |                    [Unique Paths II][63]                     |   Java   |   Medium   |      2017.12.20       |               Dynamic Programming               |            2018.1.30 2018.3.7             |
 | 216  |  64  |                    [Minimum Path Sum][64]                    |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                           |
 | 217  | 120  |                       [Triangle][120]                        |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                           |
 | 218  | 139  |                      [Word Break][138]                       |   Java   |   Medium   |      2017.12.21       |               Dynamic Programming               |                                           |
@@ -300,6 +300,7 @@
 | 296  | 543  |                [Diameter of Binary Tree][543]                |   Java   |    Easy    |       2018.3.6        |                    DFS, Tree                    |                                           |
 | 297  | 671  |         [Second Minimum Node In a Binary Tree][671]          |   Java   |    Easy    |       2018.3.6        |                    BFS, Tree                    |                                           |
 | 298  | 270  |           [Closest Binary Search Tree Value][270]            |   Java   |    Easy    |       2018.3.6        |               Binary Search, Tree               |                                           |
+| 299  | 563  |                   [Binary Tree Tilt][563]                    |   Java   |    Easy    |       2018.3.8        |                      Tree                       |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -537,6 +538,7 @@
 [556]:<https://leetcode.com/problems/next-greater-element-iii/> "Next Greater Element III"
 [557]:<https://leetcode.com/problems/reverse-words-in-a-string-iii/> "Reverse Words In A String III"
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
+[563]:<https://leetcode.com/problems/binary-tree-tilt> "Binary Tree Tilt"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
 [570]:<https://leetcode.com/problems/managers-with-at-least-5-direct-reports/> "Managers with at Least 5 Direct Reports"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
