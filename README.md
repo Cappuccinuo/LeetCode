@@ -299,7 +299,7 @@
 | 295  | 200  |                   [Number of Islands][200]                   |   Java   |   Medium   |       2018.3.4        |              DFS, BFS, Union-find               |                                           |
 | 296  | 543  |                [Diameter of Binary Tree][543]                |   Java   |    Easy    |       2018.3.6        |                    DFS, Tree                    |                                           |
 | 297  | 671  |         [Second Minimum Node In a Binary Tree][671]          |   Java   |    Easy    |       2018.3.6        |                    BFS, Tree                    |                                           |
-| 298  | 270  |           [Closest Binary Search Tree Value][270]            |   Java   |    Easy    |       2018.3.6        |               Binary Search, Tree               |                                           |
+| 298  | 270  |           [Closest Binary Search Tree Value][270]            |   Java   |    Easy    |       2018.3.6        |               Binary Search, Tree               |                 2018.3.8                  |
 | 299  | 563  |                   [Binary Tree Tilt][563]                    |   Java   |    Easy    |       2018.3.8        |                      Tree                       |                                           |
 
 
