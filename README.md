@@ -301,6 +301,8 @@
 | 297  | 671  |         [Second Minimum Node In a Binary Tree][671]          |   Java   |    Easy    |       2018.3.6        |                    BFS, Tree                    |                                           |
 | 298  | 270  |           [Closest Binary Search Tree Value][270]            |   Java   |    Easy    |       2018.3.6        |               Binary Search, Tree               |                 2018.3.8                  |
 | 299  | 563  |                   [Binary Tree Tilt][563]                    |   Java   |    Easy    |       2018.3.8        |                      Tree                       |                                           |
+| 300  | 572  |                [Subtree of Another Tree][572]                |   Java   |    Easy    |       2018.3.8        |                      Tree                       |                                           |
+| 301  | 501  |            [Find Mode in Binary Search Tree][501]            |   Java   |    Easy    |       2018.3.9        |                      Tree                       |                                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -522,6 +524,7 @@
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
+[501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
 [516]:<https://leetcode.com/problems/longest-palindromic-subsequence/> "Longest Palindromic Subsequence"
@@ -541,6 +544,7 @@
 [563]:<https://leetcode.com/problems/binary-tree-tilt> "Binary Tree Tilt"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
 [570]:<https://leetcode.com/problems/managers-with-at-least-5-direct-reports/> "Managers with at Least 5 Direct Reports"
+[572]:<https://leetcode.com/problems/subtree-of-another-tree/> "Subtree of another tree"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
 [577]:<https://leetcode.com/problems/employee-bonus/> "Employee Bonus"
 [580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
