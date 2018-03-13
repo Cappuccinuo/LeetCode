@@ -18,3 +18,15 @@ class Solution {
         return dp[0][0];
     }
 }
+
+class Solution {
+    public int uniquePaths(int m, int n) {
+        int pos = m + n - 2;
+        int k = m - 1;
+        double result = 1;
+        for (int i = 1; i <= k; i++) {
+            result = result * (pos - k + i) / i;
+        }
+        return (int)result;
+    }
+}
