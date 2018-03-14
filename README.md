@@ -306,6 +306,7 @@
 | 302  | 687  |                 [Longest Univalue Path][687]                 |   Java   |    Easy    |       2018.3.10       |                      Tree                       |                                                   |
 | 303  | 513  |              [Find Bottom Left Tree Value][513]              |   Java   |   Medium   |       2018.3.12       |                      Tree                       |                                                   |
 | 304  | 366  |              [Find Leaves of Binary Tree][366]               |   Java   |   Medium   |       2018.3.13       |                      Tree                       |                                                   |
+| 305  | 796  |                     [Rotate String][796]                     |   Java   |    Easy    |       2018.3.14       |                     String                      |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -617,3 +618,4 @@
 [779]:<https://leetcode.com/problems/k-th-symbol-in-grammar/> "K-th symbol in grammar"
 [781]:<https://leetcode.com/problems/rabbits-in-forest/> "Rabbits in Forest"
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
+[796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
