@@ -305,6 +305,7 @@
 | 301  | 501  |            [Find Mode in Binary Search Tree][501]            |   Java   |    Easy    |       2018.3.9        |                      Tree                       |                                                   |
 | 302  | 687  |                 [Longest Univalue Path][687]                 |   Java   |    Easy    |       2018.3.10       |                      Tree                       |                                                   |
 | 303  | 513  |              [Find Bottom Left Tree Value][513]              |   Java   |   Medium   |       2018.3.12       |                      Tree                       |                                                   |
+| 304  | 366  |              [Find Leaves of Binary Tree][366]               |   Java   |   Medium   |       2018.3.13       |                      Tree                       |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -487,6 +488,7 @@
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [357]:<https://leetcode.com/problems/count-numbers-with-unique-digits/> "Count Numbers With Unique Digits"
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
+[366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
 [369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
