@@ -308,6 +308,7 @@
 | 304  | 366  |              [Find Leaves of Binary Tree][366]               |   Java   |   Medium   |       2018.3.13       |                      Tree                       |                                                   |
 | 305  | 796  |                     [Rotate String][796]                     |   Java   |    Easy    |       2018.3.14       |                     String                      |                                                   |
 | 306  | 515  |          [Find Largest Value in Each Tree Row][515]          |   Java   |   Medium   |       2018.3.14       |                      Tree                       |                                                   |
+| 307  | 250  |                [Count Univalue Subtrees][250]                |   Java   |   Medium   |       2018.3.16       |                      Tree                       |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -451,6 +452,7 @@
 [243]:<https://leetcode.com/problems/shortest-word-distance/> "Shortest Word Distance"
 [244]:<https://leetcode.com/problems/shortest-word-distance-ii/> "Shortest Word Distance II"
 [245]:<https://leetcode.com/problems/shortest-word-distance-iii/> "Shortest Word Distance III"
+[250]:<https://leetcode.com/problems/count-univalue-subtrees/> "Count Univalue Subtrees"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
@@ -586,7 +588,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:<>
+[671]:&amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
