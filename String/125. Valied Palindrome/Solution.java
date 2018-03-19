@@ -64,3 +64,33 @@ class Solution {
         return true;
     }
 }
+
+// 2018.3.17
+class Solution {
+    public boolean isPalindrome(String s) {
+        return Helper(s, 0, s.length() - 1);
+    }
+    
+    private boolean Helper(String str, int start, int end) {
+        while (start < end) {
+            char s = str.charAt(start);
+            char e = str.charAt(end);
+            if (!Character.isLetterOrDigit(s)) {
+                start++;
+            }
+            if (!Character.isLetterOrDigit(e)) {
+                end--;
+            }
+            if (Character.isLetterOrDigit(s) && Character.isLetterOrDigit(e)) {
+                if (Character.toUpperCase(s) == Character.toUpperCase(e)) {
+                    start++;
+                    end--;
+                }
+                else {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}

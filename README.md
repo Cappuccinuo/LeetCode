@@ -22,7 +22,7 @@
 |  18  |  20  |                   [Valid Parentheses][20]                    |   Java   |    Easy    |       2017.3.9        |                      Stack                      |                                                   |
 |  19  |  26  |          [Remove Duplicates from Sorted Array][26]           |   Java   |    Easy    |       2017.3.10       |                   Linked List                   |                     2018.2.11                     |
 |  20  |  27  |                     [Remove Element][27]                     |   Java   |    Easy    |       2017.3.10       |                                                 |                                                   |
-|  21  |  28  |                   [Implement strStr()][28]                   |   Java   |    Easy    |       2017.3.15       |                                                 |                                                   |
+|  21  |  28  |                   [Implement strStr()][28]                   |   Java   |    Easy    |       2017.3.15       |                     String                      |                     2018.3.17                     |
 |  22  |  35  |                 [Search Insert Position][35]                 |   Java   |    Easy    |       2017.3.15       |                                                 |                                                   |
 |  23  |  38  |                     [Count and Say][38]                      |   Java   |    Easy    |       2017.3.16       |                                                 |                                                   |
 |  24  |  53  |                    [Maximum Subarray][53]                    |   Java   |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  |     2017.12.17 2018.1.23 2018.1.27 2018.2.21      |
@@ -42,7 +42,7 @@
 |  38  | 219  |                 [Contains Duplicate Ⅱ][219]                  |   Java   |    Easy    |       2017.3.28       |                 Array, HashMap                  |                     2018.2.14                     |
 |  39  | 500  |                     [Keyboard Row][500]                      |   Java   |    Easy    |       2017.4.1        |                                                 |                                                   |
 |  40  | 349  |              [Intersection of Two Arrays][349]               |   Java   |    Easy    |       2017.4.1        |                                                 |                                                   |
-|  41  | 409  |                  [Longest Palindrome][409]                   |   Java   |    Easy    |       2017.4.7        |                                                 |                                                   |
+|  41  | 409  |                  [Longest Palindrome][409]                   |   Java   |    Easy    |       2017.4.7        |                    HashTable                    |                     2018.3.19                     |
 |  42  | 350  |             [Intersection of Two Arrays Ⅱ][350]              |   Java   |    Easy    |       2017.4.7        |                                                 |                                                   |
 |  43  | 141  |                   [Linked List Cycle][141]                   |   Java   |    Easy    |       2017.5.25       |            Linked List, Two Pointers            |          2017.12.15 2018.1.24 2018.2.10           |
 |  44  | 142  |                  [Linked List Cycle Ⅱ][142]                  |   Java   |   Medium   |       2017.5.25       |            Linked List, Two Pointers            |               2017.12.25 2018.2.10                |
@@ -88,7 +88,7 @@
 |  84  | 532  |               [K-diff Pairs in an Array][532]                |   Java   |    Easy    |       2017.7.15       |                      Array                      |           2017.7.16 2018.1.8 2018.1.15            |
 |  85  | 521  |            [Longest Uncommon Subsequence I][521]             |   Java   |    Easy    |       2017.7.15       |                     String                      |                     2017.7.16                     |
 |  86  | 606  |           [Construct String from Binary Tree][606]           |   Java   |    Easy    |       2017.7.15       |                     String                      |                                                   |
-|  87  | 125  |                   [Valid Palindrome][125]                    |   Java   |    Easy    |       2017.7.15       |                     String                      |                2017.7.17 2018.1.6                 |
+|  87  | 125  |                   [Valid Palindrome][125]                    |   Java   |    Easy    |       2017.7.15       |                     String                      |           2017.7.17 2018.1.6 2018.3.17            |
 |  88  | 520  |                    [Detect Capital][520]                     |   Java   |    Easy    |       2017.7.15       |                     String                      |                2017.7.17 2018.1.10                |
 |  89  | 383  |                      [Ransom Note][383]                      |   Java   |    Easy    |       2017.7.15       |                     String                      |                                                   |
 |  90  | 551  |              [Student Attendance Record I][551]              |   Java   |    Easy    |       2017.7.15       |                     String                      |                                                   |
@@ -105,7 +105,7 @@
 | 101  | 599  |            [Minimum Index Sum of Two Lists][599]             |   Java   |    Easy    |       2017.7.21       |                     HashMap                     |                     2018.1.17                     |
 | 102  | 205  |                  [Isomorphic Strings][205]                   |   Java   |    Easy    |       2017.7.23       |                   Hash Table                    |                     2018.1.7                      |
 | 103  | 645  |                     [Set Mismatch][645]                      |   Java   |    Easy    |       2017.7.23       |                 HashMap, Array                  |                     2018.1.14                     |
-| 104  | 204  |                     [Count Primes][204]                      |   Java   |    Easy    |       2017.7.24       |                  HashMap, Math                  |                     2018.1.7                      |
+| 104  | 204  |                     [Count Primes][204]                      |   Java   |    Easy    |       2017.7.24       |                  HashMap, Math                  |                2018.1.7 2018.3.18                 |
 | 105  | 290  |                     [Word Pattern][290]                      |   Java   |    Easy    |       2017.7.24       |                    HashTable                    |                     2018.1.7                      |
 | 106  |  12  |                    [Integer to Roman][12]                    |   Java   |   Medium   |       2017.7.27       |                  Math, String                   |                 2018.1.4 2018.3.7                 |
 | 107  |  13  |                    [Roman to Integer][13]                    |   Java   |    Easy    |       2017.7.27       |                  Math, String                   |                 2018.1.4 2018.3.7                 |
@@ -136,7 +136,7 @@
 | 132  | 168  |               [Excel Sheet Column Title][168]                |   Java   |    Easy    |       2017.11.5       |                      Math                       |                     2018.1.3                      |
 | 133  |  11  |               [Container With Most Water][11]                |   Java   |   Medium   |       2017.11.7       |               Array, Two Pointers               |                     2018.1.3                      |
 | 134  | 238  |             [Product of Array Except Self][238]              |   Java   |   Medium   |       2017.11.8       |                      Array                      |                     2018.1.4                      |
-| 135  |  5   |              [Longest Palindromic Substring][5]              |   Java   |   Medium   |      2017.11.11       |                     String                      |                     2018.1.3                      |
+| 135  |  5   |              [Longest Palindromic Substring][5]              |   Java   |   Medium   |      2017.11.11       |                     String                      |                2018.1.3 2018.3.19                 |
 | 136  | 580  |          [Count Student Number in Departments][580]          |   SQL    |   Medium   |      2017.11.11       |                    Database                     |                     2018.1.2                      |
 | 137  | 243  |                [Shortest Word Distance][243]                 |   Java   |    Easy    |      2017.11.12       |                      Array                      |                     2018.1.2                      |
 | 138  | 661  |                    [Image Smoother][661]                     |   Java   |    Easy    |      2017.11.12       |                      Array                      |                     2018.1.3                      |
@@ -588,7 +588,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;lt;>
+[671]:&amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
