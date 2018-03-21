@@ -309,6 +309,7 @@
 | 305  | 796  |                     [Rotate String][796]                     |   Java   |    Easy    |       2018.3.14       |                     String                      |                                                   |
 | 306  | 515  |          [Find Largest Value in Each Tree Row][515]          |   Java   |   Medium   |       2018.3.14       |                      Tree                       |                                                   |
 | 307  | 250  |                [Count Univalue Subtrees][250]                |   Java   |   Medium   |       2018.3.16       |                      Tree                       |                                                   |
+| 308  | 280  |                      [Wiggle Sort][280]                      |   Java   |   Medium   |       2018.3.20       |                   Array, Sort                   |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -467,6 +468,7 @@
 [270]:<https://leetcode.com/problems/closest-binary-search-tree-value/> "Closest Binary Search Tree Value"
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
+[280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
 [283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
 
