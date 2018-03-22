@@ -83,8 +83,8 @@
 |  79  | 581  |         [Shortest Unsorted Continuous Subarray][581]         |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                                   |
 |  80  | 566  |                  [Reshape the Matrix][566]                   |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                                   |
 |  81  | 628  |           [Maximum Product of Three Numbers][628]            |   Java   |    Easy    |       2017.7.13       |                      Array                      |                     2018.1.18                     |
-|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |   Java   |   Medium   |       2017.7.14       |                      Array                      |           2017.7.16 2018.1.5 2018.2.13            |
-|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |   Java   |   Medium   |       2017.7.15       |                      Array                      |           2017.7.16 2018.1.5 2018.2.13            |
+|  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |   Java   |   Medium   |       2017.7.14       |                      Array                      |      2017.7.16 2018.1.5 2018.2.13 2018.3.21       |
+|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |   Java   |   Medium   |       2017.7.15       |                      Array                      |      2017.7.16 2018.1.5 2018.2.13 2018.3.21       |
 |  84  | 532  |               [K-diff Pairs in an Array][532]                |   Java   |    Easy    |       2017.7.15       |                      Array                      |           2017.7.16 2018.1.8 2018.1.15            |
 |  85  | 521  |            [Longest Uncommon Subsequence I][521]             |   Java   |    Easy    |       2017.7.15       |                     String                      |                     2017.7.16                     |
 |  86  | 606  |           [Construct String from Binary Tree][606]           |   Java   |    Easy    |       2017.7.15       |                     String                      |                                                   |
@@ -310,6 +310,7 @@
 | 306  | 515  |          [Find Largest Value in Each Tree Row][515]          |   Java   |   Medium   |       2018.3.14       |                      Tree                       |                                                   |
 | 307  | 250  |                [Count Univalue Subtrees][250]                |   Java   |   Medium   |       2018.3.16       |                      Tree                       |                                                   |
 | 308  | 280  |                      [Wiggle Sort][280]                      |   Java   |   Medium   |       2018.3.20       |                   Array, Sort                   |                                                   |
+| 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |   Java   |   Medium   |       2018.3.21       |                      Tree                       |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -378,6 +379,7 @@
 [110]:<https://leetcode.com/problems/balanced-binary-tree/> "Balanced Binary Tree"
 [111]:<https://leetcode.com/problems/minimum-depth-of-binary-tree/> "Minimum Depth of Binary Tree"
 [112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
+[116]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/> "Populating next right pointers in each node"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
 [120]:<https://leetcode.com/problems/triangle/> "Triangle"
