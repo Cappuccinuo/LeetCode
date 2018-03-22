@@ -2,7 +2,14 @@ Time spent : 15 min(self)
 
 GIVEN: a binary tree with three field, left, right, next
 
-EFFECTL: populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+EFFECT: populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+
+
+
+**Note:**
+
+- You may only use constant extra space.
+- You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).
 
 For example,
 Given the following perfect binary tree,
