@@ -15,7 +15,7 @@
 |  11  | 453  |         [Minimum Moves to Equal Array Elements][453]         |   Java   |    Easy    |       2017.1.18       |                      Math                       |                     2018.1.11                     |
 |  12  | 118  |                   [Pascal's Triangle][118]                   |   Java   |    Easy    |       2017.2.20       |                      Array                      |                     2018.1.6                      |
 |  13  |  21  |                 [Merge Two Sorted Lists][21]                 |   Java   |    Easy    |       2017.2.20       |                   Linked List                   |           2017.12.15 2018.1.5 2018.2.10           |
-|  14  |  1   |                         [Two Sum][1]                         |   Java   |    Easy    |       2017.3.9        |                Array, Hash Table                |           2017.12.13 2018.2.1 2018.2.25           |
+|  14  |  1   |                         [Two Sum][1]                         |   Java   |    Easy    |       2017.3.9        |                Array, Hash Table                |      2017.12.13 2018.2.1 2018.2.25 2018.3.25      |
 |  15  |  7   |                     [Reverse Integer][7]                     |   Java   |    Easy    |       2017.3.9        |                                                 |                                                   |
 |  16  |  9   |                    [Palindrome Number][9]                    |   Java   |    Easy    |       2017.3.9        |                                                 |                                                   |
 |  17  |  14  |                 [Longest Common Prefix][14]                  |   Java   |    Easy    |       2017.3.9        |                     String                      |                    2017.12.24                     |
@@ -29,7 +29,7 @@
 |  25  |  58  |                  [Length of Last Word][58]                   |   Java   |    Easy    |       2017.3.16       |                                                 |                                                   |
 |  26  |  66  |                        [Plus One][66]                        |   Java   |    Easy    |       2017.3.17       |                   Math. Array                   |                    2017.12.14                     |
 |  27  |  67  |                       [Add Binary][67]                       |   Java   |    Easy    |       2017.3.17       |                  Math, String                   |                    2017.12.13                     |
-|  28  |  69  |                        [Sqrt(x)][69]                         |   Java   |    Easy    |       2017.3.17       |                                                 |                                                   |
+|  28  |  69  |                        [Sqrt(x)][69]                         |   Java   |    Easy    |       2017.3.17       |                                                 |                     2018.3.22                     |
 |  29  |  88  |                   [Merge Sorted Array][88]                   |   Java   |    Easy    |       2017.3.21       |                                                 |                                                   |
 |  30  | 101  |                    [Symmetric Tree][101]                     |   Java   |    Easy    |       2017.3.21       |                      Tree                       |                2018.1.1 2018.3.15                 |
 |  31  | 119  |                  [Pascal's Triangle Ⅱ][119]                  |   Java   |    Easy    |       2017.3.22       |                                                 |                                                   |
@@ -130,7 +130,7 @@
 | 126  | 190  |                     [Reverse Bits][190]                      |   Java   |    Easy    |      2017.10.25       |                Bit Manipulation                 |                                                   |
 | 127  |  3   |     [Longest Substring Without Repeating Characters][3]      |   Java   |   Medium   |      2017.10.27       |         HashTable, Two Pointers, String         |                     2018.1.22                     |
 | 128  |  50  |                       [Pow(x, n)][50]                        |   Java   |   Medium   |       2017.11.1       |                      Math                       |                     2018.3.19                     |
-| 129  | 374  |             [Guess Number Higher or Lower][374]              |   Java   |    Easy    |       2017.11.2       |                  Binary Search                  |                                                   |
+| 129  | 374  |             [Guess Number Higher or Lower][374]              |   Java   |    Easy    |       2017.11.2       |                  Binary Search                  |                     2018.3.22                     |
 | 130  | 242  |                     [Valid Anagram][242]                     |   Java   |    Easy    |       2017.11.4       |                Hash Table, Sort                 |                                                   |
 | 131  | 110  |                 [Balanced Binary Tree][110]                  |   Java   |    Easy    |       2017.11.5       |                    Tree, DFS                    |                    2017.12.31                     |
 | 132  | 168  |               [Excel Sheet Column Title][168]                |   Java   |    Easy    |       2017.11.5       |                      Math                       |                     2018.1.3                      |
@@ -184,7 +184,7 @@
 | 180  | 287  |               [Find the Duplicate Number][287]               |   Java   |   Medium   |       2017.12.8       |       Array, Two Pointers, Binary Search        |                                                   |
 | 181  |  80  |         [Remove Duplicates from Sorted Array II][80]         |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                   |
 | 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |   Java   |    Easy    |       2017.12.9       |                    Tree, BFS                    |                2018.2.13 2018.3.15                |
-| 183  | 278  |                   [First Bad Version][278]                   |   Java   |    Easy    |       2017.12.9       |                  Binary Search                  |                                                   |
+| 183  | 278  |                   [First Bad Version][278]                   |   Java   |    Easy    |       2017.12.9       |                  Binary Search                  |                     2018.3.22                     |
 | 184  | 744  |       [Find Smallest Letter Greater Than Target][744]        |   Java   |    Easy    |       2017.12.9       |                                                 |                                                   |
 | 185  |  17  |         [Letter Combinations of a Phone Number][17]          |   Java   |   Medium   |      2017.12.10       |              String, Backtracking               |                                                   |
 | 186  | 151  |               [Reverse Words in a String][151]               |   Java   |   Medium   |      2017.12.10       |                     String                      |                     2018.2.16                     |
@@ -311,6 +311,8 @@
 | 307  | 250  |                [Count Univalue Subtrees][250]                |   Java   |   Medium   |       2018.3.16       |                      Tree                       |                                                   |
 | 308  | 280  |                      [Wiggle Sort][280]                      |   Java   |   Medium   |       2018.3.20       |                   Array, Sort                   |                                                   |
 | 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |   Java   |   Medium   |       2018.3.21       |                      Tree                       |                                                   |
+| 310  |  33  |             [Search in Rotated Sorted Array][33]             |   Java   |   Medium   |       2018.3.22       |                  Binary Search                  |                                                   |
+| 311  | 162  |                   [Find Peak Element][162]                   |   Java   |   Medium   |       2018.3.23       |                  Binary Search                  |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -337,6 +339,7 @@
 [26]:<https://leetcode.com/problems/remove-duplicates-from-sorted-array/> "Remove Duplicates from Sorted Array"
 [27]:<https://leetcode.com/problems/remove-element/> "Remove Element"
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
+[33]:<https://leetcode.com/problems/search-in-rotated-sorted-array/> "Search in Rotated Sorted Array"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
@@ -404,6 +407,7 @@
 [159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [161]:<https://leetcode.com/problems/one-edit-distance/> "One Edit Distance"
+[162]:<https://leetcode.com/problems/find-peak-element/> "Find Peak Element"
 [167]:<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/> "Two Sum Ⅱ - Input array is sorted"
 [168]:<https://leetcode.com/problems/excel-sheet-column-title/> "Excel Sheet Column Title"
 [169]:<https://leetcode.com/problems/majority-element/> "Majority Element"
@@ -592,7 +596,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;lt;>
+[671]:&amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
