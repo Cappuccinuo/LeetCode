@@ -176,7 +176,7 @@
 | 172  | 739  |                  [Daily Temperatures][739]                   |   Java   |   Medium   |       2017.12.2       |                      Stack                      |                     2017.12.4                     |
 | 173  | 738  |               [Monotone Incresing Digits][738]               |   Java   |   Medium   |       2017.12.2       |                     Greedy                      |                     2017.12.4                     |
 | 174  |  6   |                    [ZigZag Conversion][6]                    |   Java   |   Medium   |       2017.12.7       |                     String                      |                                                   |
-| 175  |  15  |                          [3Sum][6]                           |   Java   |   Medium   |       2017.12.7       |               Array, Two Pointers               |                                                   |
+| 175  |  15  |                          [3Sum][6]                           |   Java   |   Medium   |       2017.12.7       |               Array, Two Pointers               |                     2018.3.26                     |
 | 176  |  16  |                      [3Sum Closest][16]                      |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                   |
 | 177  | 259  |                     [3Sum Smaller][259]                      |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                   |
 | 178  |  18  |                          [4Sum][18]                          |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                   |
@@ -596,7 +596,7 @@
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
