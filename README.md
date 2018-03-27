@@ -311,7 +311,7 @@
 | 307  | 250  |                [Count Univalue Subtrees][250]                |   Java   |   Medium   |       2018.3.16       |                      Tree                       |                                                   |
 | 308  | 280  |                      [Wiggle Sort][280]                      |   Java   |   Medium   |       2018.3.20       |                   Array, Sort                   |                                                   |
 | 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |   Java   |   Medium   |       2018.3.21       |                      Tree                       |                                                   |
-| 310  |  33  |             [Search in Rotated Sorted Array][33]             |   Java   |   Medium   |       2018.3.22       |                  Binary Search                  |                                                   |
+| 310  |  33  |             [Search in Rotated Sorted Array][33]             |   Java   |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27                     |
 | 311  | 162  |                   [Find Peak Element][162]                   |   Java   |   Medium   |       2018.3.23       |                  Binary Search                  |                                                   |
 
 
