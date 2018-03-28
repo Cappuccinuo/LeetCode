@@ -313,6 +313,7 @@
 | 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |   Java   |   Medium   |       2018.3.21       |                      Tree                       |                                                   |
 | 310  |  33  |             [Search in Rotated Sorted Array][33]             |   Java   |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27                     |
 | 311  | 162  |                   [Find Peak Element][162]                   |   Java   |   Medium   |       2018.3.23       |                  Binary Search                  |                                                   |
+| 312  | 658  |                [Find K Closest Elements][658]                |   Java   |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -594,6 +595,7 @@
 [653]:<https://leetcode.com/problems/two-sum-iv-input-is-a-bst/> "Two Sum IV Input is a BST"
 [654]:<https://leetcode.com/problems/maximum-binary-tree/> "Maximum Binary Tree"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
+[658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
 [671]:&amp;amp;amp;amp;lt;>
