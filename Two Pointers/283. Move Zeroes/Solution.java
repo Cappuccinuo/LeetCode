@@ -1,3 +1,27 @@
+// 2018.3.28
+class Solution {
+    public void moveZeroes(int[] nums) {
+        int left = 0;
+        int right = 0;
+        int n = nums.length;
+        while (right < n) {
+            if (nums[right] != 0) {
+                if (left != right) {
+                    nums[left] = nums[right];
+                }
+                left++;
+            }
+            right++;
+        }
+        while (left < n) {
+            nums[left++] = 0;
+        }
+    }
+}
+
+
+
+
 // 3 ms
 class Solution {
     public void moveZeroes(int[] nums) {
