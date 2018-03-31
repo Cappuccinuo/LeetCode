@@ -176,7 +176,7 @@
 | 172  | 739  |                  [Daily Temperatures][739]                   |   Java   |   Medium   |       2017.12.2       |                      Stack                      |                     2017.12.4                     |
 | 173  | 738  |               [Monotone Incresing Digits][738]               |   Java   |   Medium   |       2017.12.2       |                     Greedy                      |                     2017.12.4                     |
 | 174  |  6   |                    [ZigZag Conversion][6]                    |   Java   |   Medium   |       2017.12.7       |                     String                      |                                                   |
-| 175  |  15  |                          [3Sum][6]                           |   Java   |   Medium   |       2017.12.7       |               Array, Two Pointers               |                2018.3.26 2018.3.28                |
+| 175  |  15  |                          [3Sum][6]                           |   Java   |   Medium   |       2017.12.7       |               Array, Two Pointers               |           2018.3.26 2018.3.28 2018.3.29           |
 | 176  |  16  |                      [3Sum Closest][16]                      |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                     2018.3.29                     |
 | 177  | 259  |                     [3Sum Smaller][259]                      |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                     2018.3.29                     |
 | 178  |  18  |                          [4Sum][18]                          |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                   |
@@ -269,7 +269,7 @@
 | 265  | 159  | [Longest Substring with At Most Two Distinct Characters][159] |   Java   |    Hard    |       2018.1.23       |         HashTable, Two Pointers, String         |                                                   |
 | 266  | 340  | [Longest Substring with At Most K Distinct Characters][340]  |   Java   |    Hard    |       2018.1.23       |         HashTable, Two Pointers, String         |                                                   |
 | 267  | 697  |                  [Degree of an Array][697]                   |   Java   |    Easy    |       2018.1.23       |                      Array                      |                                                   |
-| 268  | 608  |                       [Tree Node][608]                       |   SQL    |   Medium   |       2018.1.25       |                    DataBase                     |                                                   |
+| 268  | 608  |                       [Tree Node][608]                       |   SQL    |   Medium   |       2018.1.25       |                    DataBase                     |                     2018.3.30                     |
 | 269  | 775  |              [Global and Local Inversions][775]              |   Java   |   Medium   |       2018.1.29       |                   Array, Math                   |                                                   |
 | 270  | 750  |              [Number of Corner Rectangles][750]              |   Java   |   Medium   |       2018.1.30       |               Dynamic Programming               |                     2018.2.21                     |
 | 271  |  42  |                  [Trapping Rain Water][42]                   |   Java   |    Hard    |       2018.1.30       | Array, Dynamic Programming, Two pointers, Stack |                                                   |
@@ -598,7 +598,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
