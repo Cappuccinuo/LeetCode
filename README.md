@@ -314,6 +314,7 @@
 | 310  |  33  |             [Search in Rotated Sorted Array][33]             |   Java   |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27                     |
 | 311  | 162  |                   [Find Peak Element][162]                   |   Java   |   Medium   |       2018.3.23       |                  Binary Search                  |                                                   |
 | 312  | 658  |                [Find K Closest Elements][658]                |   Java   |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                                                   |
+| 313  | 127  |                      [Word Ladder][127]                      |   Java   |   Medium   |       2018.4.6        |                       BFS                       |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -391,6 +392,7 @@
 [122]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/> "Best Time to Buy and Sell Stock Ⅱ"
 [124]:<https://leetcode.com/problems/binary-tree-maximum-path-sum/> "Binary Tree Maximum Path Sum"
 [125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
+[127]:<https://leetcode.com/problems/word-ladder/> "Word Ladder"
 [134]:<https://leetcode.com/problems/gas-station/> "Gas Station"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
 [138]:<https://leetcode.com/problems/copy-list-with-random-pointer/> "Copy List With Random Pointer"
