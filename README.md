@@ -316,6 +316,8 @@
 | 312  | 658  |                [Find K Closest Elements][658]                |   Java   |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                                                   |
 | 313  | 127  |                      [Word Ladder][127]                      |   Java   |   Medium   |       2018.4.6        |                       BFS                       |                                                   |
 | 314  | 207  |                    [Course Schedule][207]                    |   Java   |   Medium   |       2018.4.6        |                Topological Sort                 |                                                   |
+| 315  | 210  |                  [Course Schedule II][210]                   |   Java   |   Medium   |       2018.4.7        |                Topological Sort                 |                                                   |
+| 316  |  78  |                        [Subsets][78]                         |   Java   |   Medium   |       2018.4.7        |                       DFS                       |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -363,6 +365,7 @@
 [72]:<https://leetcode.com/problems/edit-distance> "Edit Distance"
 [75]:<https://leetcode.com/problems/sort-colors/> "Sort Colors"
 [76]:<https://leetcode.com/problems/minimum-window-substring/> "Minimum Window Substring"
+[78]:<https://leetcode.com/problems/subsets/> "Subsets"
 [79]:<https://leetcode.com/problems/word-search/> "Word Search"
 [82]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/> "Remove Duplicated From Sorted List Ⅱ"
 [83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
