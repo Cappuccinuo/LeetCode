@@ -315,6 +315,7 @@
 | 311  | 162  |                   [Find Peak Element][162]                   |   Java   |   Medium   |       2018.3.23       |                  Binary Search                  |                                                   |
 | 312  | 658  |                [Find K Closest Elements][658]                |   Java   |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                                                   |
 | 313  | 127  |                      [Word Ladder][127]                      |   Java   |   Medium   |       2018.4.6        |                       BFS                       |                                                   |
+| 314  | 207  |                    [Course Schedule][207]                    |   Java   |   Medium   |       2018.4.6        |                Topological Sort                 |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -441,6 +442,7 @@
 [204]:<https://leetcode.com/problems/count-primes/> "Count Primes"
 [205]:<https://leetcode.com/problems/isomorphic-strings/> "Isomorphic Strings"
 [206]:<https://leetcode.com/problems/reverse-linked-list/> "Reverse Linked List"
+[207]:<https://leetcode.com/problems/course-schedule/> "Course Schedule"
 [208]:<https://leetcode.com/problems/implement-trie-prefix-tree/> "Implement Trie (Prefix Tree)"
 [211]:<https://leetcode.com/problems/add-and-search-word-data-structure-design/> "Add and Search Word Data Structure Design"
 [213]:<https://leetcode.com/problems/house-robber-ii/> "House Robber II"
