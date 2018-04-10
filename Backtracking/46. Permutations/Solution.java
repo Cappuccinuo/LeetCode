@@ -1,37 +1,34 @@
-// 2018.4.8 
+// 2018.4.10
+
 class Solution {
-    public void nextPermutation(int[] nums) {
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new LinkedList<>();
         if (nums == null || nums.length == 0) {
-            return;
+            return result;
         }
         int n = nums.length;
-        if (n == 1) {
-            return;
+        boolean[] visited = new boolean[n];
+        DFS(result, visited, new LinkedList<Integer>(), nums);
+        return result;
+    }
+    
+    private void DFS(List<List<Integer>> result, 
+                     boolean[] visited,
+                     List<Integer> permutation, 
+                     int[] nums) {
+        if (permutation.size() == nums.length) {
+            result.add(new LinkedList<>(permutation));
         }
         
-        int i = n - 1;
-        while (i > 0 && nums[i] <= nums[i - 1]) {
-            i--;
-        }
-        if (i != 0) {
-            int j = n - 1;
-            while (nums[j] <= nums[i - 1]) {
-                j--;
+        for (int i = 0; i < nums.length; i++) {
+            if (visited[i]) {
+                continue;
             }
-            swap(nums, i - 1, j);
+            permutation.add(nums[i]);
+            visited[i] = true;
+            DFS(result, visited, permutation, nums);
+            permutation.remove(permutation.size() - 1);
+            visited[i] = false;
         }
-        swapList(nums, i, n - 1);
-    }
-    
-    public void swapList(int[] nums, int start, int end) {
-        while (start < end) {
-            swap(nums, start++, end--);
-        }
-    }
-    
-    public void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }

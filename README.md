@@ -46,7 +46,7 @@
 |  42  | 350  |             [Intersection of Two Arrays Ⅱ][350]              |   Java   |    Easy    |       2017.4.7        |                                                 |                                                   |
 |  43  | 141  |                   [Linked List Cycle][141]                   |   Java   |    Easy    |       2017.5.25       |            Linked List, Two Pointers            |          2017.12.15 2018.1.24 2018.2.10           |
 |  44  | 142  |                  [Linked List Cycle Ⅱ][142]                  |   Java   |   Medium   |       2017.5.25       |            Linked List, Two Pointers            |               2017.12.25 2018.2.10                |
-|  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |           2017.12.23 2018.1.9 2018.2.10           |
+|  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |      2017.12.23 2018.1.9 2018.2.10 2018.4.10      |
 |  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |          2017.12.23 2018.1.24 2018.2.11           |
 |  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |               2017.12.26 2018.2.11                |
 |  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |          2017.12.13 2018.1.26 2018.2.11           |
@@ -78,7 +78,7 @@
 |  74  | 232  |             [Implement Queue using Stacks][232]              |   Java   |    Easy    |       2017.7.5        |                      Queue                      |                     2018.2.27                     |
 |  75  | 331  |    [Verify Preorder Serialization of a Binary Tree][331]     |   Java   |   Medium   |       2017.7.6        |                      Stack                      |                                                   |
 |  76  | 561  |                   [Array Partition I][561]                   |   Java   |    Easy    |       2017.7.10       |                      Array                      |                                                   |
-|  77  | 189  |                     [Rotate Array][189]                      |   Java   |    Easy    |       2017.7.10       |                      Array                      |                    2017.12.10                     |
+|  77  | 189  |                     [Rotate Array][189]                      |   Java   |    Easy    |       2017.7.10       |                      Array                      |               2017.12.10 2018.4.10                |
 |  78  | 605  |                   [Can Place Flowers][605]                   |   Java   |    Easy    |       2017.7.10       |                      Array                      |                                                   |
 |  79  | 581  |         [Shortest Unsorted Continuous Subarray][581]         |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                                   |
 |  80  | 566  |                  [Reshape the Matrix][566]                   |   Java   |    Easy    |       2017.7.11       |                      Array                      |                                                   |
@@ -146,7 +146,7 @@
 | 142  | 728  |                 [Self Dividing Numbers][728]                 |   Java   |    Easy    |      2017.11.20       |                      Math                       |                                                   |
 | 143  | 346  |            [Moving Average from Data Stream][346]            |   Java   |    Easy    |      2017.11.20       |                  Design, Queue                  |                                                   |
 | 144  | 266  |                [Palindrome Permutation][266]                 |   Java   |    Easy    |      2017.11.20       |                     HashMap                     |                                                   |
-| 145  | 682  |                     [Baseball Game][682]                     |   Java   |    Easy    |      2017.11.20       |                      Stack                      |                                                   |
+| 145  | 682  |                     [Baseball Game][682]                     |   Java   |    Easy    |      2017.11.20       |                      Stack                      |                     2018.4.10                     |
 | 146  | 669  |               [Trim a Binary Search Tree][669]               |   Java   |    Easy    |      2017.11.20       |                      Tree                       |                                                   |
 | 147  | 293  |                       [Flip Game][293]                       |   Java   |    Easy    |      2017.11.21       |                     String                      |                                                   |
 | 148  | 637  |           [Average of Levels in Binary Tree][637]            |   Java   |    Easy    |      2017.11.21       |                      Tree                       |                                                   |
@@ -320,6 +320,7 @@
 | 316  |  78  |                        [Subsets][78]                         |   Java   |   Medium   |       2018.4.7        |                       DFS                       |                                                   |
 | 317  |  31  |                    [Next Permutation][31]                    |   Java   |   Medium   |       2018.4.8        |                      Array                      |                                                   |
 | 318  |  46  |                      [Permutations][46]                      |   Java   |   Medium   |       2018.4.8        |                  Backtracking                   |                                                   |
+|      |      |                                                              |          |            |                       |                                                 |                                                   |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
