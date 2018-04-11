@@ -320,7 +320,7 @@
 | 316  |  78  |                        [Subsets][78]                         |   Java   |   Medium   |       2018.4.7        |                       DFS                       |                                                             |
 | 317  |  31  |                    [Next Permutation][31]                    |   Java   |   Medium   |       2018.4.8        |                      Array                      |                                                             |
 | 318  |  46  |                      [Permutations][46]                      |   Java   |   Medium   |       2018.4.8        |                  Backtracking                   |                                                             |
-|      |      |                                                              |          |            |                       |                                                 |                                                             |
+| 319  | 716  |                       [Max Stack][716]                       |   Java   |    Hard    |       2018.4.11       |                  Stack, Design                  |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -624,6 +624,7 @@
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
+[716]:<https://leetcode.com/problems/max-stack> "Max Stack"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
 [723]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
