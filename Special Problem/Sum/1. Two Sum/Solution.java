@@ -1,3 +1,50 @@
+// 2018.4.10
+class Solution {
+    class Pair {
+        int num;
+        int index;
+        Pair(int n, int i) {
+            this.num = n;
+            this.index = i;
+        }
+    }
+    
+    class valueComparator implements Comparator<Pair> {
+        @Override
+        public int compare(Pair p1, Pair p2) {
+            return p1.num - p2.num;
+        }
+    }
+    
+    public int[] twoSum(int[] nums, int target) {
+        Pair[] map = new Pair[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            map[i] = new Pair(nums[i], i);
+        }
+        
+        Arrays.sort(map, new valueComparator());
+        int n = nums.length;
+        int start = 0;
+        int end = n - 1;
+        while (start < end) {
+            int sum = map[start].num + map[end].num;
+            if (sum == target) {
+                int[] result = new int[2];
+                result[0] = Math.min(map[start].index, map[end].index);
+                result[1] = Math.max(map[start].index, map[end].index);
+                return result;
+            }
+            else if (sum < target) {
+                start++;
+            }
+            else {
+                end--;
+            }
+        }
+        return new int[2];
+    }
+}
+
 // 2018.3.25
 class Solution {
     public int[] twoSum(int[] nums, int target) {
