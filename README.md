@@ -323,6 +323,7 @@
 | 319  | 716  |                       [Max Stack][716]                       |   Java   |    Hard    |       2018.4.11       |                  Stack, Design                  |                                                             |
 | 320  | 451  |              [Sort Character By Frequency][451]              |   Java   |   Medium   |       2018.4.11       |                  Heap, HashMap                  |                                                             |
 | 321  |  98  |              [Validate Binary Search Tree][98]               |   Java   |   Medium   |       2018.4.11       |                    DFS, Tree                    |                                                             |
+| 322  | 763  |                   [Partition Labels][763]                    |   Java   |   Medium   |       2018.4.11       |              Greedy, Two Pointers               |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -643,6 +644,7 @@
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
+[763]:<https://leetcode.com/problems/partition-labels/> "Partition Labels"
 [766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
 [771]:<https://leetcode.com/problems/jewels-and-stones/> "Jewels and Stones"
