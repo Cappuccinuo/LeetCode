@@ -322,6 +322,7 @@
 | 318  |  46  |                      [Permutations][46]                      |   Java   |   Medium   |       2018.4.8        |                  Backtracking                   |                                                             |
 | 319  | 716  |                       [Max Stack][716]                       |   Java   |    Hard    |       2018.4.11       |                  Stack, Design                  |                                                             |
 | 320  | 451  |              [Sort Character By Frequency][451]              |   Java   |   Medium   |       2018.4.11       |                  Heap, HashMap                  |                                                             |
+| 321  |  98  |              [Validate Binary Search Tree][98]               |   Java   |   Medium   |       2018.4.11       |                    DFS, Tree                    |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -381,6 +382,7 @@
 [92]:<https://leetcode.com/problems/reverse-linked-list-ii/> "Reverse Linked List Ⅱ"
 [94]:<https://leetcode.com/problems/binary-tree-inorder-traversal/> "Binary Tree Inorder Travelsal"
 [96]:<https://leetcode.com/problems/unique-binary-search-trees/> "Unique Binary Search Trees"
+[98]:<https://leetcode.com/problems/validate-binary-search-tree/> "Validate Binary Search Tree"
 [100]:<https://leetcode.com/problems/same-tree/> "Same Tree"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
 [102]:<https://leetcode.com/problems/binary-tree-level-order-traversal/> "Binary Tree Level Order Traversal"
