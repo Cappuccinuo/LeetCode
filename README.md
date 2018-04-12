@@ -321,6 +321,7 @@
 | 317  |  31  |                    [Next Permutation][31]                    |   Java   |   Medium   |       2018.4.8        |                      Array                      |                                                             |
 | 318  |  46  |                      [Permutations][46]                      |   Java   |   Medium   |       2018.4.8        |                  Backtracking                   |                                                             |
 | 319  | 716  |                       [Max Stack][716]                       |   Java   |    Hard    |       2018.4.11       |                  Stack, Design                  |                                                             |
+| 320  | 451  |              [Sort Character By Frequency][451]              |   Java   |   Medium   |       2018.4.11       |                  Heap, HashMap                  |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -542,6 +543,7 @@
 [445]:<https://leetcode.com/problems/add-two-numbers-ii/> "Add Two Numbers Ⅱ"
 [447]:<https://leetcode.com/problems/number-of-boomerangs/> "Number of Boomerangs"
 [448]:<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/> "Find All Numbers Disappeared in an Array"
+[451]:<https://leetcode.com/problems/sort-characters-by-frequency/> "Sort Characters by Frequency"
 [453]:<https://leetcode.com/problems/minimum-moves-to-equal-array-elements/> "Minimum Moves to Equal Array Elements"
 [454]:<https://leetcode.com/problems/4sum-ii/> "4Sum II"
 [455]:<https://leetcode.com/problems/assign-cookies/> "Assign-cookies"
