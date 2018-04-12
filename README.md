@@ -247,7 +247,7 @@
 | 243  | 620  |                   [Not Boring Movies][620]                   |   SQL    |    Easy    |      2017.12.30       |                    DataBase                     |                                                             |
 | 244  | 619  |                 [Biggest Single Number][619]                 |   SQL    |    Easy    |      2017.12.30       |                    DataBase                     |                                                             |
 | 245  | 226  |                  [Invert Binary Tree][226]                   |   Java   |    Easy    |      2017.12.30       |                      Tree                       |                     2018.1.11 2018.2.5                      |
-| 246  | 235  |    [Lowest Common Ancestor of a Binary Search Tree][235]     |   Java   |    Easy    |      2017.12.31       |                      Tree                       |                                                             |
+| 246  | 235  |    [Lowest Common Ancestor of a Binary Search Tree][235]     |   Java   |    Easy    |      2017.12.31       |                      Tree                       |                          2018.4.12                          |
 | 247  | 613  |              [Shortest Distance in a Line][613]              |   SQL    |    Easy    |      2017.12.31       |                    DataBase                     |                                                             |
 | 248  | 577  |                    [Employee Bonus][577]                     |   SQL    |    Easy    |      2017.12.31       |                    DataBase                     |                                                             |
 | 249  | 584  |                 [Find Customer Referee][584]                 |   SQL    |    Easy    |      2017.12.31       |                    DataBase                     |                                                             |
@@ -324,6 +324,7 @@
 | 320  | 451  |              [Sort Character By Frequency][451]              |   Java   |   Medium   |       2018.4.11       |                  Heap, HashMap                  |                                                             |
 | 321  |  98  |              [Validate Binary Search Tree][98]               |   Java   |   Medium   |       2018.4.11       |                    DFS, Tree                    |                                                             |
 | 322  | 763  |                   [Partition Labels][763]                    |   Java   |   Medium   |       2018.4.11       |              Greedy, Two Pointers               |                                                             |
+| 323  | 236  |        [Lowest Common Ancestor of a Binary Tree][236]        |   Java   |   Medium   |       2018.4.12       |                      Tree                       |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -471,6 +472,7 @@
 [232]:<https://leetcode.com/problems/implement-queue-using-stacks/> "Implement Stack Using Queues"
 [234]:<https://leetcode.com/problems/palindrome-linked-list/> "Palindrome Linked List"
 [235]:<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/> "Lowest Common Ancestor of a Binary Search Tree"
+[236]:<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree> "Lowest Common Ancestor of a binary tree"
 [237]:<https://leetcode.com/problems/delete-node-in-a-linked-list/> "Delete Node In a Linked List"
 [238]:<https://leetcode.com/problems/product-of-array-except-self/> "Product of Array Except Self"
 [242]:<https://leetcode.com/problems/valid-anagram/> "Valid Anagram"
