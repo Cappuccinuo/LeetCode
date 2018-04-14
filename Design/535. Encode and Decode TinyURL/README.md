@@ -4,6 +4,18 @@ Design the `encode` and `decode` methods for the TinyURL service. There is no re
 
 
 
+Using Counter
+
 1. Use a hashmap, key is the integer, value is the original URL for decoding.
 2. In encode part, we just use a counter, which is incremented for every new URL encountered.
 
+
+Using HashCode
+
+1. Use the url's hashcode as the key, and value is url itself. Still using HashMap.
+2. Same decoding way as before.
+
+Using Random Number
+
+1. We generate a random integer to be used as the code.
+2. The data is again stored in a hashmap to help.
