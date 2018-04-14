@@ -47,7 +47,7 @@
 |  43  | 141  |                   [Linked List Cycle][141]                   |   Java   |    Easy    |       2017.5.25       |            Linked List, Two Pointers            |          2017.12.15 2018.1.24 2018.2.10 2018.4.10           |
 |  44  | 142  |                  [Linked List Cycle Ⅱ][142]                  |   Java   |   Medium   |       2017.5.25       |            Linked List, Two Pointers            |                    2017.12.25 2018.2.10                     |
 |  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |           2017.12.23 2018.1.9 2018.2.10 2018.4.10           |
-|  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |               2017.12.23 2018.1.24 2018.2.11                |
+|  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |          2017.12.23 2018.1.24 2018.2.11 2018.4.13           |
 |  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |                    2017.12.26 2018.2.11                     |
 |  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |               2017.12.13 2018.1.26 2018.2.11                |
 |  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |   Java   |   Medium   |       2017.5.30       |                   Linked List                   |               2017.12.13 2018.1.26 2018.2.12                |
@@ -326,6 +326,7 @@
 | 322  | 763  |                   [Partition Labels][763]                    |   Java   |   Medium   |       2018.4.11       |              Greedy, Two Pointers               |                                                             |
 | 323  | 236  |        [Lowest Common Ancestor of a Binary Tree][236]        |   Java   |   Medium   |       2018.4.12       |                      Tree                       |                                                             |
 | 324  | 133  |                      [Clone Graph][133]                      |   Java   |   Medium   |       2018.4.12       |                 Graph, DFS, BFS                 |                                                             |
+| 325  | 535  |               [Encode and Decode TinyURL][535]               |   Java   |   Medium   |       2018.4.13       |                 HashTable, Math                 |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -573,6 +574,7 @@
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
+[535]:<https://leetcode.com/problems/encode-and-decode-tinyurl/> "Encode and Decode TinyURL"
 [537]:<https://leetcode.com/problems/complex-number-multiplication/> "Complex Number Multiplication"
 [538]:<https://leetcode.com/problems/convert-bst-to-greater-tree/> "Convert BST to greater tree"
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"

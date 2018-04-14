@@ -1,3 +1,97 @@
+// 2018.4.13
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
+        }
+        ListNode middle = findMiddle(head);
+        ListNode newHead = reverseList(middle.next);
+        ListNode originalHead = head;
+        while (originalHead != null 
+               && newHead != null 
+               && originalHead.val == newHead.val) {
+            originalHead = originalHead.next;
+            newHead = newHead.next;
+        }
+        return newHead == null;
+    }
+    
+    private ListNode findMiddle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+    
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        return prev;
+    }
+}
+
+
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
+        }
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        ListNode newHead = reverseList(slow);
+        slow.next = null;
+        return isPalindrome(head, newHead);
+    }
+    
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        return prev;
+    }
+    
+    private boolean isPalindrome(ListNode h1, ListNode h2) {
+        while (h1 != null && h2 != null) {
+            if (h1.val != h2.val) {
+                return false;
+            }
+            h1 = h1.next;
+            h2 = h2.next;
+        }
+        if ((h1 == null && h2 == null) || (h1.next == null && h2 == null)) {
+            return true;
+        }
+        return false;
+    }
+}
+
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
