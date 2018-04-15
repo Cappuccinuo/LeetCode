@@ -283,7 +283,7 @@
 | 279  | 300  |            [Longest Increasing Subsequence][300]             |   Java   |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                     2018.2.23 2018.3.2                      |
 | 280  | 143  |                     [Reorder List][143]                      |   Java   |   Medium   |       2018.2.12       |                   LinkedList                    |                                                             |
 | 281  | 379  |                [Design Phone Directory][379]                 |   Java   |   Medium   |       2018.2.12       |               LinkedList, Design                |                                                             |
-| 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                                                             |
+| 282  | 102  |           [Binary Tree Level Order Traversal][102]           |   Java   |   Medium   |       2018.2.13       |                    Tree, BFS                    |                          2018.4.14                          |
 | 283  | 138  |             [Copy List with Random Pointer][138]             |   Java   |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                                                             |
 | 284  | 161  |                   [One Edit Distance][161]                   |   Java   |   Medium   |       2018.2.20       |                     String                      |                                                             |
 | 285  | 384  |                   [Shuffle an Array][384]                    |   Java   |   Medium   |       2018.2.21       |                     Design                      |                                                             |
@@ -327,6 +327,7 @@
 | 323  | 236  |        [Lowest Common Ancestor of a Binary Tree][236]        |   Java   |   Medium   |       2018.4.12       |                      Tree                       |                                                             |
 | 324  | 133  |                      [Clone Graph][133]                      |   Java   |   Medium   |       2018.4.12       |                 Graph, DFS, BFS                 |                                                             |
 | 325  | 535  |               [Encode and Decode TinyURL][535]               |   Java   |   Medium   |       2018.4.13       |                 HashTable, Math                 |                                                             |
+| 326  | 817  |                [Linked List Components][817]                 |   Java   |   Medium   |       2018.4.14       |                   Linked List                   |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -622,7 +623,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
@@ -659,3 +660,4 @@
 [781]:<https://leetcode.com/problems/rabbits-in-forest/> "Rabbits in Forest"
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
+[817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
