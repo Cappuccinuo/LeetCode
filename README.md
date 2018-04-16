@@ -328,6 +328,7 @@
 | 324  | 133  |                      [Clone Graph][133]                      |   Java   |   Medium   |       2018.4.12       |                 Graph, DFS, BFS                 |                                                             |
 | 325  | 535  |               [Encode and Decode TinyURL][535]               |   Java   |   Medium   |       2018.4.13       |                 HashTable, Math                 |                                                             |
 | 326  | 817  |                [Linked List Components][817]                 |   Java   |   Medium   |       2018.4.14       |                   Linked List                   |                                                             |
+| 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                                                             |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -349,6 +350,7 @@
 [20]:<https://leetcode.com/problems/valid-parentheses/> "Valid Parentheses"
 [21]:<https://leetcode.com/problems/merge-two-sorted-lists/> "Merge Two Sorted Lists"
 [22]:<https://leetcode.com/problems/generate-parentheses/> "Generate Parentheses"
+[23]:<https://leetcode.com/problems/merge-k-sorted-lists/> "Merge K Sorted Lists"
 [24]:<https://leetcode.com/problems/swap-nodes-in-pairs/> "Swap Nodes In Pairs"
 [25]:<https://leetcode.com/problems/reverse-nodes-in-k-group/> "Reverse Nodes in k-groups"
 [26]:<https://leetcode.com/problems/remove-duplicates-from-sorted-array/> "Remove Duplicates from Sorted Array"
@@ -623,7 +625,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
