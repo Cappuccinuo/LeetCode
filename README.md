@@ -329,6 +329,7 @@
 | 325  | 535  |               [Encode and Decode TinyURL][535]               |   Java   |   Medium   |       2018.4.13       |                 HashTable, Math                 |                                                              |
 | 326  | 817  |                [Linked List Components][817]                 |   Java   |   Medium   |       2018.4.14       |                   Linked List                   |                                                              |
 | 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                                                              |
+| 328  | 325  |          [Maximum Size Subarray Sum Equals k][325]           |   Java   |   Medium   |       2018.4.16       |                     HashMap                     |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -508,6 +509,7 @@
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
+[325]:<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/> "Maximum Size Subarray Sum Equals K"
 [326]:<https://leetcode.com/problems/power-of-three/> "Power of Three"
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
