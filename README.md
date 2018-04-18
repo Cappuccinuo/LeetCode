@@ -46,7 +46,7 @@
 |  42  | 350  |             [Intersection of Two Arrays Ⅱ][350]              |   Java   |    Easy    |       2017.4.7        |                                                 |                                                              |
 |  43  | 141  |                   [Linked List Cycle][141]                   |   Java   |    Easy    |       2017.5.25       |            Linked List, Two Pointers            |           2017.12.15 2018.1.24 2018.2.10 2018.4.10           |
 |  44  | 142  |                  [Linked List Cycle Ⅱ][142]                  |   Java   |   Medium   |       2017.5.25       |            Linked List, Two Pointers            |                     2017.12.25 2018.2.10                     |
-|  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |           2017.12.23 2018.1.9 2018.2.10 2018.4.10            |
+|  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |      2017.12.23 2018.1.9 2018.2.10 2018.4.10 2018.4.17       |
 |  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |           2017.12.23 2018.1.24 2018.2.11 2018.4.13           |
 |  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |                     2017.12.26 2018.2.11                     |
 |  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |                2017.12.13 2018.1.26 2018.2.11                |
@@ -328,9 +328,10 @@
 | 324  | 133  |                      [Clone Graph][133]                      |   Java   |   Medium   |       2018.4.12       |                 Graph, DFS, BFS                 |                                                              |
 | 325  | 535  |               [Encode and Decode TinyURL][535]               |   Java   |   Medium   |       2018.4.13       |                 HashTable, Math                 |                                                              |
 | 326  | 817  |                [Linked List Components][817]                 |   Java   |   Medium   |       2018.4.14       |                   Linked List                   |                                                              |
-| 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                                                              |
+| 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                          2018.4.17                           |
 | 328  | 325  |          [Maximum Size Subarray Sum Equals k][325]           |   Java   |   Medium   |       2018.4.16       |                     HashMap                     |                                                              |
 | 329  | 165  |                [Compare Version Numbers][165]                |   Java   |   Medium   |       2018.4.16       |                     String                      |                                                              |
+| 330  |  5   |              [Longest Palindrome Substring][5]               |   Java   |   Medium   |       2018.4.17       |           String, Dynamic Programming           |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
