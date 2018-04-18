@@ -49,7 +49,7 @@
 |  45  | 160  |           [Intersection of Two Linked Lists][160]            |   Java   |    Easy    |       2017.5.25       |                   Linked List                   |      2017.12.23 2018.1.9 2018.2.10 2018.4.10 2018.4.17       |
 |  46  | 234  |                [Palindrome Linked List][234]                 |   Java   |    Easy    |       2017.5.26       |            Linked List, Two Pointers            |           2017.12.23 2018.1.24 2018.2.11 2018.4.13           |
 |  47  | 203  |              [Remove Linked List Elements][203]              |   Java   |    Easy    |       2017.5.27       |                   Linked List                   |                     2017.12.26 2018.2.11                     |
-|  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |                2017.12.13 2018.1.26 2018.2.11                |
+|  48  |  2   |                     [Add Two Numbers][2]                     |   Java   |   Medium   |       2017.5.27       |                Linked List, Math                |           2017.12.13 2018.1.26 2018.2.11 2018.4.17           |
 |  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |   Java   |   Medium   |       2017.5.30       |                   Linked List                   |                2017.12.13 2018.1.26 2018.2.12                |
 |  50  |  24  |                  [Swap Nodes in Pairs][24]                   |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |                          2017.12.25                          |
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |   Java   |   Medium   |       2017.6.2        |                   Linked List                   |                          2017.12.25                          |
@@ -135,8 +135,8 @@
 | 131  | 110  |                 [Balanced Binary Tree][110]                  |   Java   |    Easy    |       2017.11.5       |                    Tree, DFS                    |                          2017.12.31                          |
 | 132  | 168  |               [Excel Sheet Column Title][168]                |   Java   |    Easy    |       2017.11.5       |                      Math                       |                           2018.1.3                           |
 | 133  |  11  |               [Container With Most Water][11]                |   Java   |   Medium   |       2017.11.7       |               Array, Two Pointers               |                           2018.1.3                           |
-| 134  | 238  |             [Product of Array Except Self][238]              |   Java   |   Medium   |       2017.11.8       |                      Array                      |                           2018.1.4                           |
-| 135  |  5   |              [Longest Palindromic Substring][5]              |   Java   |   Medium   |      2017.11.11       |                     String                      |                      2018.1.3 2018.3.19                      |
+| 134  | 238  |             [Product of Array Except Self][238]              |   Java   |   Medium   |       2017.11.8       |                      Array                      |                      2018.1.4 2018.4.17                      |
+| 135  |  5   |              [Longest Palindromic Substring][5]              |   Java   |   Medium   |      2017.11.11       |                     String                      |                 2018.1.3 2018.3.19 2018.4.17                 |
 | 136  | 580  |          [Count Student Number in Departments][580]          |   SQL    |   Medium   |      2017.11.11       |                    Database                     |                           2018.1.2                           |
 | 137  | 243  |                [Shortest Word Distance][243]                 |   Java   |    Easy    |      2017.11.12       |                      Array                      |                           2018.1.2                           |
 | 138  | 661  |                    [Image Smoother][661]                     |   Java   |    Easy    |      2017.11.12       |                      Array                      |                           2018.1.3                           |
@@ -181,7 +181,7 @@
 | 177  | 259  |                     [3Sum Smaller][259]                      |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                          2018.3.29                           |
 | 178  |  18  |                          [4Sum][18]                          |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                              |
 | 179  | 454  |                        [4Sum II][454]                        |   Java   |   Medium   |       2017.12.8       |                Array, Hash Table                |                                                              |
-| 180  | 287  |               [Find the Duplicate Number][287]               |   Java   |   Medium   |       2017.12.8       |       Array, Two Pointers, Binary Search        |                          2018.3.31                           |
+| 180  | 287  |               [Find the Duplicate Number][287]               |   Java   |   Medium   |       2017.12.8       |       Array, Two Pointers, Binary Search        |                     2018.3.31 2018.4.17                      |
 | 181  |  80  |         [Remove Duplicates from Sorted Array II][80]         |   Java   |   Medium   |       2017.12.8       |               Array, Two Pointers               |                                                              |
 | 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |   Java   |    Easy    |       2017.12.9       |                    Tree, BFS                    |                     2018.2.13 2018.3.15                      |
 | 183  | 278  |                   [First Bad Version][278]                   |   Java   |    Easy    |       2017.12.9       |                  Binary Search                  |                          2018.3.22                           |
@@ -331,7 +331,6 @@
 | 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                          2018.4.17                           |
 | 328  | 325  |          [Maximum Size Subarray Sum Equals k][325]           |   Java   |   Medium   |       2018.4.16       |                     HashMap                     |                                                              |
 | 329  | 165  |                [Compare Version Numbers][165]                |   Java   |   Medium   |       2018.4.16       |                     String                      |                                                              |
-| 330  |  5   |              [Longest Palindrome Substring][5]               |   Java   |   Medium   |       2018.4.17       |           String, Dynamic Programming           |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
