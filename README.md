@@ -331,6 +331,7 @@
 | 327  |  23  |                  [Merge k Sorted Lists][23]                  |   Java   |    Hard    |       2018.4.15       |                Linked List, Heap                |                          2018.4.17                           |
 | 328  | 325  |          [Maximum Size Subarray Sum Equals k][325]           |   Java   |   Medium   |       2018.4.16       |                     HashMap                     |                                                              |
 | 329  | 165  |                [Compare Version Numbers][165]                |   Java   |   Medium   |       2018.4.16       |                     String                      |                                                              |
+| 330  | 285  |               [Inorder Successor in BST][285]                |   Java   |   Medium   |       2018.4.17       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -505,6 +506,7 @@
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
 [283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
+[285]:<https://leetcode.com/problems/inorder-successor-in-bst/> "Inorder Successor in BST"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
