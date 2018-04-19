@@ -31,7 +31,7 @@
 |  27  |  67  |                       [Add Binary][67]                       |   Java   |    Easy    |       2017.3.17       |                  Math, String                   |                          2017.12.13                          |
 |  28  |  69  |                        [Sqrt(x)][69]                         |   Java   |    Easy    |       2017.3.17       |                                                 |                          2018.3.22                           |
 |  29  |  88  |                   [Merge Sorted Array][88]                   |   Java   |    Easy    |       2017.3.21       |                                                 |                                                              |
-|  30  | 101  |                    [Symmetric Tree][101]                     |   Java   |    Easy    |       2017.3.21       |                      Tree                       |                      2018.1.1 2018.3.15                      |
+|  30  | 101  |                    [Symmetric Tree][101]                     |   Java   |    Easy    |       2017.3.21       |                      Tree                       |                 2018.1.1 2018.3.15 2018.4.19                 |
 |  31  | 119  |                  [Pascal's Triangle Ⅱ][119]                  |   Java   |    Easy    |       2017.3.22       |                                                 |                                                              |
 |  32  | 121  |            [Best Time to Buy and Sell Stock][121]            |   Java   |    Easy    |       2017.3.23       |           Array, Dynamic Programming            | 2017.12.17 2018.1.28 2018.2.21 2018.2.26 2018.4.13 2018.4.17 |
 |  33  | 122  |           [Best Time to Buy and Sell Stock Ⅱ][122]           |   Java   |    Easy    |       2017.3.23       |                  Array, Greedy                  |                     2017.12.18 2018.2.26                     |
@@ -72,7 +72,7 @@
 |  68  | 145  |            [Binary Tree Postorder Travelsal][145]            |   Java   |    Hard    |       2017.6.22       |                      Stack                      |                 2018.1.4 2018.2.13 2018.3.15                 |
 |  69  | 394  |                     [Decode String][394]                     |   Java   |   Medium   |       2017.6.27       |                      Stack                      |                           2018.1.9                           |
 |  70  | 341  |             [Flatten Nested List Iterator][341]              |   Java   |   Medium   |       2017.6.27       |                  Design, Stack                  |                      2018.1.8 2018.1.28                      |
-|  71  | 173  |              [Binary Search Tree Iterator][173]              |   Java   |   Medium   |       2017.6.27       |                      Stack                      |                 2017.12.31 2018.1.7 2018.3.5                 |
+|  71  | 173  |              [Binary Search Tree Iterator][173]              |   Java   |   Medium   |       2017.6.27       |                      Stack                      |            2017.12.31 2018.1.7 2018.3.5 2018.4.18            |
 |  72  | 155  |                       [Min Stack][155]                       |   Java   |    Easy    |       2017.7.4        |                      Stack                      |                      2018.3.7 2018.4.11                      |
 |  73  | 225  |             [Implement Stack using Queues][225]              |   Java   |    Easy    |       2017.7.5        |                      Stack                      |                          2018.2.27                           |
 |  74  | 232  |             [Implement Queue using Stacks][232]              |   Java   |    Easy    |       2017.7.5        |                      Queue                      |                          2018.2.27                           |
@@ -631,7 +631,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
