@@ -332,6 +332,7 @@
 | 328  | 325  |          [Maximum Size Subarray Sum Equals k][325]           |   Java   |   Medium   |       2018.4.16       |                     HashMap                     |                                                              |
 | 329  | 165  |                [Compare Version Numbers][165]                |   Java   |   Medium   |       2018.4.16       |                     String                      |                                                              |
 | 330  | 285  |               [Inorder Successor in BST][285]                |   Java   |   Medium   |       2018.4.17       |                      Tree                       |                                                              |
+| 331  | 323  | [Number of Connected Components in an Undirected Graph][323] |   Java   |   Medium   |       2018.4.20       |           Union Find, DFS, BFS, Graph           |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -513,6 +514,7 @@
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
+[323]:<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/> "Number of connected components in an undirected graph"
 [325]:<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/> "Maximum Size Subarray Sum Equals K"
 [326]:<https://leetcode.com/problems/power-of-three/> "Power of Three"
 
