@@ -1,3 +1,34 @@
+// 2018.4.19
+class Solution {
+    public boolean findTarget(TreeNode root, int k) {
+        if (root == null) {
+            return false;
+        }
+        Set<Integer> set = new HashSet();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode current = queue.poll();
+                if (set.contains(k - current.val)) {
+                    return true;
+                }
+                if (current.left != null) {
+                    queue.offer(current.left);
+                }
+                if (current.right != null) {
+                    queue.offer(current.right);
+                }
+                set.add(current.val);
+            }
+        }
+        return false;
+    }
+}
+
+
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
