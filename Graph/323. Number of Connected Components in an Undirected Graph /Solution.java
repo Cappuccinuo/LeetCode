@@ -51,3 +51,111 @@ class UnionFind {
         return count;
     }
 }
+
+
+
+
+class Solution {
+    public int countComponents(int n, int[][] edges) {
+        int row = edges.length;
+        
+        if (edges == null || row == 0 || n == 0) {
+            return n;
+        }
+        
+        List<List<Integer>> adjList = getAdjList(n, edges);
+        
+        boolean[] visited = new boolean[n];
+        
+        int count = 0;
+        
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                count++;
+                dfs(i, adjList, visited);
+            }
+        }
+        return count;
+    }
+    
+    private List<List<Integer>> getAdjList(int n, int[][] edges) {
+        List<List<Integer>> adjList = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adjList.add(new ArrayList<>());
+        }
+        
+        for (int[] edge : edges) {
+            int source = edge[0];
+            int destination = edge[1];
+            adjList.get(source).add(destination);
+            adjList.get(destination).add(source);
+        }
+        
+        return adjList;
+    }
+    
+    private void dfs(int start, List<List<Integer>> adjList, boolean[] visited) {
+        visited[start] = true;
+        List<Integer> neighbors = adjList.get(start);
+        for (int neighbor : neighbors) {
+            if (!visited[neighbor]) {
+                dfs(neighbor, adjList, visited);
+            }
+        }
+    }
+}
+
+
+
+class Solution {
+    public int countComponents(int n, int[][] edges) {
+        int row = edges.length;
+        if (n == 0 || row == 0 || edges == null) {
+            return n;
+        }
+        
+        List<List<Integer>> adjList = getAdjList(n, edges);
+        
+        boolean[] visited = new boolean[n];
+        
+        int count = 0;
+        
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                count++;
+                bfs(i, adjList, visited);
+            }
+        }
+        return count;
+    }
+    
+    private void bfs(int start, List<List<Integer>> adjList, boolean[] visited) {
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(start);
+        while (!queue.isEmpty()) {
+            int front = queue.poll();
+            visited[front] = true;
+            List<Integer> neighbors = adjList.get(front);
+            for (int neighbor : neighbors) {
+                if (!visited[neighbor]) {
+                    queue.offer(neighbor);
+                }
+            }
+        }
+    }
+    
+    private List<List<Integer>> getAdjList(int n, int[][] edges) {
+        List<List<Integer>> adjList = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adjList.add(new ArrayList<>());
+        }
+        
+        for (int[] edge : edges) {
+            int source = edge[0];
+            int destination = edge[1];
+            adjList.get(source).add(destination);
+            adjList.get(destination).add(source);
+        }
+        return adjList;
+    }
+}
