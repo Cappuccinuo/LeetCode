@@ -19,7 +19,7 @@
 |  15  |  7   |                     [Reverse Integer][7]                     |   Java   |    Easy    |       2017.3.9        |                                                 |                                                              |
 |  16  |  9   |                    [Palindrome Number][9]                    |   Java   |    Easy    |       2017.3.9        |                                                 |                                                              |
 |  17  |  14  |                 [Longest Common Prefix][14]                  |   Java   |    Easy    |       2017.3.9        |                     String                      |                          2017.12.24                          |
-|  18  |  20  |                   [Valid Parentheses][20]                    |   Java   |    Easy    |       2017.3.9        |                      Stack                      |                                                              |
+|  18  |  20  |                   [Valid Parentheses][20]                    |   Java   |    Easy    |       2017.3.9        |                      Stack                      |                          2018.4.23                           |
 |  19  |  26  |          [Remove Duplicates from Sorted Array][26]           |   Java   |    Easy    |       2017.3.10       |                   Linked List                   |                          2018.2.11                           |
 |  20  |  27  |                     [Remove Element][27]                     |   Java   |    Easy    |       2017.3.10       |                                                 |                                                              |
 |  21  |  28  |                   [Implement strStr()][28]                   |   Java   |    Easy    |       2017.3.15       |                     String                      |                          2018.3.17                           |
@@ -322,7 +322,7 @@
 | 318  |  46  |                      [Permutations][46]                      |   Java   |   Medium   |       2018.4.8        |                  Backtracking                   |                                                              |
 | 319  | 716  |                       [Max Stack][716]                       |   Java   |    Hard    |       2018.4.11       |                  Stack, Design                  |                                                              |
 | 320  | 451  |              [Sort Character By Frequency][451]              |   Java   |   Medium   |       2018.4.11       |                  Heap, HashMap                  |                                                              |
-| 321  |  98  |              [Validate Binary Search Tree][98]               |   Java   |   Medium   |       2018.4.11       |                    DFS, Tree                    |                                                              |
+| 321  |  98  |              [Validate Binary Search Tree][98]               |   Java   |   Medium   |       2018.4.11       |                    DFS, Tree                    |                          2018.4.21                           |
 | 322  | 763  |                   [Partition Labels][763]                    |   Java   |   Medium   |       2018.4.11       |              Greedy, Two Pointers               |                                                              |
 | 323  | 236  |        [Lowest Common Ancestor of a Binary Tree][236]        |   Java   |   Medium   |       2018.4.12       |                      Tree                       |                                                              |
 | 324  | 133  |                      [Clone Graph][133]                      |   Java   |   Medium   |       2018.4.12       |                 Graph, DFS, BFS                 |                                                              |
@@ -333,6 +333,7 @@
 | 329  | 165  |                [Compare Version Numbers][165]                |   Java   |   Medium   |       2018.4.16       |                     String                      |                                                              |
 | 330  | 285  |               [Inorder Successor in BST][285]                |   Java   |   Medium   |       2018.4.17       |                      Tree                       |                                                              |
 | 331  | 323  | [Number of Connected Components in an Undirected Graph][323] |   Java   |   Medium   |       2018.4.20       |           Union Find, DFS, BFS, Graph           |                                                              |
+| 332  |  48  |                      [Rotate Image][48]                      |   Java   |   Medium   |       2018.4.23       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -366,6 +367,7 @@
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [46]:<https://leetcode.com/problems/permutations/> "Permutations"
+[48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
 [50]:<https://leetcode.com/problems/powx-n/> "powx-n"
 [51]:<https://leetcode.com/problems/n-queens/> "N-Queens"
 [52]:<https://leetcode.com/problems/n-queens-ii/> "N-Queens II"
@@ -633,7 +635,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
