@@ -1,3 +1,158 @@
+// 2018.4.23
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        int len1 = getListLen(l1);
+        int len2 = getListLen(l2);
+        if (len1 < len2) {
+            l1 = paddingList(l1, len2 - len1);
+        }
+        if (len2 < len1) {
+            l2 = paddingList(l2, len1 - len2);
+        }
+        
+        return addHelper(l1, l2);
+    }
+    
+    private ListNode addHelper(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        Stack<Integer> stack = new Stack<>();
+        while (l1 != null && l2 != null) {
+            stack.push(l1.val);
+            stack.push(l2.val);
+            l1 = l1.next;
+            l2 = l2.next;
+        }
+        while (!stack.isEmpty()) {
+            int val1 = stack.pop();
+            int val2 = stack.pop();
+            int sum = val1 + val2 + dummy.val;
+            ListNode newNode = new ListNode(sum / 10);
+            dummy.val = sum % 10;
+            newNode.next = dummy;
+            dummy = newNode;
+        }
+        return dummy.val == 0 ? dummy.next : dummy;
+    }
+    
+    private int getListLen(ListNode head) {
+        int steps = 0;
+        while (head != null) {
+            steps++;
+            head = head.next;
+        }
+        return steps;
+    }
+    
+    private ListNode paddingList(ListNode head, int len) {
+        for (int i = 0; i < len; i++) {
+            head = insertBefore(head, 0);
+        }
+        return head;
+    }
+    
+    private ListNode insertBefore(ListNode head, int data) {
+        ListNode newNode = new ListNode(data);
+        newNode.next = head;
+        return newNode;
+    }
+}
+
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        int len1 = getListLen(l1);
+        int len2 = getListLen(l2);
+        if (len1 < len2) {
+            l1 = paddingList(l1, len2 - len1);
+        }
+        if (len2 < len1) {
+            l2 = paddingList(l2, len1 - len2);
+        }
+        
+        PartialSum ps = addHelper(l1, l2);
+        if (ps.carry != 0) {
+            ListNode result = insertBefore(ps.sum, ps.carry);
+            return result;
+        }
+        else {
+            return ps.sum;
+        }
+    }
+    
+    private PartialSum addHelper(ListNode l1, ListNode l2) {
+        if (l1 == null && l2 == null) {
+            PartialSum ps = new PartialSum();
+            return ps;
+        }
+        PartialSum next = addHelper(l1.next, l2.next);
+        int sum = l1.val + l2.val + next.carry;
+        ListNode newNode = insertBefore(next.sum, sum % 10);
+        next.sum = newNode;
+        next.carry = sum / 10;
+        return next;
+    }
+    
+    private int getListLen(ListNode head) {
+        int steps = 0;
+        while (head != null) {
+            steps++;
+            head = head.next;
+        }
+        return steps;
+    }
+    
+    private ListNode paddingList(ListNode head, int len) {
+        for (int i = 0; i < len; i++) {
+            head = insertBefore(head, 0);
+        }
+        return head;
+    }
+    
+    private ListNode insertBefore(ListNode head, int data) {
+        ListNode newNode = new ListNode(data);
+        newNode.next = head;
+        return newNode;
+    }
+}
+
+class PartialSum {
+    ListNode sum = null;
+    int carry = 0;
+}
+
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        ListNode h1 = reverseList(l1);
+        ListNode h2 = reverseList(l2);
+        int carry = 0;
+        while (h1 != null || h2 != null || carry != 0) {
+            int val1 = h1 == null ? 0 : h1.val;
+            int val2 = h2 == null ? 0 : h2.val;
+            int sum = val1 + val2 + carry;
+            ListNode currentNode = new ListNode(sum % 10);
+            carry = sum / 10;
+            current.next = currentNode;
+            current = current.next;
+            h1 = h1 == null ? h1 : h1.next;
+            h2 = h2 == null ? h2 : h2.next;
+        }
+        return reverseList(dummy.next);
+    }
+    
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode current = head;
+        while (current != null) {
+            ListNode nextNode = current.next;
+            current.next = prev;
+            prev = current;
+            current = nextNode;
+        }
+        return prev;
+    }
+}
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
