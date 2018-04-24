@@ -1,3 +1,51 @@
+// 2018.4.24
+class Solution {
+    public double myPow(double x, int n) {
+        long num = (long)n;
+        return myPowHelper(x, num);
+    }
+    
+    private double myPowHelper(double x, long n) {
+        if (n == 0) {
+            return 1;
+        }
+        if (n < 0) {
+            x = 1 / x;
+            n = -n;
+        }
+        return n % 2 == 0 ? myPowHelper(x * x, n / 2) : x * myPowHelper(x * x, n / 2);
+    }
+}
+
+class Solution {
+    public double myPow(double x, int n) {
+        if (n == 0) {
+            return 1;
+        }
+        long num = (long)n;
+        if (num < 0) {
+            x = 1 / x;
+            num = -num;
+        }
+        
+        double result = 1;
+        double current = x;
+        
+        while (num != 0) {
+            if (num % 2 == 1) {
+                result *= current;
+            }
+            current = current * current;
+            num = num / 2;
+        }
+        return result;
+    }
+}
+
+
+
+
+
 // 2018. 3. 19
 class Solution {
     public double myPow(double x, int n) {
