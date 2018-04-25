@@ -30,7 +30,7 @@
 |  26  |  66  |                        [Plus One][66]                        |   Java   |    Easy    |       2017.3.17       |                   Math. Array                   |                          2017.12.14                          |
 |  27  |  67  |                       [Add Binary][67]                       |   Java   |    Easy    |       2017.3.17       |                  Math, String                   |                          2017.12.13                          |
 |  28  |  69  |                        [Sqrt(x)][69]                         |   Java   |    Easy    |       2017.3.17       |                                                 |                          2018.3.22                           |
-|  29  |  88  |                   [Merge Sorted Array][88]                   |   Java   |    Easy    |       2017.3.21       |                                                 |                                                              |
+|  29  |  88  |                   [Merge Sorted Array][88]                   |   Java   |    Easy    |       2017.3.21       |               Array, Two Pointer                |                          2018.4.24                           |
 |  30  | 101  |                    [Symmetric Tree][101]                     |   Java   |    Easy    |       2017.3.21       |                      Tree                       |                 2018.1.1 2018.3.15 2018.4.19                 |
 |  31  | 119  |                  [Pascal's Triangle Ⅱ][119]                  |   Java   |    Easy    |       2017.3.22       |                                                 |                                                              |
 |  32  | 121  |            [Best Time to Buy and Sell Stock][121]            |   Java   |    Easy    |       2017.3.23       |           Array, Dynamic Programming            | 2017.12.17 2018.1.28 2018.2.21 2018.2.26 2018.4.13 2018.4.17 |
@@ -118,7 +118,7 @@
 | 114  | 690  |                  [Employee Importance][690]                  |   Java   |    Easy    |      2017.10.11       |                       DFS                       |                                                              |
 | 115  | 695  |                  [Max Area of Island][695]                   |   Java   |    Easy    |      2017.10.12       |                       DFS                       |                          2018.1.18                           |
 | 116  | 693  |          [Binary Number with Alternating Bits][693]          |   Java   |    Easy    |      2017.10.12       |                Bit Manipulation                 |                                                              |
-| 117  | 347  |                [Top K Frequent Element][347]                 |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |                2017.12.16 2018.2.22 2018.2.26                |
+| 117  | 347  |                [Top K Frequent Element][347]                 |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |           2017.12.16 2018.2.22 2018.2.26 2018.4.24           |
 | 118  | 692  |                 [Top K Frequent Words][692]                  |   Java   |   Medium   |      2017.10.14       |                Hash Table, Heap                 |                                                              |
 | 119  | 657  |                  [Judge Route Circle][657]                   |   Java   |    Easy    |      2017.10.17       |                     String                      |                                                              |
 | 120  | 303  |              [Range Sum Query - Immutable][303]              |   Java   |    Easy    |      2017.10.18       |               Dynamic Programming               |                2017.12.19 2018.1.29 2018.2.22                |
@@ -186,7 +186,7 @@
 | 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |   Java   |    Easy    |       2017.12.9       |                    Tree, BFS                    |                2018.2.13 2018.3.15 2018.4.24                 |
 | 183  | 278  |                   [First Bad Version][278]                   |   Java   |    Easy    |       2017.12.9       |                  Binary Search                  |                          2018.3.22                           |
 | 184  | 744  |       [Find Smallest Letter Greater Than Target][744]        |   Java   |    Easy    |       2017.12.9       |                                                 |                                                              |
-| 185  |  17  |         [Letter Combinations of a Phone Number][17]          |   Java   |   Medium   |      2017.12.10       |              String, Backtracking               |                                                              |
+| 185  |  17  |         [Letter Combinations of a Phone Number][17]          |   Java   |   Medium   |      2017.12.10       |              String, Backtracking               |                          2018.4.24                           |
 | 186  | 151  |               [Reverse Words in a String][151]               |   Java   |   Medium   |      2017.12.10       |                     String                      |                          2018.2.16                           |
 | 187  | 186  |             [Reverse Words in a String II][186]              |   Java   |   Medium   |      2017.12.10       |                     String                      |                     2018.2.16 2018.4.16                      |
 | 188  |  22  |                  [Generate Parentheses][22]                  |   Java   |   Medium   |      2017.12.10       |              String, Backtracking               |                                                              |
@@ -336,6 +336,8 @@
 | 332  |  48  |                      [Rotate Image][48]                      |   Java   |   Medium   |       2018.4.23       |                      Array                      |                                                              |
 | 333  | 680  |                  [Valid Palindrome II][680]                  |   Java   |    Easy    |       2018.4.24       |                     String                      |                                                              |
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |   Java   |   Medium   |       2018.4.24       |                Array, Hash Table                |                                                              |
+| 335  |  39  |                    [Combination Sum][39]                     |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
+| 336  |  40  |                   [Combination Sum II][40]                   |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -367,6 +369,8 @@
 [33]:<https://leetcode.com/problems/search-in-rotated-sorted-array/> "Search in Rotated Sorted Array"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
+[39]:<https://leetcode.com/problems/combination-sum/> "Combination Sum"
+[40]:<https://leetcode.com/problems/combination-sum-ii/> "Combination Sum II"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [46]:<https://leetcode.com/problems/permutations/> "Permutations"
 [48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
