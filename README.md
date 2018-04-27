@@ -338,6 +338,7 @@
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |   Java   |   Medium   |       2018.4.24       |                Array, Hash Table                |                                                              |
 | 335  |  39  |                    [Combination Sum][39]                     |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
 | 336  |  40  |                   [Combination Sum II][40]                   |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
+| 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |   Java   |   Medium   |       2018.4.26       |              Array, Binary Search               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -438,6 +439,7 @@
 [148]:<https://leetcode.com/problems/sort-list/> "Sort List"
 [151]:<https://leetcode.com/problems/reverse-words-in-a-string/> "Reverse Words in a String"
 [152]:<https://leetcode.com/problems/maximum-product-subarray/> "Maximum Product Subarray"
+[153]:<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/> "Find Minimum in Rotated Sorted Array"
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
