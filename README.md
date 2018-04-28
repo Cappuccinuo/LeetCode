@@ -339,6 +339,7 @@
 | 335  |  39  |                    [Combination Sum][39]                     |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
 | 336  |  40  |                   [Combination Sum II][40]                   |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
 | 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |   Java   |   Medium   |       2018.4.26       |              Array, Binary Search               |                                                              |
+| 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |   Java   |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -416,6 +417,7 @@
 [110]:<https://leetcode.com/problems/balanced-binary-tree/> "Balanced Binary Tree"
 [111]:<https://leetcode.com/problems/minimum-depth-of-binary-tree/> "Minimum Depth of Binary Tree"
 [112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
+[114]:<https://leetcode.com/problems/flatten-binary-tree-to-linked-list/> "Flatten Binary Tree to Linked List"
 [116]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/> "Populating next right pointers in each node"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
@@ -644,7 +646,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
