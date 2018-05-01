@@ -206,7 +206,7 @@
 | 202  | 215  |            [Kth Largest Element in an Array][215]            |   Java   |   Medium   |      2017.12.16       |            Divide and Conquer, Heap             |                           2018.4.2                           |
 | 203  | 748  |               [Shortest Completing Word][748]                |   Java   |    Easy    |      2017.12.16       |                   Hash Table                    |                                                              |
 | 204  | 740  |                    [Delete and Earn][740]                    |   Java   |   Medium   |       2017.12.6       |               Dynamic Programming               |                     2017.12.17 2018.1.9                      |
-| 205  | 746  |               [Min Cost Climbing Stairs][746]                |   Java   |    Easy    |      2017.12.17       |               Dynamic Programming               |                2018.1.27 2018.2.21 2018.4.12                 |
+| 205  | 746  |               [Min Cost Climbing Stairs][746]                |   Java   |    Easy    |      2017.12.17       |               Dynamic Programming               |            2018.1.27 2018.2.21 2018.4.12 2018.5.1            |
 | 206  | 276  |                      [Paint House][276]                      |   Java   |    Easy    |      2017.12.17       |               Dynamic Programming               |                          2018.1.29                           |
 | 207  |  91  |                      [Decode Ways][91]                       |   Java   |   Medium   |      2017.12.18       |               Dynamic Programming               |                                                              |
 | 208  | 213  |                    [House Robber II][213]                    |   Java   |   Medium   |      2017.12.19       |               Dynamic Programming               |                                                              |
@@ -646,7 +646,7 @@
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
-[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
+[671]:&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;>
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
