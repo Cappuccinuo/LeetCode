@@ -340,6 +340,7 @@
 | 336  |  40  |                   [Combination Sum II][40]                   |   Java   |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
 | 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |   Java   |   Medium   |       2018.4.26       |              Array, Binary Search               |                                                              |
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |   Java   |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |
+| 339  | 824  |                      [Goat Latin][824]                       |   Java   |    Easy    |       2018.5.2        |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -685,3 +686,4 @@
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
+[824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
