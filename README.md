@@ -342,6 +342,7 @@
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |   Java   |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |
 | 339  | 824  |                      [Goat Latin][824]                       |   Java   |    Easy    |       2018.5.2        |                     String                      |                                                              |
 | 340  | 444  |                [Sequence Reconstruction][444]                |   Java   |   Medium   |       2018.5.3        |             Graph, Topological Sort             |                                                              |
+| 341  | 397  |                  [Integer Replacement][397]                  |   Java   |   Medium   |       2018.5.3        |             Math, Bit Manipulation              |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -558,6 +559,7 @@
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
 [394]:<https://leetcode.com/problems/decode-string/> "Decode String"
+[397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
