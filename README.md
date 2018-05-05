@@ -343,6 +343,8 @@
 | 339  | 824  |                      [Goat Latin][824]                       |     Java     |    Easy    |       2018.5.2        |                     String                      |                                                              |
 | 340  | 444  |                [Sequence Reconstruction][444]                |     Java     |   Medium   |       2018.5.3        |             Graph, Topological Sort             |                                                              |
 | 341  | 397  |                  [Integer Replacement][397]                  |     Java     |   Medium   |       2018.5.3        |             Math, Bit Manipulation              |                                                              |
+| 342  | 137  |                   [Single Number II][137]                    |     Java     |   Medium   |       2018.5.4        |          HashTable, Bit Manipulation、          |                                                              |
+| 343  | 742  |             [Closest Leaf in a Binary Tree][742]             |     Java     |   Medium   |       2018.5.5        |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -678,6 +680,7 @@
 [738]:<https://leetcode.com/problems/monotone-increasing-digits/> "Monotone Incresing Digits"
 [739]:<https://leetcode.com/problems/daily-temperatures/> "Daily Temperatures"
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
+[742]:<https://leetcode.com/problems/closest-leaf-in-a-binary-tree> "Closest Leaf In A Binary Tree"
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
