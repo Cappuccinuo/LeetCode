@@ -156,7 +156,7 @@
 | 152  | 252  |                     [Meeting Rooms][252]                     |     Java     |    Easy    |      2017.11.25       |                      Sort                       |                                                              |
 | 153  | 504  |                        [Base 7][504]                         |     Java     |    Easy    |      2017.11.25       |                      Math                       |                           2018.2.3                           |
 | 154  | 477  |                [Total Hamming Distance][477]                 |     Java     |    Easy    |      2017.11.25       |             Math, Bit manipulation              |                                                              |
-| 155  | 112  |                       [Path Sum][112]                        |     Java     |    Easy    |      2017.11.25       |                    Tree, DFS                    |                          2018.3.15                           |
+| 155  | 112  |                       [Path Sum][112]                        |     Java     |    Easy    |      2017.11.25       |                    Tree, DFS                    |                      2018.3.15 2018.5.6                      |
 | 156  | 734  |                  [Sentence Similarity][734]                  |     Java     |    Easy    |      2017.11.25       |                   Hash Table                    |                                                              |
 | 157  | 733  |                      [Flood Fill][733]                       |     Java     |    Easy    |      2017.11.25       |                       DFS                       |                                                              |
 | 158  | 735  |                  [Asteroid Collision][735]                   |     Java     |   Medium   |      2017.11.26       |                      Stack                      |                                                              |
@@ -345,6 +345,7 @@
 | 341  | 397  |                  [Integer Replacement][397]                  |     Java     |   Medium   |       2018.5.3        |             Math, Bit Manipulation              |                                                              |
 | 342  | 137  |                   [Single Number II][137]                    |     Java     |   Medium   |       2018.5.4        |          HashTable, Bit Manipulation、          |                                                              |
 | 343  | 742  |             [Closest Leaf in a Binary Tree][742]             |     Java     |   Medium   |       2018.5.5        |                      Tree                       |                                                              |
+| 344  | 113  |                      [Path Sum II][113]                      |     Java     |   Medium   |       2018.5.6        |                    Tree, DFS                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -422,6 +423,7 @@
 [110]:<https://leetcode.com/problems/balanced-binary-tree/> "Balanced Binary Tree"
 [111]:<https://leetcode.com/problems/minimum-depth-of-binary-tree/> "Minimum Depth of Binary Tree"
 [112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
+[113]:<https://leetcode.com/problems/path-sum-ii> "Path Sum II"
 [114]:<https://leetcode.com/problems/flatten-binary-tree-to-linked-list/> "Flatten Binary Tree to Linked List"
 [116]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/> "Populating next right pointers in each node"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
