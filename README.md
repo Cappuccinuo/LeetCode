@@ -347,6 +347,7 @@
 | 343  | 742  |             [Closest Leaf in a Binary Tree][742]             |     Java     |   Medium   |       2018.5.5        |                      Tree                       |                                                              |
 | 344  | 113  |                      [Path Sum II][113]                      |     Java     |   Medium   |       2018.5.6        |                    Tree, DFS                    |                                                              |
 | 345  |  95  |              [Unique Binary Search Tree II][95]              |     Java     |   Medium   |       2018.5.9        |            Tree, Divide and Conquar             |                                                              |
+| 346  | 199  |              [Binary Tree Right Side View][199]              |     Java     |   Medium   |       2018.5.10       |                    Tree, BFS                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -481,6 +482,7 @@
 [196]:<https://leetcode.com/problems/delete-duplicate-emails/> "Delete Duplicate Emails"
 [197]:<https://leetcode.com/problems/rising-temperature/> "Rising Temperature"
 [198]:<https://leetcode.com/problems/house-robber/> "House Robber"
+[199]:<https://leetcode.com/problems/binary-tree-right-side-view/> "Binary Tree Right Side View"
 [200]:<https://leetcode.com/problems/number-of-islands/> "Number of Islands"
 [202]:<https://leetcode.com/problems/happy-number/> "Happy Number"
 [203]:<https://leetcode.com/problems/remove-linked-list-elements/> "Remove linked list elements"
