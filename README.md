@@ -348,6 +348,7 @@
 | 344  | 113  |                      [Path Sum II][113]                      |     Java     |   Medium   |       2018.5.6        |                    Tree, DFS                    |                                                              |
 | 345  |  95  |              [Unique Binary Search Tree II][95]              |     Java     |   Medium   |       2018.5.9        |            Tree, Divide and Conquar             |                                                              |
 | 346  | 199  |              [Binary Tree Right Side View][199]              |     Java     |   Medium   |       2018.5.10       |                    Tree, BFS                    |                                                              |
+| 347  | 370  |                    [Range Addition][370]                     |     Java     |   Meidum   |       2018.5.11       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -559,6 +560,7 @@
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
 [366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
 [369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
+[370]:<https://leetcode.com/problems/range-addition> "Range Addition"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
 [379]:<https://leetcode.com/problems/design-phone-directory/> "Design Phone Directory"
