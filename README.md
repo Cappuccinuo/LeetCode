@@ -349,6 +349,7 @@
 | 345  |  95  |              [Unique Binary Search Tree II][95]              |     Java     |   Medium   |       2018.5.9        |            Tree, Divide and Conquar             |                                                              |
 | 346  | 199  |              [Binary Tree Right Side View][199]              |     Java     |   Medium   |       2018.5.10       |                    Tree, BFS                    |                                                              |
 | 347  | 370  |                    [Range Addition][370]                     |     Java     |   Meidum   |       2018.5.11       |                      Array                      |                                                              |
+| 348  | 406  |            [Queue Reconstruction by Height][406]             |     Java     |   Medium   |       2018.5.11       |                     Greedy                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -572,6 +573,7 @@
 [397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
+[406]:<https://leetcode.com/problems/queue-reconstruction-by-height> "Queue Reconstruction by Height"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
 [413]:<https://leetcode.com/problems/arithmetic-slices/> "Arithmetic Slices"
