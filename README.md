@@ -350,6 +350,7 @@
 | 346  | 199  |              [Binary Tree Right Side View][199]              |     Java     |   Medium   |       2018.5.10       |                    Tree, BFS                    |                                                              |
 | 347  | 370  |                    [Range Addition][370]                     |     Java     |   Meidum   |       2018.5.11       |                      Array                      |                                                              |
 | 348  | 406  |            [Queue Reconstruction by Height][406]             |     Java     |   Medium   |       2018.5.11       |                     Greedy                      |                                                              |
+| 349  | 531  |                    [Lonely Pixel I][531]                     |     Java     |   Medium   |       2018.5.11       |                   Array, DFS                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -557,6 +558,7 @@
 [347]:<https://leetcode.com/problems/top-k-frequent-elements/> "Top K Frequent Elements"
 [349]:<https://leetcode.com/problems/intersection-of-two-arrays/> "Intersection of Two Arrays"
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
+[351]:<https://leetcode.com/problems/lonely-pixel-i> "Lonely Pixel I"
 [357]:<https://leetcode.com/problems/count-numbers-with-unique-digits/> "Count Numbers With Unique Digits"
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
 [366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
