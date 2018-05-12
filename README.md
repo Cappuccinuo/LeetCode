@@ -351,6 +351,7 @@
 | 347  | 370  |                    [Range Addition][370]                     |     Java     |   Meidum   |       2018.5.11       |                      Array                      |                                                              |
 | 348  | 406  |            [Queue Reconstruction by Height][406]             |     Java     |   Medium   |       2018.5.11       |                     Greedy                      |                                                              |
 | 349  | 531  |                    [Lonely Pixel I][531]                     |     Java     |   Medium   |       2018.5.11       |                   Array, DFS                    |                                                              |
+| 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -532,6 +533,7 @@
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
+[281]:<https://leetcode.com/problems/zigzag-iterator> "Zigzag Iterator"
 [283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
 [285]:<https://leetcode.com/problems/inorder-successor-in-bst/> "Inorder Successor in BST"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
