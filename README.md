@@ -352,6 +352,7 @@
 | 348  | 406  |            [Queue Reconstruction by Height][406]             |     Java     |   Medium   |       2018.5.11       |                     Greedy                      |                                                              |
 | 349  | 531  |                    [Lonely Pixel I][531]                     |     Java     |   Medium   |       2018.5.11       |                   Array, DFS                    |                                                              |
 | 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                                                              |
+| 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -618,6 +619,7 @@
 [518]:<https://leetcode.com/problems/coin-change-2/> "Coin Change 2"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
+[530]:<https://leetcode.com/problems/minimum-absolute-difference-in-bst/> "Minimum Absolute Difference in BST"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
 [535]:<https://leetcode.com/problems/encode-and-decode-tinyurl/> "Encode and Decode TinyURL"
 [537]:<https://leetcode.com/problems/complex-number-multiplication/> "Complex Number Multiplication"
