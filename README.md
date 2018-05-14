@@ -354,6 +354,7 @@
 | 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                                                              |
 | 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |
 | 352  | 506  |                    [Relative Ranks][506]                     |     Java     |    Easy    |       2018.5.14       |                      Array                      |                                                              |
+| 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -542,6 +543,7 @@
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
+[298]:<https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/> "Binary Tree Longest Consecutive Sequence"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
 [323]:<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/> "Number of connected components in an undirected graph"
