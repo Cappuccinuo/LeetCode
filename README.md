@@ -6,7 +6,7 @@
 |  2   | 412  |                       [Fizz Buzz][412]                       |    Python    |    Easy    |       2017.1.7        |                     String                      |                          2018.1.14                           |
 |  3   | 344  |                    [Reverse String][344]                     |     Java     |    Easy    |       2017.1.7        |              Two Pointers, String               |                           2018.1.8                           |
 |  4   | 463  |                   [Island Perimeter][463]                    |    Python    |    Easy    |       2017.1.8        |                      Array                      |                          2018.1.19                           |
-|  5   | 448  |       [Find All Numbers Disappeared in an array][448]        |     Java     |    Easy    |       2017.1.8        |                      Array                      |                          2018.1.10                           |
+|  5   | 448  |       [Find All Numbers Disappeared in an array][448]        |     Java     |    Easy    |       2017.1.8        |                      Array                      |                     2018.1.10 2018.5.14                      |
 |  6   | 136  |                     [Single Number][136]                     | Python, Java |    Easy    |       2017.1.10       |          Hash Table, Bit Manipulation           |                           2018.5.4                           |
 |  7   | 371  |                  [Sum of Two Integers][371]                  |     Java     |    Easy    |       2017.1.10       |                                                 |                                                              |
 |  8   | 389  |                  [Find the difference][389]                  |     Java     |    Easy    |       2017.1.11       |                                                 |                                                              |
@@ -353,6 +353,7 @@
 | 349  | 531  |                    [Lonely Pixel I][531]                     |     Java     |   Medium   |       2018.5.11       |                   Array, DFS                    |                                                              |
 | 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                                                              |
 | 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |
+| 352  | 506  |                    [Relative Ranks][506]                     |     Java     |    Easy    |       2018.5.14       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -613,6 +614,7 @@
 [501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
+[506]:<https://leetcode.com/problems/relative-ranks> "Relative Ranks"
 [513]:<https://leetcode.com/problems/find-bottom-left-tree-value/> "Find Bottom Left Tree Value"
 [515]:<https://leetcode.com/problems/find-largest-value-in-each-tree-row/> "Find Largest Value in Each Tree Row"
 [516]:<https://leetcode.com/problems/longest-palindromic-subsequence/> "Longest Palindromic Subsequence"
