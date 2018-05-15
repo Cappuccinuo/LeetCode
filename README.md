@@ -355,6 +355,7 @@
 | 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |
 | 352  | 506  |                    [Relative Ranks][506]                     |     Java     |    Easy    |       2018.5.14       |                      Array                      |                                                              |
 | 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |
+| 354  | 378  |        [Kth Smallest Element in a Sorted Matrix][378]        |     Java     |   Medium   |       2018.5.15       |               Binary Search, Heap               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -572,6 +573,7 @@
 [370]:<https://leetcode.com/problems/range-addition> "Range Addition"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
+[378]:<https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/> "Kth smallest element in a sorted matrix"
 [379]:<https://leetcode.com/problems/design-phone-directory/> "Design Phone Directory"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
 [384]:<https://leetcode.com/problems/shuffle-an-array/> "Shuffle an array"
