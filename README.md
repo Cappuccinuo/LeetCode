@@ -357,6 +357,7 @@
 | 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |
 | 354  | 378  |        [Kth Smallest Element in a Sorted Matrix][378]        |     Java     |   Medium   |       2018.5.15       |               Binary Search, Heap               |                                                              |
 | 355  | 665  |                 [Non-decreasing Array][665]                  |     Java     |    Easy    |       2018.5.15       |                      Array                      |                                                              |
+| 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -684,6 +685,7 @@
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
 [680]:<https://leetcode.com/problems/valid-palindrome-ii/> "Valid Palindrome II"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
+[686]:<https://leetcode.com/problems/repeated-string-match/> "Repeated String Match"
 [687]:<https://leetcode.com/problems/longest-univalue-path/> "Longest Univalue Path"
 [690]:<https://leetcode.com/problems/employee-importance/> "Employee Importance"
 [692]:<https://leetcode.com/problems/top-k-frequent-words/> "Top K Frequent Words"
