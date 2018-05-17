@@ -358,6 +358,7 @@
 | 354  | 378  |        [Kth Smallest Element in a Sorted Matrix][378]        |     Java     |   Medium   |       2018.5.15       |               Binary Search, Heap               |                                                              |
 | 355  | 665  |                 [Non-decreasing Array][665]                  |     Java     |    Easy    |       2018.5.15       |                      Array                      |                                                              |
 | 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
+| 357  | 422  |                   [Valid Word Square][422]                   |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -593,6 +594,7 @@
 [415]:<https://leetcode.com/problems/add-strings/> "Add Strings"
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
 [421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
+[422]:<https://leetcode.com/problems/valid-word-square/> "Valid Word Square"
 [434]:<https://leetcode.com/problems/number-of-segments-in-a-string/> "Number of Segments in a String"
 [435]:<https://leetcode.com/problems/non-overlapping-intervals/> "Non-overlapping Intervals"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
