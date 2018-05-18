@@ -357,9 +357,10 @@
 | 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |
 | 354  | 378  |        [Kth Smallest Element in a Sorted Matrix][378]        |     Java     |   Medium   |       2018.5.15       |               Binary Search, Heap               |                                                              |
 | 355  | 665  |                 [Non-decreasing Array][665]                  |     Java     |    Easy    |       2018.5.15       |                      Array                      |                                                              |
-| 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
+| 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                          2018.5.18                           |
 | 357  | 422  |                   [Valid Word Square][422]                   |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
 | 358  | 361  |                      [Bomb Enemy][361]                       |     Java     |   Medium   |       2018.5.17       |               Dynamic Programming               |                                                              |
+| 359  | 482  |                 [License Key Formating][482]                 |     Java     |    Easy    |       2018.5.18       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -618,6 +619,7 @@
 [463]:<https://leetcode.com/problems/island-perimeter/> "Island Perimeter"
 [476]:<https://leetcode.com/problems/number-complement/> "Number Complement"
 [477]:<https://leetcode.com/problems/total-hamming-distance/> "Total Hamming Distance"
+[482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
