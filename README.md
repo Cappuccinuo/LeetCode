@@ -359,6 +359,7 @@
 | 355  | 665  |                 [Non-decreasing Array][665]                  |     Java     |    Easy    |       2018.5.15       |                      Array                      |                                                              |
 | 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
 | 357  | 422  |                   [Valid Word Square][422]                   |     Java     |    Easy    |       2018.5.17       |                     String                      |                                                              |
+| 358  | 361  |                      [Bomb Enemy][361]                       |     Java     |   Medium   |       2018.5.17       |               Dynamic Programming               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -570,6 +571,7 @@
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [351]:<https://leetcode.com/problems/lonely-pixel-i> "Lonely Pixel I"
 [357]:<https://leetcode.com/problems/count-numbers-with-unique-digits/> "Count Numbers With Unique Digits"
+[361]:<https://leetcode.com/problems/bomb-enemy/> "Bomb Enemy"
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
 [366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
 [369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
