@@ -54,3 +54,40 @@ class Solution {
         array[j] = temp;
     }
 }
+
+class Solution {
+    public boolean isStrobogrammatic(String num) {
+        if (num == null || num.length() == 0) {
+            return true;
+        }
+        Set<Character> set = new HashSet();
+        set.add('0');
+        set.add('1');
+        set.add('6');
+        set.add('8');
+        set.add('9');
+        char[] array = num.toCharArray();
+        for (int i = 0; i <= array.length / 2; i++) {
+            int next = array.length - i - 1;
+            if (array[i] == '8' && array[next] != '8') {
+                return false;
+            }
+            if (array[i] == '0' && array[next] != '0') {
+                return false;
+            }
+            if (array[i] == '1' && array[next] != '1') {
+                return false;
+            }
+            if (array[i] == '6' && array[next] != '9') {
+                return false;
+            }
+            if (array[i] == '9' && array[next] != '6') {
+                return false;
+            }
+            if (!set.contains(array[i])) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
