@@ -362,6 +362,8 @@
 | 358  | 361  |                      [Bomb Enemy][361]                       |     Java     |   Medium   |       2018.5.17       |               Dynamic Programming               |                                                              |
 | 359  | 482  |                 [License Key Formating][482]                 |     Java     |    Easy    |       2018.5.18       |                     String                      |                                                              |
 | 360  | 246  |                [Strobogrammatic Number][246]                 |     Java     |    Easy    |       2018.5.19       |                Hash Table, Math                 |                                                              |
+| 361  | 838  |                     [Push Dominoes][838]                     |     Java     |   Medium   |       2018.5.20       |                     String                      |                                                              |
+| 362  | 836  |                   [Rectangle Overlap][836]                   |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -729,3 +731,5 @@
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
+[836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
+[838]:<https://leetcode.com/problems/push-dominoes/> "Push Dominoes"
