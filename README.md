@@ -368,6 +368,7 @@
 | 364  | 784  |                [Letter Case Permutation][784]                |     Java     |    Easy    |       2018.5.21       |                  Backtracking                   |                                                              |
 | 365  | 443  |                  [String Compression][443]                   |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 | 366  | 408  |                [Valid Word Abbreviation][408]                |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
+| 367  | 724  |                   [Find Pivot Index][724]                    |     Java     |    Easy    |       2018.5.21       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -715,6 +716,7 @@
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
 [723]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
+[724]:<https://leetcode.com/problems/find-pivot-index/> "Find Pivot Index"
 [725]:<https://leetcode.com/problems/split-linked-list-in-parts/> "Split Linked List in Parts"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
 [733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
