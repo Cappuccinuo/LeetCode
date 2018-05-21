@@ -367,6 +367,7 @@
 | 363  | 507  |                    [Perfect Number][507]                     |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
 | 364  | 784  |                [Letter Case Permutation][784]                |     Java     |    Easy    |       2018.5.21       |                  Backtracking                   |                                                              |
 | 365  | 443  |                  [String Compression][443]                   |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
+| 366  | 408  |                [Valid Word Abbreviation][408]                |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -597,6 +598,7 @@
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
 [406]:<https://leetcode.com/problems/queue-reconstruction-by-height> "Queue Reconstruction by Height"
+[408]:<https://leetcode.com/problems/valid-word-abbreviation> "Valid Word Abbreviation"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
 [412]:<https://leetcode.com/problems/fizz-buzz/> "Fizz Buzz"
 [413]:<https://leetcode.com/problems/arithmetic-slices/> "Arithmetic Slices"
