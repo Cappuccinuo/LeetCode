@@ -365,6 +365,8 @@
 | 361  | 838  |                     [Push Dominoes][838]                     |     Java     |   Medium   |       2018.5.20       |                     String                      |                                                              |
 | 362  | 836  |                   [Rectangle Overlap][836]                   |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
 | 363  | 507  |                    [Perfect Number][507]                     |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
+| 364  | 784  |                [Letter Case Permutation][784]                |     Java     |    Easy    |       2018.5.21       |                  Backtracking                   |                                                              |
+| 365  | 443  |                  [String Compression][443]                   |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -607,6 +609,7 @@
 [435]:<https://leetcode.com/problems/non-overlapping-intervals/> "Non-overlapping Intervals"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
 [438]:<https://leetcode.com/problems/find-all-anagrams-in-a-string/> "Find All Anagrams"
+[443]:<https://leetcode.com/problems/string-compression/> "String Compression"
 [444]:<https://leetcode.com/problems/sequence-reconstruction/> "Sequence Reconstruction"
 
 [442]:
@@ -730,6 +733,7 @@
 [779]:<https://leetcode.com/problems/k-th-symbol-in-grammar/> "K-th symbol in grammar"
 [781]:<https://leetcode.com/problems/rabbits-in-forest/> "Rabbits in Forest"
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
+[784]:<https://leetcode.com/problems/letter-case-permutation/> "Letter Case Permutation"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
