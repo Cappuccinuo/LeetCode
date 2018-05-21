@@ -364,6 +364,7 @@
 | 360  | 246  |                [Strobogrammatic Number][246]                 |     Java     |    Easy    |       2018.5.19       |                Hash Table, Math                 |                                                              |
 | 361  | 838  |                     [Push Dominoes][838]                     |     Java     |   Medium   |       2018.5.20       |                     String                      |                                                              |
 | 362  | 836  |                   [Rectangle Overlap][836]                   |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
+| 363  | 507  |                    [Perfect Number][507]                     |     Java     |    Easy    |       2018.5.20       |                      Math                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -631,6 +632,7 @@
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
 [506]:<https://leetcode.com/problems/relative-ranks> "Relative Ranks"
+[507]:<https://leetcode.com/problems/perfect-number/> "Perfect Number"
 [513]:<https://leetcode.com/problems/find-bottom-left-tree-value/> "Find Bottom Left Tree Value"
 [515]:<https://leetcode.com/problems/find-largest-value-in-each-tree-row/> "Find Largest Value in Each Tree Row"
 [516]:<https://leetcode.com/problems/longest-palindromic-subsequence/> "Longest Palindromic Subsequence"
