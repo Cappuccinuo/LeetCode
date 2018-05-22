@@ -24,3 +24,7 @@ Output: False
  
 
 Check if Math.sqrt(c - a^2) is an integer.
+
+
+
+Or use binary search to find if there is an integer mid, that make mid * mid = c - a^2
