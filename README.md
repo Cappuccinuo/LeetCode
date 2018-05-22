@@ -371,6 +371,7 @@
 | 367  | 724  |                   [Find Pivot Index][724]                    |     Java     |    Easy    |       2018.5.21       |                      Array                      |                                                              |
 | 368  | 633  |                 [Sum Of Square Numbers][633]                 |     Java     |    Easy    |       2018.5.22       |                      Math                       |                                                              |
 | 369  | 367  |                 [Valid Perfect Square][367]                  |     Java     |    Easy    |       2018.5.22       |               Math, Binary Search               |                                                              |
+| 370  | 405  |            [Convert a Number to Hexadecimal][405]            |     Java     |    Easy    |       2018.5.22       |                Bit Manipulation                 |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -601,6 +602,7 @@
 [397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
+[405]:<https://leetcode.com/problems/convert-a-number-to-hexadecimal/> "Convert a number to hexadecimal"
 [406]:<https://leetcode.com/problems/queue-reconstruction-by-height> "Queue Reconstruction by Height"
 [408]:<https://leetcode.com/problems/valid-word-abbreviation> "Valid Word Abbreviation"
 [409]:<https://leetcode.com/problems/longest-palindrome/> "Longest Palindrome"
