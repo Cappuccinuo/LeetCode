@@ -369,6 +369,7 @@
 | 365  | 443  |                  [String Compression][443]                   |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 | 366  | 408  |                [Valid Word Abbreviation][408]                |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 | 367  | 724  |                   [Find Pivot Index][724]                    |     Java     |    Easy    |       2018.5.21       |                      Array                      |                                                              |
+| 368  | 633  |                 [Sum Of Square Numbers][633]                 |     Java     |    Easy    |       2018.5.22       |                      Math                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -685,6 +686,7 @@
 [624]:<https://leetcode.com/problems/maximum-distance-in-arrays/> "Maximum Distance in Arrays"
 [627]:<https://leetcode.com/problems/swap-salary/> "Swap Salary"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
+[633]:<https://leetcode.com/problems/sum-of-square-numbers/> "Sum Of Square Numbers"
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
