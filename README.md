@@ -370,6 +370,7 @@
 | 366  | 408  |                [Valid Word Abbreviation][408]                |     Java     |    Easy    |       2018.5.21       |                     String                      |                                                              |
 | 367  | 724  |                   [Find Pivot Index][724]                    |     Java     |    Easy    |       2018.5.21       |                      Array                      |                                                              |
 | 368  | 633  |                 [Sum Of Square Numbers][633]                 |     Java     |    Easy    |       2018.5.22       |                      Math                       |                                                              |
+| 369  | 367  |                 [Valid Perfect Square][367]                  |     Java     |    Easy    |       2018.5.22       |               Math, Binary Search               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -585,6 +586,7 @@
 [361]:<https://leetcode.com/problems/bomb-enemy/> "Bomb Enemy"
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
 [366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
+[367]:<https://leetcode.com/problems/valid-perfect-square/> "Valid Perfect Square"
 [369]:<https://leetcode.com/problems/plus-one-linked-list/> "Plus One Linked List"
 [370]:<https://leetcode.com/problems/range-addition> "Range Addition"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
