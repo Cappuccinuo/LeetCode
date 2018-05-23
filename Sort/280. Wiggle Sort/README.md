@@ -19,3 +19,8 @@ Sort the array first, then swap elements pair-wise starting from the second elem
 
 => [1, 3, 2, 5, 4, 6]
 ```
+
+
+
+
+Or we don't have to sort the array, when i is odd, we check if nums[i] > nums[i + 1], otherwise we swap. We check nums[i] < nums[i + 1] when i is even.
