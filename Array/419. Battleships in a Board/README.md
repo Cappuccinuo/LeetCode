@@ -28,4 +28,4 @@ Output: 2
 
 
 
-Go through each number on the board.(i - 1, j) or (i, j - 1) is 'X' or (i, j) is '.', then don't add count.
+Go through each number on the board.(i - 1, j) or (i, j - 1) is 'X' or (i, j) is '.', then don't add count. That's because the battleship can only vertically or horizontally set.
