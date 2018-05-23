@@ -372,6 +372,7 @@
 | 368  | 633  |                 [Sum Of Square Numbers][633]                 |     Java     |    Easy    |       2018.5.22       |                      Math                       |                                                              |
 | 369  | 367  |                 [Valid Perfect Square][367]                  |     Java     |    Easy    |       2018.5.22       |               Math, Binary Search               |                                                              |
 | 370  | 405  |            [Convert a Number to Hexadecimal][405]            |     Java     |    Easy    |       2018.5.22       |                Bit Manipulation                 |                                                              |
+| 371  | 767  |                   [Reorganize String][767]                   |     Java     |   Medium   |       2018.5.23       |           String, Heap, Greedy, Sort            |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -737,6 +738,7 @@
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
 [763]:<https://leetcode.com/problems/partition-labels/> "Partition Labels"
 [766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
+[767]:<https://leetcode.com/problems/reorganize-string/> "Reorganize String"
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
 [771]:<https://leetcode.com/problems/jewels-and-stones/> "Jewels and Stones"
 [775]:<https://leetcode.com/problems/global-and-local-inversions/> "Global and Local Inversions"
