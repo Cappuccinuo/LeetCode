@@ -373,6 +373,7 @@
 | 369  | 367  |                 [Valid Perfect Square][367]                  |     Java     |    Easy    |       2018.5.22       |               Math, Binary Search               |                                                              |
 | 370  | 405  |            [Convert a Number to Hexadecimal][405]            |     Java     |    Easy    |       2018.5.22       |                Bit Manipulation                 |                                                              |
 | 371  | 767  |                   [Reorganize String][767]                   |     Java     |   Medium   |       2018.5.23       |           String, Heap, Greedy, Sort            |                                                              |
+| 372  | 441  |                    [Arranging Coins][441]                    |     Java     |    Easy    |       2018.5.24       |               Math, Binary Search               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -618,6 +619,7 @@
 [435]:<https://leetcode.com/problems/non-overlapping-intervals/> "Non-overlapping Intervals"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
 [438]:<https://leetcode.com/problems/find-all-anagrams-in-a-string/> "Find All Anagrams"
+[441]:<https://leetcode.com/problems/arranging-coins/> "Arranging Coins"
 [443]:<https://leetcode.com/problems/string-compression/> "String Compression"
 [444]:<https://leetcode.com/problems/sequence-reconstruction/> "Sequence Reconstruction"
 
