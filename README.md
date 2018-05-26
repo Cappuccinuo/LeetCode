@@ -219,7 +219,7 @@
 | 215  |  63  |                    [Unique Paths II][63]                     |     Java     |   Medium   |      2017.12.20       |               Dynamic Programming               |                      2018.1.30 2018.3.7                      |
 | 216  |  64  |                    [Minimum Path Sum][64]                    |     Java     |   Medium   |      2017.12.21       |               Dynamic Programming               |                                                              |
 | 217  | 120  |                       [Triangle][120]                        |     Java     |   Medium   |      2017.12.21       |               Dynamic Programming               |                                                              |
-| 218  | 139  |                      [Word Break][138]                       |     Java     |   Medium   |      2017.12.21       |               Dynamic Programming               |                          2018.5.17                           |
+| 218  | 139  |                      [Word Break][138]                       |     Java     |   Medium   |      2017.12.21       |               Dynamic Programming               |                     2018.5.17 2018.5.26                      |
 | 219  | 258  |                      [Add Digits][258]                       |     Java     |    Easy    |       2016.3.21       |                      Math                       |                          2017.12.21                          |
 | 220  | 401  |                     [Binary Watch][401]                      |     Java     |    Easy    | 2017.12.21 2017.12.22 |          Bit manipulation Backtracking          |                                                              |
 | 221  |  52  |                      [N-Queens II][52]                       |     Java     |    Hard    |      2017.12.22       |                  Backtracking                   |                                                              |
@@ -314,7 +314,7 @@
 | 310  |  33  |             [Search in Rotated Sorted Array][33]             |     Java     |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27 2018.4.24                      |
 | 311  | 162  |                   [Find Peak Element][162]                   |     Java     |   Medium   |       2018.3.23       |                  Binary Search                  |                                                              |
 | 312  | 658  |                [Find K Closest Elements][658]                |     Java     |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                                                              |
-| 313  | 127  |                      [Word Ladder][127]                      |     Java     |   Medium   |       2018.4.6        |                       BFS                       |                     2018.4.14 2018.4.23                      |
+| 313  | 127  |                      [Word Ladder][127]                      |     Java     |   Medium   |       2018.4.6        |                       BFS                       |                2018.4.14 2018.4.23 2018.5.26                 |
 | 314  | 207  |                    [Course Schedule][207]                    |     Java     |   Medium   |       2018.4.6        |                Topological Sort                 |                                                              |
 | 315  | 210  |                  [Course Schedule II][210]                   |     Java     |   Medium   |       2018.4.7        |                Topological Sort                 |                          2018.4.10                           |
 | 316  |  78  |                        [Subsets][78]                         |     Java     |   Medium   |       2018.4.7        |                       DFS                       |                          2018.4.13                           |
@@ -374,6 +374,7 @@
 | 370  | 405  |            [Convert a Number to Hexadecimal][405]            |     Java     |    Easy    |       2018.5.22       |                Bit Manipulation                 |                                                              |
 | 371  | 767  |                   [Reorganize String][767]                   |     Java     |   Medium   |       2018.5.23       |           String, Heap, Greedy, Sort            |                                                              |
 | 372  | 441  |                    [Arranging Coins][441]                    |     Java     |    Easy    |       2018.5.24       |               Math, Binary Search               |                                                              |
+| 373  | 255  |    [Verify Preorder Sequence in Binary Search Tree][255]     |     Java     |   Medium   |       2018.5.26       |                   Stack, Tree                   |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -542,6 +543,7 @@
 [246]:<https://leetcode.com/problems/strobogrammatic-number/> "Strobogrammatic Number"
 [250]:<https://leetcode.com/problems/count-univalue-subtrees/> "Count Univalue Subtrees"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
+[255]:<https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/> "Verify Preorder Sequence in Binary Search Tree"
 [256]:<https://leetcode.com/problems/paint-house/> "Paint House"
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
 [258]:<https://leetcode.com/problems/add-digits/> "Add Digits"
