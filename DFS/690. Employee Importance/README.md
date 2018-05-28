@@ -41,3 +41,9 @@ DESIGN STRATEGY: Use observer template of Employee
    `sum += getImportance(employees, sub.get(i));`
 
 4. Finally, sum is the total importance.
+
+
+
+2018.5.28
+
+We can use BFS(DFS). But keep in mind that the id may be 100.. 

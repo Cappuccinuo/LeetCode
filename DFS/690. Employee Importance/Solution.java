@@ -1,3 +1,30 @@
+// 2018.5.28
+// BFS
+class Solution {
+    public int getImportance(List<Employee> employees, int id) {
+        int result = 0;
+        
+        Map<Integer, Employee> map = new HashMap<>();
+        for (int i = 0; i < employees.size(); i++) {
+            map.put(employees.get(i).id, employees.get(i));
+        }
+        
+        Queue<Employee> queue = new LinkedList<>();
+        queue.offer(map.get(id));
+        
+        while (!queue.isEmpty()) {
+            Employee front = queue.poll();
+            result += front.importance;
+            for (int subordinate : front.subordinates) {
+                queue.offer(map.get(subordinate));
+            }
+        }
+        
+        return result;
+    }
+}
+
+
 /*
 // Employee info
 class Employee {
