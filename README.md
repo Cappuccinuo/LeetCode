@@ -376,6 +376,7 @@
 | 372  | 441  |                    [Arranging Coins][441]                    |     Java     |    Easy    |       2018.5.24       |               Math, Binary Search               |                                                              |
 | 373  | 255  |    [Verify Preorder Sequence in Binary Search Tree][255]     |     Java     |   Medium   |       2018.5.26       |                   Stack, Tree                   |                                                              |
 | 374  | 841  |                    [Keys and Rooms][841]                     |     Java     |   Medium   |       2018.5.27       |                   DFS, Graph                    |                                                              |
+| 375  | 813  |                [Largest Sum of Averages][813]                |     Java     |   Medium   |       2018.5.28       |               Dynamic Programming               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -752,6 +753,7 @@
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [784]:<https://leetcode.com/problems/letter-case-permutation/> "Letter Case Permutation"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
+[813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
 [836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
