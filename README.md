@@ -377,6 +377,7 @@
 | 373  | 255  |    [Verify Preorder Sequence in Binary Search Tree][255]     |     Java     |   Medium   |       2018.5.26       |                   Stack, Tree                   |                                                              |
 | 374  | 841  |                    [Keys and Rooms][841]                     |     Java     |   Medium   |       2018.5.27       |                   DFS, Graph                    |                                                              |
 | 375  | 813  |                [Largest Sum of Averages][813]                |     Java     |   Medium   |       2018.5.28       |               Dynamic Programming               |                                                              |
+| 376  | 490  |                       [The Maze][490]                        |     Java     |   Medium   |       2018.5.31       |                    BFS, DFS                     |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -644,6 +645,7 @@
 [477]:<https://leetcode.com/problems/total-hamming-distance/> "Total Hamming Distance"
 [482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
+[490]:<https://leetcode.com/problems/the-maze/> "The Maze"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
 [501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
