@@ -378,6 +378,7 @@
 | 374  | 841  |                    [Keys and Rooms][841]                     |     Java     |   Medium   |       2018.5.27       |                   DFS, Graph                    |                                                              |
 | 375  | 813  |                [Largest Sum of Averages][813]                |     Java     |   Medium   |       2018.5.28       |               Dynamic Programming               |                                                              |
 | 376  | 490  |                       [The Maze][490]                        |     Java     |   Medium   |       2018.5.31       |                    BFS, DFS                     |                                                              |
+| 377  | 752  |                     [Open the lock][752]                     |     Java     |   Medium   |       2018.6.1        |                       BFS                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -744,6 +745,7 @@
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
+[752]:<https://leetcode.com/problems/open-the-lock> "Open the lock"
 [763]:<https://leetcode.com/problems/partition-labels/> "Partition Labels"
 [766]:<https://leetcode.com/problems/toeplitz-matrix/> "Toeplitz-matrix"
 [767]:<https://leetcode.com/problems/reorganize-string/> "Reorganize String"
