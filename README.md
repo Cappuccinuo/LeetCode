@@ -379,6 +379,7 @@
 | 375  | 813  |                [Largest Sum of Averages][813]                |     Java     |   Medium   |       2018.5.28       |               Dynamic Programming               |                                                              |
 | 376  | 490  |                       [The Maze][490]                        |     Java     |   Medium   |       2018.5.31       |                    BFS, DFS                     |                                                              |
 | 377  | 752  |                     [Open the lock][752]                     |     Java     |   Medium   |       2018.6.1        |                       BFS                       |                                                              |
+| 378  | 505  |                      [The Maze II][505]                      |     Java     |   Medium   |       2018.6.2        |                       BFS                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -652,6 +653,7 @@
 [501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
 [504]:<https://leetcode.com/problems/base-7/> "Base 7"
+[505]:<https://leetcode.com/problems/the-maze-ii/> "The Maze II"
 [506]:<https://leetcode.com/problems/relative-ranks> "Relative Ranks"
 [507]:<https://leetcode.com/problems/perfect-number/> "Perfect Number"
 [513]:<https://leetcode.com/problems/find-bottom-left-tree-value/> "Find Bottom Left Tree Value"
