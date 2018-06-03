@@ -380,6 +380,8 @@
 | 376  | 490  |                       [The Maze][490]                        |     Java     |   Medium   |       2018.5.31       |                    BFS, DFS                     |                                                              |
 | 377  | 752  |                     [Open the lock][752]                     |     Java     |   Medium   |       2018.6.1        |                       BFS                       |                                                              |
 | 378  | 505  |                      [The Maze II][505]                      |     Java     |   Medium   |       2018.6.2        |                       BFS                       |                                                              |
+| 379  | 844  |               [Backspace String Compare][844]                |     Java     |    Easy    |       2018.6.3        |               Two Pointers, Stack               |                                                              |
+| 380  | 845  |               [Longest Mountain in Array][845]               |     Java     |   Medium   |       2018.6.3        |                  Two Pointers                   |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -765,3 +767,5 @@
 [836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
 [838]:<https://leetcode.com/problems/push-dominoes/> "Push Dominoes"
 [841]:<https://leetcode.com/problems/keys-and-rooms/description/> "Keys and Rooms"
+[844]:<https://leetcode.com/problems/backspace-string-compare/> "Backspace String Compare"
+[845]:<https://leetcode.com/problems/longest-mountain-in-array> "Longest Mountain in Array"
