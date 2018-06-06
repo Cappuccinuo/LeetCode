@@ -382,6 +382,7 @@
 | 378  | 505  |                      [The Maze II][505]                      |     Java     |   Medium   |       2018.6.2        |                       BFS                       |                                                              |
 | 379  | 844  |               [Backspace String Compare][844]                |     Java     |    Easy    |       2018.6.3        |               Two Pointers, Stack               |                                                              |
 | 380  | 845  |               [Longest Mountain in Array][845]               |     Java     |   Medium   |       2018.6.3        |                  Two Pointers                   |                                                              |
+| 381  | 846  |                   [Hand of Straights][846]                   |     Java     |   Medium   |       2018.6.6        |                       Map                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -769,3 +770,4 @@
 [841]:<https://leetcode.com/problems/keys-and-rooms/description/> "Keys and Rooms"
 [844]:<https://leetcode.com/problems/backspace-string-compare/> "Backspace String Compare"
 [845]:<https://leetcode.com/problems/longest-mountain-in-array> "Longest Mountain in Array"
+[846]:<https://leetcode.com/problems/hand-of-straights/> "Hand of Straights"
