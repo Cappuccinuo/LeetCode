@@ -1,3 +1,55 @@
+// 2018.6.6
+class Solution {
+    Map<Integer, List<Integer>> map;
+    Map<Integer, Integer> inDegree;
+    
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        map = new HashMap<>();
+        inDegree = new HashMap<>();
+        getIndegreeAndNeighbour(numCourses, prerequisites);
+        
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegree.get(i) == 0) {
+                queue.offer(i);
+            }
+        }
+        
+        int count = 0;
+        int[] result = new int[numCourses];
+        
+        while (!queue.isEmpty()) {
+            int currCourse = queue.poll();
+            result[count] = currCourse;
+            count++;
+            for (Integer i : map.get(currCourse)) {
+                inDegree.put(i, inDegree.get(i) - 1);
+                if (inDegree.get(i) == 0) {
+                    queue.offer(i);
+                }
+            }
+        }
+        
+        if (count == numCourses) {
+            return result;
+        }
+        
+        return new int[0];
+    }
+    
+    private void getIndegreeAndNeighbour(int numCourses, int[][] prerequisites) {
+        for (int i = 0; i < numCourses; i++) {
+            map.put(i, new LinkedList<>());
+            inDegree.put(i, 0);
+        }
+        
+        for (int i = 0; i < prerequisites.length; i++) {
+            map.get(prerequisites[i][1]).add(prerequisites[i][0]);
+            inDegree.put(prerequisites[i][0], inDegree.get(prerequisites[i][0]) + 1);
+        }
+    }
+}
+
 // 2018.4.7 Topological Sort
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
