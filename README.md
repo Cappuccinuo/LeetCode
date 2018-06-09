@@ -78,7 +78,7 @@
 |  74  | 232  |             [Implement Queue using Stacks][232]              |     Java     |    Easy    |       2017.7.5        |                      Queue                      |                     2018.2.27 2018.4.23                      |
 |  75  | 331  |    [Verify Preorder Serialization of a Binary Tree][331]     |     Java     |   Medium   |       2017.7.6        |                      Stack                      |                                                              |
 |  76  | 561  |                   [Array Partition I][561]                   |     Java     |    Easy    |       2017.7.10       |                      Array                      |                                                              |
-|  77  | 189  |                     [Rotate Array][189]                      |     Java     |    Easy    |       2017.7.10       |                      Array                      |                     2017.12.10 2018.4.10                     |
+|  77  | 189  |                     [Rotate Array][189]                      |     Java     |    Easy    |       2017.7.10       |                      Array                      |                2017.12.10 2018.4.10 2018.6.9                 |
 |  78  | 605  |                   [Can Place Flowers][605]                   |     Java     |    Easy    |       2017.7.10       |                      Array                      |                                                              |
 |  79  | 581  |         [Shortest Unsorted Continuous Subarray][581]         |     Java     |    Easy    |       2017.7.11       |                      Array                      |                                                              |
 |  80  | 566  |                  [Reshape the Matrix][566]                   |     Java     |    Easy    |       2017.7.11       |                      Array                      |                                                              |
@@ -385,6 +385,7 @@
 | 381  | 846  |                   [Hand of Straights][846]                   |     Java     |   Medium   |       2018.6.6        |                       Map                       |                                                              |
 | 382  | 729  |                     [My Calendar I][729]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                                                              |
 | 383  | 731  |                    [My Calendar II][731]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                                                              |
+| 384  | 271  |               [Encode and Decode Strings][271]               |     Java     |   Medium   |       2018.6.9        |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -565,6 +566,7 @@
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
 [270]:<https://leetcode.com/problems/closest-binary-search-tree-value/> "Closest Binary Search Tree Value"
+[271]:<https://leetcode.com/problems/encode-and-decode-strings/> "Encode and Decode Strings"
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
