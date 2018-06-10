@@ -386,6 +386,9 @@
 | 382  | 729  |                     [My Calendar I][729]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                                                              |
 | 383  | 731  |                    [My Calendar II][731]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                                                              |
 | 384  | 271  |               [Encode and Decode Strings][271]               |     Java     |   Medium   |       2018.6.9        |                     String                      |                                                              |
+| 385  | 849  |          [Maximize Distance to Closest Person][849]          |     Java     |    Easy    |       2018.6.10       |                      Array                      |                                                              |
+| 386  | 848  |                   [Shifting Letters][848]                    |     Java     |   Medium   |       2018.6.10       |                     String                      |                                                              |
+| 387  | 851  |                     [Loud and Rich][851]                     |     Java     |   Medium   |       2018.6.10       |                       DFS                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -566,7 +569,7 @@
 
 [268]:<https://leetcode.com/problems/missing-number/> "Missing Number"
 [270]:<https://leetcode.com/problems/closest-binary-search-tree-value/> "Closest Binary Search Tree Value"
-[271]:<https://leetcode.com/problems/encode-and-decode-strings/> "Encode and Decode Strings"
+[271]:<https://leetcode.com/problems/encode-and-decode-strings/> "Encode and Decode "
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
@@ -777,3 +780,6 @@
 [844]:<https://leetcode.com/problems/backspace-string-compare/> "Backspace String Compare"
 [845]:<https://leetcode.com/problems/longest-mountain-in-array> "Longest Mountain in Array"
 [846]:<https://leetcode.com/problems/hand-of-straights/> "Hand of Straights"
+[848]:<https://leetcode.com/problems/shifting-letters/> "Shifting Letters"
+[849]:<https://leetcode.com/problems/maximize-distance-to-closest-person/> "Maximize Distance to Closest Person"
+[851]:<https://leetcode.com/problems/loud-and-rich/> "Loud and Rich"
