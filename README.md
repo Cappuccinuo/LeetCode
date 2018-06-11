@@ -389,6 +389,7 @@
 | 385  | 849  |          [Maximize Distance to Closest Person][849]          |     Java     |    Easy    |       2018.6.10       |                      Array                      |                                                              |
 | 386  | 848  |                   [Shifting Letters][848]                    |     Java     |   Medium   |       2018.6.10       |                     String                      |                                                              |
 | 387  | 851  |                     [Loud and Rich][851]                     |     Java     |   Medium   |       2018.6.10       |                       DFS                       |                                                              |
+| 388  | 297  |         [Serialize and Deserialize Binary Tree][297]         |     Java     |    Hard    |       2018.6.11       |                  Tree, Design                   |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -580,6 +581,7 @@
 
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
+[297]:<https://leetcode.com/problems/serialize-and-deserialize-binary-tree/> "Serialize and Deserialize Binary Tree"
 [298]:<https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/> "Binary Tree Longest Consecutive Sequence"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
