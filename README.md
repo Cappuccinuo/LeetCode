@@ -390,6 +390,7 @@
 | 386  | 848  |                   [Shifting Letters][848]                    |     Java     |   Medium   |       2018.6.10       |                     String                      |                                                              |
 | 387  | 851  |                     [Loud and Rich][851]                     |     Java     |   Medium   |       2018.6.10       |                       DFS                       |                                                              |
 | 388  | 297  |         [Serialize and Deserialize Binary Tree][297]         |     Java     |    Hard    |       2018.6.11       |                  Tree, Design                   |                                                              |
+| 389  | 826  |              [Most Profit Assigning Work][826]               |     Java     |   Medium   |       2018.6.11       |                  Two Pointers                   |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -776,6 +777,7 @@
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
+[826]:<https://leetcode.com/problems/most-profit-assigning-work/> "Most Profit Assigning Work"
 [836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
 [838]:<https://leetcode.com/problems/push-dominoes/> "Push Dominoes"
 [841]:<https://leetcode.com/problems/keys-and-rooms/description/> "Keys and Rooms"
