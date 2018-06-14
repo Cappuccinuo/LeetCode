@@ -382,15 +382,16 @@
 | 378  | 505  |                      [The Maze II][505]                      |     Java     |   Medium   |       2018.6.2        |                       BFS                       |                                                              |
 | 379  | 844  |               [Backspace String Compare][844]                |     Java     |    Easy    |       2018.6.3        |               Two Pointers, Stack               |                                                              |
 | 380  | 845  |               [Longest Mountain in Array][845]               |     Java     |   Medium   |       2018.6.3        |                  Two Pointers                   |                                                              |
-| 381  | 846  |                   [Hand of Straights][846]                   |     Java     |   Medium   |       2018.6.6        |                       Map                       |                                                              |
+| 381  | 846  |                   [Hand of Straights][846]                   |     Java     |   Medium   |       2018.6.6        |                       Map                       |                          2018.6.14                           |
 | 382  | 729  |                     [My Calendar I][729]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                          2018.6.13                           |
-| 383  | 731  |                    [My Calendar II][731]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                                                              |
+| 383  | 731  |                    [My Calendar II][731]                     |     Java     |   Medium   |       2018.6.7        |                     TreeMap                     |                          2018.6.14                           |
 | 384  | 271  |               [Encode and Decode Strings][271]               |     Java     |   Medium   |       2018.6.9        |                     String                      |                          2018.6.13                           |
 | 385  | 849  |          [Maximize Distance to Closest Person][849]          |     Java     |    Easy    |       2018.6.10       |                      Array                      |                                                              |
 | 386  | 848  |                   [Shifting Letters][848]                    |     Java     |   Medium   |       2018.6.10       |                     String                      |                                                              |
 | 387  | 851  |                     [Loud and Rich][851]                     |     Java     |   Medium   |       2018.6.10       |                       DFS                       |                                                              |
 | 388  | 297  |         [Serialize and Deserialize Binary Tree][297]         |     Java     |    Hard    |       2018.6.12       |                  Tree, Design                   |                          2018.6.13                           |
 | 389  | 826  |              [Most Profit Assigning Work][826]               |     Java     |   Medium   |       2018.6.12       |                  Two Pointers                   |                          2018.6.13                           |
+| 390  | 842  |          [Split Array into Fibonacci Sequence][842]          |     Java     |   Medium   |       2018.6.14       |          String, Backtracking, Greedy           |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
