@@ -391,7 +391,7 @@
 | 387  | 851  |                     [Loud and Rich][851]                     |     Java     |   Medium   |       2018.6.10       |                       DFS                       |                                                              |
 | 388  | 297  |         [Serialize and Deserialize Binary Tree][297]         |     Java     |    Hard    |       2018.6.12       |                  Tree, Design                   |                          2018.6.13                           |
 | 389  | 826  |              [Most Profit Assigning Work][826]               |     Java     |   Medium   |       2018.6.12       |                  Two Pointers                   |                          2018.6.13                           |
-| 390  | 842  |          [Split Array into Fibonacci Sequence][842]          |     Java     |   Medium   |       2018.6.14       |          String, Backtracking, Greedy           |                                                              |
+| 390  | 842  |          [Split Array into Fibonacci Sequence][842]          |     Java     |   Medium   |       2018.6.14       |          String, Backtracking, Greedy           |                          2018.6.15                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
