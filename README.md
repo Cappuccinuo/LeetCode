@@ -392,6 +392,7 @@
 | 388  | 297  |         [Serialize and Deserialize Binary Tree][297]         |     Java     |    Hard    |       2018.6.12       |                  Tree, Design                   |                          2018.6.13                           |
 | 389  | 826  |              [Most Profit Assigning Work][826]               |     Java     |   Medium   |       2018.6.12       |                  Two Pointers                   |                          2018.6.13                           |
 | 390  | 842  |          [Split Array into Fibonacci Sequence][842]          |     Java     |   Medium   |       2018.6.14       |          String, Backtracking, Greedy           |                          2018.6.15                           |
+| 391  | 604  |           [Design Compressed String Iterator][604]           |     Java     |    Easy    |       2018.6.16       |                     Design                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -704,6 +705,7 @@
 [596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
 [598]:<https://leetcode.com/problems/range-addition-ii/> "Range-addition-ii"
 [599]:<https://leetcode.com/problems/minimum-index-sum-of-two-lists/> "Minimum Index Sum of Two Lists"
+[604]:<https://leetcode.com/problems/design-compressed-string-iterator/> "Design Compressed String Iterator"
 [605]:<https://leetcode.com/problems/can-place-flowers/> "Can Place Flowers"
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
 [607]:<https://leetcode.com/problems/sales-person/> "Sales Person"
