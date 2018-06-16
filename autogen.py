@@ -15,13 +15,18 @@ problem_name = args.title
 
 dirpath = os.getcwd()
 
+# The category path
 my_file_path = path.join(dirpath, category_path)
+# The template path
 template_path = path.join(dirpath, 'Template/')
+# The problem path
 problem_path = path.join(my_file_path, problem_name)
+if not path.exists(problem_path):
+    os.makedirs(problem_path)    
 
 template_file = os.listdir(template_path)
 
 for template in template_file:
     full_template_name = os.path.join(template_path, template)
     if (path.isfile(full_template_name)):
-        copy2(full_template_name, my_file_path)
+        copy2(full_template_name, problem_path)
