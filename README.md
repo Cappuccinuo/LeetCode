@@ -393,6 +393,9 @@
 | 389  | 826  |              [Most Profit Assigning Work][826]               |     Java     |   Medium   |       2018.6.12       |                  Two Pointers                   |                          2018.6.13                           |
 | 390  | 842  |          [Split Array into Fibonacci Sequence][842]          |     Java     |   Medium   |       2018.6.14       |          String, Backtracking, Greedy           |                          2018.6.15                           |
 | 391  | 604  |           [Design Compressed String Iterator][604]           |     Java     |    Easy    |       2018.6.16       |                     Design                      |                                                              |
+| 392  | 852  |            [Peak Index in a Mountain Array][852]             |     Java     |    Easy    |       2018.6.17       |                  Binary Search                  |                                                              |
+| 393  | 853  |                       [Car Fleet][853]                       |     Java     |   Medium   |       2018.6.17       |                      Array                      |                                                              |
+| 394  | 855  |                       [Exam Room][855]                       |     Java     |   Medium   |       2018.6.17       |                     Design                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -790,3 +793,6 @@
 [848]:<https://leetcode.com/problems/shifting-letters/> "Shifting Letters"
 [849]:<https://leetcode.com/problems/maximize-distance-to-closest-person/> "Maximize Distance to Closest Person"
 [851]:<https://leetcode.com/problems/loud-and-rich/> "Loud and Rich"
+[852]:<https://leetcode.com/problems/peak-index-in-a-mountain-array/> "Peak Index In a Mountain Array"
+[853]:<https://leetcode.com/problems/car-fleet/> "Car Fleet"
+[855]:<https://leetcode.com/problems/exam-room/> "Exam Room"
