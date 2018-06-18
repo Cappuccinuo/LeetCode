@@ -396,6 +396,7 @@
 | 392  | 852  |            [Peak Index in a Mountain Array][852]             |     Java     |    Easy    |       2018.6.17       |                  Binary Search                  |                                                              |
 | 393  | 853  |                       [Car Fleet][853]                       |     Java     |   Medium   |       2018.6.17       |                      Array                      |                                                              |
 | 394  | 855  |                       [Exam Room][855]                       |     Java     |   Medium   |       2018.6.17       |                     Design                      |                                                              |
+| 395  | 801  |      [Minimum Swaps To Make Sequences Increasing][801]       |     Java     |   Medium   |       2018.6.18       |               Dynamic Programming               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -780,6 +781,7 @@
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [784]:<https://leetcode.com/problems/letter-case-permutation/> "Letter Case Permutation"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
+[801]:<https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/> "Minimum Swaps to Makde Sequences Increasing"
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
