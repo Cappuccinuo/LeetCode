@@ -395,8 +395,8 @@
 | 391  | 604  |           [Design Compressed String Iterator][604]           |     Java     |    Easy    |       2018.6.16       |                     Design                      |                                                              |
 | 392  | 852  |            [Peak Index in a Mountain Array][852]             |     Java     |    Easy    |       2018.6.17       |                  Binary Search                  |                                                              |
 | 393  | 853  |                       [Car Fleet][853]                       |     Java     |   Medium   |       2018.6.17       |                      Array                      |                                                              |
-| 394  | 855  |                       [Exam Room][855]                       |     Java     |   Medium   |       2018.6.17       |                     Design                      |                                                              |
-| 395  | 801  |      [Minimum Swaps To Make Sequences Increasing][801]       |     Java     |   Medium   |       2018.6.18       |               Dynamic Programming               |                                                              |
+| 394  | 855  |                       [Exam Room][855]                       |     Java     |   Medium   |       2018.6.17       |                     Design                      |                          2018.6.19                           |
+| 395  | 801  |      [Minimum Swaps To Make Sequences Increasing][801]       |     Java     |   Medium   |       2018.6.18       |               Dynamic Programming               |                          2018.6.19                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
