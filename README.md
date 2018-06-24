@@ -398,6 +398,8 @@
 | 394  | 855  |                       [Exam Room][855]                       |     Java     |   Medium   |       2018.6.17       |                     Design                      |                          2018.6.19                           |
 | 395  | 801  |      [Minimum Swaps To Make Sequences Increasing][801]       |     Java     |   Medium   |       2018.6.18       |               Dynamic Programming               |                          2018.6.19                           |
 | 396  | 126  |                    [Word Ladder II][126]                     |     Java     |    Hard    |       2018.6.23       |                       BFS                       |                                                              |
+| 397  | 859  |                     [Buddy Strings][859]                     |     Java     |    Easy    |       2018.6.24       |                     String                      |                                                              |
+| 398  | 856  |                 [Score of Parentheses][856]                  |     Java     |   Medium   |       2018.6.24       |                       DFS                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -800,3 +802,5 @@
 [852]:<https://leetcode.com/problems/peak-index-in-a-mountain-array/> "Peak Index In a Mountain Array"
 [853]:<https://leetcode.com/problems/car-fleet/> "Car Fleet"
 [855]:<https://leetcode.com/problems/exam-room/> "Exam Room"
+[856]:<https://leetcode.com/problems/score-of-parentheses/> "Score of Parentheses"
+[859]:<https://leetcode.com/problems/buddy-strings/> "Buddy Strings"
