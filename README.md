@@ -400,6 +400,7 @@
 | 396  | 126  |                    [Word Ladder II][126]                     |     Java     |    Hard    |       2018.6.23       |                       BFS                       |                                                              |
 | 397  | 859  |                     [Buddy Strings][859]                     |     Java     |    Easy    |       2018.6.24       |                     String                      |                                                              |
 | 398  | 856  |                 [Score of Parentheses][856]                  |     Java     |   Medium   |       2018.6.24       |                       DFS                       |                                                              |
+| 399  | 825  |              [Friends Of Appropriate Ages][825]              |     Java     |   Medium   |       2018.6.25       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -789,6 +790,7 @@
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
+[825]:<https://leetcode.com/problems/friends-of-appropriate-ages/> "Friends of Appropriate Ages"
 [826]:<https://leetcode.com/problems/most-profit-assigning-work/> "Most Profit Assigning Work"
 [836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
 [838]:<https://leetcode.com/problems/push-dominoes/> "Push Dominoes"
