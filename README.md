@@ -401,6 +401,7 @@
 | 397  | 859  |                     [Buddy Strings][859]                     |     Java     |    Easy    |       2018.6.24       |                     String                      |                                                              |
 | 398  | 856  |                 [Score of Parentheses][856]                  |     Java     |   Medium   |       2018.6.24       |                       DFS                       |                                                              |
 | 399  | 825  |              [Friends Of Appropriate Ages][825]              |     Java     |   Medium   |       2018.6.25       |                      Array                      |                                                              |
+| 400  | 792  |            [Number of Matching Subsequences][791]            |     Java     |   Medium   |       2018.6.26       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -785,6 +786,7 @@
 [781]:<https://leetcode.com/problems/rabbits-in-forest/> "Rabbits in Forest"
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [784]:<https://leetcode.com/problems/letter-case-permutation/> "Letter Case Permutation"
+[792]:<https://leetcode.com/problems/number-of-matching-subsequences/> "Number of Matching Subsequences"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
 [801]:<https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/> "Minimum Swaps to Makde Sequences Increasing"
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
