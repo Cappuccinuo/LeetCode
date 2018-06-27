@@ -402,6 +402,7 @@
 | 398  | 856  |                 [Score of Parentheses][856]                  |     Java     |   Medium   |       2018.6.24       |                       DFS                       |                                                              |
 | 399  | 825  |              [Friends Of Appropriate Ages][825]              |     Java     |   Medium   |       2018.6.25       |                      Array                      |                                                              |
 | 400  | 792  |            [Number of Matching Subsequences][791]            |     Java     |   Medium   |       2018.6.26       |                      Array                      |                                                              |
+| 401  | 583  |           [Delete Operation for Two Strings][583]            |     Java     |   Medium   |       2018.6.27       |           String, Dynamic Programming           |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -708,6 +709,7 @@
 [577]:<https://leetcode.com/problems/employee-bonus/> "Employee Bonus"
 [580]:<https://leetcode.com/problems/count-student-number-in-departments/> "Count Student Number in Departments"
 [581]:<https://leetcode.com/problems/shortest-unsorted-continuous-subarray/> "Shortest Unsorted Continuous Subarray"
+[583]:<https://leetcode.com/problems/delete-operation-for-two-strings/> "Delete Operation for Two Strings"
 [584]:<https://leetcode.com/problems/find-customer-referee/> "Find Customer Referee"
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
