@@ -403,6 +403,7 @@
 | 399  | 825  |              [Friends Of Appropriate Ages][825]              |     Java     |   Medium   |       2018.6.25       |                      Array                      |                                                              |
 | 400  | 792  |            [Number of Matching Subsequences][791]            |     Java     |   Medium   |       2018.6.26       |                      Array                      |                                                              |
 | 401  | 583  |           [Delete Operation for Two Strings][583]            |     Java     |   Medium   |       2018.6.27       |           String, Dynamic Programming           |                                                              |
+| 402  | 146  |                       [LRU Cache][146]                       |     Java     |    Hard    |       2018.6.28       |                     Design                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -503,6 +504,7 @@
 [143]:<https://leetcode.com/problems/reorder-list/> "Reorder List"
 [144]:<https://leetcode.com/problems/binary-tree-preorder-traversal/> "Binary Tree Preorder Travelsal"
 [145]:<https://leetcode.com/problems/binary-tree-postorder-traversal/> "Binary Tree Postorder Travelsal"
+[146]:<https://leetcode.com/problems/lru-cache/> "LRU Cache"
 [147]:<https://leetcode.com/problems/insertion-sort-list/> "Insertion Sort List"
 [148]:<https://leetcode.com/problems/sort-list/> "Sort List"
 [151]:<https://leetcode.com/problems/reverse-words-in-a-string/> "Reverse Words in a String"
