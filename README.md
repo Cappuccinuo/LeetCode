@@ -60,7 +60,7 @@
 |  56  |  61  |                      [Rotate List][61]                       |     Java     |   Medium   |       2017.6.9        |            Linked List, Two Pointers            |                          2018.2.12                           |
 |  57  |  25  |                [Reverse Nodes in k-Group][25]                |     Java     |    Hard    |       2017.6.10       |                   Linked List                   |                                                              |
 |  58  | 148  |                       [Sort List][148]                       |     Java     |   Medium   |       2017.6.11       |                Linked List, Sort                |                     2017.12.15 2018.2.13                     |
-|  59  | 237  |             [Delete Node in a Linked List][237]              |     Java     |    Easy    |       2017.6.14       |                   Linked List                   |                     2017.12.14 2018.2.10                     |
+|  59  | 237  |             [Delete Node in a Linked List][237]              |     Java     |    Easy    |       2017.6.14       |                   Linked List                   |                2017.12.14 2018.2.10 2018.6.30                |
 |  60  | 206  |                  [Reverse Linked List][206]                  |     Java     |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 2018.3.11 2018.4.10  |
 |  61  | 328  |                 [Odd Even Linked List][328]                  |     Java     |   Medium   |       2017.6.15       |                   Linked List                   |                     2017.12.16 2018.2.11                     |
 |  62  |  83  |           [Remove Duplicates from Sorted List][83]           |     Java     |    Easy    |       2017.6.15       |                   Linked List                   |                          2017.12.26                          |
@@ -404,7 +404,7 @@
 | 400  | 792  |            [Number of Matching Subsequences][791]            |     Java     |   Medium   |       2018.6.26       |                      Array                      |                                                              |
 | 401  | 583  |           [Delete Operation for Two Strings][583]            |     Java     |   Medium   |       2018.6.27       |           String, Dynamic Programming           |                                                              |
 | 402  | 146  |                       [LRU Cache][146]                       |     Java     |    Hard    |       2018.6.28       |                     Design                      |                                                              |
-| 403  |  4   |               [Median of Two Sorted Arrays][4]               |     Java     |    Hard    |       2018.6.29       |              Array, Binary Search               |                                                              |
+| 403  |  4   |               [Median of Two Sorted Arrays][4]               |     Java     |    Hard    |       2018.6.29       |              Array, Binary Search               |                          2018.6.30                           |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
