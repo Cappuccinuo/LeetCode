@@ -405,6 +405,7 @@
 | 401  | 583  |           [Delete Operation for Two Strings][583]            |     Java     |   Medium   |       2018.6.27       |           String, Dynamic Programming           |                                                              |
 | 402  | 146  |                       [LRU Cache][146]                       |     Java     |    Hard    |       2018.6.28       |                     Design                      |                                                              |
 | 403  |  4   |               [Median of Two Sorted Arrays][4]               |     Java     |    Hard    |       2018.6.29       |              Array, Binary Search               |                          2018.6.30                           |
+| 404  | 860  |                    [Lemonade Change][860]                    |     Java     |    Easy    |       2018.7.1        |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -814,3 +815,4 @@
 [855]:<https://leetcode.com/problems/exam-room/> "Exam Room"
 [856]:<https://leetcode.com/problems/score-of-parentheses/> "Score of Parentheses"
 [859]:<https://leetcode.com/problems/buddy-strings/> "Buddy Strings"
+[860]:<https://leetcode.com/problems/lemonade-change/> "Lemonade Change"
