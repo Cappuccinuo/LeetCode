@@ -408,6 +408,7 @@
 | 404  | 860  |                    [Lemonade Change][860]                    |     Java     |    Easy    |       2018.7.1        |                      Array                      |                                                              |
 | 405  | 861  |              [Score After Flipping Matrix][861]              |     Java     |   Medium   |       2018.7.6        |                     Greedy                      |                                                              |
 | 406  | 868  |                   [Transpose Matrix][868]                    |     Java     |    Easy    |       2018.7.8        |                      Array                      |                                                              |
+| 407  | 866  |      [Smallest Subtree with all the Deepest Nodes][866]      |     Java     |   Medium   |       2018.7.8        |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -819,4 +820,5 @@
 [859]:<https://leetcode.com/problems/buddy-strings/> "Buddy Strings"
 [860]:<https://leetcode.com/problems/lemonade-change/> "Lemonade Change"
 [861]:<https://leetcode.com/problems/score-after-flipping-matrix/> "Score After Flipping Matrix"
+[866]:<https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/> "Smallest Subtree with all the deepest nodes"
 [868]:<https://leetcode.com/problems/transpose-matrix/> "Transpose Matrix"
