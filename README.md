@@ -409,6 +409,7 @@
 | 405  | 861  |              [Score After Flipping Matrix][861]              |     Java     |   Medium   |       2018.7.6        |                     Greedy                      |                                                              |
 | 406  | 868  |                   [Transpose Matrix][868]                    |     Java     |    Easy    |       2018.7.8        |                      Array                      |                                                              |
 | 407  | 866  |      [Smallest Subtree with all the Deepest Nodes][866]      |     Java     |   Medium   |       2018.7.8        |                      Tree                       |                                                              |
+| 408  |  47  |                    [Permutations II][47]                     |     Java     |   Medium   |       2018.7.12       |                  Backtracking                   |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -445,6 +446,7 @@
 [40]:<https://leetcode.com/problems/combination-sum-ii/> "Combination Sum II"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [46]:<https://leetcode.com/problems/permutations/> "Permutations"
+[47]:<https://leetcode.com/problems/permutations-ii/> "Permutations II"
 [48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
 [50]:<https://leetcode.com/problems/powx-n/> "powx-n"
 [51]:<https://leetcode.com/problems/n-queens/> "N-Queens"
