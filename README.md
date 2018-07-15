@@ -407,9 +407,10 @@
 | 403  |  4   |               [Median of Two Sorted Arrays][4]               |     Java     |    Hard    |       2018.6.29       |              Array, Binary Search               |                          2018.6.30                           |
 | 404  | 860  |                    [Lemonade Change][860]                    |     Java     |    Easy    |       2018.7.1        |                      Array                      |                                                              |
 | 405  | 861  |              [Score After Flipping Matrix][861]              |     Java     |   Medium   |       2018.7.6        |                     Greedy                      |                                                              |
-| 406  | 868  |                   [Transpose Matrix][868]                    |     Java     |    Easy    |       2018.7.8        |                      Array                      |                                                              |
+| 406  | 867  |                   [Transpose Matrix][868]                    |     Java     |    Easy    |       2018.7.8        |                      Array                      |                                                              |
 | 407  | 866  |      [Smallest Subtree with all the Deepest Nodes][866]      |     Java     |   Medium   |       2018.7.8        |                      Tree                       |                                                              |
 | 408  |  47  |                    [Permutations II][47]                     |     Java     |   Medium   |       2018.7.12       |                  Backtracking                   |                                                              |
+| 409  | 868  |                      [Binary Gap][868]                       |     Java     |    Easy    |       2018.7.15       |                Bit Manipulation                 |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -823,4 +824,5 @@
 [860]:<https://leetcode.com/problems/lemonade-change/> "Lemonade Change"
 [861]:<https://leetcode.com/problems/score-after-flipping-matrix/> "Score After Flipping Matrix"
 [866]:<https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/> "Smallest Subtree with all the deepest nodes"
-[868]:<https://leetcode.com/problems/transpose-matrix/> "Transpose Matrix"
+[867]:<https://leetcode.com/problems/transpose-matrix/> "Transpose Matrix"
+[868]:<https://leetcode.com/problems/binary-gap/> "Binary Gap"
