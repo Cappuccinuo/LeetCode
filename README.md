@@ -411,6 +411,7 @@
 | 407  | 866  |      [Smallest Subtree with all the Deepest Nodes][866]      |     Java     |   Medium   |       2018.7.8        |                      Tree                       |                                                              |
 | 408  |  47  |                    [Permutations II][47]                     |     Java     |   Medium   |       2018.7.12       |                  Backtracking                   |                                                              |
 | 409  | 868  |                      [Binary Gap][868]                       |     Java     |    Easy    |       2018.7.15       |                Bit Manipulation                 |                                                              |
+| 410  | 869  |                 [Reordered Power of 2][869]                  |     Java     |   Medium   |       2018.7.15       |              DFS, Bit Manipulation              |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -826,3 +827,4 @@
 [866]:<https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/> "Smallest Subtree with all the deepest nodes"
 [867]:<https://leetcode.com/problems/transpose-matrix/> "Transpose Matrix"
 [868]:<https://leetcode.com/problems/binary-gap/> "Binary Gap"
+[869]:<https://leetcode.com/problems/reordered-power-of-2/> "Reordered Power of 2"
