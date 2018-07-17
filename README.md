@@ -412,6 +412,8 @@
 | 408  |  47  |                    [Permutations II][47]                     |     Java     |   Medium   |       2018.7.12       |                  Backtracking                   |                                                              |
 | 409  | 868  |                      [Binary Gap][868]                       |     Java     |    Easy    |       2018.7.15       |                Bit Manipulation                 |                                                              |
 | 410  | 869  |                 [Reordered Power of 2][869]                  |     Java     |   Medium   |       2018.7.15       |              DFS, Bit Manipulation              |                                                              |
+| 411  | 872  |             [Implement Rand10 Using Rand7][872]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
+| 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -828,3 +830,5 @@
 [867]:<https://leetcode.com/problems/transpose-matrix/> "Transpose Matrix"
 [868]:<https://leetcode.com/problems/binary-gap/> "Binary Gap"
 [869]:<https://leetcode.com/problems/reordered-power-of-2/> "Reordered Power of 2"
+[871]:<https://leetcode.com/problems/minimum-number-of-refueling-stops/> "Minimum Number of Refueling Stops"
+[872]:<https://leetcode.com/problems/implement-rand10-using-rand7/> "Implement Rand10 Using Rand7"
