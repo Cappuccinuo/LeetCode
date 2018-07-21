@@ -415,6 +415,7 @@
 | 411  | 872  |             [Implement Rand10 Using Rand7][872]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
 | 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                                                              |
 | 413  | 709  |                     [To Lower Case][709]                     |     Java     |    Easy    |       2018.7.21       |                     String                      |                                                              |
+| 414  | 492  |                [Construct the Rectangle][492]                |     Java     |    Easy    |       2018.7.21       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -689,6 +690,7 @@
 [482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [490]:<https://leetcode.com/problems/the-maze/> "The Maze"
+[492]:<https://leetcode.com/problems/construct-the-rectangle/> "Construct the Rectangle"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
 [501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
