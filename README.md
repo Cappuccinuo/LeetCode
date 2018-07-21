@@ -414,6 +414,7 @@
 | 410  | 869  |                 [Reordered Power of 2][869]                  |     Java     |   Medium   |       2018.7.15       |              DFS, Bit Manipulation              |                                                              |
 | 411  | 872  |             [Implement Rand10 Using Rand7][872]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
 | 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                                                              |
+| 413  | 709  |                     [To Lower Case][709]                     |     Java     |    Easy    |       2018.7.21       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -771,6 +772,7 @@
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
+[709]:<https://leetcode.com/problems/to-lower-case/> "To Lower Case"
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
 [716]:<https://leetcode.com/problems/max-stack> "Max Stack"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
