@@ -412,10 +412,11 @@
 | 408  |  47  |                    [Permutations II][47]                     |     Java     |   Medium   |       2018.7.12       |                  Backtracking                   |                                                              |
 | 409  | 868  |                      [Binary Gap][868]                       |     Java     |    Easy    |       2018.7.15       |                Bit Manipulation                 |                                                              |
 | 410  | 869  |                 [Reordered Power of 2][869]                  |     Java     |   Medium   |       2018.7.15       |              DFS, Bit Manipulation              |                                                              |
-| 411  | 872  |             [Implement Rand10 Using Rand7][872]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
+| 411  | 470  |             [Implement Rand10 Using Rand7][470]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
 | 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                                                              |
 | 413  | 709  |                     [To Lower Case][709]                     |     Java     |    Easy    |       2018.7.21       |                     String                      |                                                              |
 | 414  | 492  |                [Construct the Rectangle][492]                |     Java     |    Easy    |       2018.7.21       |                      Array                      |                                                              |
+| 415  | 872  |                  [Leaf-Similar Trees][872]                   |     Java     |    Easy    |       2018.7.23       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -685,6 +686,7 @@
 [459]:<https://leetcode.com/problems/repeated-substring-pattern/> "Repeated Substring Pattern"
 [461]:<https://leetcode.com/problems/hamming-distance> "Hamming Distance"
 [463]:<https://leetcode.com/problems/island-perimeter/> "Island Perimeter"
+[470]:<https://leetcode.com/problems/implement-rand10-using-rand7/> "Implement Rand10 Using Rand7"
 [476]:<https://leetcode.com/problems/number-complement/> "Number Complement"
 [477]:<https://leetcode.com/problems/total-hamming-distance/> "Total Hamming Distance"
 [482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
@@ -835,4 +837,4 @@
 [868]:<https://leetcode.com/problems/binary-gap/> "Binary Gap"
 [869]:<https://leetcode.com/problems/reordered-power-of-2/> "Reordered Power of 2"
 [871]:<https://leetcode.com/problems/minimum-number-of-refueling-stops/> "Minimum Number of Refueling Stops"
-[872]:<https://leetcode.com/problems/implement-rand10-using-rand7/> "Implement Rand10 Using Rand7"
+[872]:<https://leetcode.com/problems/leaf-similar-trees/> "Leaf Similar Trees"
