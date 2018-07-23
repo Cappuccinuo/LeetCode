@@ -417,6 +417,7 @@
 | 413  | 709  |                     [To Lower Case][709]                     |     Java     |    Easy    |       2018.7.21       |                     String                      |                                                              |
 | 414  | 492  |                [Construct the Rectangle][492]                |     Java     |    Easy    |       2018.7.21       |                      Array                      |                                                              |
 | 415  | 872  |                  [Leaf-Similar Trees][872]                   |     Java     |    Easy    |       2018.7.23       |                      Tree                       |                                                              |
+| 416  | 874  |               [Walking Robot Simulation][874]                |     Java     |    Easy    |       2018.7.23       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -838,3 +839,5 @@
 [869]:<https://leetcode.com/problems/reordered-power-of-2/> "Reordered Power of 2"
 [871]:<https://leetcode.com/problems/minimum-number-of-refueling-stops/> "Minimum Number of Refueling Stops"
 [872]:<https://leetcode.com/problems/leaf-similar-trees/> "Leaf Similar Trees"
+[874]:<https://leetcode.com/problems/walking-robot-simulation/description/> "Walking Robot Simulation"
+
