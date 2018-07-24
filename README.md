@@ -419,6 +419,7 @@
 | 415  | 872  |                  [Leaf-Similar Trees][872]                   |     Java     |    Easy    |       2018.7.23       |                      Tree                       |                                                              |
 | 416  | 874  |               [Walking Robot Simulation][874]                |     Java     |    Easy    |       2018.7.23       |                      Array                      |                                                              |
 | 417  | 873  |        [Length of Longest Fibonacci Subsequence][873]        |     Java     |   Medium   |       2018.7.24       |           Dynamic Programming, Array            |                                                              |
+| 418  | 875  |                  [Koko Eating Bananas][875]                  |     Java     |   Medium   |       2018.7.24       |                  Binary Search                  |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -842,4 +843,5 @@
 [872]:<https://leetcode.com/problems/leaf-similar-trees/> "Leaf Similar Trees"
 [873]:<https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/> "Length of Longest Fibonacci Subsequence"
 [874]:<https://leetcode.com/problems/walking-robot-simulation/description/> "Walking Robot Simulation"
+[875]:<https://leetcode.com/problems/koko-eating-bananas/> "Koko Eating Bananas"
 
