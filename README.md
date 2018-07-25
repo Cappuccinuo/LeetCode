@@ -420,6 +420,7 @@
 | 416  | 874  |               [Walking Robot Simulation][874]                |     Java     |    Easy    |       2018.7.23       |                      Array                      |                                                              |
 | 417  | 873  |        [Length of Longest Fibonacci Subsequence][873]        |     Java     |   Medium   |       2018.7.24       |           Dynamic Programming, Array            |                                                              |
 | 418  | 875  |                  [Koko Eating Bananas][875]                  |     Java     |   Medium   |       2018.7.24       |                  Binary Search                  |                                                              |
+| 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -715,6 +716,7 @@
 [535]:<https://leetcode.com/problems/encode-and-decode-tinyurl/> "Encode and Decode TinyURL"
 [537]:<https://leetcode.com/problems/complex-number-multiplication/> "Complex Number Multiplication"
 [538]:<https://leetcode.com/problems/convert-bst-to-greater-tree/> "Convert BST to greater tree"
+[540]:<https://leetcode.com/problems/single-element-in-a-sorted-array/description/> "Single Element in a Sorted Array"
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"
 [543]:<https://leetcode.com/problems/diameter-of-binary-tree/> "Diameter of binary tree"
 [544]:<https://leetcode.com/problems/output-contest-matches/> "Output Contest Matches"
