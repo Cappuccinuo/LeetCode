@@ -422,6 +422,7 @@
 | 418  | 875  |                  [Koko Eating Bananas][875]                  |     Java     |   Medium   |       2018.7.24       |                  Binary Search                  |                                                              |
 | 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |
 | 420  | 700  |            [Search in a Binary Search Tree][700]             |     Java     |    Easy    |       2018.7.26       |                      Tree                       |                                                              |
+| 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -670,6 +671,7 @@
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
 [421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
 [422]:<https://leetcode.com/problems/valid-word-square/> "Valid Word Square"
+[429]:<https://leetcode.com/problems/n-ary-tree-level-order-traversal/> "N-ary Tree Level Order Traversal"
 [434]:<https://leetcode.com/problems/number-of-segments-in-a-string/> "Number of Segments in a String"
 [435]:<https://leetcode.com/problems/non-overlapping-intervals/> "Non-overlapping Intervals"
 [437]:<https://leetcode.com/problems/path-sum-iii/> "Path Sum III"
