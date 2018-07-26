@@ -421,6 +421,7 @@
 | 417  | 873  |        [Length of Longest Fibonacci Subsequence][873]        |     Java     |   Medium   |       2018.7.24       |           Dynamic Programming, Array            |                                                              |
 | 418  | 875  |                  [Koko Eating Bananas][875]                  |     Java     |   Medium   |       2018.7.24       |                  Binary Search                  |                                                              |
 | 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |
+| 420  | 700  |            [Search in a Binary Search Tree][700]             |     Java     |    Easy    |       2018.7.26       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -781,6 +782,7 @@
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
+[700]:<https://leetcode.com/problems/search-in-a-binary-search-tree> "Search in a Binary Search Tree"
 [709]:<https://leetcode.com/problems/to-lower-case/> "To Lower Case"
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
 [716]:<https://leetcode.com/problems/max-stack> "Max Stack"
