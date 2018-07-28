@@ -423,6 +423,7 @@
 | 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |
 | 420  | 700  |            [Search in a Binary Search Tree][700]             |     Java     |    Easy    |       2018.7.26       |                      Tree                       |                                                              |
 | 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                                                              |
+| 422  | 880  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -850,4 +851,5 @@
 [873]:<https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/> "Length of Longest Fibonacci Subsequence"
 [874]:<https://leetcode.com/problems/walking-robot-simulation/description/> "Walking Robot Simulation"
 [875]:<https://leetcode.com/problems/koko-eating-bananas/> "Koko Eating Bananas"
+[880]:<https://leetcode.com/problems/random-pick-with-weight> "Random Pick With Weight"
 
