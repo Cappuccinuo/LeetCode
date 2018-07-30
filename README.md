@@ -425,6 +425,8 @@
 | 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                                                              |
 | 422  | 880  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |
 | 423  | 876  |               [Middle of the Linked List][876]               |     Java     |    Easy    |       2018.7.30       |                   Linked List                   |                                                              |
+| 424  | 877  |                      [Stone Game][877]                       |     Java     |   Medium   |       2018.7.30       |            Math, Dynamic Programming            |                                                              |
+|      |      |                                                              |              |            |                       |                                                 |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -853,5 +855,6 @@
 [874]:<https://leetcode.com/problems/walking-robot-simulation/description/> "Walking Robot Simulation"
 [875]:<https://leetcode.com/problems/koko-eating-bananas/> "Koko Eating Bananas"
 [876]:<https://leetcode.com/problems/middle-of-the-linked-list/> "Middle of the Linked List"
+[877]:<https://leetcode.com/problems/stone-game/> "Stone Game"
 [880]:<https://leetcode.com/problems/random-pick-with-weight> "Random Pick With Weight"
 
