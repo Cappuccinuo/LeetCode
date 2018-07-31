@@ -426,7 +426,7 @@
 | 422  | 880  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |
 | 423  | 876  |               [Middle of the Linked List][876]               |     Java     |    Easy    |       2018.7.30       |                   Linked List                   |                                                              |
 | 424  | 877  |                      [Stone Game][877]                       |     Java     |   Medium   |       2018.7.30       |            Math, Dynamic Programming            |                                                              |
-|      |      |                                                              |              |            |                       |                                                 |                                                              |
+| 425  | 883  |           [Generate Random Point in a Circle][883]           |     Java     |   Medium   |       2018.7.31       |        Math, Random, Rejection Sampling         |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -857,4 +857,5 @@
 [876]:<https://leetcode.com/problems/middle-of-the-linked-list/> "Middle of the Linked List"
 [877]:<https://leetcode.com/problems/stone-game/> "Stone Game"
 [880]:<https://leetcode.com/problems/random-pick-with-weight> "Random Pick With Weight"
+[883]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
 
