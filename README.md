@@ -429,6 +429,7 @@
 | 425  | 883  |           [Generate Random Point in a Circle][883]           |     Java     |   Medium   |       2018.7.31       |        Math, Random, Rejection Sampling         |                                                              |
 | 426  | 704  |                     [Binary Search][704]                     |     Java     |    Easy    |       2018.8.1        |                  Binary Search                  |                                                              |
 | 427  | 123  |          [Best Time to Buy and Sell Stock III][123]          |     Java     |    Hard    |       2018.8.2        |           Dynamic Programming, Array            |                                                              |
+| 428  | 809  |                   [Expressive Words][809]                    |     Java     |   Medium   |       2018.8.3        |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -828,6 +829,7 @@
 [792]:<https://leetcode.com/problems/number-of-matching-subsequences/> "Number of Matching Subsequences"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
 [801]:<https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/> "Minimum Swaps to Makde Sequences Increasing"
+[809]:<https://leetcode.com/problems/expressive-words/> "Expressive Words"
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
