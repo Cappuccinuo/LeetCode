@@ -430,6 +430,8 @@
 | 426  | 704  |                     [Binary Search][704]                     |     Java     |    Easy    |       2018.8.1        |                  Binary Search                  |                                                              |
 | 427  | 123  |          [Best Time to Buy and Sell Stock III][123]          |     Java     |    Hard    |       2018.8.2        |           Dynamic Programming, Array            |                                                              |
 | 428  | 809  |                   [Expressive Words][809]                    |     Java     |   Medium   |       2018.8.3        |                     String                      |                                                              |
+| 429  | 887  |             [Projection Area of 3D Shapes][887]              |     Java     |    Easy    |       2018.8.5        |                      Math                       |                                                              |
+| 430  | 885  |                 [Boats to Save People][885]                  |     Java     |   Medium   |       2018.8.5        |              Greedy, Two Pointers               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -864,4 +866,6 @@
 [877]:<https://leetcode.com/problems/stone-game/> "Stone Game"
 [880]:<https://leetcode.com/problems/random-pick-with-weight> "Random Pick With Weight"
 [883]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
+[885]:<https://leetcode.com/problems/boats-to-save-people> "Boats to Save People"
+[887]:<https://leetcode.com/problems/projection-area-of-3d-shapes/> "Projection area of 3d Shapes"
 
