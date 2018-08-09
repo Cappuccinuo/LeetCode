@@ -413,7 +413,7 @@
 | 409  | 868  |                      [Binary Gap][868]                       |     Java     |    Easy    |       2018.7.15       |                Bit Manipulation                 |                                                              |
 | 410  | 869  |                 [Reordered Power of 2][869]                  |     Java     |   Medium   |       2018.7.15       |              DFS, Bit Manipulation              |                                                              |
 | 411  | 470  |             [Implement Rand10 Using Rand7][470]              |     Java     |   Medium   |       2018.7.16       |                  Random, Math                   |                                                              |
-| 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                                                              |
+| 412  | 871  |           [Minimum Number of Refueling Stops][871]           |     Java     |    Hard    |       2018.7.16       |               Dynamic Programming               |                           2018.8.8                           |
 | 413  | 709  |                     [To Lower Case][709]                     |     Java     |    Easy    |       2018.7.21       |                     String                      |                                                              |
 | 414  | 492  |                [Construct the Rectangle][492]                |     Java     |    Easy    |       2018.7.21       |                      Array                      |                                                              |
 | 415  | 872  |                  [Leaf-Similar Trees][872]                   |     Java     |    Easy    |       2018.7.23       |                      Tree                       |                                                              |
@@ -433,6 +433,7 @@
 | 429  | 887  |             [Projection Area of 3D Shapes][887]              |     Java     |    Easy    |       2018.8.5        |                      Math                       |                                                              |
 | 430  | 885  |                 [Boats to Save People][885]                  |     Java     |   Medium   |       2018.8.5        |              Greedy, Two Pointers               |                                                              |
 | 431  | 884  |                [Decoded String at Index][884]                |     Java     |   Medium   |       2018.8.7        |                     String                      |                                                              |
+| 432  | 673  |       [Number of Longest Increasing Subsequence][673]        |     Java     |   Medium   |       2018.8.9        |               Dynamic Programming               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -782,6 +783,7 @@
 [665]:<https://leetcode.com/problems/non-decreasing-array/> "Non-Decreasing Array"
 [669]:<https://leetcode.com/problems/trim-a-binary-search-tree/> "Trim a Binary Search Tree"
 [671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree>	"Second Minimum Node in a Binary Tree"
+[673]:https://leetcode.com/problems/number-of-longest-increasing-subsequence/>	"Number of Longest Increasing Subsequence"
 [674]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
