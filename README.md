@@ -423,17 +423,18 @@
 | 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |
 | 420  | 700  |            [Search in a Binary Search Tree][700]             |     Java     |    Easy    |       2018.7.26       |                      Tree                       |                                                              |
 | 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                                                              |
-| 422  | 880  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |
+| 422  | 528  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |
 | 423  | 876  |               [Middle of the Linked List][876]               |     Java     |    Easy    |       2018.7.30       |                   Linked List                   |                                                              |
 | 424  | 877  |                      [Stone Game][877]                       |     Java     |   Medium   |       2018.7.30       |            Math, Dynamic Programming            |                                                              |
-| 425  | 883  |           [Generate Random Point in a Circle][883]           |     Java     |   Medium   |       2018.7.31       |        Math, Random, Rejection Sampling         |                                                              |
+| 425  | 478  |           [Generate Random Point in a Circle][883]           |     Java     |   Medium   |       2018.7.31       |        Math, Random, Rejection Sampling         |                                                              |
 | 426  | 704  |                     [Binary Search][704]                     |     Java     |    Easy    |       2018.8.1        |                  Binary Search                  |                                                              |
 | 427  | 123  |          [Best Time to Buy and Sell Stock III][123]          |     Java     |    Hard    |       2018.8.2        |           Dynamic Programming, Array            |                                                              |
 | 428  | 809  |                   [Expressive Words][809]                    |     Java     |   Medium   |       2018.8.3        |                     String                      |                                                              |
 | 429  | 887  |             [Projection Area of 3D Shapes][887]              |     Java     |    Easy    |       2018.8.5        |                      Math                       |                                                              |
 | 430  | 885  |                 [Boats to Save People][885]                  |     Java     |   Medium   |       2018.8.5        |              Greedy, Two Pointers               |                          2018.8.15                           |
-| 431  | 884  |                [Decoded String at Index][884]                |     Java     |   Medium   |       2018.8.7        |                     String                      |                                                              |
+| 431  | 880  |                [Decoded String at Index][884]                |     Java     |   Medium   |       2018.8.7        |                     String                      |                                                              |
 | 432  | 673  |       [Number of Longest Increasing Subsequence][673]        |     Java     |   Medium   |       2018.8.9        |               Dynamic Programming               |                                                              |
+| 433  | 884  |           [Uncommon Words from Two Sentences][884]           |     Java     |    Easy    |       2018.8.15       |                   Hash Table                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -708,6 +709,7 @@
 [470]:<https://leetcode.com/problems/implement-rand10-using-rand7/> "Implement Rand10 Using Rand7"
 [476]:<https://leetcode.com/problems/number-complement/> "Number Complement"
 [477]:<https://leetcode.com/problems/total-hamming-distance/> "Total Hamming Distance"
+[478]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
 [482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [490]:<https://leetcode.com/problems/the-maze/> "The Maze"
@@ -726,6 +728,7 @@
 [518]:<https://leetcode.com/problems/coin-change-2/> "Coin Change 2"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
+[528]:<https://leetcode.com/problems/random-pick-with-weight/> "Random Pick with Weight"
 [530]:<https://leetcode.com/problems/minimum-absolute-difference-in-bst/> "Minimum Absolute Difference in BST"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
 [535]:<https://leetcode.com/problems/encode-and-decode-tinyurl/> "Encode and Decode TinyURL"
@@ -867,9 +870,9 @@
 [875]:<https://leetcode.com/problems/koko-eating-bananas/> "Koko Eating Bananas"
 [876]:<https://leetcode.com/problems/middle-of-the-linked-list/> "Middle of the Linked List"
 [877]:<https://leetcode.com/problems/stone-game/> "Stone Game"
-[880]:<https://leetcode.com/problems/random-pick-with-weight> "Random Pick With Weight"
+[880]:<https://leetcode.com/problems/decoded-string-at-index/> "Decoded string at index"
 [883]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
-[884]:<https://leetcode.com/problems/decoded-string-at-index/> "Decoded String at Index"
+[884]:<https://leetcode.com/problems/uncommon-words-from-two-sentences/> "Uncommon words from Two Sentences"
 [885]:<https://leetcode.com/problems/boats-to-save-people> "Boats to Save People"
 [887]:<https://leetcode.com/problems/projection-area-of-3d-shapes/> "Projection area of 3d Shapes"
 
