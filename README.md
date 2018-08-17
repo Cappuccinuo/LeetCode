@@ -441,6 +441,7 @@
 | 437  | 890  |               [Find and Replace Pattern][890]                |     Java     |   Medium   |       2018.8.20       |                     String                      |                                                              |
 | 438  | 886  |                 [Possible Bipartition][886]                  |     Java     |   Medium   |       2018.8.21       |                       DFS                       |                                                              |
 | 439  | 885  |                   [Spiral Matrix III][885]                   |     Java     |   Medium   |       2018.8.22       |                      Math                       |                                                              |
+| 440  | 703  |            [Kth Largest Element in a Stream][703]            |     Java     |    Easy    |       2018.8.22       |                      Heap                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -808,6 +809,7 @@
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
 [700]:<https://leetcode.com/problems/search-in-a-binary-search-tree> "Search in a Binary Search Tree"
+[703]:<https://leetcode.com/problems/kth-largest-element-in-a-stream/> "Kth Largest Element in a Stream"
 [704]:<https://leetcode.com/problems/binary-search/> "Binary Search"
 [709]:<https://leetcode.com/problems/to-lower-case/> "To Lower Case"
 [712]:<https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/> "Minimum ASCII delete Sum for Two Strings"
