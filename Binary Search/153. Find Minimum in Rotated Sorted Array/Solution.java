@@ -1,3 +1,29 @@
+// 2018.8.17
+class Solution {
+    public int findMin(int[] nums) {
+        int N = nums.length;
+        int start = 0;
+        int end = N - 1;
+        int target = nums[N - 1];
+        
+        while (start + 1 < end) {
+            int mid = start + (end - start) / 2;
+            if (nums[mid] <= target) {
+                end = mid;
+            }
+            else {
+                start = mid;
+            }
+        }
+        
+        if (nums[start] < nums[end]) {
+            return nums[start];
+        }
+        return nums[end];
+    }
+}
+
+
 // 2018.4.26
 class Solution {
     public int findMin(int[] nums) {
