@@ -312,7 +312,7 @@
 | 308  | 280  |                      [Wiggle Sort][280]                      |     Java     |   Medium   |       2018.3.20       |                   Array, Sort                   |                          2018.5.23                           |
 | 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |     Java     |   Medium   |       2018.3.21       |                      Tree                       |                                                              |
 | 310  |  33  |             [Search in Rotated Sorted Array][33]             |     Java     |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27 2018.4.24                      |
-| 311  | 162  |                   [Find Peak Element][162]                   |     Java     |   Medium   |       2018.3.23       |                  Binary Search                  |                                                              |
+| 311  | 162  |                   [Find Peak Element][162]                   |     Java     |   Medium   |       2018.3.23       |                  Binary Search                  |                          2018.8.17                           |
 | 312  | 658  |                [Find K Closest Elements][658]                |     Java     |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                      2018.8.2 2018.8.17                      |
 | 313  | 127  |                      [Word Ladder][127]                      |     Java     |   Medium   |       2018.4.6        |                       BFS                       |           2018.4.14 2018.4.23 2018.5.26 2018.6.25            |
 | 314  | 207  |                    [Course Schedule][207]                    |     Java     |   Medium   |       2018.4.6        |                Topological Sort                 |                           2018.6.6                           |
@@ -435,6 +435,7 @@
 | 431  | 880  |                [Decoded String at Index][884]                |     Java     |   Medium   |       2018.8.7        |                     String                      |                                                              |
 | 432  | 673  |       [Number of Longest Increasing Subsequence][673]        |     Java     |   Medium   |       2018.8.9        |               Dynamic Programming               |                                                              |
 | 433  | 884  |           [Uncommon Words from Two Sentences][884]           |     Java     |    Easy    |       2018.8.15       |                   Hash Table                    |                                                              |
+| 434  | 179  |                    [Largest Number][179]                     |     Java     |   Meidum   |       2018.8.19       |                      Sort                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -561,6 +562,7 @@
 [176]:<https://leetcode.com/problems/second-highest-salary/> "Second Highest Salary"
 [177]:<https://leetcode.com/problems/nth-highest-salary/> "Nth Highest Salary"
 [178]:<https://leetcode.com/problems/rank-scores/> "Rank Scores"
+[179]:<https://leetcode.com/problems/largest-number/> "Largest Number"
 [180]:<https://leetcode.com/problems/consecutive-numbers/> "Consecutive Numbers"
 [181]:<https://leetcode.com/problems/employees-earning-more-than-their-managers/> "Employees Earning More Than Their Managers"
 [182]:<https://leetcode.com/problems/duplicate-emails/> "Duplicate Emails"
