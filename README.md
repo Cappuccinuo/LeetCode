@@ -439,6 +439,7 @@
 | 435  | 888  |                    [Fair Candy Swap][888]                    |     Java     |    Easy    |       2018.8.19       |                      Array                      |                                                              |
 | 436  | 889  | [Construct Binary Tree from Preorder and Postorder Traversal][889] |     Java     |   Medium   |       2018.8.20       |                      Tree                       |                                                              |
 | 437  | 890  |               [Find and Replace Pattern][890]                |     Java     |   Medium   |       2018.8.20       |                     String                      |                                                              |
+| 438  | 886  |                 [Possible Bipartition][886]                  |     Java     |   Medium   |       2018.8.21       |                       DFS                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -879,6 +880,7 @@
 [883]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
 [884]:<https://leetcode.com/problems/uncommon-words-from-two-sentences/> "Uncommon words from Two Sentences"
 [885]:<https://leetcode.com/problems/boats-to-save-people> "Boats to Save People"
+[886]:<https://leetcode.com/problems/possible-bipartition/> "Possible Bipartition"
 [887]:<https://leetcode.com/problems/projection-area-of-3d-shapes/> "Projection area of 3d Shapes"
 [888]:<https://leetcode.com/problems/fair-candy-swap/> "Fair Candy Swap"
 [889]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/> "Construct Binary Tree from Preorder and Postorder Traversal"
