@@ -442,6 +442,8 @@
 | 438  | 886  |                 [Possible Bipartition][886]                  |     Java     |   Medium   |       2018.8.21       |                       DFS                       |                                                              |
 | 439  | 885  |                   [Spiral Matrix III][885]                   |     Java     |   Medium   |       2018.8.22       |                      Math                       |                                                              |
 | 440  | 703  |            [Kth Largest Element in a Stream][703]            |     Java     |    Easy    |       2018.8.22       |                      Heap                       |                                                              |
+| 441  | 559  |              [Maximum Depth of N-ary Tree][559]              |     Java     |    Easy    |       2018.8.23       |                 Tree, DFS, BFS                  |                                                              |
+| 442  | 589  |             [N-ary Tree Preorder Traversal][589]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -749,6 +751,7 @@
 [551]:<https://leetcode.com/problems/student-attendance-record-i/> "Student Attendance Record I"
 [556]:<https://leetcode.com/problems/next-greater-element-iii/> "Next Greater Element III"
 [557]:<https://leetcode.com/problems/reverse-words-in-a-string-iii/> "Reverse Words In A String III"
+[559]:<https://leetcode.com/problems/maximum-depth-of-n-ary-tree/> "Maxiumum Depth of N-ary Tree"
 [560]:<https://leetcode.com/problems/subarray-sum-equals-k/> "Subarray Sum Equals K"
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [563]:<https://leetcode.com/problems/binary-tree-tilt> "Binary Tree Tilt"
@@ -762,6 +765,7 @@
 [583]:<https://leetcode.com/problems/delete-operation-for-two-strings/> "Delete Operation for Two Strings"
 [584]:<https://leetcode.com/problems/find-customer-referee/> "Find Customer Referee"
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
+[589]:<https://leetcode.com/problems/n-ary-tree-preorder-traversal/> "N-ary Tree Preorder Traversal"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
 [596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
