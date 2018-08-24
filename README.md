@@ -444,6 +444,7 @@
 | 440  | 703  |            [Kth Largest Element in a Stream][703]            |     Java     |    Easy    |       2018.8.22       |                      Heap                       |                                                              |
 | 441  | 559  |              [Maximum Depth of N-ary Tree][559]              |     Java     |    Easy    |       2018.8.23       |                 Tree, DFS, BFS                  |                                                              |
 | 442  | 589  |             [N-ary Tree Preorder Traversal][589]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
+| 443  | 590  |            [N-ary Tree Postorder Traversal][590]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -766,6 +767,7 @@
 [584]:<https://leetcode.com/problems/find-customer-referee/> "Find Customer Referee"
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [589]:<https://leetcode.com/problems/n-ary-tree-preorder-traversal/> "N-ary Tree Preorder Traversal"
+[590]:<https://leetcode.com/problems/n-ary-tree-postorder-traversal/> "N-ary Tree Postorder Traversal"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
 [596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
