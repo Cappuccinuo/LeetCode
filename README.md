@@ -445,6 +445,7 @@
 | 441  | 559  |              [Maximum Depth of N-ary Tree][559]              |     Java     |    Easy    |       2018.8.23       |                 Tree, DFS, BFS                  |                                                              |
 | 442  | 589  |             [N-ary Tree Preorder Traversal][589]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
 | 443  | 590  |            [N-ary Tree Postorder Traversal][590]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
+| 444  | 892  |               [Surface Area of 3D Shapes][892]               |     Java     |    Easy    |       2018.8.27       |                      Math                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -895,4 +896,6 @@
 [888]:<https://leetcode.com/problems/fair-candy-swap/> "Fair Candy Swap"
 [889]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/> "Construct Binary Tree from Preorder and Postorder Traversal"
 [890]:<https://leetcode.com/problems/find-and-replace-pattern/> "Find and Replace Pattern"
+[892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
+[]:<>
 
