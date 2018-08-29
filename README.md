@@ -446,6 +446,7 @@
 | 442  | 589  |             [N-ary Tree Preorder Traversal][589]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
 | 443  | 590  |            [N-ary Tree Postorder Traversal][590]             |     Java     |    Easy    |       2018.8.24       |                      Tree                       |                                                              |
 | 444  | 892  |               [Surface Area of 3D Shapes][892]               |     Java     |    Easy    |       2018.8.27       |                      Math                       |                                                              |
+| 445  | 893  |         [Groups of Special-Equivalent Strings][893]          |     Java     |    Easy    |       2018.8.28       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -897,5 +898,6 @@
 [889]:<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/> "Construct Binary Tree from Preorder and Postorder Traversal"
 [890]:<https://leetcode.com/problems/find-and-replace-pattern/> "Find and Replace Pattern"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
-[]:<>
+[893]:<https://leetcode.com/problems/groups-of-special-equivalent-strings/> "Groups of Special Equivalent Strings"
+[892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
