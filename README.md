@@ -451,6 +451,7 @@
 | 447  | 253  |                   [Meeting Rooms II][253]                    |     Java     |   Medium   |       2018.8.29       |               Heap, Greedy, Sort                |                                                              |
 | 448  |  54  |                     [Spiral Matrix][54]                      |     Java     |   Medium   |       2018.8.29       |                      Array                      |                                                              |
 | 449  |  59  |                    [Spiral Matrix II][59]                    |     Java     |   Medium   |       2018.8.29       |                      Array                      |                                                              |
+| 450  | 681  |                   [Next Closest Time][681]                   |     Java     |   Medium   |       2018.8.30       |                     String                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -814,6 +815,7 @@
 [676]:<https://leetcode.com/problems/implement-magic-dictionary/> "Implement Magic Dictionary"
 [677]:<https://leetcode.com/problems/map-sum-pairs/> "Map Sum Pairs"
 [680]:<https://leetcode.com/problems/valid-palindrome-ii/> "Valid Palindrome II"
+[681]:<https://leetcode.com/problems/next-closest-time/> "Next Closest Time"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [686]:<https://leetcode.com/problems/repeated-string-match/> "Repeated String Match"
 [687]:<https://leetcode.com/problems/longest-univalue-path/> "Longest Univalue Path"
