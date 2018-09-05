@@ -458,6 +458,7 @@
 | 454  | 898  |               [Bitwise ORs of Subarrays][898]                |     Java     |   Medium   |       2018.9.1        |               Dynamic Programming               |                                                              |
 | 455  | 227  |                  [Basic Calculator II][227]                  |     Java     |   Medium   |       2018.9.3        |                     String                      |                                                              |
 | 456  | 240  |                 [Search a 2D Matrix II][240]                 |     Java     |   Medium   |       2018.9.4        |                  Binary Search                  |                                                              |
+| 457  | 621  |                    [Task Scheduler][621]                     |     Java     |   Medium   |       2018.9.5        |              Array, Greedy, Queue               |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -802,6 +803,7 @@
 [617]:<https://leetcode.com/problems/merge-two-binary-trees/> "Merge Two Binary Trees"
 [619]:<https://leetcode.com/problems/biggest-single-number/> "Biggest Single Number"
 [620]:<https://leetcode.com/problems/not-boring-movies/> "Not Boring Movies"
+[621]:<https://leetcode.com/problems/task-scheduler/> "Task Scheduler"
 [624]:<https://leetcode.com/problems/maximum-distance-in-arrays/> "Maximum Distance in Arrays"
 [627]:<https://leetcode.com/problems/swap-salary/> "Swap Salary"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
