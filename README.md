@@ -459,6 +459,7 @@
 | 455  | 227  |                  [Basic Calculator II][227]                  |     Java     |   Medium   |       2018.9.3        |                     String                      |                                                              |
 | 456  | 240  |                 [Search a 2D Matrix II][240]                 |     Java     |   Medium   |       2018.9.4        |                  Binary Search                  |                                                              |
 | 457  | 621  |                    [Task Scheduler][621]                     |     Java     |   Medium   |       2018.9.5        |              Array, Greedy, Queue               |                                                              |
+| 458  | 220  |                [Contains Duplicate III][220]                 |     Java     |   Medium   |       2018.9.6        |               Binary Search Tree                |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -617,6 +618,7 @@
 [215]:<https://leetcode.com/problems/kth-largest-element-in-an-array/> "Kth largest element in an array"
 [217]:<https://leetcode.com/problems/contains-duplicate/> "Contains Duplicate"
 [219]:<https://leetcode.com/problems/contains-duplicate-ii/> "Contains Duplicate Ⅱ"
+[220]:<https://leetcode.com/problems/contains-duplicate-iii/> "Contains Duplicate III"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
 [226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
 [227]:<https://leetcode.com/problems/basic-calculator-ii/> "Basic Calculator II"
