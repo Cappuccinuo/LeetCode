@@ -20,3 +20,37 @@ class Solution {
         return true;
     }
 }
+
+class Solution {
+    public boolean areSentencesSimilar(String[] words1, String[] words2, String[][] pairs) {
+        if (words1.length != words2.length) {
+            return false;
+        }
+        Map<String, Set<String>> map = new HashMap<>();
+        for (String[] pair : pairs) {
+            if (!map.containsKey(pair[0])) {
+                map.put(pair[0], new HashSet<String>());
+            }
+            if (!map.containsKey(pair[1])) {
+                map.put(pair[1], new HashSet<String>());
+            }
+            map.get(pair[0]).add(pair[1]);
+            map.get(pair[1]).add(pair[0]);
+        }
+        int index = 0;
+        int N = words1.length;
+        while(index < N) {
+            String s1 = words1[index];
+            String s2 = words2[index];
+            if (s1.equals(s2)) {
+                index++;
+                continue;
+            }
+            if (!map.containsKey(s1) || !map.containsKey(s2) || !map.get(s1).contains(s2) || !map.get(s2).contains(s1)) {
+                return false;
+            }
+            index++;
+        }
+        return true;
+    }
+}
