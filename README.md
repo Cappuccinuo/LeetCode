@@ -460,6 +460,7 @@
 | 456  | 240  |                 [Search a 2D Matrix II][240]                 |     Java     |   Medium   |       2018.9.4        |                  Binary Search                  |                                                              |
 | 457  | 621  |                    [Task Scheduler][621]                     |     Java     |   Medium   |       2018.9.5        |              Array, Greedy, Queue               |                                                              |
 | 458  | 220  |                [Contains Duplicate III][220]                 |     Java     |   Medium   |       2018.9.6        |               Binary Search Tree                |                                                              |
+| 459  | 900  |                     [RLE Iterator][900]                      |     Java     |   Medium   |       2018.9.13       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -925,5 +926,6 @@
 [896]:<https://leetcode.com/problems/monotonic-array/> "Monotonic Array"
 [897]:<https://leetcode.com/problems/increasing-order-search-tree/> "Incresing Order Search Tree"
 [898]:<https://leetcode.com/problems/bitwise-ors-of-subarrays/> "Bitwise ORs of Subarrays"
+[900]:<https://leetcode.com/problems/rle-iterator/> "RLE Iterator"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
