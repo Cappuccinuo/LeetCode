@@ -462,6 +462,9 @@
 | 458  | 220  |                [Contains Duplicate III][220]                 |     Java     |   Medium   |       2018.9.6        |               Binary Search Tree                |                                                              |
 | 459  | 900  |                     [RLE Iterator][900]                      |     Java     |   Medium   |       2018.9.13       |                      Array                      |                                                              |
 | 460  | 264  |                    [Ugly Number II][264]                     |     Java     |   Medium   |       2018.9.15       |         Math, Dynamic Programming, Heap         |                                                              |
+| 461  | 905  |                 [Sort Array By Parity][905]                  |     Java     |    Easy    |       2018.9.15       |                      Array                      |                                                              |
+| 462  | 904  |                  [Fruit Into Baskets][904]                   |     Java     |   Medium   |       2018.9.15       |                  Two Pointers                   |                                                              |
+| 463  | 907  |               [Sum of Subarray Minimums][907]                |     Java     |   Medium   |       2018.9.15       |                      Stack                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -929,5 +932,8 @@
 [897]:<https://leetcode.com/problems/increasing-order-search-tree/> "Incresing Order Search Tree"
 [898]:<https://leetcode.com/problems/bitwise-ors-of-subarrays/> "Bitwise ORs of Subarrays"
 [900]:<https://leetcode.com/problems/rle-iterator/> "RLE Iterator"
+[904]:<https://leetcode.com/problems/fruit-into-baskets/> "Fruit into Baskets"
+[905]:<https://leetcode.com/problems/sort-array-by-parity/> "Sort Array by Parity"
+[907]:<https://leetcode.com/problems/sum-of-subarray-minimums/> "Sum of Subarray Minimums"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
