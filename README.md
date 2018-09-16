@@ -25,7 +25,7 @@
 |  21  |  28  |                   [Implement strStr()][28]                   |     Java     |    Easy    |       2017.3.15       |                     String                      |                          2018.3.17                           |
 |  22  |  35  |                 [Search Insert Position][35]                 |     Java     |    Easy    |       2017.3.15       |                                                 |                                                              |
 |  23  |  38  |                     [Count and Say][38]                      |     Java     |    Easy    |       2017.3.16       |                                                 |                                                              |
-|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 |
+|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 2018.9.14 |
 |  25  |  58  |                  [Length of Last Word][58]                   |     Java     |    Easy    |       2017.3.16       |                                                 |                                                              |
 |  26  |  66  |                        [Plus One][66]                        |     Java     |    Easy    |       2017.3.17       |                   Math. Array                   |                          2017.12.14                          |
 |  27  |  67  |                       [Add Binary][67]                       |     Java     |    Easy    |       2017.3.17       |                  Math, String                   |                          2017.12.13                          |
@@ -461,6 +461,7 @@
 | 457  | 621  |                    [Task Scheduler][621]                     |     Java     |   Medium   |       2018.9.5        |              Array, Greedy, Queue               |                                                              |
 | 458  | 220  |                [Contains Duplicate III][220]                 |     Java     |   Medium   |       2018.9.6        |               Binary Search Tree                |                                                              |
 | 459  | 900  |                     [RLE Iterator][900]                      |     Java     |   Medium   |       2018.9.13       |                      Array                      |                                                              |
+| 460  | 264  |                    [Ugly Number II][264]                     |     Java     |   Medium   |       2018.9.15       |         Math, Dynamic Programming, Heap         |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -647,6 +648,7 @@
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
 [258]:<https://leetcode.com/problems/add-digits/> "Add Digits"
 [259]:<https://leetcode.com/problems/3sum-smaller/> "3Sum Smaller"
+[264]:<https://leetcode.com/problems/ugly-number-ii/> "Ugly Number II"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
