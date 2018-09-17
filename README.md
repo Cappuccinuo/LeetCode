@@ -465,6 +465,7 @@
 | 461  | 905  |                 [Sort Array By Parity][905]                  |     Java     |    Easy    |       2018.9.15       |                      Array                      |                                                              |
 | 462  | 904  |                  [Fruit Into Baskets][904]                   |     Java     |   Medium   |       2018.9.15       |                  Two Pointers                   |                                                              |
 | 463  | 907  |               [Sum of Subarray Minimums][907]                |     Java     |   Medium   |       2018.9.15       |                      Stack                      |                                                              |
+| 464  | 906  |                   [Super Palindromes][906]                   |     Java     |    Hard    |       2018.9.17       |                      Math                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -934,6 +935,7 @@
 [900]:<https://leetcode.com/problems/rle-iterator/> "RLE Iterator"
 [904]:<https://leetcode.com/problems/fruit-into-baskets/> "Fruit into Baskets"
 [905]:<https://leetcode.com/problems/sort-array-by-parity/> "Sort Array by Parity"
+[906]:<https://leetcode.com/problems/super-palindromes/> "Super Palindromes"
 [907]:<https://leetcode.com/problems/sum-of-subarray-minimums/> "Sum of Subarray Minimums"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
