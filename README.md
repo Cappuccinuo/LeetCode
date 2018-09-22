@@ -466,6 +466,7 @@
 | 462  | 904  |                  [Fruit Into Baskets][904]                   |     Java     |   Medium   |       2018.9.15       |                  Two Pointers                   |                                                              |
 | 463  | 907  |               [Sum of Subarray Minimums][907]                |     Java     |   Medium   |       2018.9.15       |                      Stack                      |                                                              |
 | 464  | 906  |                   [Super Palindromes][906]                   |     Java     |    Hard    |       2018.9.17       |                      Math                       |                                                              |
+| 465  | 698  |           [Partition to K Equal Sum Subsets][698]            |     Java     |   Medium   |       2018.9.21       |                    Recursion                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -845,6 +846,7 @@
 [695]:<https://leetcode.com/problems/max-area-of-island/> "Max Area of Island"
 [696]:<https://leetcode.com/problems/count-binary-substrings/> "Count Binary Substrings"
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
+[698]:<https://leetcode.com/problems/partition-to-k-equal-sum-subsets/> "Partition to K Equal Sum Subsets"
 [700]:<https://leetcode.com/problems/search-in-a-binary-search-tree> "Search in a Binary Search Tree"
 [703]:<https://leetcode.com/problems/kth-largest-element-in-a-stream/> "Kth Largest Element in a Stream"
 [704]:<https://leetcode.com/problems/binary-search/> "Binary Search"
