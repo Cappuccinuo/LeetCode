@@ -467,6 +467,10 @@
 | 463  | 907  |               [Sum of Subarray Minimums][907]                |     Java     |   Medium   |       2018.9.15       |                      Stack                      |                                                              |
 | 464  | 906  |                   [Super Palindromes][906]                   |     Java     |    Hard    |       2018.9.17       |                      Math                       |                                                              |
 | 465  | 698  |           [Partition to K Equal Sum Subsets][698]            |     Java     |   Medium   |       2018.9.21       |                    Recursion                    |                                                              |
+| 466  | 911  |                    [Online Election][911]                    |     Java     |   Medium   |       2018.9.23       |                    HashTable                    |                                                              |
+| 467  | 910  |                   [Smallest Range II][910]                   |     Java     |   Medium   |       2018.9.22       |                      Array                      |                                                              |
+| 468  | 909  |                  [Snakes and Ladders][909]                   |     Java     |   Medium   |       2018.9.22       |                       BFS                       |                                                              |
+| 469  | 908  |                   [Smallest Range I][908]                    |     Java     |   Medium   |       2018.9.22       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -939,5 +943,9 @@
 [905]:<https://leetcode.com/problems/sort-array-by-parity/> "Sort Array by Parity"
 [906]:<https://leetcode.com/problems/super-palindromes/> "Super Palindromes"
 [907]:<https://leetcode.com/problems/sum-of-subarray-minimums/> "Sum of Subarray Minimums"
+[908]:<https://leetcode.com/problems/smallest-range-i/> "Smallest Range I"
+[909]:<https://leetcode.com/problems/snakes-and-ladders/> "Snakes and Ladders"
+[910]:<https://leetcode.com/problems/smallest-range-ii/> "Smallest Range II"
+[911]:<https://leetcode.com/problems/online-election/> "Online Election"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
