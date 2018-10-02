@@ -25,7 +25,7 @@
 |  21  |  28  |                   [Implement strStr()][28]                   |     Java     |    Easy    |       2017.3.15       |                     String                      |                          2018.3.17                           |
 |  22  |  35  |                 [Search Insert Position][35]                 |     Java     |    Easy    |       2017.3.15       |                                                 |                                                              |
 |  23  |  38  |                     [Count and Say][38]                      |     Java     |    Easy    |       2017.3.16       |                                                 |                                                              |
-|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 2018.9.14 |
+|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 2018.9.14 2018.9.28 |
 |  25  |  58  |                  [Length of Last Word][58]                   |     Java     |    Easy    |       2017.3.16       |                                                 |                                                              |
 |  26  |  66  |                        [Plus One][66]                        |     Java     |    Easy    |       2017.3.17       |                   Math. Array                   |                          2017.12.14                          |
 |  27  |  67  |                       [Add Binary][67]                       |     Java     |    Easy    |       2017.3.17       |                  Math, String                   |                          2017.12.13                          |
@@ -51,7 +51,7 @@
 |  47  | 203  |              [Remove Linked List Elements][203]              |     Java     |    Easy    |       2017.5.27       |                   Linked List                   |                     2017.12.26 2018.2.11                     |
 |  48  |  2   |                     [Add Two Numbers][2]                     |     Java     |   Medium   |       2017.5.27       |                Linked List, Math                |      2017.12.13 2018.1.26 2018.2.11 2018.4.17 2018.9.21      |
 |  49  | 445  |                   [Add Two Numbers Ⅱ][445]                   |     Java     |   Medium   |       2017.5.30       |                   Linked List                   |           2017.12.13 2018.1.26 2018.2.12 2018.4.23           |
-|  50  |  24  |                  [Swap Nodes in Pairs][24]                   |     Java     |   Medium   |       2017.6.2        |                   Linked List                   |                          2017.12.25                          |
+|  50  |  24  |                  [Swap Nodes in Pairs][24]                   |     Java     |   Medium   |       2017.6.2        |                   Linked List                   |                     2017.12.25 2018.9.27                     |
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |     Java     |   Medium   |       2017.6.2        |                   Linked List                   |                     2017.12.25 2018.9.24                     |
 |  52  | 147  |                  [Insertion Sort List][147]                  |     Java     |   Medium   |       2017.6.7        |                Linked List, Sort                |                                                              |
 |  53  |  86  |                     [Partition List][86]                     |     Java     |   Medium   |       2017.6.7        |            Linked List, Two Pointers            |                          2018.1.25                           |
@@ -61,14 +61,14 @@
 |  57  |  25  |                [Reverse Nodes in k-Group][25]                |     Java     |    Hard    |       2017.6.10       |                   Linked List                   |                                                              |
 |  58  | 148  |                       [Sort List][148]                       |     Java     |   Medium   |       2017.6.11       |                Linked List, Sort                |                     2017.12.15 2018.2.13                     |
 |  59  | 237  |             [Delete Node in a Linked List][237]              |     Java     |    Easy    |       2017.6.14       |                   Linked List                   |                2017.12.14 2018.2.10 2018.6.30                |
-|  60  | 206  |                  [Reverse Linked List][206]                  |     Java     |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 2018.3.11 2018.4.10 2018.6.30 |
+|  60  | 206  |                  [Reverse Linked List][206]                  |     Java     |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 2018.3.11 2018.4.10 2018.6.30 2018.9.28 |
 |  61  | 328  |                 [Odd Even Linked List][328]                  |     Java     |   Medium   |       2017.6.15       |                   Linked List                   |                     2017.12.16 2018.2.11                     |
 |  62  |  83  |           [Remove Duplicates from Sorted List][83]           |     Java     |    Easy    |       2017.6.15       |                   Linked List                   |                          2017.12.26                          |
 |  63  | 109  |       [Convert Sorted List to Binary Search Tree][109]       |     Java     |   Medium   |       2017.6.17       |                Linked List, DFS                 |                          2018.2.12                           |
 |  64  | 496  |                [Next Greater Element I][496]                 |     Java     |    Easy    |       2017.6.19       |                 Stack, HashMap                  |                          2018.1.12                           |
 |  65  | 503  |                [Next Greater Element II][503]                |     Java     |   Medium   |       2017.6.19       |                      Stack                      |                          2018.1.13                           |
 |  66  |  94  |             [Binary Tree Inorder Travelsal][94]              |     Java     |   Medium   |       2017.6.20       |                      Stack                      | 2018.1.4 2018.2.13 2018.3.15 2018.4.3 2018.4.24 2018.5.8 2018.6.8 |
-|  67  | 144  |            [Binary Tree Preorder Travelsal][144]             |     Java     |   Medium   |       2017.6.22       |                      Stack                      |            2018.1.4 2018.2.13 2018.3.15 2018.4.24            |
+|  67  | 144  |            [Binary Tree Preorder Travelsal][144]             |     Java     |   Medium   |       2017.6.22       |                      Stack                      |       2018.1.4 2018.2.13 2018.3.15 2018.4.24 2018.9.28       |
 |  68  | 145  |            [Binary Tree Postorder Travelsal][145]            |     Java     |    Hard    |       2017.6.22       |                      Stack                      |            2018.1.4 2018.2.13 2018.3.15 2018.4.24            |
 |  69  | 394  |                     [Decode String][394]                     |     Java     |   Medium   |       2017.6.27       |                      Stack                      |                           2018.1.9                           |
 |  70  | 341  |             [Flatten Nested List Iterator][341]              |     Java     |   Medium   |       2017.6.27       |                  Design, Stack                  |                      2018.1.8 2018.1.28                      |
@@ -311,7 +311,7 @@
 | 307  | 250  |                [Count Univalue Subtrees][250]                |     Java     |   Medium   |       2018.3.16       |                      Tree                       |                                                              |
 | 308  | 280  |                      [Wiggle Sort][280]                      |     Java     |   Medium   |       2018.3.20       |                   Array, Sort                   |                          2018.5.23                           |
 | 309  | 116  |      [Populating Next Right Pointers in Each Node][116]      |     Java     |   Medium   |       2018.3.21       |                      Tree                       |                                                              |
-| 310  |  33  |             [Search in Rotated Sorted Array][33]             |     Java     |   Medium   |       2018.3.22       |                  Binary Search                  |                     2018.3.27 2018.4.24                      |
+| 310  |  33  |             [Search in Rotated Sorted Array][33]             |     Java     |   Medium   |       2018.3.22       |                  Binary Search                  |                2018.3.27 2018.4.24 2018.9.29                 |
 | 311  | 162  |                   [Find Peak Element][162]                   |     Java     |   Medium   |       2018.3.23       |                  Binary Search                  |                          2018.8.17                           |
 | 312  | 658  |                [Find K Closest Elements][658]                |     Java     |   Medium   |       2018.3.27       |           Binary Search, Two Pointers           |                      2018.8.2 2018.8.17                      |
 | 313  | 127  |                      [Word Ladder][127]                      |     Java     |   Medium   |       2018.4.6        |                       BFS                       |           2018.4.14 2018.4.23 2018.5.26 2018.6.25            |
@@ -336,8 +336,8 @@
 | 332  |  48  |                      [Rotate Image][48]                      |     Java     |   Medium   |       2018.4.23       |                      Array                      |                                                              |
 | 333  | 680  |                  [Valid Palindrome II][680]                  |     Java     |    Easy    |       2018.4.24       |                     String                      |                                                              |
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |     Java     |   Medium   |       2018.4.24       |                Array, Hash Table                |                                                              |
-| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
-| 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                                                              |
+| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                          2018.10.1                           |
+| 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                          2018.10.1                           |
 | 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |     Java     |   Medium   |       2018.4.26       |              Array, Binary Search               |                          2018.8.17                           |
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |     Java     |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |
 | 339  | 824  |                      [Goat Latin][824]                       |     Java     |    Easy    |       2018.5.2        |                     String                      |                                                              |
@@ -471,6 +471,7 @@
 | 467  | 910  |                   [Smallest Range II][910]                   |     Java     |   Medium   |       2018.9.22       |                      Array                      |                                                              |
 | 468  | 909  |                  [Snakes and Ladders][909]                   |     Java     |   Medium   |       2018.9.22       |                       BFS                       |                                                              |
 | 469  | 908  |                   [Smallest Range I][908]                    |     Java     |   Medium   |       2018.9.22       |                      Array                      |                                                              |
+| 470  |  34  | [Find First and Last Position of Element in Sorted Array][34] |     Java     |   Medium   |       2018.9.22       |                  Binary Search                  |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -501,6 +502,7 @@
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
 [31]:<https://leetcode.com/problems/next-permutation/> "Next Permutation"
 [33]:<https://leetcode.com/problems/search-in-rotated-sorted-array/> "Search in Rotated Sorted Array"
+[34]:<https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/> "Find First and Last Position of element in Sorted Array"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
 [38]:<https://leetcode.com/problems/count-and-say/> "Count and Say"
 [39]:<https://leetcode.com/problems/combination-sum/> "Combination Sum"
