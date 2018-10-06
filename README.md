@@ -54,7 +54,7 @@
 |  50  |  24  |                  [Swap Nodes in Pairs][24]                   |     Java     |   Medium   |       2017.6.2        |                   Linked List                   |                     2017.12.25 2018.9.27                     |
 |  51  |  19  |            [Remove Nth Node From End of List][19]            |     Java     |   Medium   |       2017.6.2        |                   Linked List                   |                     2017.12.25 2018.9.24                     |
 |  52  | 147  |                  [Insertion Sort List][147]                  |     Java     |   Medium   |       2017.6.7        |                Linked List, Sort                |                                                              |
-|  53  |  86  |                     [Partition List][86]                     |     Java     |   Medium   |       2017.6.7        |            Linked List, Two Pointers            |                          2018.1.25                           |
+|  53  |  86  |                     [Partition List][86]                     |     Java     |   Medium   |       2017.6.7        |            Linked List, Two Pointers            |                     2018.1.25 2018.10.3                      |
 |  54  |  92  |                 [Reverse Linked List Ⅱ][92]                  |     Java     |   Medium   |       2017.6.8        |                   Linked List                   |                          2018.2.12                           |
 |  55  |  82  |          [Remove Duplicates from Sorted List Ⅱ][82]          |     Java     |   Medium   |       2017.6.8        |                   Linked List                   |                          2018.10.2                           |
 |  56  |  61  |                      [Rotate List][61]                       |     Java     |   Medium   |       2017.6.9        |            Linked List, Two Pointers            |                     2018.2.12 2018.10.2                      |
@@ -67,7 +67,7 @@
 |  63  | 109  |       [Convert Sorted List to Binary Search Tree][109]       |     Java     |   Medium   |       2017.6.17       |                Linked List, DFS                 |                          2018.2.12                           |
 |  64  | 496  |                [Next Greater Element I][496]                 |     Java     |    Easy    |       2017.6.19       |                 Stack, HashMap                  |                          2018.1.12                           |
 |  65  | 503  |                [Next Greater Element II][503]                |     Java     |   Medium   |       2017.6.19       |                      Stack                      |                          2018.1.13                           |
-|  66  |  94  |             [Binary Tree Inorder Travelsal][94]              |     Java     |   Medium   |       2017.6.20       |                      Stack                      | 2018.1.4 2018.2.13 2018.3.15 2018.4.3 2018.4.24 2018.5.8 2018.6.8 |
+|  66  |  94  |             [Binary Tree Inorder Travelsal][94]              |     Java     |   Medium   |       2017.6.20       |                      Stack                      | 2018.1.4 2018.2.13 2018.3.15 2018.4.3 2018.4.24 2018.5.8 2018.6.8 2018.10.3 |
 |  67  | 144  |            [Binary Tree Preorder Travelsal][144]             |     Java     |   Medium   |       2017.6.22       |                      Stack                      |       2018.1.4 2018.2.13 2018.3.15 2018.4.24 2018.9.28       |
 |  68  | 145  |            [Binary Tree Postorder Travelsal][145]            |     Java     |    Hard    |       2017.6.22       |                      Stack                      |            2018.1.4 2018.2.13 2018.3.15 2018.4.24            |
 |  69  | 394  |                     [Decode String][394]                     |     Java     |   Medium   |       2017.6.27       |                      Stack                      |                           2018.1.9                           |
@@ -142,7 +142,7 @@
 | 138  | 661  |                    [Image Smoother][661]                     |     Java     |    Easy    |      2017.11.12       |                      Array                      |                           2018.1.3                           |
 | 139  | 586  |     [Customer Placing the Largest Number of Orders][586]     |     SQL      |    Easy    |      2017.11.12       |                    Database                     |                                                              |
 | 140  | 595  |                     [Big Countries][595]                     |     SQL      |    Easy    |      2017.11.12       |                    Database                     |                           2018.2.5                           |
-| 141  | 339  |                [Nested List Weight Sum][339]                 |     Java     |    Easy    |      2017.11.13       |                       DFS                       |                      2018.1.8 2018.2.19                      |
+| 141  | 339  |                [Nested List Weight Sum][339]                 |     Java     |    Easy    |      2017.11.13       |                       DFS                       |                 2018.1.8 2018.2.19 2018.10.4                 |
 | 142  | 728  |                 [Self Dividing Numbers][728]                 |     Java     |    Easy    |      2017.11.20       |                      Math                       |                                                              |
 | 143  | 346  |            [Moving Average from Data Stream][346]            |     Java     |    Easy    |      2017.11.20       |                  Design, Queue                  |                                                              |
 | 144  | 266  |                [Palindrome Permutation][266]                 |     Java     |    Easy    |      2017.11.20       |                     HashMap                     |                                                              |
@@ -169,7 +169,7 @@
 | 165  | 191  |                   [Number of 1 Bits][191]                    |     Java     |    Easy    |      2017.11.27       |                Bit manipulation                 |                      2018.7.14 2018.9.8                      |
 | 166  | 624  |              [Maximum Distance in Arrays][624]               |     Java     |    Easy    |      2017.11.27       |                      Array                      |                                                              |
 | 167  | 197  |                  [Rising Temperature][197]                   |     SQL      |    Easy    |      2017.11.27       |                    Database                     |                                                              |
-| 168  |  96  |               [Unique Binary Search Trees][96]               |     Java     |    Easy    |      2017.11.28       |            Dynamic Programming, Tree            |                2017.12.19 2017.12.31 2018.5.9                |
+| 168  |  96  |               [Unique Binary Search Trees][96]               |     Java     |    Easy    |      2017.11.28       |            Dynamic Programming, Tree            |           2017.12.19 2017.12.31 2018.5.9 2018.10.3           |
 | 169  | 338  |                     [Counting Bits][338]                     |     Java     |   Medium   |      2017.11.29       |      Dynamic Programming, Bit manipulation      |                          2017.12.18                          |
 | 170  | 257  |                   [Binary Tree Paths][257]                   |     Java     |    Easy    |      2017.11.29       |                    Tree, DFS                    |                                                              |
 | 171  | 404  |                  [Sum of Left Leaves][404]                   |     Java     |    Easy    |      2017.11.29       |                      Tree                       |                      2018.3.5 2018.4.2                       |
@@ -208,7 +208,7 @@
 | 204  | 740  |                    [Delete and Earn][740]                    |     Java     |   Medium   |       2017.12.6       |               Dynamic Programming               |                     2017.12.17 2018.1.9                      |
 | 205  | 746  |               [Min Cost Climbing Stairs][746]                |     Java     |    Easy    |      2017.12.17       |               Dynamic Programming               |      2018.1.27 2018.2.21 2018.4.12 2018.5.1 2018.5.23ff      |
 | 206  | 276  |                      [Paint House][276]                      |     Java     |    Easy    |      2017.12.17       |               Dynamic Programming               |                          2018.1.29                           |
-| 207  |  91  |                      [Decode Ways][91]                       |     Java     |   Medium   |      2017.12.18       |               Dynamic Programming               |                                                              |
+| 207  |  91  |                      [Decode Ways][91]                       |     Java     |   Medium   |      2017.12.18       |               Dynamic Programming               |                          2018.10.3                           |
 | 208  | 213  |                    [House Robber II][213]                    |     Java     |   Medium   |      2017.12.19       |               Dynamic Programming               |                                                              |
 | 209  | 337  |                   [House Robber III][337]                    |     Java     |   Medium   |      2017.12.19       |               Dynamic Programming               |                                                              |
 | 210  | 647  |                [Palindromic Substrings][647]                 |     Java     |   Medium   |      2017.12.19       |               Dynamic Programming               |                                                              |
@@ -283,12 +283,12 @@
 | 279  | 300  |            [Longest Increasing Subsequence][300]             |     Java     |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                      2018.2.23 2018.3.2                      |
 | 280  | 143  |                     [Reorder List][143]                      |     Java     |   Medium   |       2018.2.12       |                   LinkedList                    |                           2018.8.9                           |
 | 281  | 379  |                [Design Phone Directory][379]                 |     Java     |   Medium   |       2018.2.12       |               LinkedList, Design                |                                                              |
-| 282  | 102  |           [Binary Tree Level Order Traversal][102]           |     Java     |   Medium   |       2018.2.13       |                    Tree, BFS                    |       2018.4.14 2018.4.17 2018.4.24 2018.6.1 2018.9.15       |
+| 282  | 102  |           [Binary Tree Level Order Traversal][102]           |     Java     |   Medium   |       2018.2.13       |                    Tree, BFS                    |  2018.4.14 2018.4.17 2018.4.24 2018.6.1 2018.9.15 2018.10.3  |
 | 283  | 138  |             [Copy List with Random Pointer][138]             |     Java     |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                                                              |
 | 284  | 161  |                   [One Edit Distance][161]                   |     Java     |   Medium   |       2018.2.20       |                     String                      |                                                              |
 | 285  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2018.2.21       |                     Design                      |                                                              |
 | 286  | 364  |               [Nested List Weight Sum II][364]               |     Java     |   Medium   |       2018.2.22       |                       DFS                       |                                                              |
-| 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |     Java     |   Medium   |       2018.2.22       |                    BFS, Tree                    |                          2018.4.24                           |
+| 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |     Java     |   Medium   |       2018.2.22       |                    BFS, Tree                    |                     2018.4.24 2018.10.3                      |
 | 288  | 516  |            [Longest Palindromic Subsequence][516]            |     Java     |   Medium   |       2018.2.23       |               Dynamic Programming               |                          2018.3.19                           |
 | 289  | 322  |                      [Coin Change][322]                      |     Java     |   Medium   |       2018.2.24       |               Dynamic Programming               |                                                              |
 | 290  |  75  |                      [Sort Colors][75]                       |     Java     |   Medium   |       2018.2.28       |                      Sort                       |                      2018.4.4 2018.10.2                      |
@@ -473,6 +473,11 @@
 | 469  | 908  |                   [Smallest Range I][908]                    |     Java     |   Medium   |       2018.9.22       |                      Array                      |                                                              |
 | 470  |  34  | [Find First and Last Position of Element in Sorted Array][34] |     Java     |   Medium   |       2018.9.22       |                  Binary Search                  |                                                              |
 | 471  |  81  |           [Search in Rotated Sorted Array II][81]            |     Java     |   Medium   |       2018.10.2       |                  Binary Search                  |                                                              |
+| 472  | 157  |             [Read N Characters Given Read4][157]             |     Java     |    Easy    |       2018.10.4       |                     String                      |                                                              |
+| 473  | 260  |                   [Single Number III][260]                   |     Java     |   Medium   |       2018.10.4       |                Bit Manipulation                 |                                                              |
+| 474  | 277  |                  [Find the Celebrity][277]                   |     Java     |   Medium   |       2018.10.4       |                      Array                      |                                                              |
+| 475  | 392  |                    [Is Subsequence][392]                     |     Java     |   Medium   |       2018.10.5       |           Binary Search, Two Pointers           |                                                              |
+| 476  | 721  |                    [Accounts Merge][721]                     |     Java     |   Medium   |       2018.10.6       |                 Union Find, DFS                 |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -588,6 +593,7 @@
 [152]:<https://leetcode.com/problems/maximum-product-subarray/> "Maximum Product Subarray"
 [153]:<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/> "Find Minimum in Rotated Sorted Array"
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
+[157]:<https://leetcode.com/problems/read-n-characters-given-read4/> "Read N Characters Given Read4"
 [159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
 [160]:<https://leetcode.com/problems/intersection-of-two-linked-lists/> "Intersection of two linked lists"
 [161]:<https://leetcode.com/problems/one-edit-distance/> "One Edit Distance"
@@ -661,6 +667,7 @@
 [257]:<https://leetcode.com/problems/binary-tree-paths/> "Binary Tree Paths"
 [258]:<https://leetcode.com/problems/add-digits/> "Add Digits"
 [259]:<https://leetcode.com/problems/3sum-smaller/> "3Sum Smaller"
+[260]:<https://leetcode.com/problems/single-number-iii/> "Single Number III"
 [264]:<https://leetcode.com/problems/ugly-number-ii/> "Ugly Number II"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
@@ -671,6 +678,7 @@
 [270]:<https://leetcode.com/problems/closest-binary-search-tree-value/> "Closest Binary Search Tree Value"
 [271]:<https://leetcode.com/problems/encode-and-decode-strings/> "Encode and Decode "
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
+[277]:<https://leetcode.com/problems/find-the-celebrity> "Find the Celebrity"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
 [281]:<https://leetcode.com/problems/zigzag-iterator> "Zigzag Iterator"
@@ -718,6 +726,7 @@
 [384]:<https://leetcode.com/problems/shuffle-an-array/> "Shuffle an array"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
+[392]:<https://leetcode.com/problems/is-subsequence> "Is Subsequence"
 [394]:<https://leetcode.com/problems/decode-string/> "Decode String"
 [397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
@@ -863,6 +872,7 @@
 [716]:<https://leetcode.com/problems/max-stack> "Max Stack"
 [717]:<https://leetcode.com/problems/1-bit-and-2-bit-characters/> "1-bit and 2-bit characters"
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
+[721]:<https://leetcode.com/problems/accounts-merge/> "Accounts Merge"
 [723]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
 [724]:<https://leetcode.com/problems/find-pivot-index/> "Find Pivot Index"
 [725]:<https://leetcode.com/problems/split-linked-list-in-parts/> "Split Linked List in Parts"
