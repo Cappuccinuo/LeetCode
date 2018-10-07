@@ -478,7 +478,7 @@
 | 474  | 277  |                  [Find the Celebrity][277]                   |     Java     |   Medium   |       2018.10.4       |                      Array                      |                                                              |
 | 475  | 392  |                    [Is Subsequence][392]                     |     Java     |   Medium   |       2018.10.5       |           Binary Search, Two Pointers           |                                                              |
 | 476  | 721  |                    [Accounts Merge][721]                     |     Java     |   Medium   |       2018.10.6       |                 Union Find, DFS                 |                                                              |
-| 477  |      |                                                              |              |            |                       |                                                 |                                                              |
+| 477  |  74  |                   [Search a 2D Matrix][74]                   |     Java     |   Medium   |       2018.10.6       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -536,6 +536,7 @@
 [69]:<https://leetcode.com/problems/sqrtx/> "Sqrt(x)"
 [70]:<https://leetcode.com/problems/climbing-stairs/> "Climbing Stairs"
 [72]:<https://leetcode.com/problems/edit-distance> "Edit Distance"
+[74]:<https://leetcode.com/problems/search-a-2d-matrix/> "Search a 2D Matrix"
 [75]:<https://leetcode.com/problems/sort-colors/> "Sort Colors"
 [76]:<https://leetcode.com/problems/minimum-window-substring/> "Minimum Window Substring"
 [78]:<https://leetcode.com/problems/subsets/> "Subsets"
