@@ -144,7 +144,7 @@
 | 140  | 595  |                     [Big Countries][595]                     |     SQL      |    Easy    |      2017.11.12       |                    Database                     |                           2018.2.5                           |
 | 141  | 339  |                [Nested List Weight Sum][339]                 |     Java     |    Easy    |      2017.11.13       |                       DFS                       |                 2018.1.8 2018.2.19 2018.10.4                 |
 | 142  | 728  |                 [Self Dividing Numbers][728]                 |     Java     |    Easy    |      2017.11.20       |                      Math                       |                                                              |
-| 143  | 346  |            [Moving Average from Data Stream][346]            |     Java     |    Easy    |      2017.11.20       |                  Design, Queue                  |                                                              |
+| 143  | 346  |            [Moving Average from Data Stream][346]            |     Java     |    Easy    |      2017.11.20       |                  Design, Queue                  |                          2018.10.6                           |
 | 144  | 266  |                [Palindrome Permutation][266]                 |     Java     |    Easy    |      2017.11.20       |                     HashMap                     |                                                              |
 | 145  | 682  |                     [Baseball Game][682]                     |     Java     |    Easy    |      2017.11.20       |                      Stack                      |                          2018.4.10                           |
 | 146  | 669  |               [Trim a Binary Search Tree][669]               |     Java     |    Easy    |      2017.11.20       |                      Tree                       |                                                              |
@@ -478,6 +478,7 @@
 | 474  | 277  |                  [Find the Celebrity][277]                   |     Java     |   Medium   |       2018.10.4       |                      Array                      |                                                              |
 | 475  | 392  |                    [Is Subsequence][392]                     |     Java     |   Medium   |       2018.10.5       |           Binary Search, Two Pointers           |                                                              |
 | 476  | 721  |                    [Accounts Merge][721]                     |     Java     |   Medium   |       2018.10.6       |                 Union Find, DFS                 |                                                              |
+| 477  |      |                                                              |              |            |                       |                                                 |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
