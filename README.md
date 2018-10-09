@@ -284,7 +284,7 @@
 | 280  | 143  |                     [Reorder List][143]                      |     Java     |   Medium   |       2018.2.12       |                   LinkedList                    |                           2018.8.9                           |
 | 281  | 379  |                [Design Phone Directory][379]                 |     Java     |   Medium   |       2018.2.12       |               LinkedList, Design                |                                                              |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |     Java     |   Medium   |       2018.2.13       |                    Tree, BFS                    |  2018.4.14 2018.4.17 2018.4.24 2018.6.1 2018.9.15 2018.10.3  |
-| 283  | 138  |             [Copy List with Random Pointer][138]             |     Java     |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                                                              |
+| 283  | 138  |             [Copy List with Random Pointer][138]             |     Java     |   Medium   |       2018.2.13       |              LinkedList, HashTable              |                          2018.10.6                           |
 | 284  | 161  |                   [One Edit Distance][161]                   |     Java     |   Medium   |       2018.2.20       |                     String                      |                                                              |
 | 285  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2018.2.21       |                     Design                      |                                                              |
 | 286  | 364  |               [Nested List Weight Sum II][364]               |     Java     |   Medium   |       2018.2.22       |                       DFS                       |                                                              |
@@ -479,6 +479,14 @@
 | 475  | 392  |                    [Is Subsequence][392]                     |     Java     |   Medium   |       2018.10.5       |           Binary Search, Two Pointers           |                                                              |
 | 476  | 721  |                    [Accounts Merge][721]                     |     Java     |   Medium   |       2018.10.6       |                 Union Find, DFS                 |                                                              |
 | 477  |  74  |                   [Search a 2D Matrix][74]                   |     Java     |   Medium   |       2018.10.6       |                      Array                      |                                                              |
+| 478  | 917  |                 [Reverse Only Letters][917]                  |     Java     |    Easy    |       2018.10.6       |                   Two Pointer                   |                                                              |
+| 479  | 918  |            [Maxiumum Sum Circular Subarray][918]             |     Java     |   Medium   |       2018.10.6       |                      Array                      |                                                              |
+| 480  | 919  |             [Complete Binary Tree Inserter][919]             |     Java     |   Medium   |       2018.10.6       |                      Tree                       |                                                              |
+| 481  | 494  |                      [Target Sum][494]                       |     Java     |   Medium   |       2018.10.7       |            Dynamic Programming, DFS             |                                                              |
+| 482  | 523  |                [Continuous Subarray Sum][523]                |     Java     |   Medium   |       2018.10.7       |               Dynamic Programming               |                                                              |
+| 483  | 360  |                [Sort Transformed Array][360]                 |     Java     |   Medium   |       2018.10.7       |                  Two Pointers                   |                                                              |
+| 484  | 129  |               [Sum Root to Leaf Numbers][129]                |     Java     |   Medium   |       2018.10.7       |                       DFS                       |                                                              |
+| 485  | 498  |                   [Diagonal Traverse][498]                   |     Java     |   Medium   |       2018.10.8       |                      Array                      |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -578,6 +586,7 @@
 [125]:<https://leetcode.com/problems/valid-palindrome/> "Valid Palindrome"
 [126]:<https://leetcode.com/problems/word-ladder-ii/description/> "Word Ladder II"
 [127]:<https://leetcode.com/problems/word-ladder/> "Word Ladder"
+[129]:<https://leetcode.com/problems/sum-root-to-leaf-numbers> "Sum Root to Leaf Numbers"
 [133]:<https://leetcode.com/problems/clone-graph/> "Clone Graph"
 [134]:<https://leetcode.com/problems/gas-station/> "Gas Station"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
@@ -714,6 +723,7 @@
 [350]:<https://leetcode.com/problems/intersection-of-two-arrays-ii/> "Intersection of Two Arrays Ⅱ"
 [351]:<https://leetcode.com/problems/lonely-pixel-i> "Lonely Pixel I"
 [357]:<https://leetcode.com/problems/count-numbers-with-unique-digits/> "Count Numbers With Unique Digits"
+[360]:<https://leetcode.com/problems/sort-transformed-array> "Sort Transformed Array"
 [361]:<https://leetcode.com/problems/bomb-enemy/> "Bomb Enemy"
 [364]:<https://leetcode.com/problems/nested-list-weight-sum-ii/> "Nested List Weight Sum II"
 [366]:<https://leetcode.com/problems/find-leaves-of-binary-tree/> "Find Leaves of Binary Tree"
@@ -774,7 +784,9 @@
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
 [490]:<https://leetcode.com/problems/the-maze/> "The Maze"
 [492]:<https://leetcode.com/problems/construct-the-rectangle/> "Construct the Rectangle"
+[494]:<https://leetcode.com/problems/target-sum/> "Target Sum"
 [496]:<https://leetcode.com/problems/next-greater-element-i/> "Next Greater Element I"
+[498]:<https://leetcode.com/problems/diagonal-traverse/> "Diagonal Traverse"
 [500]:<https://leetcode.com/problems/keyboard-row/> "Keyboard Row"
 [501]:<https://leetcode.com/problems/find-mode-in-binary-search-tree/> "Find Mode in Binary Search Tree"
 [503]:<https://leetcode.com/problems/next-greater-element-ii/> "Next Greater Element II"
@@ -788,6 +800,7 @@
 [518]:<https://leetcode.com/problems/coin-change-2/> "Coin Change 2"
 [520]:<https://leetcode.com/problems/detect-capital/> "Detect Capital"
 [521]:<https://leetcode.com/problems/longest-uncommon-subsequence-i/> "Longest Uncommon Subsequence I"
+[523]:<https://leetcode.com/problems/continuous-subarray-sum/> "Continuous Subarray Sum"
 [528]:<https://leetcode.com/problems/random-pick-with-weight/> "Random Pick with Weight"
 [530]:<https://leetcode.com/problems/minimum-absolute-difference-in-bst/> "Minimum Absolute Difference in BST"
 [532]:<https://leetcode.com/problems/k-diff-pairs-in-an-array/> "K-diff pairs in an array"
@@ -963,5 +976,8 @@
 [909]:<https://leetcode.com/problems/snakes-and-ladders/> "Snakes and Ladders"
 [910]:<https://leetcode.com/problems/smallest-range-ii/> "Smallest Range II"
 [911]:<https://leetcode.com/problems/online-election/> "Online Election"
+[917]:<https://leetcode.com/problems/reverse-only-letters/> "Reverse Only Letters"
+[918]:<https://leetcode.com/problems/maximum-sum-circular-subarray/> "Maximum Sum Circular Subarray"
+[919]:<https://leetcode.com/problems/complete-binary-tree-inserter/> "Complete Binary Tree Inserter"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
