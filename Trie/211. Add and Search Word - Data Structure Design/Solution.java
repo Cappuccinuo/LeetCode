@@ -1,4 +1,74 @@
 class WordDictionary {
+    TrieNode root;
+    /** Initialize your data structure here. */
+    public WordDictionary() {
+        root = new TrieNode();
+    }
+    
+    /** Adds a word into the data structure. */
+    public void addWord(String word) {
+        TrieNode node = root;
+        char[] ch = word.toCharArray();
+        for (int i = 0; i < ch.length; i++) {
+            if (node.children.containsKey(ch[i])) {
+                node = node.children.get(ch[i]);
+            }
+            else {
+                TrieNode newNode = new TrieNode(ch[i]);
+                node.children.put(ch[i], newNode);
+                node = newNode;
+            }
+        }
+        node.hasWord = true;
+    }
+    
+    /** Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. */
+    public boolean search(String word) {
+        TrieNode node = root;
+        char[] ch = word.toCharArray();
+        for (int i = 0; i < ch.length; i++) {
+            if (ch[i] == '.') {
+                for (char c : node.children.keySet()) {
+                    if (search(word.substring(0, i) + c + word.substring(i + 1))) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+            else {
+                if (!node.children.containsKey(ch[i])) {
+                    return false;
+                }
+                node = node.children.get(ch[i]);
+            }
+        }
+        return node.hasWord;
+    }
+}
+
+class TrieNode {
+    char c;
+    Map<Character, TrieNode> children;
+    boolean hasWord;
+    TrieNode() {
+        children = new HashMap<>();
+    }
+    
+    TrieNode(char c) {
+        this.c = c;
+        children = new HashMap<>();
+    }
+}
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary obj = new WordDictionary();
+ * obj.addWord(word);
+ * boolean param_2 = obj.search(word);
+ */
+
+
+class WordDictionary {
 
     private class TrieNode {
         Map<Character, TrieNode> children;

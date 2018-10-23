@@ -1,5 +1,70 @@
 class Solution {
     public int trap(int[] height) {
+        int len = height.length;
+        int left = 0;
+        int right = len - 1;
+        int ans = 0;
+        int leftMax = 0;
+        int rightMax = 0;
+        while (left < right) {
+            if (height[left] < height[right]) {
+                if (height[left] > leftMax) {
+                    leftMax = height[left];
+                }
+                else {
+                    ans += leftMax - height[left];
+                }
+                left++;
+            }
+            else {
+                if (height[right] > rightMax) {
+                    rightMax = height[right];
+                }
+                else {
+                    ans += rightMax - height[right];
+                }
+                right--;
+            }
+        }
+        return ans;
+    }
+}
+
+class Solution {
+    public int trap(int[] height) {
+        Stack<Integer> stack = new Stack<>();
+        int len = height.length;
+        int ans = 0;
+        boolean skip = false;
+        for (int i = 0; i < len; i++) {
+            int current = height[i];
+            if (current == -1) {
+                skip = true;
+            }
+            if (skip && current != -1 && current < height[stack.peek()]) {
+                skip = false;
+            }
+            while (!stack.isEmpty() && current > height[stack.peek()]) {
+                if (skip) {
+                    break;
+                }
+                int topIndex = stack.pop();
+                if (stack.isEmpty()) {
+                    break;
+                }
+                int leftTop = stack.peek();
+                int scope = i - leftTop - 1;
+                int bound_height = Math.min(height[i], height[leftTop]) - height[topIndex];
+                ans += bound_height * scope;
+            }
+            stack.push(i);
+        }
+        return ans;
+    }
+}
+
+class Solution {
+    public int trap(int[] height) {
         int size = height.length;
         if (size == 0) {
             return 0;

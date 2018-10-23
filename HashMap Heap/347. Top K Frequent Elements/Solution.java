@@ -1,3 +1,27 @@
+// Max Heap O(N + KlogN)
+class Solution {
+    public List<Integer> topKFrequent(int[] nums, int k) {
+        List<Integer> result = new LinkedList<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
+           @Override
+            public int compare(Integer i1, Integer i2) {
+                return map.get(i2) - map.get(i1);
+            }
+        });
+        for (int key : map.keySet()) {
+            pq.offer(key);
+        }
+        while (k-- > 0) {
+            result.add(pq.poll());
+        }
+        return result;
+    }
+}
+
 class Solution {
     private Map<Integer, Integer> map = new HashMap<>();
     
@@ -47,7 +71,7 @@ class Solution {
         Collections.reverse(result);
     }
 }
-
+// Min Heap O(N + NlogK)
 class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -69,7 +93,7 @@ class Solution {
         return result;
     }
 }
-
+// Bucket sort O(N)
 class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {
         List<Integer>[] bucket = new List[nums.length + 1];

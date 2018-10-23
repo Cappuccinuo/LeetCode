@@ -1,3 +1,34 @@
+// 2018.10.19
+class Solution {
+    public int maxProduct(int[] nums) {
+        int len = nums.length;
+        int[] min = new int[len];
+        int[] max = new int[len];
+        
+        min[0] = nums[0];
+        max[0] = nums[0];
+        
+        int res = nums[0];
+        for (int i = 1; i < len; i++) {
+            if (nums[i] < 0) {
+                swap(min, max, i - 1);
+            }
+            min[i] = Math.min(nums[i], nums[i] * min[i - 1]);
+            max[i] = Math.max(nums[i], nums[i] * max[i - 1]);
+            
+            res = Math.max(res, max[i]);
+        }
+        
+        return res;
+    }
+    
+    private void swap(int[] min, int[] max, int i) {
+        int temp = min[i];
+        min[i] = max[i];
+        max[i] = temp;
+    }
+}
+
 // 1 ms
 class Solution {
     public int maxProduct(int[] nums) {

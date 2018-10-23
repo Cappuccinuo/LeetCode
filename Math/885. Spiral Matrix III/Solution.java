@@ -1,4 +1,39 @@
 class Solution {
+    int[][] directions = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    public int[][] spiralMatrixIII(int R, int C, int r0, int c0) {
+        int[][] result = new int[R * C][2];
+        int step = 1;
+        int i = r0;
+        int j = c0;
+        int d = 0;
+        result[0][0] = i;
+        result[0][1] = j;
+        int count = 1;
+        while (count < R * C) {
+            for (int k = 0; k < 2; k++) {
+                int temp = step;
+                while (temp-- > 0) {
+                    i = i + directions[d][0];
+                    j = j + directions[d][1];
+                    if (isValid(R, C, i, j)) {
+                        result[count][0] = i;
+                        result[count][1] = j;
+                        count++;
+                    }
+                }
+                d = (d + 1) % 4;
+            }
+            step++;
+        }
+        return result;
+    }
+    
+    private boolean isValid(int R, int C, int i, int j) {
+        return i >= 0 && i < R && j >= 0 && j < C;
+    }
+}
+
+class Solution {
     public int[][] spiralMatrixIII(int R, int C, int r0, int c0) {
         int[][] result = new int[R * C][2];
         int cnt = 1;
