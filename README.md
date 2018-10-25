@@ -176,7 +176,7 @@
 | 172  | 739  |                  [Daily Temperatures][739]                   |     Java     |   Medium   |       2017.12.2       |                      Stack                      |                          2017.12.4                           |
 | 173  | 738  |               [Monotone Incresing Digits][738]               |     Java     |   Medium   |       2017.12.2       |                     Greedy                      |                          2017.12.4                           |
 | 174  |  6   |                    [ZigZag Conversion][6]                    |     Java     |   Medium   |       2017.12.7       |                     String                      |                          2018.9.23                           |
-| 175  |  15  |                          [3Sum][6]                           |     Java     |   Medium   |       2017.12.7       |               Array, Two Pointers               |           2018.3.26 2018.3.28 2018.3.29 2018.9.23            |
+| 175  |  15  |                          [3Sum][6]                           |     Java     |   Medium   |       2017.12.7       |               Array, Two Pointers               |      2018.3.26 2018.3.28 2018.3.29 2018.9.23 2018.10.25      |
 | 176  |  16  |                      [3Sum Closest][16]                      |     Java     |   Medium   |       2017.12.8       |               Array, Two Pointers               |                     2018.3.29 2018.9.23                      |
 | 177  | 259  |                     [3Sum Smaller][259]                      |     Java     |   Medium   |       2017.12.8       |               Array, Two Pointers               |                          2018.3.29                           |
 | 178  |  18  |                          [4Sum][18]                          |     Java     |   Medium   |       2017.12.8       |               Array, Two Pointers               |                          2018.9.24                           |
@@ -336,7 +336,7 @@
 | 332  |  48  |                      [Rotate Image][48]                      |     Java     |   Medium   |       2018.4.23       |                      Array                      |                          2018.10.1                           |
 | 333  | 680  |                  [Valid Palindrome II][680]                  |     Java     |    Easy    |       2018.4.24       |                     String                      |                          2018.10.15                          |
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |     Java     |   Medium   |       2018.4.24       |                Array, Hash Table                |                                                              |
-| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                          2018.10.1                           |
+| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                     2018.10.1 2018.10.25                     |
 | 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                          2018.10.1                           |
 | 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |     Java     |   Medium   |       2018.4.26       |              Array, Binary Search               |                          2018.8.17                           |
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |     Java     |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |
@@ -514,6 +514,7 @@
 | 510  | 311  |             [Sparse Matrix Multiplication][311]              |     Java     |   Medium   |      2018.10.22       |                   Hash Table                    |                                                              |
 | 511  | 282  |               [Expression Add Operators][282]                |     Java     |    Hard    |      2018.10.22       |                DFS, BackTracking                |                                                              |
 | 512  |  99  |               [Recover Binary Search Tree][99]               |     Java     |    Hard    |      2018.10.24       |                    DFS, Tree                    |                                                              |
+| 513  | 428  |         [Serialize and Deserialize N-ary Tree][428]          |     Java     |    Hard    |      2018.10.24       |                      Tree                       |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -797,6 +798,7 @@
 [421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
 [422]:<https://leetcode.com/problems/valid-word-square/> "Valid Word Square"
 [426]:<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/> "Convert Binary Search Tree to Sorted Doubly Linked List"
+[428]:<https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/> "Serialize and Deserialize N-ary Tree"
 [429]:<https://leetcode.com/problems/n-ary-tree-level-order-traversal/> "N-ary Tree Level Order Traversal"
 [430]:<https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/> "Flatten a Multilevel Doubly Linked List"
 [434]:<https://leetcode.com/problems/number-of-segments-in-a-string/> "Number of Segments in a String"
