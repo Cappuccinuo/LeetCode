@@ -41,6 +41,7 @@ class Solution {
     List<List<Integer>> result;
     public List<List<Integer>> threeSum(int[] nums) {
         result = new LinkedList<>();
+        // Using the bucket sort thought
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         
@@ -51,37 +52,46 @@ class Solution {
         int len = max - min + 1;
         visited = new boolean[len];
         freq = new int[len];
+        // Get the freq of each num in nums
         for (int i = 0; i < nums.length; i++) {
             freq[nums[i] - min]++;
         }
         
+        // Traverse each freq
         for (int i = 0; i < len; i++) {
+            // If the number exist
             if (freq[i] != 0) {
+                // We don't want the smaller number to be added again, keep order a <= b <= c
                 for (int j = i; j < len; j++) {
                     visited[j] = false;
                 }
+                // Use the number, as we will never use the num again, so no need to recover
                 freq[i]--;
-                twoSumHelper(nums, -(i + min), min, i, max);
-                freq[i]++;
+                // Using hash like two sum, the desired target is -(i + min)
+                twoSumHelper(nums, -(i + min), min, max);
             }
         }
         return result;
     }
     
-    private void twoSumHelper(int[] nums, int sum, int min, int ind, int max) {
+    private void twoSumHelper(int[] nums, int sum, int min, int max) {
         for (int i = 0; i < nums.length; i++) {
-            int diff = sum - nums[i];
-            if (diff >= min + ind && diff <= max && nums[i] >= min + ind && freq[nums[i] - min] > 0) {
+            int secondPick = sum - nums[i];
+            int firstPick = -sum;
+            // Only use the number larger or equal to the origin number we pick
+            if (secondPick >= firstPick && secondPick <= max && nums[i] >= firstPick && freq[nums[i] - min] > 0) {
                 List<Integer> list = new LinkedList<>();
+                // Use nums[i]
                 freq[nums[i] - min]--;
-                if (!visited[diff - min] && freq[diff - min] > 0) {
-                    list.add(-sum);
+                if (!visited[secondPick - min] && freq[secondPick - min] > 0) {
+                    list.add(firstPick);
                     list.add(nums[i]);
-                    list.add(diff);
-                    visited[diff - min] = true;
+                    list.add(secondPick);
+                    visited[secondPick - min] = true;
                     visited[nums[i] - min] = true;
                     result.add(list);
                 }
+                // This time we need to recover, as we may traverse back later
                 freq[nums[i] - min]++;
             }
         }
