@@ -84,7 +84,7 @@
 |  80  | 566  |                  [Reshape the Matrix][566]                   |     Java     |    Easy    |       2017.7.11       |                      Array                      |                                                              |
 |  81  | 628  |           [Maximum Product of Three Numbers][628]            |     Java     |    Easy    |       2017.7.13       |                      Array                      |                          2018.1.18                           |
 |  82  | 105  | [Construct Binary Tree from Preorder and Inorder Traversal][105] |     Java     |   Medium   |       2017.7.14       |                      Array                      |            2017.7.16 2018.1.5 2018.2.13 2018.3.21            |
-|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |     Java     |   Medium   |       2017.7.15       |                      Array                      |      2017.7.16 2018.1.5 2018.2.13 2018.3.21 2018.10.14       |
+|  83  | 106  | [Construct Binary Tree from Inorder and Postorder Traversal][106] |     Java     |   Medium   |       2017.7.15       |                      Array                      | 2017.7.16 2018.1.5  2018.2.13 2018.3.21 2018.10.14 2018.10.24 |
 |  84  | 532  |               [K-diff Pairs in an Array][532]                |     Java     |    Easy    |       2017.7.15       |                      Array                      |                 2017.7.16 2018.1.8 2018.1.15                 |
 |  85  | 521  |            [Longest Uncommon Subsequence I][521]             |     Java     |    Easy    |       2017.7.15       |                     String                      |                          2017.7.16                           |
 |  86  | 606  |           [Construct String from Binary Tree][606]           |     Java     |    Easy    |       2017.7.15       |                     String                      |                                                              |
@@ -513,6 +513,7 @@
 | 509  |  65  |                      [Valid Number][65]                      |     Java     |    Hard    |      2018.10.22       |                  Math, String                   |                                                              |
 | 510  | 311  |             [Sparse Matrix Multiplication][311]              |     Java     |   Medium   |      2018.10.22       |                   Hash Table                    |                                                              |
 | 511  | 282  |               [Expression Add Operators][282]                |     Java     |    Hard    |      2018.10.22       |                DFS, BackTracking                |                                                              |
+| 512  |  99  |               [Recover Binary Search Tree][99]               |     Java     |    Hard    |      2018.10.24       |                    DFS, Tree                    |                                                              |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -589,6 +590,7 @@
 [95]:<https://leetcode.com/problems/unique-binary-search-trees-ii> "Unique Binary Search Trees II"
 [96]:<https://leetcode.com/problems/unique-binary-search-trees/> "Unique Binary Search Trees"
 [98]:<https://leetcode.com/problems/validate-binary-search-tree/> "Validate Binary Search Tree"
+[99]:<https://leetcode.com/problems/recover-binary-search-tree/> "Recover Binary Search Tree"
 [100]:<https://leetcode.com/problems/same-tree/> "Same Tree"
 [101]:<https://leetcode.com/problems/symmetric-tree/> "Symmetric Tree"
 [102]:<https://leetcode.com/problems/binary-tree-level-order-traversal/> "Binary Tree Level Order Traversal"
