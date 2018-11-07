@@ -6,12 +6,17 @@ public class Solution {
      */
     public int copyBooks(int[] pages, int k) {
         // write your code here
+        if (pages == null || pages.length == 0) {
+            return 0;
+        }
         int sum = 0;
+        int max = Integer.MIN_VALUE;
         for (int num : pages) {
             sum += num;
+            max = Math.max(num, max);
         }
         
-        int start = 0;
+        int start = max;
         int end = sum;
         
         while (start + 1 < end) {

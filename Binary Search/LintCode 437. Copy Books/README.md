@@ -22,3 +22,6 @@ ___cannot finish___ ____  __canfinish__
 
 The first position is 5.
 
+start is max(A)
+
+end is sum(A)
