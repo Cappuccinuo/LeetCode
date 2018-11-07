@@ -12,5 +12,5 @@ For L=[232, 124, 456], k=7, return 114.
 
 Algorithm:
 
-1. Hard part : the range of binary search -> 0 to Sum(L)
+1. Hard part : the range of binary search -> 0 to max(L)
 2. How to check if a len fit : linear check every wood and add the part num.

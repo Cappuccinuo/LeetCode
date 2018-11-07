@@ -7,15 +7,15 @@ public class Solution {
      */
     public int woodCut(int[] L, int k) {
         // write your code here
-        long sum = 0;
+        int max = 0;
         for (int num : L) {
-            sum += (long)num;
+            max = Math.max(num, max);
         }
         
-        long start = 1;
-        long end = sum;
+        int start = 1; 
+        int end = max;
         while (start + 1 < end) {
-            long mid = start + (end - start) / 2;
+            int mid = start + (end - start) / 2;
             if (!canFormK(k, mid, L)) {
                 end = mid;
             }
@@ -25,18 +25,18 @@ public class Solution {
         }
         
         if (canFormK(k, end, L)) {
-            return (int)end;
+            return end;
         }
         if (canFormK(k, start, L)) {
-            return (int)start;
+            return start;
         }
         return 0;
     }
     
-    private boolean canFormK(int k, long len, int[] L) {
+    private boolean canFormK(int k, int len, int[] L) {
         int count = 0;
         for (int num : L) {
-            count += (long)num / len;
+            count += num / len;
         }
         return count >= k;
     }
