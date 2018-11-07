@@ -1,3 +1,4 @@
+// O(log((r - l) * 10 ^ precision digit count))
 public class Solution {
     /**
      * @param x: a double
