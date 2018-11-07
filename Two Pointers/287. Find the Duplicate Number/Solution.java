@@ -1,4 +1,4 @@
-// Two Pointers
+// Two Pointers slow and fast to find cycle
 class Solution {
     public int findDuplicate(int[] nums) {
         // slow and fast pointer to prove that the nums array has cycle
@@ -18,7 +18,7 @@ class Solution {
     }
 }
 
-// Binary Search
+// Two Pointers
 class Solution {
     public int findDuplicate(int[] nums) {
         Arrays.sort(nums);
