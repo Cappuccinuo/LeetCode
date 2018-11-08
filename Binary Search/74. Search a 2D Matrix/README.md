@@ -34,4 +34,6 @@ Output: false
 
 Algorithm:
 
-From the bottom row, using binary search. If the row[0] is larger than target, we can skip.
+The most fast way to solve the problem is start from left corner. When current num is larger than target, we can move to the upper row. Otherwise we can move to the next column.
+
+Another solution is using binary search, this way we need to traverse from 0 to m * n - 1, notice that current value is equal to matrix\[mid / n][mid % n]

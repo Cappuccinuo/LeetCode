@@ -3,21 +3,31 @@ class Solution {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
-        int row = matrix.length;
-        int col = matrix[0].length;
-        int r = row - 1;
-        int c = 0;
         
-        while (r >= 0 && r < row && c >= 0 && c < col) {
-            if (matrix[r][c] == target) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int start = 0;
+        int end = m * n - 1;
+        
+        while (start + 1 < end) {
+            int mid = start + (end - start) / 2;
+            int current = matrix[mid / n][mid % n];
+            if (current == target) {
                 return true;
             }
-            else if (matrix[r][c] < target) {
-                c++;
+            else if (current < target) {
+                start = mid;
             }
-            else if (matrix[r][c] > target) {
-                r--;
+            else {
+                end = mid;
             }
+        }
+        
+        if (matrix[start / n][start % n] == target) {
+            return true;
+        }
+        if (matrix[end / n][end % n] == target) {
+            return true;
         }
         
         return false;
@@ -29,44 +39,26 @@ class Solution {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
+        int i = matrix.length - 1;
+        int j = 0;
+        int m = matrix.length;
+        int n = matrix[0].length;
         
-        for (int i = matrix.length - 1; i >= 0; i--) {
-            if (matrix[i][0] > target) {
-                continue;
-            }
-            if (matrix[i][0] == target 
-                || matrix[i][matrix[i].length - 1] == target) {
+        while (inBound(i, j, m, n)) {
+            if (matrix[i][j] == target) {
                 return true;
             }
-            if (binarySearch(matrix[i], target)) {
-                return true;
+            else if (matrix[i][j] > target) {
+                i--;
+            }
+            else {
+                j++;
             }
         }
         return false;
     }
     
-    private boolean binarySearch(int[] array, int target) {
-        int start = 0;
-        int end = array.length - 1;
-        while (start + 1 < end) {
-            int mid = start + (end - start) / 2;
-            if (array[mid] == target) {
-                return true;
-            }
-            else if (array[mid] < target) {
-                start = mid;
-            }
-            else {
-                end = mid;
-            }
-        }
-        
-        if (array[start] == target) {
-            return true;
-        }
-        if (array[end] == target) {
-            return true;
-        }
-        return false;
+    private boolean inBound(int i, int j, int m, int n) {
+        return i >= 0 && i < m && j >= 0 && j < n;
     }
 }
