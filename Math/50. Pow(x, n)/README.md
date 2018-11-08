@@ -36,7 +36,10 @@ DESIGN STRATEGY: General recursion
 
 Note: 
 
-1. When n is 0, return 1; when x is 0, return 0
-2. When n is smaller than 0, there is one extreme condition, the Integer.MIN_VALUE, need to add 1 to it, so change it to finite. Than if x < 0, need to change the +/-. In other case n < 0, just need to change the negate n, and change x to its reciprocal.
-3. When n is even, pow(x * x, n / 2)
-4. When n is odd, x * pow(x * x, n / 2)
+Using the idea of fast power.
+
+We can represent n as binary, b31, b30,..., b0,  we know that sum(bi * 2^i) = n. for the ith bit, if bi == 1, it means we need to multiply the result by x^2^i.
+
+For example, 10's binary representation is 1010, so 2 ^ 10 should be 2^2^3 * 2^2^1 = 1024.
+
+Since the number of bi is at most O(log(n)), we can get all x^2^i in O(log(n)) time.

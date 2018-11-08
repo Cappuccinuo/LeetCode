@@ -1,3 +1,23 @@
+// 2018.11.7
+class Solution {
+    public double myPow(double x, int n) {
+        long N = (long)n;
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+        double ans = 1;
+        double current = x;
+        for (long i = N; i > 0; i = i >> 1) {
+            if ((i & 1) == 1) {
+                ans = ans * current;
+            }
+            current = current * current;
+        }
+        return ans;
+    }
+}
+
 // 2018.4.24
 class Solution {
     public double myPow(double x, int n) {
