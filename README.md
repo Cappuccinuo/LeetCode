@@ -338,7 +338,7 @@
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |     Java     |   Medium   |       2018.4.24       |                Array, Hash Table                |                          2018.10.28                          |                       |
 | 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                     2018.10.1 2018.10.25                     |                       |
 | 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                     2018.10.1 2018.10.27                     |                       |
-| 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |     Java     |   Medium   |       2018.4.26       |              Array, Binary Search               |                          2018.8.17                           |                       |
+| 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |     Java     |   Medium   |       2018.4.26       |              Array, Binary Search               |                     2018.8.17 2018.11.7                      |                       |
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |     Java     |   Medium   |       2018.4.27       |                    Tree, DFS                    |                                                              |                       |
 | 339  | 824  |                      [Goat Latin][824]                       |     Java     |    Easy    |       2018.5.2        |                     String                      |                    2018.10.10 2018.10.19                     |                       |
 | 340  | 444  |                [Sequence Reconstruction][444]                |     Java     |   Medium   |       2018.5.3        |             Graph, Topological Sort             |                                                              |                       |
@@ -536,6 +536,7 @@
 | 532  | 708  |           [Insert into a Cyclic Sorted List][708]            |     Java     |   Medium   |      2018.10.28       |                   LinkedList                    |                                                              |                       |
 | 533  | 261  |                   [Graph Valid Tree][261]                    |     Java     |   Medium   |      2018.10.30       |                   Union Find                    |                                                              |                       |
 | 534  | 221  |                    [Maximal Square][221]                     |     Java     |   Medium   |       2018.11.3       |                      Stack                      |                                                              |                       |
+| 535  | 154  |        [Find Minimum in Rotated Sorted Array II][154]        |     Java     |    Hard    |       2018.11.7       |                  Binary Search                  |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -659,6 +660,7 @@
 [151]:<https://leetcode.com/problems/reverse-words-in-a-string/> "Reverse Words in a String"
 [152]:<https://leetcode.com/problems/maximum-product-subarray/> "Maximum Product Subarray"
 [153]:<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/> "Find Minimum in Rotated Sorted Array"
+[154]:<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/> "Find Minimum in Rotated Sorted Array II"
 [155]:<https://leetcode.com/problems/min-stack/> "Min Stack"
 [157]:<https://leetcode.com/problems/read-n-characters-given-read4/> "Read N Characters Given Read4"
 [159]:<https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters> "Longest substring with at most two distinct characters"
