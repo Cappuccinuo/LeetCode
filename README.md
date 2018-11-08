@@ -25,7 +25,7 @@
 |  21  |  28  |                   [Implement strStr()][28]                   |     Java     |    Easy    |       2017.3.15       |                     String                      |                          2018.3.17                           |                       |
 |  22  |  35  |                 [Search Insert Position][35]                 |     Java     |    Easy    |       2017.3.15       |                                                 |                                                              |                       |
 |  23  |  38  |                     [Count and Say][38]                      |     Java     |    Easy    |       2017.3.16       |                     String                      |                          2018.10.15                          |                       |
-|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 2018.9.14 2018.9.28 2018.10.14 2018.10.27 |                       |
+|  24  |  53  |                    [Maximum Subarray][53]                    |     Java     |    Easy    |       2017.3.16       |  Array, Divide and Conquer,Dynamic Programming  | 2017.12.17 2018.1.23 2018.1.27 2018.2.21 2018.4.17 2018.4.18 2018.5.24 2018.7.10 2018.9.14 2018.9.28 2018.10.14 2018.10.27 2018.11.8 |                       |
 |  25  |  58  |                  [Length of Last Word][58]                   |     Java     |    Easy    |       2017.3.16       |                                                 |                                                              |                       |
 |  26  |  66  |                        [Plus One][66]                        |     Java     |    Easy    |       2017.3.17       |                   Math. Array                   |                    2017.12.14 2018.10.14                     |                       |
 |  27  |  67  |                       [Add Binary][67]                       |     Java     |    Easy    |       2017.3.17       |                  Math, String                   |               2017.12.13 2018.10.15 2018.10.26               |                       |
@@ -537,6 +537,7 @@
 | 533  | 261  |                   [Graph Valid Tree][261]                    |     Java     |   Medium   |      2018.10.30       |                   Union Find                    |                                                              |                       |
 | 534  | 221  |                    [Maximal Square][221]                     |     Java     |   Medium   |       2018.11.3       |                      Stack                      |                                                              |                       |
 | 535  | 154  |        [Find Minimum in Rotated Sorted Array II][154]        |     Java     |    Hard    |       2018.11.7       |                  Binary Search                  |                                                              |                       |
+| 536  | 644  |              [Maximum Average Subarray II][644]              |     Java     |    Hard    |       2018.11.8       |                  Binary Search                  |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -938,6 +939,7 @@
 [633]:<https://leetcode.com/problems/sum-of-square-numbers/> "Sum Of Square Numbers"
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
+[644]:<https://leetcode.com/problems/maximum-average-subarray-ii/> "Maximum Average Subarray II"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
 [647]:<https://leetcode.com/problems/palindromic-substrings/> "Palindromic Substrings"
 [648]:<https://leetcode.com/problems/replace-words/> "Replace Words"
