@@ -1,3 +1,25 @@
+public class Solution {
+    /**
+     * @param nums: A list of integers
+     * @return: A integer indicate the sum of max subarray
+     */
+    public int maxSubArray(int[] nums) {
+        // write your code here
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        int max = nums[0];
+        int sum = 0;
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            sum += nums[i];
+            max = Math.max(max, sum);
+            sum = Math.max(sum, 0);
+        }
+        return max;
+    }
+}
+
 // 2018.4.18
 class Solution {
     public int maxSubArray(int[] nums) {
