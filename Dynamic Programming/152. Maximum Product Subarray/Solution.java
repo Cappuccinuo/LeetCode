@@ -1,3 +1,33 @@
+public class Solution {
+    /**
+     * @param nums: An array of integers
+     * @return: An integer
+     */
+    public int maxProduct(int[] nums) {
+        // write your code here
+        int n = nums.length;
+        int[] max = new int[n];
+        int[] min = new int[n];
+        max[0] = nums[0];
+        min[0] = nums[0];
+        int result = max[0];
+        for (int i = 1; i < n; i++) {
+            max[i] = nums[i];
+            min[i] = nums[i];
+            if (nums[i] > 0) {
+                max[i] = Math.max(max[i], max[i - 1] * nums[i]);
+                min[i] = Math.min(min[i], min[i - 1] * nums[i]);
+            }
+            else {
+                max[i] = Math.max(max[i], min[i - 1] * nums[i]);
+                min[i] = Math.min(min[i], max[i - 1] * nums[i]);
+            }
+            result = Math.max(max[i], result);
+        }
+        return result;
+    }
+}
+
 // 2018.10.19
 class Solution {
     public int maxProduct(int[] nums) {

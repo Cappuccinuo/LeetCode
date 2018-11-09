@@ -135,7 +135,7 @@
 | 131  | 110  |                 [Balanced Binary Tree][110]                  |     Java     |    Easy    |       2017.11.5       |                    Tree, DFS                    |          2017.12.31 2018.4.26 2018.10.14 2018.10.24          |                       |
 | 132  | 168  |               [Excel Sheet Column Title][168]                |     Java     |    Easy    |       2017.11.5       |                      Math                       |                           2018.1.3                           |                       |
 | 133  |  11  |               [Container With Most Water][11]                |     Java     |   Medium   |       2017.11.7       |               Array, Two Pointers               |                      2018.1.3 2018.9.23                      |                       |
-| 134  | 238  |             [Product of Array Except Self][238]              |     Java     |   Medium   |       2017.11.8       |                      Array                      |                2018.1.4 2018.4.17 2018.10.27                 |                       |
+| 134  | 238  |             [Product of Array Except Self][238]              |     Java     |   Medium   |       2017.11.8       |                      Array                      |           2018.1.4 2018.4.17 2018.10.27 2018.11.9            |                       |
 | 135  |  5   |              [Longest Palindromic Substring][5]              |     Java     |   Medium   |      2017.11.11       |                     String                      |            2018.1.3 2018.3.19 2018.4.17 2018.9.23            |                       |
 | 136  | 580  |          [Count Student Number in Departments][580]          |     SQL      |   Medium   |      2017.11.11       |                    Database                     |                           2018.1.2                           |                       |
 | 137  | 243  |                [Shortest Word Distance][243]                 |     Java     |    Easy    |      2017.11.12       |                      Array                      |                           2018.1.2                           |                       |
@@ -538,6 +538,7 @@
 | 534  | 221  |                    [Maximal Square][221]                     |     Java     |   Medium   |       2018.11.3       |           Stack, Dynamic Programming            |                          2018.11.8                           |                       |
 | 535  | 154  |        [Find Minimum in Rotated Sorted Array II][154]        |     Java     |    Hard    |       2018.11.7       |                  Binary Search                  |                                                              |                       |
 | 536  | 644  |              [Maximum Average Subarray II][644]              |     Java     |    Hard    |       2018.11.8       |                  Binary Search                  |                                                              |                       |
+| 537  | 486  |                  [Predict the Winner][486]                   |     Java     |   Medium   |       2018.11.9       |          Dynamic Programming, Minimax           |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -868,6 +869,7 @@
 [478]:<https://leetcode.com/problems/generate-random-point-in-a-circle/> "Generate Random Point in a Circle"
 [482]:<https://leetcode.com/problems/license-key-formatting/> "License Key Formating"
 [485]:<https://leetcode.com/problems/max-consecutive-ones/> "Max Consecutive Ones"
+[486]:<https://leetcode.com/problems/predict-the-winner/> "Predict the winner"
 [490]:<https://leetcode.com/problems/the-maze/> "The Maze"
 [492]:<https://leetcode.com/problems/construct-the-rectangle/> "Construct the Rectangle"
 [494]:<https://leetcode.com/problems/target-sum/> "Target Sum"
