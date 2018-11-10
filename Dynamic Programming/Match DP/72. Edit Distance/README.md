@@ -34,8 +34,11 @@ The time complexity for the above solution is exponential. We can see that the s
 
 int\[][] dp = new int\[len1 + 1][len2 + 1]. 
 
-If i = 0 or j = 0, dp\[i][j] = j or i.
+Init: If i = 0 or j = 0, dp\[i][j] = j or i.
 
 If two characters are the same, dp\[i][j] = dp\[i - 1][j - 1]
 
 Otherwise, pick the min one, that is dp\[i - 1][j] for delete, dp\[i][j - 1] for insert, dp\[i - 1][j - 1] for replace
+
+f\[i][j] represents that the minimum number of edit to change A0-i to B0-j
+
