@@ -1,3 +1,4 @@
+// O(nlogn)
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int[] dp = new int[nums.length];
@@ -15,7 +16,29 @@ class Solution {
         return len;
     }
 }
-
+// O(nlogn)
+public class Solution {
+    /**
+     * @param nums: An integer array
+     * @return: The length of LIS (longest increasing subsequence)
+     */
+    public int longestIncreasingSubsequence(int[] nums) {
+        // write your code here
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        TreeSet<Integer> set = new TreeSet<>();
+        for (int num : nums) {
+            Integer largerNum = set.ceiling(num);
+            if (largerNum != null) {
+                set.remove(largerNum);
+            }
+            set.add(num);
+        }
+        return set.size();
+    }
+}
+// O(n^2)
 class Solution {
     public int lengthOfLIS(int[] nums) {
         if (nums.length == 0) {
