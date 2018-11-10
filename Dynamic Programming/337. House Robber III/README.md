@@ -32,6 +32,10 @@ Input:
 
 Output:   4 + 5 = **9**
 
+We can also use result type. Which contains rob and notrob.
+
+We first get the left and right's result type. And our return result's rob is root.val + left.notrob + right.notrob. notrob is the max of left's notrob and rob plus max of right's notrob and rob.
+
 
 
 Solution 1 : DFS
