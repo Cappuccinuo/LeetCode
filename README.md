@@ -540,6 +540,7 @@
 | 536  | 644  |              [Maximum Average Subarray II][644]              |     Java     |    Hard    |       2018.11.8       |                  Binary Search                  |                                                              |                       |
 | 537  | 486  |                  [Predict the Winner][486]                   |     Java     |   Medium   |       2018.11.9       |          Dynamic Programming, Minimax           |                                                              |                       |
 | 538  |  10  |              [Regular Expression Matching][10]               |     Java     |    Hard    |      2018.11.11       |        Dynamic Programming, Backtracking        |                                                              |                       |
+| 539  |  43  |                    [Multiply Strings][43]                    |     Java     |   Medium   |      2018,11,11       |                  String, Math                   |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -577,7 +578,8 @@
 [39]:<https://leetcode.com/problems/combination-sum/> "Combination Sum"
 [40]:<https://leetcode.com/problems/combination-sum-ii/> "Combination Sum II"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
-[46]:<https://leetcode.com/problems/permutations/> "Permutations"
+[43]:<https://leetcode.com/problems/multiply-strings/> "Multiply Strings"
+[P46]:<https://leetcode.com/problems/permutations/> "Permutations"
 [47]:<https://leetcode.com/problems/permutations-ii/> "Permutations II"
 [48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
 [49]:<https://leetcode.com/problems/group-anagrams/> "Group Anagrams"
