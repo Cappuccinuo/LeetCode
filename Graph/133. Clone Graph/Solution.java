@@ -1,3 +1,41 @@
+// BFS
+/**
+ * Definition for undirected graph.
+ * class UndirectedGraphNode {
+ *     int label;
+ *     List<UndirectedGraphNode> neighbors;
+ *     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
+ * };
+ */
+public class Solution {
+    public UndirectedGraphNode cloneGraph(UndirectedGraphNode node) {
+        if (node == null) {
+            return null;
+        }
+        Map<UndirectedGraphNode, UndirectedGraphNode> map = new HashMap<>();
+        Queue<UndirectedGraphNode> queue = new LinkedList<>();
+        queue.offer(node);
+        
+        while (!queue.isEmpty()) {
+            UndirectedGraphNode front = queue.poll();
+            if (!map.containsKey(front)) {
+                map.put(front, new UndirectedGraphNode(front.label));
+                
+            }
+            for (UndirectedGraphNode neighbor : front.neighbors) {
+                if (!map.containsKey(neighbor)) {
+                    map.put(neighbor, new UndirectedGraphNode(neighbor.label));
+                    queue.offer(neighbor);
+                }
+                
+                map.get(front).neighbors.add(map.get(neighbor));
+            }
+        }
+        
+        return map.get(node);
+    }
+}
+
 // 2018.4.12
 /**
  * Definition for undirected graph.

@@ -1,85 +1,92 @@
 class Solution {
     UnionFind uf;
-
+    
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
         List<List<String>> result = new LinkedList<>();
-        int N = accounts.size();
-        uf = new UnionFind(N);
+        int len = accounts.size();
+        uf = new UnionFind(len);
         Map<String, List<Integer>> emailToIds = getEmailToIds(accounts);
         for (String email : emailToIds.keySet()) {
             List<Integer> ids = emailToIds.get(email);
             for (int i = 1; i < ids.size(); i++) {
-                uf.union(ids.get(i), ids.get(0));
+                uf.union(ids.get(0), ids.get(i));
             }
         }
-
+        
         Map<Integer, Set<String>> idToEmails = getIdToEmails(accounts);
-        for (Integer user_id : idToEmails.keySet()) {
-            Set<String> emails = idToEmails.get(user_id);
-            List<String> sortedEmails = new LinkedList<>(emails);
-            sortedEmails.add(0, accounts.get(user_id).get(0));
-            Collections.sort(sortedEmails);
-            result.add(sortedEmails);
+        for (Integer id : idToEmails.keySet()) {
+            Set<String> emails = idToEmails.get(id);
+            List<String> list = new LinkedList<>(emails);
+            String name = accounts.get(id).get(0);
+            list.add(0, name);
+            result.add(list);
         }
         return result;
-    } 
-
+    }
+    
     private Map<String, List<Integer>> getEmailToIds(List<List<String>> accounts) {
         Map<String, List<Integer>> emailToIds = new HashMap<>();
-
-        for (int user_id = 0; user_id < accounts.size(); user_id++) {
-            List<String> emails = accounts.get(user_id);
-            for (int i = 1; i < emails.size(); i++) {
-                String email = emails.get(i);
+        for (int i = 0; i < accounts.size(); i++) {
+            List<String> account = accounts.get(i);
+            for (int j = 1; j < account.size(); j++) {
+                String email = account.get(j);
                 if (!emailToIds.containsKey(email)) {
                     emailToIds.put(email, new LinkedList<>());
                 }
-                emailToIds.get(email).add(user_id);
+                emailToIds.get(email).add(i);
             }
         }
-
         return emailToIds;
     }
-
+    
     private Map<Integer, Set<String>> getIdToEmails(List<List<String>> accounts) {
         Map<Integer, Set<String>> idToEmails = new HashMap<>();
-
-        for (int user_id = 0; user_id < accounts.size(); user_id++) {
-            int id = uf.find(user_id);
-            List<String> account = accounts.get(user_id);
-            Set<String> emailSet = idToEmails.getOrDefault(id, new HashSet());
-            for (int i = 1; i < account.size(); i++) {
-                emailSet.add(account.get(i));
+        for (int i = 0; i < accounts.size(); i++) {
+            int root = uf.find(i);
+            List<String> account = accounts.get(i);
+            if (!idToEmails.containsKey(root)) {
+                idToEmails.put(root, new TreeSet<>());
             }
-            idToEmails.put(id, emailSet);
+            for (int j = 1; j < account.size(); j++) {
+                String email = account.get(j);
+                idToEmails.get(root).add(email);
+            }
         }
-
         return idToEmails;
     }
-}
-
-class UnionFind {
-    int[] father;
-
-    UnionFind(int n) {
-        father = new int[n];
-        for (int i = 0; i < n; i++) {
-            father[i] = i;
+    
+    class UnionFind {
+        int[] father;
+        
+        UnionFind (int n) {
+            father = new int[n];
+            for (int i = 0; i < n; i++) {
+                father[i] = i;
+            }
         }
-    }
-
-    int find(int id) {
-        if (father[id] == id) {
-            return id;
+        
+        void union(int x, int y) {
+            int root_x = find(x);
+            int root_y = find(y);
+            if (root_x != root_y) {
+                father[root_x] = root_y;
+            }
         }
-        return find(father[id]);
-    }
-
-    void union(int id1, int id2) {
-        int root1 = find(id1);
-        int root2 = find(id2);
-        if (root1 != root2) {
-            father[root1] = father[root2];
+        
+        int find (int num) {
+            if (father[num] == num) {
+                return num;
+            }
+            
+            Stack<Integer> stack = new Stack<>();
+            while (father[num] != num) {
+                stack.push(num);
+                num = father[num];
+            }
+            while (!stack.isEmpty()) {
+                father[stack.pop()] = num;
+            }
+            return num;
         }
     }
 }
