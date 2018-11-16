@@ -547,6 +547,8 @@
 | 543  | 222  |               [Count Complete Tree Nodes][222]               |     Java     |   Medium   |      2018.11.14       |                      Tree                       |                                                              |                       |
 | 544  | 307  |               [Range Sum Query - Mutable][307]               |     Java     |   Medium   |      2018.11.15       |               Binary Indexed Tree               |                                                              |                       |
 | 545  | 689  |      [Maximum Sum of 3 Non-Overlapping Subarrays][689]       |     Java     |    Hard    |      2018.11.16       |           Array, Dynamic Programming            |                                                              |                       |
+| 546  |  8   |                [String to Integer (atoi)][8]                 |     Java     |   Medium   |      2018.11.16       |                  Math, String                   |                                                              |                       |
+| 547  | 317  |         [Shortest Distance from All Buildings][317]          |     Java     |    Hard    |      2018.11.16       |                       BFS                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -556,6 +558,7 @@
 [5]:<https://leetcode.com/problems/longest-palindromic-substring/> "Longest Palindromic Substring"
 [6]:<https://leetcode.com/problems/zigzag-conversion/> "ZigZag Conversion"
 [7]:<https://leetcode.com/problems/reverse-integer/> "Reverse Integer"
+[8]:<https://leetcode.com/problems/string-to-integer-atoi/> "String to Integer Atoi"
 [9]:<https://leetcode.com/problems/palindrome-number/> "Palindrome Number"
 [10]:<https://leetcode.com/problems/regular-expression-matching/> "Regular Expression Matching"
 [11]:<https://leetcode.com/problems/container-with-most-water/> "Container with Most Water"
@@ -792,6 +795,7 @@
 [307]:<https://leetcode.com/problems/range-sum-query-mutable/> "Range Sum Query Mutable"
 [311]:<https://leetcode.com/problems/sparse-matrix-multiplication/> "Sparse Matrix Multiplication"
 [314]:<https://leetcode.com/problems/binary-tree-vertical-order-traversal/> "Binary Tree Vertical Order Traversal"
+[317]:<https://leetcode.com/problems/shortest-distance-from-all-buildings/> "Shortest Distance from All Buildings"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
 [323]:<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/> "Number of connected components in an undirected graph"
 [325]:<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/> "Maximum Size Subarray Sum Equals K"
