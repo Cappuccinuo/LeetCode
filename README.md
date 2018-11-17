@@ -552,6 +552,9 @@
 | 548  | 336  |                   [Palindrome Pairs][336]                    |     Java     |    Hard    |      2018.11.16       |                      Trie                       |                                                              |                       |
 | 549  |  55  |                       [Jump Game][55]                        |     Java     |   Medium   |      2018.11.16       |           Dynamic Programming, Greedy           |                                                              |                       |
 | 550  |  57  |                    [Insert Interval][57]                     |     Java     |    Hard    |      2018.11.16       |                      Array                      |                                                              |                       |
+| 551  |  32  |               [Longest Valid Parentheses][32]                |     Java     |    Hard    |      2018.11.16       |               Dynamic Programming               |                                                              |                       |
+| 552  | 567  |                 [Permutation in String][567]                 |     Java     |   Medium   |      2018.11.16       |                 Sliding Window                  |                                                              |                       |
+| 553  | 117  |    [Populating Next Right Pointers in Each Node II][117]     |     Java     |   Medium   |      2018.11.16       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -583,6 +586,7 @@
 [27]:<https://leetcode.com/problems/remove-element/> "Remove Element"
 [28]:<https://leetcode.com/problems/implement-strstr/> "Implement strStr()"
 [31]:<https://leetcode.com/problems/next-permutation/> "Next Permutation"
+[32]:<https://leetcode.com/problems/longest-valid-parentheses/> "Longest Valid Parentheses"
 [33]:<https://leetcode.com/problems/search-in-rotated-sorted-array/> "Search in Rotated Sorted Array"
 [34]:<https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/> "Find First and Last Position of element in Sorted Array"
 [35]:<https://leetcode.com/problems/search-insert-position/> "Search Insert Position"
@@ -652,6 +656,7 @@
 [113]:<https://leetcode.com/problems/path-sum-ii> "Path Sum II"
 [114]:<https://leetcode.com/problems/flatten-binary-tree-to-linked-list/> "Flatten Binary Tree to Linked List"
 [116]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/> "Populating next right pointers in each node"
+[117]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/> "Populating Next Right Pointers in each node II"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
 [119]:<https://leetcode.com/problems/pascals-triangle-ii/> "Pascal's Triangle Ⅱ"
 [120]:<https://leetcode.com/problems/triangle/> "Triangle"
@@ -932,6 +937,7 @@
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
 [563]:<https://leetcode.com/problems/binary-tree-tilt> "Binary Tree Tilt"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
+[567]:<https://leetcode.com/problems/permutation-in-string/> "Permutation in String"
 [570]:<https://leetcode.com/problems/managers-with-at-least-5-direct-reports/> "Managers with at Least 5 Direct Reports"
 [572]:<https://leetcode.com/problems/subtree-of-another-tree/> "Subtree of another tree"
 [575]:<https://leetcode.com/problems/distribute-candies/> "Distribute Candies"
