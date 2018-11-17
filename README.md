@@ -58,7 +58,7 @@
 |  54  |  92  |                 [Reverse Linked List Ⅱ][92]                  |     Java     |   Medium   |       2017.6.8        |                   Linked List                   |                          2018.2.12                           |                       |
 |  55  |  82  |          [Remove Duplicates from Sorted List Ⅱ][82]          |     Java     |   Medium   |       2017.6.8        |                   Linked List                   |                          2018.10.2                           |                       |
 |  56  |  61  |                      [Rotate List][61]                       |     Java     |   Medium   |       2017.6.9        |            Linked List, Two Pointers            |                     2018.2.12 2018.10.2                      |                       |
-|  57  |  25  |                [Reverse Nodes in k-Group][25]                |     Java     |    Hard    |       2017.6.10       |                   Linked List                   |                                                              |                       |
+|  57  |  25  |                [Reverse Nodes in k-Group][25]                |     Java     |    Hard    |       2017.6.10       |                   Linked List                   |                          2018.11.17                          |                       |
 |  58  | 148  |                       [Sort List][148]                       |     Java     |   Medium   |       2017.6.11       |                Linked List, Sort                |                     2017.12.15 2018.2.13                     |                       |
 |  59  | 237  |             [Delete Node in a Linked List][237]              |     Java     |    Easy    |       2017.6.14       |                   Linked List                   |                2017.12.14 2018.2.10 2018.6.30                |                       |
 |  60  | 206  |                  [Reverse Linked List][206]                  |     Java     |    Easy    |       2017.6.14       |                   Linked List                   | 2017.12.15 2018.1.17 2018.2.8 2018.2.10 2018.3.11 2018.4.10 2018.6.30 2018.9.28 2018.10.11 |                       |
@@ -351,7 +351,7 @@
 | 347  | 370  |                    [Range Addition][370]                     |     Java     |   Meidum   |       2018.5.11       |                      Array                      |                                                              |                       |
 | 348  | 406  |            [Queue Reconstruction by Height][406]             |     Java     |   Medium   |       2018.5.11       |                     Greedy                      |                                                              |                       |
 | 349  | 531  |                    [Lonely Pixel I][531]                     |     Java     |   Medium   |       2018.5.11       |                   Array, DFS                    |                                                              |                       |
-| 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                                                              |                       |
+| 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                          2018.11.17                          |                       |
 | 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |                       |
 | 352  | 506  |                    [Relative Ranks][506]                     |     Java     |    Easy    |       2018.5.14       |                      Array                      |                                                              |                       |
 | 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |                       |
@@ -531,7 +531,7 @@
 | 527  | 380  |             [Insert Delete GetRandom O(1)][380]              |     Java     |   Medium   |      2018.10.28       |                Hash Map, Design                 |                                                              |                       |
 | 528  | 381  |  [Insert Delete GetRandom O(1) - - Duplicates Allowed][381]  |     Java     |    Hard    |      2018.10.28       |         Hash Map, LinkedHashSet, Design         |                          2018.11.5                           |                       |
 | 529  |  71  |                     [Simplify Path][71]                      |     Java     |   Medium   |      2018.10.28       |                  String, Stack                  |                                                              |                       |
-| 530  | 286  |                    [Walls and Gates][286]                    |     Java     |   Medium   |      2018.10.28       |                       BFS                       |                                                              |                       |
+| 530  | 286  |                    [Walls and Gates][286]                    |     Java     |   Medium   |      2018.10.28       |                       BFS                       |                          2018.11.17                          |                       |
 | 531  | 348  |                  [Design Tic-Tac-Toe][348]                   |     Java     |   Medium   |      2018.10.28       |                     Design                      |                                                              |                       |
 | 532  | 708  |           [Insert into a Cyclic Sorted List][708]            |     Java     |   Medium   |      2018.10.28       |                   LinkedList                    |                                                              |                       |
 | 533  | 261  |                   [Graph Valid Tree][261]                    |     Java     |   Medium   |      2018.10.30       |                   Union Find                    |                                                              |                       |
@@ -539,7 +539,7 @@
 | 535  | 154  |        [Find Minimum in Rotated Sorted Array II][154]        |     Java     |    Hard    |       2018.11.7       |                  Binary Search                  |                                                              |                       |
 | 536  | 644  |              [Maximum Average Subarray II][644]              |     Java     |    Hard    |       2018.11.8       |                  Binary Search                  |                                                              |                       |
 | 537  | 486  |                  [Predict the Winner][486]                   |     Java     |   Medium   |       2018.11.9       |          Dynamic Programming, Minimax           |                                                              |                       |
-| 538  |  10  |              [Regular Expression Matching][10]               |     Java     |    Hard    |      2018.11.11       |        Dynamic Programming, Backtracking        |                                                              |                       |
+| 538  |  10  |              [Regular Expression Matching][10]               |     Java     |    Hard    |      2018.11.11       |        Dynamic Programming, Backtracking        |                          2018.11.16                          |                       |
 | 539  |  43  |                    [Multiply Strings][43]                    |     Java     |   Medium   |      2018,11,11       |                  String, Math                   |                                                              |                       |
 | 540  | 382  |                [Linked List Random Node][382]                |     Java     |   Medium   |      2018.11.12       |               Reservoir Sampling                |                                                              |                       |
 | 541  | 678  |               [Valid Parenthesis String][678]                |     Java     |   Medium   |      2018.11.12       |                      Stack                      |                                                              |                       |
@@ -555,6 +555,12 @@
 | 551  |  32  |               [Longest Valid Parentheses][32]                |     Java     |    Hard    |      2018.11.16       |               Dynamic Programming               |                                                              |                       |
 | 552  | 567  |                 [Permutation in String][567]                 |     Java     |   Medium   |      2018.11.16       |                 Sliding Window                  |                                                              |                       |
 | 553  | 117  |    [Populating Next Right Pointers in Each Node II][117]     |     Java     |   Medium   |      2018.11.16       |                      Tree                       |                                                              |                       |
+| 554  | 636  |              [Exclusive Time of Functions][636]              |     Java     |   Medium   |      2018.11.16       |                      Stack                      |                                                              |                       |
+| 555  |  44  |                   [Wildcard Matching][44]                    |     Java     |    Hard    |      2018.11.16       |               Dynamic Programming               |                                                              |                       |
+| 556  | 452  |      [Minimum Number of Arrows to Burst Balloons][452]       |     Java     |   Medium   |      2018.11.17       |                     Greedy                      |                                                              |                       |
+| 557  | 329  |          [Longest Increasing Path in a Matrix][329]          |     Java     |    Hard    |      2018.11.17       |                DFS, Memorization                |                                                              |                       |
+| 558  | 291  |                    [Word Pattern II][291]                    |     Java     |    Hard    |      2018.11.17       |                  Backtracking                   |                                                              |                       |
+| 559  | 140  |                     [Word Break II][140]                     |     Java     |    Hard    |      2018.11.17       |        Dynamic Programming, Backtracking        |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -595,6 +601,7 @@
 [40]:<https://leetcode.com/problems/combination-sum-ii/> "Combination Sum II"
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [43]:<https://leetcode.com/problems/multiply-strings/> "Multiply Strings"
+[44]:<https://leetcode.com/problems/wildcard-matching/> "Wildcard Matching"
 [46]:<https://leetcode.com/problems/permutations/> "Permutations"
 [47]:<https://leetcode.com/problems/permutations-ii/> "Permutations II"
 [48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
@@ -674,6 +681,7 @@
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
 [138]:<https://leetcode.com/problems/copy-list-with-random-pointer/> "Copy List With Random Pointer"
 [139]:<https://leetcode.com/problems/word-break/> "Word Break"
+[140]:<https://leetcode.com/problems/word-break-ii/> "Word Break II"
 [141]:<https://leetcode.com/problems/linked-list-cycle/> "Linked list cycle"
 [142]:<https://leetcode.com/problems/linked-list-cycle-ii/> "Linked list cycle Ⅱ"
 [143]:<https://leetcode.com/problems/reorder-list/> "Reorder List"
@@ -794,6 +802,7 @@
 [286]:<https://leetcode.com/problems/walls-and-gates/> "Walls and Gates"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
 [290]:<https://leetcode.com/problems/word-pattern/> "Word Pattern"
+[291]:<https://leetcode.com/problems/word-pattern-ii/> "Word Pattern II"
 [293]:<https://leetcode.com/problems/flip-game/> "Flip Game"
 [295]:<https://leetcode.com/problems/find-median-from-data-stream/> "Find Median from Data Stream"
 [297]:<https://leetcode.com/problems/serialize-and-deserialize-binary-tree/> "Serialize and Deserialize Binary Tree"
@@ -812,6 +821,7 @@
 [326]:<https://leetcode.com/problems/power-of-three/> "Power of Three"
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
+[329]:<https://leetcode.com/problems/longest-increasing-path-in-a-matrix/> "Longest Increasing Path in a Matrix"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
 [336]:<https://leetcode.com/problems/palindrome-pairs/> "Palindrome Pairs"
 [337]:<https://leetcode.com/problems/house-robber-iii/> "House Robber III"
@@ -885,6 +895,7 @@
 [448]:<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/> "Find All Numbers Disappeared in an Array"
 [449]:<https://leetcode.com/problems/serialize-and-deserialize-bst/> "Serialize and Deserialize BST"
 [451]:<https://leetcode.com/problems/sort-characters-by-frequency/> "Sort Characters by Frequency"
+[452]:<https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/> "Minimum Number of Arrows to Burst Balloons"
 [453]:<https://leetcode.com/problems/minimum-moves-to-equal-array-elements/> "Minimum Moves to Equal Array Elements"
 [454]:<https://leetcode.com/problems/4sum-ii/> "4Sum II"
 [455]:<https://leetcode.com/problems/assign-cookies/> "Assign-cookies"
@@ -969,6 +980,7 @@
 [627]:<https://leetcode.com/problems/swap-salary/> "Swap Salary"
 [628]:<https://leetcode.com/problems/maximum-product-of-three-numbers/> "Maximum Product of Three Numbers"
 [633]:<https://leetcode.com/problems/sum-of-square-numbers/> "Sum Of Square Numbers"
+[636]:<https://leetcode.com/problems/exclusive-time-of-functions/> "Exclusive Time of Functions"
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [644]:<https://leetcode.com/problems/maximum-average-subarray-ii/> "Maximum Average Subarray II"
