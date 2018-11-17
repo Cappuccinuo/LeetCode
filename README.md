@@ -549,6 +549,9 @@
 | 545  | 689  |      [Maximum Sum of 3 Non-Overlapping Subarrays][689]       |     Java     |    Hard    |      2018.11.16       |           Array, Dynamic Programming            |                                                              |                       |
 | 546  |  8   |                [String to Integer (atoi)][8]                 |     Java     |   Medium   |      2018.11.16       |                  Math, String                   |                                                              |                       |
 | 547  | 317  |         [Shortest Distance from All Buildings][317]          |     Java     |    Hard    |      2018.11.16       |                       BFS                       |                                                              |                       |
+| 548  | 336  |                   [Palindrome Pairs][336]                    |     Java     |    Hard    |      2018.11.16       |                      Trie                       |                                                              |                       |
+| 549  |  55  |                       [Jump Game][55]                        |     Java     |   Medium   |      2018.11.16       |           Dynamic Programming, Greedy           |                                                              |                       |
+| 550  |  57  |                    [Insert Interval][57]                     |     Java     |    Hard    |      2018.11.16       |                      Array                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -597,7 +600,9 @@
 [52]:<https://leetcode.com/problems/n-queens-ii/> "N-Queens II"
 [53]:<https://leetcode.com/problems/maximum-subarray/> "Maximum Subarray"
 [54]:<https://leetcode.com/problems/spiral-matrix/> "Spiral Matrix"
+[55]:<https://leetcode.com/problems/jump-game/> "Jump Game"
 [56]:<https://leetcode.com/problems/merge-intervals/> "Merge Intervals"
+[57]:<https://leetcode.com/problems/insert-interval/> "Insert Interval"
 [58]:<https://leetcode.com/problems/length-of-last-word/> "Length of Last Word"
 [59]:<https://leetcode.com/problems/spiral-matrix-ii/> "Spiral Matrix II"
 [61]:<https://leetcode.com/problems/rotate-list/> "Rotate List"
@@ -803,6 +808,7 @@
 
 [328]:<https://leetcode.com/problems/odd-even-linked-list/> "Odd Even Linked List"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
+[336]:<https://leetcode.com/problems/palindrome-pairs/> "Palindrome Pairs"
 [337]:<https://leetcode.com/problems/house-robber-iii/> "House Robber III"
 [338]:<https://leetcode.com/problems/counting-bits/> "Counting Bits"
 [339]:<https://leetcode.com/problems/nested-list-weight-sum/> "Nested List Weight Sum"
