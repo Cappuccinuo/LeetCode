@@ -571,6 +571,7 @@
 | 567  | 332  |                 [Reconstruct Itinerary][332]                 |     Java     |   Medium   |      2018.11.17       |                  HashMap, DFS                   |                                                              |                       |
 | 568  | 921  |         [Minimum Add to Make Parentheses Valid][921]         |     Java     |   Medium   |      2018.11.26       |                  Stack, Greedy                  |                                                              |                       |
 | 569  | 933  |                [Number of Recent Calls][933]                 |     Java     |    Easy    |      2018.11.26       |                      Queue                      |                                                              |                       |
+| 570  | 929  |                [Unique Email Addresses][929]                 |     Java     |    Easy    |      2018.11.26       |                     String                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1139,6 +1140,7 @@
 [921]:<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/> "Minimum Add to Make Parenthesis Valid"
 [925]:<https://leetcode.com/problems/long-pressed-name/> "Long Pressed Name"
 [926]:<https://leetcode.com/problems/flip-string-to-monotone-increasing/> "Flip String to Monotone Increasing"
+[929]:<https://leetcode.com/problems/unique-email-addresses/> "Unique Email Addresses"
 [933]:<https://leetcode.com/problems/number-of-recent-calls/> "Number of Recent Calls"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
