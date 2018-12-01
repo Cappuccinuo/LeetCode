@@ -572,6 +572,8 @@
 | 568  | 921  |         [Minimum Add to Make Parentheses Valid][921]         |     Java     |   Medium   |      2018.11.26       |                  Stack, Greedy                  |                                                              |                       |
 | 569  | 933  |                [Number of Recent Calls][933]                 |     Java     |    Easy    |      2018.11.26       |                      Queue                      |                                                              |                       |
 | 570  | 929  |                [Unique Email Addresses][929]                 |     Java     |    Easy    |      2018.11.26       |                     String                      |                                                              |                       |
+| 571  | 930  |               [Binary Subarrays With Sum][930]               |     Java     |   Medium   |      2018.11.26       |            Hash Table, Two Pointers             |                                                              |                       |
+| 572  | 815  |                      [Bus Routes][815]                       |     Java     |    Hard    |      2018.11.30       |                       BFS                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1077,6 +1079,7 @@
 [801]:<https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/> "Minimum Swaps to Makde Sequences Increasing"
 [809]:<https://leetcode.com/problems/expressive-words/> "Expressive Words"
 [813]:<https://leetcode.com/problems/largest-sum-of-averages/> "Largest Sum of Averages"
+[815]:<https://leetcode.com/problems/bus-routes/> "Bus Routes"
 [817]:<https://leetcode.com/problems/linked-list-components> "Linked List Components"
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
 [825]:<https://leetcode.com/problems/friends-of-appropriate-ages/> "Friends of Appropriate Ages"
@@ -1141,6 +1144,7 @@
 [925]:<https://leetcode.com/problems/long-pressed-name/> "Long Pressed Name"
 [926]:<https://leetcode.com/problems/flip-string-to-monotone-increasing/> "Flip String to Monotone Increasing"
 [929]:<https://leetcode.com/problems/unique-email-addresses/> "Unique Email Addresses"
+[930]:<https://leetcode.com/problems/binary-subarrays-with-sum/> "Binary Subarrays With Sum"
 [933]:<https://leetcode.com/problems/number-of-recent-calls/> "Number of Recent Calls"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
