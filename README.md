@@ -574,6 +574,7 @@
 | 570  | 929  |                [Unique Email Addresses][929]                 |     Java     |    Easy    |      2018.11.26       |                     String                      |                                                              |                       |
 | 571  | 930  |               [Binary Subarrays With Sum][930]               |     Java     |   Medium   |      2018.11.26       |            Hash Table, Two Pointers             |                                                              |                       |
 | 572  | 815  |                      [Bus Routes][815]                       |     Java     |    Hard    |      2018.11.30       |                       BFS                       |                                                              |                       |
+| 573  | 390  |                   [Elimination Game][390]                    |     Java     |   Medium   |       2018.12.1       |                      Math                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -872,6 +873,7 @@
 [384]:<https://leetcode.com/problems/shuffle-an-array/> "Shuffle an array"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
+[390]:<https://leetcode.com/problems/elimination-game/> "Elimination Game"
 [392]:<https://leetcode.com/problems/is-subsequence> "Is Subsequence"
 [394]:<https://leetcode.com/problems/decode-string/> "Decode String"
 [395]:<https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/> "Longest substring with at least k repeating characters"
