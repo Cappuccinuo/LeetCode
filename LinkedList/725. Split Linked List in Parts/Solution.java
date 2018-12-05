@@ -1,3 +1,48 @@
+// 2018.12.5
+class Solution {
+    public ListNode[] splitListToParts(ListNode root, int k) {
+        ListNode[] result = new ListNode[k];
+        int len = getLength(root);
+        int average = len / k;
+        int carry = len % k;
+        int count = carry;
+        
+        for (int i = 0; i < k; i++) {
+            ListNode current = root;
+            ListNode prev = root;
+
+            result[i] = current;
+            if (current == null) {
+                continue;
+            }
+            for (int j = 0; j < average; j++) {
+                prev = current;
+                current = current.next;
+            }
+            if (count > 0) {
+                prev = current;
+                current = current.next;
+                count--;
+            }
+        
+            prev.next = null;
+            root = current;
+        }
+        
+        return result;
+    }
+    
+    private int getLength(ListNode root) {
+        int len = 0;
+        while (root != null) {
+            len++;
+            root = root.next;
+        }
+        return len;
+    }
+}
+
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

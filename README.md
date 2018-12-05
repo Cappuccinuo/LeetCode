@@ -186,7 +186,7 @@
 | 182  | 107  |         [Binary Tree Level Order Traversal II][107]          |     Java     |    Easy    |       2017.12.9       |                    Tree, BFS                    |           2018.2.13 2018.3.15 2018.4.24 2018.5.29            |                       |
 | 183  | 278  |                   [First Bad Version][278]                   |     Java     |    Easy    |       2017.12.9       |                  Binary Search                  |                     2018.3.22 2018.10.16                     |                       |
 | 184  | 744  |       [Find Smallest Letter Greater Than Target][744]        |     Java     |    Easy    |       2017.12.9       |                                                 |                                                              |                       |
-| 185  |  17  |         [Letter Combinations of a Phone Number][17]          |     Java     |   Medium   |      2017.12.10       |              String, Backtracking               |          2018.4.24 2018.9.24 2018.10.27 2018.11.12           |                       |
+| 185  |  17  |         [Letter Combinations of a Phone Number][17]          |     Java     |   Medium   |      2017.12.10       |              String, Backtracking               |     2018.4.24 2018.9.24 2018.10.27 2018.11.12 2018.12.5      |                       |
 | 186  | 151  |               [Reverse Words in a String][151]               |     Java     |   Medium   |      2017.12.10       |                     String                      |                     2018.2.16 2018.10.26                     |                       |
 | 187  | 186  |             [Reverse Words in a String II][186]              |     Java     |   Medium   |      2017.12.10       |                     String                      |                     2018.2.16 2018.4.16                      |                       |
 | 188  |  22  |                  [Generate Parentheses][22]                  |     Java     |   Medium   |      2017.12.10       |              String, Backtracking               |                     2018.9.24 2018.10.28                     |                       |
@@ -202,7 +202,7 @@
 | 198  | 369  |                 [Plus One Linked List][369]                  |     Java     |   Medium   |      2017.12.14       |                   Linked List                   |                      2018.2.8 2018.2.11                      |                       |
 | 199  | 104  |             [Maximum Depth of Binary Tree][104]              |     Java     |    Easy    |      2017.12.15       |                    Tree, DFS                    |           2017.12.30 2018.1.5 2018.2.17 2018.10.15           |                       |
 | 200  | 202  |                     [Happy Number][202]                      |     Java     |    Easy    |      2017.12.15       |                Hash Table, Math                 |                                                              |                       |
-| 201  | 725  |              [Split Linked List in Parts][725]               |     Java     |   Medium   |      2017.12.16       |                   Linked List                   |                                                              |                       |
+| 201  | 725  |              [Split Linked List in Parts][725]               |     Java     |   Medium   |      2017.12.16       |                   Linked List                   |                          2018.12.5                           |                       |
 | 202  | 215  |            [Kth Largest Element in an Array][215]            |     Java     |   Medium   |      2017.12.16       |            Divide and Conquer, Heap             |                2018.4.2 2018.10.18 2018.11.11                |                       |
 | 203  | 748  |               [Shortest Completing Word][748]                |     Java     |    Easy    |      2017.12.16       |                   Hash Table                    |                                                              |                       |
 | 204  | 740  |                    [Delete and Earn][740]                    |     Java     |   Medium   |       2017.12.6       |               Dynamic Programming               |                     2017.12.17 2018.1.9                      |                       |
@@ -575,6 +575,9 @@
 | 571  | 930  |               [Binary Subarrays With Sum][930]               |     Java     |   Medium   |      2018.11.26       |            Hash Table, Two Pointers             |                                                              |                       |
 | 572  | 815  |                      [Bus Routes][815]                       |     Java     |    Hard    |      2018.11.30       |                       BFS                       |                                                              |                       |
 | 573  | 390  |                   [Elimination Game][390]                    |     Java     |   Medium   |       2018.12.1       |                      Math                       |                                                              |                       |
+| 574  | 949  |             [Largest Time for Given Digits][949]             |     Java     |    Easy    |       2018.12.1       |                    Math, DFS                    |                                                              |                       |
+| 575  | 950  |           [Reveal Cards in Increasing Order][950]            |     Java     |   Medium   |       2018.12.1       |                  Array, Deque                   |                                                              |                       |
+| 576  | 951  |             [Flip Equivalent Binary Trees][951]              |     Java     |   Medium   |       2018.12.1       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1148,5 +1151,8 @@
 [929]:<https://leetcode.com/problems/unique-email-addresses/> "Unique Email Addresses"
 [930]:<https://leetcode.com/problems/binary-subarrays-with-sum/> "Binary Subarrays With Sum"
 [933]:<https://leetcode.com/problems/number-of-recent-calls/> "Number of Recent Calls"
+[949]:<https://leetcode.com/problems/largest-time-for-given-digits/> "Largest Time for Given Digits"
+[950]:<https://leetcode.com/problems/reveal-cards-in-increasing-order/> "Reveal Cards in Increasing Order"
+[951]:<https://leetcode.com/problems/flip-equivalent-binary-trees/> "Flip Equivalent Binary Trees"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
