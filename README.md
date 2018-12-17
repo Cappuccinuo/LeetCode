@@ -579,6 +579,7 @@
 | 575  | 950  |           [Reveal Cards in Increasing Order][950]            |     Java     |   Medium   |       2018.12.1       |                  Array, Deque                   |                                                              |                       |
 | 576  | 951  |             [Flip Equivalent Binary Trees][951]              |     Java     |   Medium   |       2018.12.1       |                      Tree                       |                                                              |                       |
 | 577  | 953  |             [Verifying an Alien Dictionary][953]             |     Java     |    Easy    |      2018.12.16       |                   Hash Table                    |                                                              |                       |
+| 578  | 954  |                [Array of Doubled Pairs][954]                 |     Java     |   Medium   |      2018.12.17       |                   Hash Table                    |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1156,5 +1157,6 @@
 [950]:<https://leetcode.com/problems/reveal-cards-in-increasing-order/> "Reveal Cards in Increasing Order"
 [951]:<https://leetcode.com/problems/flip-equivalent-binary-trees/> "Flip Equivalent Binary Trees"
 [953]:<https://leetcode.com/problems/verifying-an-alien-dictionary/> "Verifying an Alien Dictionary"
+[954]:<https://leetcode.com/problems/array-of-doubled-pairs/> "Array of Doubled Pairs"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
