@@ -580,6 +580,8 @@
 | 576  | 951  |             [Flip Equivalent Binary Trees][951]              |     Java     |   Medium   |       2018.12.1       |                      Tree                       |                                                              |                       |
 | 577  | 953  |             [Verifying an Alien Dictionary][953]             |     Java     |    Easy    |      2018.12.16       |                   Hash Table                    |                                                              |                       |
 | 578  | 954  |                [Array of Doubled Pairs][954]                 |     Java     |   Medium   |      2018.12.17       |                   Hash Table                    |                                                              |                       |
+| 579  | 955  |           [Delete Columns to Make Sorted II][955]            |     Java     |   Medium   |      2018.12.18       |                     Greedy                      |                                                              |                       |
+| 580  | 957  |               [Prison Cells After N Days][957]               |     Java     |   Medium   |      2018.12.19       |                   Hash Table                    |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1158,5 +1160,7 @@
 [951]:<https://leetcode.com/problems/flip-equivalent-binary-trees/> "Flip Equivalent Binary Trees"
 [953]:<https://leetcode.com/problems/verifying-an-alien-dictionary/> "Verifying an Alien Dictionary"
 [954]:<https://leetcode.com/problems/array-of-doubled-pairs/> "Array of Doubled Pairs"
+[955]:<https://leetcode.com/problems/delete-columns-to-make-sorted-ii/> "Delete Columns to Make Sorted II"
+[957]:<https://leetcode.com/problems/prison-cells-after-n-days/> "Prison Cells After N Days"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
