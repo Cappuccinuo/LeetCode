@@ -1,3 +1,30 @@
+// 2018.10.13
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> result = new LinkedList<>();
+        if (nums == null || nums.length == 0) {
+            return result;
+        }
+        
+        DFS(result, new LinkedList<>(), 0, nums);
+        return result;
+    }
+    
+    private void DFS(List<List<Integer>> result, List<Integer> subset,
+                    int index, int[] nums) {
+        result.add(new LinkedList<>(subset));
+        if (index == nums.length) {
+            return;
+        }
+        
+        for (int i = index; i < nums.length; i++) {
+            subset.add(nums[i]);
+            DFS(result, subset, i + 1, nums);
+            subset.remove(subset.size() - 1);
+        }
+    }
+}
+
 // 2018.4.7 DFS
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
