@@ -583,6 +583,7 @@
 | 579  | 955  |           [Delete Columns to Make Sorted II][955]            |     Java     |   Medium   |      2018.12.18       |                     Greedy                      |                                                              |                       |
 | 580  | 957  |               [Prison Cells After N Days][957]               |     Java     |   Medium   |      2018.12.19       |                   Hash Table                    |                                                              |                       |
 | 581  | 959  |                [Regions Cut By Slashes][959]                 |     Java     |   Medium   |      2018.12.21       |                   Union Find                    |                                                              |                       |
+| 582  | 958  |          [Check Completeness of a Binary Tree][958]          |     Java     |   Medium   |      2018.12.22       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1163,6 +1164,7 @@
 [954]:<https://leetcode.com/problems/array-of-doubled-pairs/> "Array of Doubled Pairs"
 [955]:<https://leetcode.com/problems/delete-columns-to-make-sorted-ii/> "Delete Columns to Make Sorted II"
 [957]:<https://leetcode.com/problems/prison-cells-after-n-days/> "Prison Cells After N Days"
+[958]:<https://leetcode.com/problems/check-completeness-of-a-binary-tree/> "Check Completeness of a Binary Tree"
 [959]:<https://leetcode.com/problems/regions-cut-by-slashes/> "Regions Cut by Slashes"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
