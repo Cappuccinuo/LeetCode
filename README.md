@@ -584,6 +584,7 @@
 | 580  | 957  |               [Prison Cells After N Days][957]               |     Java     |   Medium   |      2018.12.19       |                   Hash Table                    |                                                              |                       |
 | 581  | 959  |                [Regions Cut By Slashes][959]                 |     Java     |   Medium   |      2018.12.21       |                   Union Find                    |                                                              |                       |
 | 582  | 958  |          [Check Completeness of a Binary Tree][958]          |     Java     |   Medium   |      2018.12.22       |                      Tree                       |                                                              |                       |
+| 583  | 965  |                 [Univalued Binary Tree][965]                 |     Java     |    Easy    |       2019.1.5        |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1166,5 +1167,6 @@
 [957]:<https://leetcode.com/problems/prison-cells-after-n-days/> "Prison Cells After N Days"
 [958]:<https://leetcode.com/problems/check-completeness-of-a-binary-tree/> "Check Completeness of a Binary Tree"
 [959]:<https://leetcode.com/problems/regions-cut-by-slashes/> "Regions Cut by Slashes"
+[965]:<https://leetcode.com/problems/univalued-binary-tree/> "Univalued Binary Tree"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
