@@ -585,6 +585,7 @@
 | 581  | 959  |                [Regions Cut By Slashes][959]                 |     Java     |   Medium   |      2018.12.21       |                   Union Find                    |                                                              |                       |
 | 582  | 958  |          [Check Completeness of a Binary Tree][958]          |     Java     |   Medium   |      2018.12.22       |                      Tree                       |                                                              |                       |
 | 583  | 965  |                 [Univalued Binary Tree][965]                 |     Java     |    Easy    |       2019.1.5        |                      Tree                       |                                                              |                       |
+| 584  | 966  |                  [Vowel Spellchecker][966]                   |     Java     |   Medium   |       2019.1.6        |               Hash Table, String                |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1168,5 +1169,6 @@
 [958]:<https://leetcode.com/problems/check-completeness-of-a-binary-tree/> "Check Completeness of a Binary Tree"
 [959]:<https://leetcode.com/problems/regions-cut-by-slashes/> "Regions Cut by Slashes"
 [965]:<https://leetcode.com/problems/univalued-binary-tree/> "Univalued Binary Tree"
+[966]:<https://leetcode.com/problems/vowel-spellchecker/> "Vowel SpellChecker"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
