@@ -587,6 +587,7 @@
 | 583  | 965  |                 [Univalued Binary Tree][965]                 |     Java     |    Easy    |       2019.1.5        |                      Tree                       |                                                              |                       |
 | 584  | 966  |                  [Vowel Spellchecker][966]                   |     Java     |   Medium   |       2019.1.6        |               Hash Table, String                |                                                              |                       |
 | 585  | 970  |                   [Powerful Integers][970]                   |     Java     |    Easy    |       2019.1.7        |                      Math                       |                                                              |                       |
+| 586  | 967  |       [Numbers with same consecutive differences][967]       |     Java     |   Medium   |       2019.1.8        |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1171,6 +1172,7 @@
 [959]:<https://leetcode.com/problems/regions-cut-by-slashes/> "Regions Cut by Slashes"
 [965]:<https://leetcode.com/problems/univalued-binary-tree/> "Univalued Binary Tree"
 [966]:<https://leetcode.com/problems/vowel-spellchecker/> "Vowel SpellChecker"
+[967]:<https://leetcode.com/problems/numbers-with-same-consecutive-differences/> "Numbers with same consecutive differences"
 [970]:<https://leetcode.com/problems/powerful-integers/> "Powerful Integers"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
