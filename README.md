@@ -590,6 +590,7 @@
 | 586  | 967  |       [Numbers with same consecutive differences][967]       |     Java     |   Medium   |       2019.1.8        |               Dynamic Programming               |                                                              |                       |
 | 587  | 968  |                    [Pancake Sorting][968]                    |     Java     |   Medium   |       2019.1.8        |                   Array, Sort                   |                                                              |                       |
 | 588  | 971  |     [Flip Binary Tree to Match Preorder Traversal][971]      |     Java     |   Medium   |       2019.1.8        |                       DFS                       |                                                              |                       |
+| 589  | 402  |                    [Remove K Digits][402]                    |     Java     |   Medium   |       2019.1.9        |                  Stack, Greedy                  |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -895,6 +896,7 @@
 [397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [398]:<https://leetcode.com/problems/random-pick-index/> "Random Pick Index"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
+[402]:<https://leetcode.com/problems/remove-k-digits/> "Remove K Digits"
 [403]:<https://leetcode.com/problems/frog-jump/> "Frog Jump"
 [404]:<https://leetcode.com/problems/sum-of-left-leaves/> "Sum of Left Leaves"
 [405]:<https://leetcode.com/problems/convert-a-number-to-hexadecimal/> "Convert a number to hexadecimal"
