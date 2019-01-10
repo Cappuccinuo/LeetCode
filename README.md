@@ -591,6 +591,7 @@
 | 587  | 968  |                    [Pancake Sorting][968]                    |     Java     |   Medium   |       2019.1.8        |                   Array, Sort                   |                                                              |                       |
 | 588  | 971  |     [Flip Binary Tree to Match Preorder Traversal][971]      |     Java     |   Medium   |       2019.1.8        |                       DFS                       |                                                              |                       |
 | 589  | 402  |                    [Remove K Digits][402]                    |     Java     |   Medium   |       2019.1.9        |                  Stack, Greedy                  |                                                              |                       |
+| 590  | 223  |                    [Rectangle Area][223]                     |     Java     |   Medium   |       2019.1.9        |                      Math                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -777,6 +778,7 @@
 [220]:<https://leetcode.com/problems/contains-duplicate-iii/> "Contains Duplicate III"
 [221]:<https://leetcode.com/problems/maximal-square/> "Maximal Square"
 [222]:<https://leetcode.com/problems/count-complete-tree-nodes/> "Count Complete Tree Nodes"
+[223]:<https://leetcode.com/problems/rectangle-area> "Rectangle Area"
 [224]:<https://leetcode.com/problems/basic-calculator/> "Basic Calculator"
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
 [226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
