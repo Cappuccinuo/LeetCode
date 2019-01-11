@@ -160,7 +160,7 @@
 | 156  | 734  |                  [Sentence Similarity][734]                  |     Java     |    Easy    |      2017.11.25       |                   Hash Table                    |                          2018.9.12                           |                       |
 | 157  | 733  |                      [Flood Fill][733]                       |     Java     |    Easy    |      2017.11.25       |                       DFS                       |                          2018.10.11                          |                       |
 | 158  | 735  |                  [Asteroid Collision][735]                   |     Java     |   Medium   |      2017.11.26       |                      Stack                      |                                                              |                       |
-| 159  | 170  |                      [Two Sum III][170]                      |     Java     |    Easy    |      2017.11.26       |               Hash Table, Design                |                    2017.12.13 2018.10.16                     |                       |
+| 159  | 170  |                      [Two Sum III][170]                      |     Java     |    Easy    |      2017.11.26       |               Hash Table, Design                |               2017.12.13 2018.10.16 2019.1.11                |                       |
 | 160  | 256  |                      [Paint House][256]                      |     Java     |    Easy    |      2017.11.27       |               Dynamic Programming               |           2017.12.19 2018.1.28 2018.2.21 2018.5.23           |                       |
 | 161  | 342  |                     [Power of Four][342]                     |     Java     |    Easy    |      2017.11.27       |                Bit Manipulation                 |                                                              |                       |
 | 162  | 231  |                     [Power of Two][231]                      |     Java     |    Easy    |      2017.11.27       |             Math, Bit Manipulation              |                                                              |                       |
@@ -594,6 +594,8 @@
 | 590  | 223  |                    [Rectangle Area][223]                     |     Java     |   Medium   |       2019.1.9        |                      Math                       |                                                              |                       |
 | 591  | 309  |     [Best Time To Buy and Sell Stock with Cooldown][309]     |     Java     |   Medium   |       2019.1.9        |               Dynamic Programming               |                                                              |                       |
 | 592  | 713  |             [Subarray Product Less Than K][713]              |     Java     |   Medium   |       2019.1.10       |                  Two Pointers                   |                                                              |                       |
+| 593  | 931  |               [Minimum Falling Path Sum][931]                |     Java     |   Medium   |       2019.1.11       |               Dynamic Programming               |                                                              |                       |
+| 594  | 932  |                    [Beautiful Array][932]                    |     Java     |   Medium   |       2019.1.11       |               Divide and Conquer                |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1170,6 +1172,8 @@
 [926]:<https://leetcode.com/problems/flip-string-to-monotone-increasing/> "Flip String to Monotone Increasing"
 [929]:<https://leetcode.com/problems/unique-email-addresses/> "Unique Email Addresses"
 [930]:<https://leetcode.com/problems/binary-subarrays-with-sum/> "Binary Subarrays With Sum"
+[931]:<https://leetcode.com/problems/minimum-falling-path-sum/> "Minimum Falling Path Sum"
+[932]:<https://leetcode.com/problems/beautiful-array/> "Beautiful Array"
 [933]:<https://leetcode.com/problems/number-of-recent-calls/> "Number of Recent Calls"
 [949]:<https://leetcode.com/problems/largest-time-for-given-digits/> "Largest Time for Given Digits"
 [950]:<https://leetcode.com/problems/reveal-cards-in-increasing-order/> "Reveal Cards in Increasing Order"
