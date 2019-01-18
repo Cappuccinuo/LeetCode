@@ -598,6 +598,8 @@
 | 594  | 932  |                    [Beautiful Array][932]                    |     Java     |   Medium   |       2019.1.11       |               Divide and Conquer                |                                                              |                       |
 | 595  | 819  |                   [Most Common Word][819]                    |     Java     |    Easy    |       2019.1.12       |                     String                      |                                                              |                       |
 | 596  | 683  |                     [K Empty Slots][683]                     |     Java     |    Hard    |       2019.1.16       |                    HashTable                    |                                                              |                       |
+| 597  | 743  |                  [Network Delay Time][743]                   |     Java     |    Easy    |       2019.1.17       |                      Graph                      |                                                              |                       |
+| 598  | 787  |            [Cheapest Flight Within K Stops][787]             |     Java     |   Medium   |       2019.1.18       |                      Graph                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1088,6 +1090,7 @@
 [739]:<https://leetcode.com/problems/daily-temperatures/> "Daily Temperatures"
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
 [742]:<https://leetcode.com/problems/closest-leaf-in-a-binary-tree> "Closest Leaf In A Binary Tree"
+[743]:<https://leetcode.com/problems/network-delay-time/> "Network Delay Time"
 [746]:<https://leetcode.com/problems/min-cost-climbing-stairs/> "Min Cost Climbing Stairs"
 [748]:<https://leetcode.com/problems/shortest-completing-word/> "Shortest Completing Word"
 [750]:<https://leetcode.com/problems/number-of-corner-rectangles/> "Number of Corner Rectangles"
@@ -1103,6 +1106,7 @@
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
 [784]:<https://leetcode.com/problems/letter-case-permutation/> "Letter Case Permutation"
 [785]:<https://leetcode.com/problems/is-graph-bipartite/> "Is Graph Bipartite"
+[787]:<https://leetcode.com/problems/cheapest-flights-within-k-stops/> "Cheapest Flights Within K Stops"
 [791]:<https://leetcode.com/problems/custom-sort-string/> "Custom Sort String"
 [792]:<https://leetcode.com/problems/number-of-matching-subsequences/> "Number of Matching Subsequences"
 [796]:<https://leetcode.com/problems/rotate-string/> "Rotate String"
