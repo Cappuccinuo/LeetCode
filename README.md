@@ -600,6 +600,7 @@
 | 596  | 683  |                     [K Empty Slots][683]                     |     Java     |    Hard    |       2019.1.16       |                    HashTable                    |                                                              |                       |
 | 597  | 743  |                  [Network Delay Time][743]                   |     Java     |    Easy    |       2019.1.17       |                      Graph                      |                                                              |                       |
 | 598  | 787  |            [Cheapest Flight Within K Stops][787]             |     Java     |   Medium   |       2019.1.18       |                      Graph                      |                                                              |                       |
+| 599  | 131  |                [Palindrome Partitioning][131]                |     Java     |   Medium   |       2019.1.18       |                  Backtracking                   |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -715,6 +716,7 @@
 [127]:<https://leetcode.com/problems/word-ladder/> "Word Ladder"
 [128]:<https://leetcode.com/problems/longest-consecutive-sequence/> "Longest Consecutive Sequence"
 [129]:<https://leetcode.com/problems/sum-root-to-leaf-numbers> "Sum Root to Leaf Numbers"
+[131]:<https://leetcode.com/problems/palindrome-partitioning/> "Palindrome Partitioning"
 [133]:<https://leetcode.com/problems/clone-graph/> "Clone Graph"
 [134]:<https://leetcode.com/problems/gas-station/> "Gas Station"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
