@@ -601,6 +601,7 @@
 | 597  | 743  |                  [Network Delay Time][743]                   |     Java     |    Easy    |       2019.1.17       |                      Graph                      |                                                              |                       |
 | 598  | 787  |            [Cheapest Flight Within K Stops][787]             |     Java     |   Medium   |       2019.1.18       |                      Graph                      |                                                              |                       |
 | 599  | 131  |                [Palindrome Partitioning][131]                |     Java     |   Medium   |       2019.1.18       |                  Backtracking                   |                                                              |                       |
+| 600  | 279  |                    [Perfect Square][279]                     |     Java     |   Medium   |       2019.1.18       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -838,6 +839,7 @@
 [276]:<https://leetcode.com/problems/paint-fence/> "Paint Fence"
 [277]:<https://leetcode.com/problems/find-the-celebrity> "Find the Celebrity"
 [278]:<https://leetcode.com/problems/first-bad-version/> "First Bad Version"
+[279]:<https://leetcode.com/problems/perfect-squares/> "Perfect Squares"
 [280]:<https://leetcode.com/problems/wiggle-sort/> "Wiggle Sort"
 [281]:<https://leetcode.com/problems/zigzag-iterator> "Zigzag Iterator"
 [282]:<https://leetcode.com/problems/expression-add-operators/> "Expression Add Operators"
