@@ -602,6 +602,8 @@
 | 598  | 787  |            [Cheapest Flight Within K Stops][787]             |     Java     |   Medium   |       2019.1.18       |                      Graph                      |                                                              |                       |
 | 599  | 131  |                [Palindrome Partitioning][131]                |     Java     |   Medium   |       2019.1.18       |                  Backtracking                   |                                                              |                       |
 | 600  | 279  |                    [Perfect Square][279]                     |     Java     |   Medium   |       2019.1.18       |               Dynamic Programming               |                                                              |                       |
+| 601  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2019.1.18       |                     Design                      |                                                              |                       |
+| 602  | 977  |               [Squares of a Sorted Array][977]               |     Java     |    Easy    |       2019.1.20       |               Two Pointers, Sort                |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1202,5 +1204,6 @@
 [968]:<https://leetcode.com/problems/pancake-sorting/> "Pancake Sorting"
 [970]:<https://leetcode.com/problems/powerful-integers/> "Powerful Integers"
 [971]:<https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/> "Flip Binary Tree to Match Preorder Traversal"
+[977]:<https://leetcode.com/problems/squares-of-a-sorted-array/> "Squares of a Sorted Array"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
