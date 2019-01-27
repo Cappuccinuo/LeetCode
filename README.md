@@ -604,6 +604,7 @@
 | 600  | 279  |                    [Perfect Square][279]                     |     Java     |   Medium   |       2019.1.18       |               Dynamic Programming               |                                                              |                       |
 | 601  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2019.1.18       |                     Design                      |                                                              |                       |
 | 602  | 977  |               [Squares of a Sorted Array][977]               |     Java     |    Easy    |       2019.1.20       |               Two Pointers, Sort                |                                                              |                       |
+| 603  | 978  |              [Longest Turbulent Subarray][978]               |     Java     |   Medium   |       2019.1.26       |                  Two Pointers                   |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1205,5 +1206,6 @@
 [970]:<https://leetcode.com/problems/powerful-integers/> "Powerful Integers"
 [971]:<https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/> "Flip Binary Tree to Match Preorder Traversal"
 [977]:<https://leetcode.com/problems/squares-of-a-sorted-array/> "Squares of a Sorted Array"
+[978]:<https://leetcode.com/problems/longest-turbulent-subarray/> "Longest Turbulent Subarray"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
