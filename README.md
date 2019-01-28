@@ -280,7 +280,7 @@
 | 276  | 779  |                [K-th Symbol in Grammar][779]                 |     Java     |   Medium   |       2018.2.7        |                    Recursion                    |                                                              |                       |
 | 277  | 783  |          [Minimum Distance Between BST Nodes][783]           |     Java     |    Easy    |       2018.2.10       |                      Tree                       |                                                              |                       |
 | 278  | 781  |                  [Rabbits in Forrest][781]                   |     Java     |   Medium   |       2018.2.10       |                    HashTable                    |                                                              |                       |
-| 279  | 300  |            [Longest Increasing Subsequence][300]             |     Java     |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |                2018.2.23 2018.3.2 2018.11.12                 |                       |
+| 279  | 300  |            [Longest Increasing Subsequence][300]             |     Java     |   Medium   |       2018.2.11       |       Binary Search, Dynamic Programming        |           2018.2.23 2018.3.2 2018.11.12 2019.1.27            |                       |
 | 280  | 143  |                     [Reorder List][143]                      |     Java     |   Medium   |       2018.2.12       |                   LinkedList                    |                2018.8.9 2018.10.28 2018.11.11                |                       |
 | 281  | 379  |                [Design Phone Directory][379]                 |     Java     |   Medium   |       2018.2.12       |               LinkedList, Design                |                          2018.11.17                          |                       |
 | 282  | 102  |           [Binary Tree Level Order Traversal][102]           |     Java     |   Medium   |       2018.2.13       |                    Tree, BFS                    |  2018.4.14 2018.4.17 2018.4.24 2018.6.1 2018.9.15 2018.10.3  |                       |
@@ -605,6 +605,7 @@
 | 601  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2019.1.18       |                     Design                      |                                                              |                       |
 | 602  | 977  |               [Squares of a Sorted Array][977]               |     Java     |    Easy    |       2019.1.20       |               Two Pointers, Sort                |                                                              |                       |
 | 603  | 978  |              [Longest Turbulent Subarray][978]               |     Java     |   Medium   |       2019.1.26       |                  Two Pointers                   |                                                              |                       |
+| 604  | 265  |                    [Paint House II][265]                     |     Java     |    Hard    |       2019.1.27       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -828,6 +829,7 @@
 [260]:<https://leetcode.com/problems/single-number-iii/> "Single Number III"
 [261]:<https://leetcode.com/problems/graph-valid-tree/> "Graph Valid Tree"
 [264]:<https://leetcode.com/problems/ugly-number-ii/> "Ugly Number II"
+[265]:<https://leetcode.com/problems/paint-house-ii/> "Paint House II"
 [266]:<https://leetcode.com/problems/palindrome-permutation/> "Palindrome Permutation"
 
 
