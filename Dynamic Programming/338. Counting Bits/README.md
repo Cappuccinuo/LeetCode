@@ -14,11 +14,12 @@ Input:
 
 Output: `[0,1,1,2,1,2]`.
 
-1. For every number n, its 1's number equals to countBit(n & (n -1)) + 1.
-2. In countBit, if ((num & mask) != 0), must operate num & mask first, so need to use () to cover them.
 
 
+For n = 5
 
-More simple solution:
+0000, 0001, 0010, 0011, 0100, 0101
 
-dp[i] = dp[i & (i - 1)] + 1
+We can reduce the computation by finding the pattern, if we eliminate the last bit of 0101, the number is 010. we can know the bits of 010 first, and add the last bit of 0101, that is i % 2.
+
+dp[i] = dp[i >> 1] + i % 2
