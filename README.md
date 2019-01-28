@@ -607,6 +607,7 @@
 | 603  | 978  |              [Longest Turbulent Subarray][978]               |     Java     |   Medium   |       2019.1.26       |                  Two Pointers                   |                                                              |                       |
 | 604  | 265  |                    [Paint House II][265]                     |     Java     |    Hard    |       2019.1.27       |               Dynamic Programming               |                                                              |                       |
 | 605  | 188  |          [Best Time to Buy and Sell Stock IV][188]           |     Java     |    Hard    |       2019.1.28       |               Dynamic Programming               |                                                              |                       |
+| 606  | 982  |        [Triples with Bitwise AND Equal To Zero][982]         |     Java     |    Hard    |       2019.1.28       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1211,5 +1212,6 @@
 [971]:<https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/> "Flip Binary Tree to Match Preorder Traversal"
 [977]:<https://leetcode.com/problems/squares-of-a-sorted-array/> "Squares of a Sorted Array"
 [978]:<https://leetcode.com/problems/longest-turbulent-subarray/> "Longest Turbulent Subarray"
+[982]:<https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/> "Triples with Bitwise and Equal to Zero"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
