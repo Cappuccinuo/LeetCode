@@ -1,3 +1,20 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        if (prices == null || prices.length == 0) {
+            return 0;
+        }
+        int min = prices[0];
+        int result = 0;
+        
+        for (int price : prices) {
+            result = Math.max(price - min, result);
+            min = Math.min(min, price);
+        }
+        
+        return result;
+    }
+}
+
 // 2018.4.13
 class Solution {
     public int maxProfit(int[] prices) {
