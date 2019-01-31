@@ -24,8 +24,7 @@ Explanation: 13 = 4 + 9.
 
 Algorithm:
 
-First fill array with infinity.
-
-Then for square, we assign dp[square] = 1.
-
-Traverse every number between 1 to n,  and for every j from 1 to sqrt(n), we check if dp[i - j * j] + 1 is smaller than dp[i].
+1. Ensure the status: Last step, the last square we use j^2, in the optimal strategy, n - j^2 must be divided to least number of splits. Subproblem: n - j^2 divided to how many square sum.
+2. f[i] = min(1 <= j * j <= i){f[i - j^2] + 1}
+3. Init and boundary: f[0] = 0, f[1...n] = Integer.MAX_VALUE
+4. Answer is f[n]
