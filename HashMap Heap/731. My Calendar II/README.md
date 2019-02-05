@@ -24,5 +24,4 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 
 
 
-When booking a new event `[start, end)`, count `delta[start]++` and `delta[end]--`. When processing the values of `delta` in sorted order of their keys, the running sum `active` is the number of events open at that time. If the sum is 3 or more, that time is (at least) triple booked.
-
+Still using the idea of sweep line. Start count as val 1, end count as val -1, when we continuously add val, if val >= 3, that means there are three start while no end, that means tripple overlapping. 

@@ -1,21 +1,30 @@
 class MyCalendarTwo {
-    TreeMap<Integer, Integer> calendar;
+    TreeMap<Integer, Integer> map;
+    
     public MyCalendarTwo() {
-        calendar = new TreeMap<>();
+        map = new TreeMap<>();
     }
     
     public boolean book(int start, int end) {
-        calendar.put(start, calendar.getOrDefault(start, 0) + 1);
-        calendar.put(end, calendar.getOrDefault(end, 0) - 1);
-        int consecutive = 0;
-        for (int d : calendar.values()) {
-            consecutive += d;
-            if (consecutive >= 3) {
-                calendar.put(start, calendar.getOrDefault(start, 0) - 1);
-                calendar.put(end, calendar.getOrDefault(end, 0) + 1);
-                if (calendar.get(start) == 0) {
-                    calendar.remove(start);
+        map.put(start, map.getOrDefault(start, 0) + 1);
+        map.put(end, map.getOrDefault(end, 0) - 1);
+        
+        int cont = 0;
+        
+        for (int val : map.values()) {
+            cont += val;
+            
+            if (cont >= 3) {
+                map.put(start, map.get(start) - 1);
+                map.put(end, map.get(end) + 1);
+                
+                if (map.get(start) == 0) {
+                    map.remove(start);
                 }
+                if (map.get(end) == 0) {
+                    map.remove(end);
+                }
+                
                 return false;
             }
         }
