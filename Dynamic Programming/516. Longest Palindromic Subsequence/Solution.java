@@ -1,3 +1,57 @@
+// 2019.2.9
+class Solution {
+    int len;
+    int[][] dp;
+    
+    public int longestPalindromeSubseq(String s) {
+        if (s.length() == 0) {
+            return 0;
+        }
+        if (s.length() == 1) {
+            return 1;
+        }
+        
+        len = s.length();
+        dp = new int[len][len];
+        
+        char[] c = s.toCharArray();
+        calc(c, 0, len - 1);
+        return dp[0][len - 1];
+    }
+    
+    private void calc(char[] c, int i, int j) {
+        // A must step, if has been filled with value, return
+        if (dp[i][j] != 0) {
+            return;
+        }
+        
+        if (i == j) {
+            dp[i][j] = 1;
+            return;
+        }
+        
+        if (i + 1 == j) {
+            if (c[i] == c[j]) {
+                dp[i][j] = 2;
+            }
+            else {
+                dp[i][j] = 1;
+            }
+            return;
+        }
+        
+        calc(c, i, j - 1);
+        calc(c, i + 1, j);
+        calc(c, i + 1, j - 1);
+        
+        dp[i][j] = Math.max(dp[i][j - 1], dp[i + 1][j]);
+        if (c[i] == c[j]) {
+            dp[i][j] = Math.max(dp[i][j], dp[i + 1][j - 1] + 2);
+        }
+    }
+}
+
+
 // 2018.3.19
 public class Solution {
     /**

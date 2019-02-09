@@ -103,7 +103,7 @@
 |  99  | 447  |                 [Number of Boomerangs][447]                  |     Java     |    Easy    |       2017.7.20       |                    HashTable                    |                          2018.1.20                           |                       |
 | 100  | 438  |             [Find All Anagrams in a String][438]             |     Java     |    Easy    |       2017.7.21       |                     HashMap                     |    2018.1.22 2018.10.10 2018.10.15 2018.10.27 2018.11.10     |                       |
 | 101  | 599  |            [Minimum Index Sum of Two Lists][599]             |     Java     |    Easy    |       2017.7.21       |                     HashMap                     |                          2018.1.17                           |                       |
-| 102  | 205  |                  [Isomorphic Strings][205]                   |     Java     |    Easy    |       2017.7.23       |                   Hash Table                    |                           2018.1.7                           |                       |
+| 102  | 205  |                  [Isomorphic Strings][205]                   |     Java     |    Easy    |       2017.7.23       |                   Hash Table                    |                      2018.1.7 2019.2.4                       |                       |
 | 103  | 645  |                     [Set Mismatch][645]                      |     Java     |    Easy    |       2017.7.23       |                 HashMap, Array                  |                          2018.1.14                           |                       |
 | 104  | 204  |                     [Count Primes][204]                      |     Java     |    Easy    |       2017.7.24       |                  HashMap, Math                  |                      2018.1.7 2018.3.18                      |                       |
 | 105  | 290  |                     [Word Pattern][290]                      |     Java     |    Easy    |       2017.7.24       |                    HashTable                    |                      2018.1.7 2018.5.25                      |                       |
@@ -289,7 +289,7 @@
 | 285  | 384  |                   [Shuffle an Array][384]                    |     Java     |   Medium   |       2018.2.21       |                     Design                      |                                                              |                       |
 | 286  | 364  |               [Nested List Weight Sum II][364]               |     Java     |   Medium   |       2018.2.22       |                       DFS                       |                                                              |                       |
 | 287  | 103  |       [Binary Tree Zigzag Level Order Traversal][103]        |     Java     |   Medium   |       2018.2.22       |                    BFS, Tree                    |                2018.4.24 2018.10.3 2018.10.24                |                       |
-| 288  | 516  |            [Longest Palindromic Subsequence][516]            |     Java     |   Medium   |       2018.2.23       |               Dynamic Programming               |                          2018.3.19                           |                       |
+| 288  | 516  |            [Longest Palindromic Subsequence][516]            |     Java     |   Medium   |       2018.2.23       |               Dynamic Programming               |                      2018.3.19 2019.2.9                      |                       |
 | 289  | 322  |                      [Coin Change][322]                      |     Java     |   Medium   |       2018.2.24       |               Dynamic Programming               |                          2019.1.16                           |                       |
 | 290  |  75  |                      [Sort Colors][75]                       |     Java     |   Medium   |       2018.2.28       |                      Sort                       |                      2018.4.4 2018.10.2                      |                       |
 | 291  | 435  |               [Non-overlapping Intervals][435]               |     Java     |   Medium   |       2018.2.28       |                     Greedy                      |                                                              |                       |
@@ -336,8 +336,8 @@
 | 332  |  48  |                      [Rotate Image][48]                      |     Java     |   Medium   |       2018.4.23       |                      Array                      |                     2018.10.1 2018.11.5                      |                       |
 | 333  | 680  |                  [Valid Palindrome II][680]                  |     Java     |    Easy    |       2018.4.24       |                     String                      |               2018.10.15 2018.10.26 2018.11.10               |                       |
 | 334  | 560  |                 [Subarray Sum Equals K][560]                 |     Java     |   Medium   |       2018.4.24       |                Array, Hash Table                |                    2018.10.28 2018.11.10                     |                       |
-| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                     2018.10.1 2018.10.25                     |                       |
-| 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                     2018.10.1 2018.10.27                     |                       |
+| 335  |  39  |                    [Combination Sum][39]                     |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                2018.10.1 2018.10.25 2019.2.5                 |                       |
+| 336  |  40  |                   [Combination Sum II][40]                   |     Java     |   Medium   |       2018.4.24       |               Array, Backtracking               |                2018.10.1 2018.10.27 2019.2.5                 |                       |
 | 337  | 153  |         [Find Minimum in Rotated Sorted Array][153]          |     Java     |   Medium   |       2018.4.26       |              Array, Binary Search               |                     2018.8.17 2018.11.7                      |                       |
 | 338  | 114  |          [Flatten Binary Tree to Linked List][114]           |     Java     |   Medium   |       2018.4.27       |                    Tree, DFS                    |                          2018.11.13                          |                       |
 | 339  | 824  |                      [Goat Latin][824]                       |     Java     |    Easy    |       2018.5.2        |                     String                      |                    2018.10.10 2018.10.19                     |                       |
@@ -520,7 +520,7 @@
 | 516  | 128  |             [Longest Consecutive Sequence][128]              |     Java     |    Hard    |      2018.10.26       |                Union Find, Array                |                                                              |                       |
 | 517  | 403  |                       [Frog Jump][403]                       |     Java     |    Hard    |      2018.10.26       |               Dynamic Programming               |                                                              |                       |
 | 518  |  84  |             [Largest Rectangle in Histogram][84]             |     Java     |    Hard    |      2018.10.26       |                      Stack                      |                                                              |                       |
-| 519  | 216  |                  [Combination Sum III][216]                  |     Java     |   Medium   |      2018.10.27       |                  Backtracking                   |                                                              |                       |
+| 519  | 216  |                  [Combination Sum III][216]                  |     Java     |   Medium   |      2018.10.27       |                  Backtracking                   |                           2019.2.5                           |                       |
 | 520  | 377  |                  [Combination Sum IV][377]                   |     Java     |   Medium   |      2018.10.27       |               Dynamic Programming               |                                                              |                       |
 | 521  | 269  |                   [Alien Dictionary][269]                    |     Java     |    Hard    |      2018.10.27       |                Topological Sort                 |                          2018.11.13                          |                       |
 | 522  | 791  |                  [Custom Sort String][791]                   |     Java     |   Medium   | 2018.10.27 2018.11.12 |                      Sort                       |                                                              |                       |
@@ -608,6 +608,13 @@
 | 604  | 265  |                    [Paint House II][265]                     |     Java     |    Hard    |       2019.1.27       |               Dynamic Programming               |                                                              |                       |
 | 605  | 188  |          [Best Time to Buy and Sell Stock IV][188]           |     Java     |    Hard    |       2019.1.28       |               Dynamic Programming               |                                                              |                       |
 | 606  | 982  |        [Triples with Bitwise AND Equal To Zero][982]         |     Java     |    Hard    |       2019.1.28       |               Dynamic Programming               |                                                              |                       |
+| 607  | 979  |            [Distribute Coins in Binary Tree][979]            |     Java     |   Medium   |       2019.1.28       |                       DFS                       |                                                              |                       |
+| 608  | 984  |               [String Without AAA or BBB][984]               |     Java     |    Easy    |       2019.2.2        |                     Greedy                      |                                                              |                       |
+| 609  | 985  |           [Sum of Even Numbers After Queries][985]           |     Java     |    Easy    |       2019.2.3        |                      Array                      |                                                              |                       |
+| 610  | 835  |                     [Image Overlap][835]                     |     Java     |   Medium   |       2019.2.5        |                      Array                      |                                                              |                       |
+| 611  | 132  |              [Palindrome Partitioning II][132]               |     Java     |    Hard    |       2019.2.5        |               Dynamic Programming               |                                                              |                       |
+| 612  | 399  |                   [Evaluate Division][399]                   |     Java     |   Medium   |       2019.2.6        |                 Union Find, BFS                 |                                                              |                       |
+| 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -724,6 +731,7 @@
 [128]:<https://leetcode.com/problems/longest-consecutive-sequence/> "Longest Consecutive Sequence"
 [129]:<https://leetcode.com/problems/sum-root-to-leaf-numbers> "Sum Root to Leaf Numbers"
 [131]:<https://leetcode.com/problems/palindrome-partitioning/> "Palindrome Partitioning"
+[132]:<https://leetcode.com/problems/palindrome-partitioning-ii/> "Palindrome Partitioning II"
 [133]:<https://leetcode.com/problems/clone-graph/> "Clone Graph"
 [134]:<https://leetcode.com/problems/gas-station/> "Gas Station"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
@@ -861,6 +869,7 @@
 [295]:<https://leetcode.com/problems/find-median-from-data-stream/> "Find Median from Data Stream"
 [297]:<https://leetcode.com/problems/serialize-and-deserialize-binary-tree/> "Serialize and Deserialize Binary Tree"
 [298]:<https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/> "Binary Tree Longest Consecutive Sequence"
+[299]:<https://leetcode.com/problems/bulls-and-cows/> "Bulls and Cows"
 [301]:<https://leetcode.com/problems/remove-invalid-parentheses/> "Remove Invalid Parentheses"
 [303]:<https://leetcode.com/problems/range-sum-query-immutable/> "Range Sum Query - Immutable"
 [304]:<https://leetcode.com/problems/range-sum-query-2d-immutable/> "Range Sum Query 2D Immutable"
@@ -918,6 +927,7 @@
 [395]:<https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/> "Longest substring with at least k repeating characters"
 [397]:<https://leetcode.com/problems/integer-replacement> "Integer Replacement"
 [398]:<https://leetcode.com/problems/random-pick-index/> "Random Pick Index"
+[399]:<https://leetcode.com/problems/evaluate-division/> "Evaluate Division"
 [401]:<https://leetcode.com/problems/binary-watch/> "Binary Watch"
 [402]:<https://leetcode.com/problems/remove-k-digits/> "Remove K Digits"
 [403]:<https://leetcode.com/problems/frog-jump/> "Frog Jump"
@@ -1131,6 +1141,7 @@
 [824]:<https://leetcode.com/problems/goat-latin> "Goat Latin"
 [825]:<https://leetcode.com/problems/friends-of-appropriate-ages/> "Friends of Appropriate Ages"
 [826]:<https://leetcode.com/problems/most-profit-assigning-work/> "Most Profit Assigning Work"
+[835]:<https://leetcode.com/problems/image-overlap/> "Image Overlap"
 [836]:<https://leetcode.com/problems/rectangle-overlap/> "Rectangle Overlap"
 [838]:<https://leetcode.com/problems/push-dominoes/> "Push Dominoes"
 [841]:<https://leetcode.com/problems/keys-and-rooms/description/> "Keys and Rooms"
@@ -1212,6 +1223,9 @@
 [971]:<https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/> "Flip Binary Tree to Match Preorder Traversal"
 [977]:<https://leetcode.com/problems/squares-of-a-sorted-array/> "Squares of a Sorted Array"
 [978]:<https://leetcode.com/problems/longest-turbulent-subarray/> "Longest Turbulent Subarray"
+[979]:<https://leetcode.com/problems/distribute-coins-in-binary-tree/> "Distribute Coins in Binary Tree"
 [982]:<https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/> "Triples with Bitwise and Equal to Zero"
+[984]:<https://leetcode.com/problems/string-without-aaa-or-bbb/> "String Without AAA or BBB"
+[985]:<https://leetcode.com/problems/sum-of-even-numbers-after-queries/> "Sum of Even Numbers After Queries"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
