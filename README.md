@@ -615,6 +615,7 @@
 | 611  | 132  |              [Palindrome Partitioning II][132]               |     Java     |    Hard    |       2019.2.5        |               Dynamic Programming               |                                                              |                       |
 | 612  | 399  |                   [Evaluate Division][399]                   |     Java     |   Medium   |       2019.2.6        |                 Union Find, BFS                 |                                                              |                       |
 | 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                                                              |                       |
+| 614  |  87  |                    [Scramble String][87]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -692,6 +693,7 @@
 [83]:<https://leetcode.com/problems/remove-duplicates-from-sorted-list/> "Remove Duplicates From Sorted List"
 [84]:<https://leetcode.com/problems/largest-rectangle-in-histogram/> "Largest Rectangle in Histogram"
 [86]:<https://leetcode.com/problems/partition-list/> "Partition List"
+[87]:<https://leetcode.com/problems/scramble-string/> "Scramble string"
 [88]:<https://leetcode.com/problems/merge-sorted-array/> "Merge Sorted Array"
 [90]:<https://leetcode.com/problems/subsets-ii/> "Subset II"
 [91]:<https://leetcode.com/problems/decode-ways/> "Decode Ways"
