@@ -616,6 +616,7 @@
 | 612  | 399  |                   [Evaluate Division][399]                   |     Java     |   Medium   |       2019.2.6        |                 Union Find, BFS                 |                                                              |                       |
 | 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                                                              |                       |
 | 614  |  87  |                    [Scramble String][87]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
+| 615  | 312  |                    [Burst Balloons][312]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -879,6 +880,7 @@
 [307]:<https://leetcode.com/problems/range-sum-query-mutable/> "Range Sum Query Mutable"
 [309]:<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/> "Best Time to Buy and Sell Stock with Cooldown"
 [311]:<https://leetcode.com/problems/sparse-matrix-multiplication/> "Sparse Matrix Multiplication"
+[312]:<https://leetcode.com/problems/burst-balloons/> "Burst Balloons"
 [314]:<https://leetcode.com/problems/binary-tree-vertical-order-traversal/> "Binary Tree Vertical Order Traversal"
 [317]:<https://leetcode.com/problems/shortest-distance-from-all-buildings/> "Shortest Distance from All Buildings"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
