@@ -619,6 +619,7 @@
 | 615  | 312  |                    [Burst Balloons][312]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 | 616  | 980  |                   [Unique Paths III][980]                    |     Java     |    Hard    |       2019.2.10       |                  Backtracking                   |                                                              |                       |
 | 617  | 228  |                    [Summary Ranges][228]                     |     Java     |   Medium   |       2019.2.10       |                  Two Pointers                   |                                                              |                       |
+| 618  | 701  |           [Insert Into a Binary Search Tree][701]            |     Java     |   Medium   |       2019.2.11       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1095,6 +1096,7 @@
 [697]:<https://leetcode.com/problems/degree-of-an-array/> "Degree of an array"
 [698]:<https://leetcode.com/problems/partition-to-k-equal-sum-subsets/> "Partition to K Equal Sum Subsets"
 [700]:<https://leetcode.com/problems/search-in-a-binary-search-tree> "Search in a Binary Search Tree"
+[701]:<https://leetcode.com/problems/insert-into-a-binary-search-tree/> "Insert Into a Binary Search Tree"
 [703]:<https://leetcode.com/problems/kth-largest-element-in-a-stream/> "Kth Largest Element in a Stream"
 [704]:<https://leetcode.com/problems/binary-search/> "Binary Search"
 [708]:<https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/> "Insert into a cyclis sorted list"
