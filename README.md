@@ -620,6 +620,7 @@
 | 616  | 980  |                   [Unique Paths III][980]                    |     Java     |    Hard    |       2019.2.10       |                  Backtracking                   |                                                              |                       |
 | 617  | 228  |                    [Summary Ranges][228]                     |     Java     |   Medium   |       2019.2.10       |                  Two Pointers                   |                                                              |                       |
 | 618  | 701  |           [Insert Into a Binary Search Tree][701]            |     Java     |   Medium   |       2019.2.11       |                      Tree                       |                                                              |                       |
+| 619  | 723  |                      [Candy Crush][723]                      |     Java     |   Medium   |       2019.2.11       |                  Two Pointers                   |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1108,7 +1109,7 @@
 [720]:<https://leetcode.com/problems/longest-word-in-dictionary/> "Longest Word in Dictionary"
 [721]:<https://leetcode.com/problems/accounts-merge/> "Accounts Merge"
 [722]:<https://leetcode.com/problems/remove-comments/> "Remove Comments"
-[723]:<https://leetcode.com/problems/longest-continuous-increasing-subsequence/> "Longest Continuous Increasing Subsequence"
+[723]:<https://leetcode.com/problems/candy-crush/> "Candy Crush"
 [724]:<https://leetcode.com/problems/find-pivot-index/> "Find Pivot Index"
 [725]:<https://leetcode.com/problems/split-linked-list-in-parts/> "Split Linked List in Parts"
 [728]:<https://leetcode.com/problems/self-dividing-numbers/> "Self Dividing Numbers"
