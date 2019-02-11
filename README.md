@@ -422,7 +422,7 @@
 | 418  | 875  |                  [Koko Eating Bananas][875]                  |     Java     |   Medium   |       2018.7.24       |                  Binary Search                  |                                                              |                       |
 | 419  | 540  |           [Single Element in a Sorted Array][540]            |     Java     |   Medium   |       2018.7.25       |                      Array                      |                                                              |                       |
 | 420  | 700  |            [Search in a Binary Search Tree][700]             |     Java     |    Easy    |       2018.7.26       |                      Tree                       |                                                              |                       |
-| 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                                                              |                       |
+| 421  | 429  |           [N-ary Tree Level Order Traversal][429]            |     Java     |    Easy    |       2018.7.26       |                    Tree, BFS                    |                          2019.2.10                           |                       |
 | 422  | 528  |                [Random Pick with Weight][880]                |     Java     |   Medium   |       2018.7.30       |              Binary Search, Random              |                                                              |                       |
 | 423  | 876  |               [Middle of the Linked List][876]               |     Java     |    Easy    |       2018.7.30       |                   Linked List                   |                          2018.10.18                          |                       |
 | 424  | 877  |                      [Stone Game][877]                       |     Java     |   Medium   |       2018.7.30       |            Math, Dynamic Programming            |                          2018.11.9                           |                       |
@@ -617,7 +617,8 @@
 | 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                                                              |                       |
 | 614  |  87  |                    [Scramble String][87]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 | 615  | 312  |                    [Burst Balloons][312]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
-| 616  | 980  |                   [Unique Paths III][980]                    |     Java     |    Hard    |       2019.2.9        |                  Backtracking                   |                                                              |                       |
+| 616  | 980  |                   [Unique Paths III][980]                    |     Java     |    Hard    |       2019.2.10       |                  Backtracking                   |                                                              |                       |
+| 617  | 228  |                    [Summary Ranges][228]                     |     Java     |   Medium   |       2019.2.10       |                  Two Pointers                   |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -813,6 +814,7 @@
 [225]:<https://leetcode.com/problems/implement-stack-using-queues/> "Implement Stack Using Queues"
 [226]:<https://leetcode.com/problems/invert-binary-tree/> "Invert Binary Tree"
 [227]:<https://leetcode.com/problems/basic-calculator-ii/> "Basic Calculator II"
+[228]:<https://leetcode.com/problems/summary-ranges/> "Summary Ranges"
 [229]:<https://leetcode.com/problems/majority-element-ii/> "Majority Element II"
 [230]:<https://leetcode.com/problems/kth-smallest-element-in-a-bst> "Kth Smallest Element in a BST"
 [231]:<https://leetcode.com/problems/power-of-two/> "Power of Two"
