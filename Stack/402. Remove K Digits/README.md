@@ -30,7 +30,7 @@ Output: "0"
 Explanation: Remove all the digits from the number and it is left with nothing which is 0.
 ```
 
-Algorithm:
+Algorithm: Monotonous increasing stack.
 
 Traverse from index 0 of the number, if str(i) < str(i - 1), we eliminate the digit at str(i - 1) - pop from stack. 
 
