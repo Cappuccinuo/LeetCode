@@ -354,7 +354,7 @@
 | 350  | 281  |                    [Zigzag Iterator][281]                    |     Java     |   Medium   |       2018.5.12       |                     Design                      |                          2018.11.17                          |                       |
 | 351  | 530  |          [Minimum Absolute Difference in BST][530]           |     Java     |    Easy    |       2018.5.13       |               Binary Search Tree                |                                                              |                       |
 | 352  | 506  |                    [Relative Ranks][506]                     |     Java     |    Easy    |       2018.5.14       |                      Array                      |                                                              |                       |
-| 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                                                              |                       |
+| 353  | 298  |       [Binary Tree Longest Consecutive Sequence][298]        |     Java     |   Medium   |       2018.5.14       |                      Tree                       |                          2019.2.11                           |                       |
 | 354  | 378  |        [Kth Smallest Element in a Sorted Matrix][378]        |     Java     |   Medium   |       2018.5.15       |               Binary Search, Heap               |                          2018.10.18                          |                       |
 | 355  | 665  |                 [Non-decreasing Array][665]                  |     Java     |    Easy    |       2018.5.15       |                      Array                      |                                                              |                       |
 | 356  | 686  |                 [Repeated String Match][686]                 |     Java     |    Easy    |       2018.5.17       |                     String                      |                          2018.5.18                           |                       |
@@ -622,6 +622,13 @@
 | 618  | 701  |           [Insert Into a Binary Search Tree][701]            |     Java     |   Medium   |       2019.2.11       |                      Tree                       |                                                              |                       |
 | 619  | 723  |                      [Candy Crush][723]                      |     Java     |   Medium   |       2019.2.11       |                  Two Pointers                   |                                                              |                       |
 | 620  | 702  |       [Search in a Sorted Array of Unknown Size][702]        |     Java     |   Medium   |       2019.2.11       |                  Binary Search                  |                                                              |                       |
+| 621  | 776  |                       [Split BST][776]                       |     Java     |   Medium   |       2019.2.11       |                       BST                       |                                                              |                       |
+| 622  | 684  |                 [Redundant Connection][684]                  |     Java     |   Medium   |       2019.2.11       |                   Union Find                    |                                                              |                       |
+| 623  | 320  |               [Generalized Abbreviation][320]                |     Java     |   Medium   |       2019.2.11       |                  Backtracking                   |                                                              |                       |
+| 624  | 249  |                 [Group Shifted Strings][249]                 |     Java     |   Medium   |       2019.2.11       |                    HashTable                    |                                                              |                       |
+| 625  | 386  |                [Lexicographical Numbers][386]                |     Java     |   Medium   |       2019.2.11       |                       DFS                       |                                                              |                       |
+| 626  | 549  |      [Binary Tree Longest Consecutive Sequence II][549]      |     Java     |   Medium   |       2019.2.11       |                      Tree                       |                                                              |                       |
+| 627  | 424  |        [Longest Repeating Character Replacement][424]        |     Java     |   Medium   |       2019.2.11       |          Two Pointers, Sliding Window           |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -837,6 +844,7 @@
 [246]:<https://leetcode.com/problems/strobogrammatic-number/> "Strobogrammatic Number"
 [247]:<https://leetcode.com/problems/strobogrammatic-number-ii/> "Strobogrammatic Number II"
 [248]:<https://leetcode.com/problems/strobogrammatic-number-iii/> "Strobogrammatic Number III"
+[249]:<https://leetcode.com/problems/group-shifted-strings/> "Group Shifted Strings"
 [250]:<https://leetcode.com/problems/count-univalue-subtrees/> "Count Univalue Subtrees"
 [251]:<https://leetcode.com/problems/flatten-2d-vector/> "Flatten 2D Vector"
 [252]:<https://leetcode.com/problems/meeting-rooms/> "Meeting Rooms"
@@ -889,6 +897,7 @@
 [312]:<https://leetcode.com/problems/burst-balloons/> "Burst Balloons"
 [314]:<https://leetcode.com/problems/binary-tree-vertical-order-traversal/> "Binary Tree Vertical Order Traversal"
 [317]:<https://leetcode.com/problems/shortest-distance-from-all-buildings/> "Shortest Distance from All Buildings"
+[320]:<https://leetcode.com/problems/generalized-abbreviation/> "Generalized Abbreviation"
 [322]:<https://leetcode.com/problems/coin-change/> "Coin Change"
 [323]:<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/> "Number of connected components in an undirected graph"
 [325]:<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/> "Maximum Size Subarray Sum Equals K"
@@ -929,6 +938,7 @@
 [382]:<https://leetcode.com/problems/linked-list-random-node/> "Linked List Random Node"
 [383]:<https://leetcode.com/problems/ransom-note/> "Ransom Note"
 [384]:<https://leetcode.com/problems/shuffle-an-array/> "Shuffle an array"
+[386]:<https://leetcode.com/problems/lexicographical-numbers/> "Lexicographical Numbers"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
 [390]:<https://leetcode.com/problems/elimination-game/> "Elimination Game"
@@ -954,6 +964,7 @@
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
 [421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
 [422]:<https://leetcode.com/problems/valid-word-square/> "Valid Word Square"
+[424]:<https://leetcode.com/problems/longest-repeating-character-replacement/> "Longest Repeating Character Replacement"
 [426]:<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/> "Convert Binary Search Tree to Sorted Doubly Linked List"
 [428]:<https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/> "Serialize and Deserialize N-ary Tree"
 [429]:<https://leetcode.com/problems/n-ary-tree-level-order-traversal/> "N-ary Tree Level Order Traversal"
@@ -1019,6 +1030,7 @@
 [541]:<https://leetcode.com/problems/reverse-string-ii/> "Reverse String II"
 [543]:<https://leetcode.com/problems/diameter-of-binary-tree/> "Diameter of binary tree"
 [544]:<https://leetcode.com/problems/output-contest-matches/> "Output Contest Matches"
+[549]:<https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/> "Binary Tree Longest Consecutive Sequence II"
 [551]:<https://leetcode.com/problems/student-attendance-record-i/> "Student Attendance Record I"
 [554]:<https://leetcode.com/problems/brick-wall/> "Brick Wall"
 [556]:<https://leetcode.com/problems/next-greater-element-iii/> "Next Greater Element III"
@@ -1086,6 +1098,7 @@
 [681]:<https://leetcode.com/problems/next-closest-time/> "Next Closest Time"
 [682]:<https://leetcode.com/problems/baseball-game/> "Baseball Game"
 [683]:<https://leetcode.com/problems/k-empty-slots/> "K Empty Slots"
+[684]:<https://leetcode.com/problems/redundant-connection/> "Redundan Connection"
 [686]:<https://leetcode.com/problems/repeated-string-match/> "Repeated String Match"
 [687]:<https://leetcode.com/problems/longest-univalue-path/> "Longest Univalue Path"
 [688]:<https://leetcode.com/problems/knight-probability-in-chessboard/> "Knight Probability in Chessboard"
@@ -1135,6 +1148,7 @@
 [769]:<https://leetcode.com/problems/max-chunks-to-make-sorted/> "Max Chunks to Make Sorted"
 [771]:<https://leetcode.com/problems/jewels-and-stones/> "Jewels and Stones"
 [775]:<https://leetcode.com/problems/global-and-local-inversions/> "Global and Local Inversions"
+[776]:<https://leetcode.com/problems/split-bst/> "Split BST"
 [779]:<https://leetcode.com/problems/k-th-symbol-in-grammar/> "K-th symbol in grammar"
 [781]:<https://leetcode.com/problems/rabbits-in-forest/> "Rabbits in Forest"
 [783]:<https://leetcode.com/problems/minimum-distance-between-bst-nodes/> "Minimum Distance between BST nodes"
