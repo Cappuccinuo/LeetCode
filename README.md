@@ -637,6 +637,7 @@
 | 633  | 659  |       [Split Array into Consecutive Subsequences][659]       |     Java     |   Medium   |       2019.2.13       |                  Heap, Greedy                   |                                                              |                       |
 | 634  | 334  |            [Increasing Triplet Subsequence][334]             |     Java     |   Medium   |       2019.2.13       |                      Array                      |                                                              |                       |
 | 635  | 450  |                 [Delete Node in a BST][450]                  |     Java     |   Medium   |       2019.2.13       |                      Tree                       |                                                              |                       |
+| 636  | 284  |                   [Peeking Iterator][284]                    |     Java     |   Medium   |       2019.2.13       |                     Design                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -886,6 +887,7 @@
 [281]:<https://leetcode.com/problems/zigzag-iterator> "Zigzag Iterator"
 [282]:<https://leetcode.com/problems/expression-add-operators/> "Expression Add Operators"
 [283]:<https://leetcode.com/problems/move-zeroes/> "Move Zeroes"
+[284]:<https://leetcode.com/problems/peeking-iterator/> "Peeking Iterator"
 [285]:<https://leetcode.com/problems/inorder-successor-in-bst/> "Inorder Successor in BST"
 [286]:<https://leetcode.com/problems/walls-and-gates/> "Walls and Gates"
 [287]:<https://leetcode.com/problems/find-the-duplicate-number/> "Find the duplicate number"
