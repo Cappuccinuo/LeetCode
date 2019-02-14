@@ -639,6 +639,7 @@
 | 635  | 450  |                 [Delete Node in a BST][450]                  |     Java     |   Medium   |       2019.2.13       |                      Tree                       |                                                              |                       |
 | 636  | 284  |                   [Peeking Iterator][284]                    |     Java     |   Medium   |       2019.2.13       |                     Design                      |                                                              |                       |
 | 637  | 616  |                [Add Bold Tag in String][616]                 |     Java     |   Medium   |       2019.2.13       |                     String                      |                                                              |                       |
+| 638  | 388  |              [Longest Absolute File Path][388]               |     Java     |   Medium   |       2019.2.14       |                     String                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -953,6 +954,7 @@
 [384]:<https://leetcode.com/problems/shuffle-an-array/> "Shuffle an array"
 [386]:<https://leetcode.com/problems/lexicographical-numbers/> "Lexicographical Numbers"
 [387]:<https://leetcode.com/problems/first-unique-character-in-a-string/> "First Unique Character in a String"
+[388]:<https://leetcode.com/problems/longest-absolute-file-path/> "Longest Absolute File Path"
 [389]:<https://leetcode.com/problems/find-the-difference/> "Find the difference"
 [390]:<https://leetcode.com/problems/elimination-game/> "Elimination Game"
 [392]:<https://leetcode.com/problems/is-subsequence> "Is Subsequence"
