@@ -33,8 +33,8 @@
 |  29  |  88  |                   [Merge Sorted Array][88]                   |     Java     |    Easy    |       2017.3.21       |               Array, Two Pointer                |               2018.4.24 2018.10.16 2018.11.11                |                       |
 |  30  | 101  |                    [Symmetric Tree][101]                     |     Java     |    Easy    |       2017.3.21       |                      Tree                       |  2018.1.1 2018.3.15 2018.4.19 2018.5.29 2018.7.9 2018.10.14  |                       |
 |  31  | 119  |                  [Pascal's Triangle Ⅱ][119]                  |     Java     |    Easy    |       2017.3.22       |                                                 |                                                              |                       |
-|  32  | 121  |            [Best Time to Buy and Sell Stock][121]            |     Java     |    Easy    |       2017.3.23       |           Array, Dynamic Programming            | 2017.12.17 2018.1.28 2018.2.21 2018.2.26 2018.4.13 2018.4.17 2018.5.24 2018.7.6 2018.10.12 2018.1.10 |                       |
-|  33  | 122  |           [Best Time to Buy and Sell Stock Ⅱ][122]           |     Java     |    Easy    |       2017.3.23       |                  Array, Greedy                  |               2017.12.18 2018.2.26 2018.10.11                |                       |
+|  32  | 121  |            [Best Time to Buy and Sell Stock][121]            |     Java     |    Easy    |       2017.3.23       |           Array, Dynamic Programming            | 2017.12.17 2018.1.28 2018.2.21 2018.2.26 2018.4.13 2018.4.17 2018.5.24 2018.7.6 2018.10.12 2019.1.10 2019.2.12 |                       |
+|  33  | 122  |           [Best Time to Buy and Sell Stock Ⅱ][122]           |     Java     |    Easy    |       2017.3.23       |                  Array, Greedy                  |          2017.12.18 2018.2.26 2018.10.11 2019.2.12           |                       |
 |  34  | 167  |           [Two Sum Ⅱ - Input array is sorted][167]           |     Java     |    Easy    |       2017.3.24       |       Array, Two Pointers, Binary Search        |                2017.12.13 2018.4.10 2018.4.28                |                       |
 |  35  | 414  |                 [Third Maximum Number][414]                  |     Java     |    Easy    |       2017.3.27       |                      Array                      |                      2017.11.3 2018.1.8                      |                       |
 |  36  | 268  |                    [Missing Number][268]                     |     Java     |    Easy    |       2017.3.27       |                                                 |                          2018.6.30                           |                       |
@@ -428,7 +428,7 @@
 | 424  | 877  |                      [Stone Game][877]                       |     Java     |   Medium   |       2018.7.30       |            Math, Dynamic Programming            |                          2018.11.9                           |                       |
 | 425  | 478  |           [Generate Random Point in a Circle][883]           |     Java     |   Medium   |       2018.7.31       |        Math, Random, Rejection Sampling         |                                                              |                       |
 | 426  | 704  |                     [Binary Search][704]                     |     Java     |    Easy    |       2018.8.1        |                  Binary Search                  |                                                              |                       |
-| 427  | 123  |          [Best Time to Buy and Sell Stock III][123]          |     Java     |    Hard    |       2018.8.2        |           Dynamic Programming, Array            |                          2019.1.28                           |                       |
+| 427  | 123  |          [Best Time to Buy and Sell Stock III][123]          |     Java     |    Hard    |       2018.8.2        |           Dynamic Programming, Array            |                     2019.1.28 2019.2.12                      |                       |
 | 428  | 809  |                   [Expressive Words][809]                    |     Java     |   Medium   |       2018.8.3        |                     String                      |                          2019.2.10                           |                       |
 | 429  | 887  |             [Projection Area of 3D Shapes][887]              |     Java     |    Easy    |       2018.8.5        |                      Math                       |                                                              |                       |
 | 430  | 881  |                 [Boats to Save People][881]                  |     Java     |   Medium   |       2018.8.5        |              Greedy, Two Pointers               |                          2018.8.15                           |                       |
@@ -614,7 +614,7 @@
 | 610  | 835  |                     [Image Overlap][835]                     |     Java     |   Medium   |       2019.2.5        |                      Array                      |                                                              |                       |
 | 611  | 132  |              [Palindrome Partitioning II][132]               |     Java     |    Hard    |       2019.2.5        |               Dynamic Programming               |                                                              |                       |
 | 612  | 399  |                   [Evaluate Division][399]                   |     Java     |   Medium   |       2019.2.6        |                 Union Find, BFS                 |                                                              |                       |
-| 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                                                              |                       |
+| 613  | 299  |                    [Bulls and Cows][299]                     |     Java     |   Medium   |       2019.2.6        |                   Hash Table                    |                          2019.2.12                           |                       |
 | 614  |  87  |                    [Scramble String][87]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 | 615  | 312  |                    [Burst Balloons][312]                     |     Java     |    Hard    |       2019.2.9        |               Dynamic Programming               |                                                              |                       |
 | 616  | 980  |                   [Unique Paths III][980]                    |     Java     |    Hard    |       2019.2.10       |                  Backtracking                   |                                                              |                       |
@@ -629,6 +629,14 @@
 | 625  | 386  |                [Lexicographical Numbers][386]                |     Java     |   Medium   |       2019.2.11       |                       DFS                       |                                                              |                       |
 | 626  | 549  |      [Binary Tree Longest Consecutive Sequence II][549]      |     Java     |   Medium   |       2019.2.11       |                      Tree                       |                                                              |                       |
 | 627  | 424  |        [Longest Repeating Character Replacement][424]        |     Java     |   Medium   |       2019.2.11       |          Two Pointers, Sliding Window           |                                                              |                       |
+| 628  | 135  |                         [Candy][135]                         |     Java     |    Hard    |       2019.2.12       |                     Greedy                      |                                                              |                       |
+| 629  | 591  |                     [Tag Validator][591]                     |     Java     |    Hard    |       2019.2.12       |                      Stack                      |                                                              |                       |
+| 630  | 562  |       [Longest Line of Consecutive One in Matrix][562]       |     Java     |   Medium   |       2019.2.13       |               Dynamic Programming               |                                                              |                       |
+| 631  | 737  |                [Sentence Similarity II][737]                 |     Java     |   Medium   |       2019.2.13       |                   Union Find                    |                                                              |                       |
+| 632  | 640  |                  [Solve the Equation][640]                   |     Java     |   Medium   |       2019.2.13       |                   Math, Stack                   |                                                              |                       |
+| 633  | 659  |       [Split Array into Consecutive Subsequences][659]       |     Java     |   Medium   |       2019.2.13       |                  Heap, Greedy                   |                                                              |                       |
+| 634  | 334  |            [Increasing Triplet Subsequence][334]             |     Java     |   Medium   |       2019.2.13       |                      Array                      |                                                              |                       |
+| 635  | 450  |                 [Delete Node in a BST][450]                  |     Java     |   Medium   |       2019.2.13       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -749,6 +757,7 @@
 [132]:<https://leetcode.com/problems/palindrome-partitioning-ii/> "Palindrome Partitioning II"
 [133]:<https://leetcode.com/problems/clone-graph/> "Clone Graph"
 [134]:<https://leetcode.com/problems/gas-station/> "Gas Station"
+[135]:<https://leetcode.com/problems/candy/> "Candy"
 [136]:<https://leetcode.com/problems/single-number/> "Single Number"
 [138]:<https://leetcode.com/problems/copy-list-with-random-pointer/> "Copy List With Random Pointer"
 [139]:<https://leetcode.com/problems/word-break/> "Word Break"
@@ -907,6 +916,7 @@
 [329]:<https://leetcode.com/problems/longest-increasing-path-in-a-matrix/> "Longest Increasing Path in a Matrix"
 [331]:<https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/> "Verify Preorder Serialization of A Binary Tree"
 [332]:<https://leetcode.com/problems/reconstruct-itinerary/> "Reconstruct Itinerary"
+[334]:<https://leetcode.com/problems/increasing-triplet-subsequence/> "Increasing Triplet Subsequence"
 [336]:<https://leetcode.com/problems/palindrome-pairs/> "Palindrome Pairs"
 [337]:<https://leetcode.com/problems/house-robber-iii/> "House Robber III"
 [338]:<https://leetcode.com/problems/counting-bits/> "Counting Bits"
@@ -983,6 +993,7 @@
 [447]:<https://leetcode.com/problems/number-of-boomerangs/> "Number of Boomerangs"
 [448]:<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/> "Find All Numbers Disappeared in an Array"
 [449]:<https://leetcode.com/problems/serialize-and-deserialize-bst/> "Serialize and Deserialize BST"
+[450]:<https://leetcode.com/problems/delete-node-in-a-bst/> "Delete Node in a BST"
 [451]:<https://leetcode.com/problems/sort-characters-by-frequency/> "Sort Characters by Frequency"
 [452]:<https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/> "Minimum Number of Arrows to Burst Balloons"
 [453]:<https://leetcode.com/problems/minimum-moves-to-equal-array-elements/> "Minimum Moves to Equal Array Elements"
@@ -1038,6 +1049,7 @@
 [559]:<https://leetcode.com/problems/maximum-depth-of-n-ary-tree/> "Maxiumum Depth of N-ary Tree"
 [560]:<https://leetcode.com/problems/subarray-sum-equals-k/> "Subarray Sum Equals K"
 [561]:<https://leetcode.com/problems/array-partition-i/> "Array Partition I"
+[562]:<https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/> "Longest Line of Consecutive One in Matrix"
 [563]:<https://leetcode.com/problems/binary-tree-tilt> "Binary Tree Tilt"
 [566]:<https://leetcode.com/problems/reshape-the-matrix/> "Reshape the Matrix"
 [567]:<https://leetcode.com/problems/permutation-in-string/> "Permutation in String"
@@ -1052,6 +1064,7 @@
 [586]:<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/> "Customer Placing the Largest Number of Orders"
 [589]:<https://leetcode.com/problems/n-ary-tree-preorder-traversal/> "N-ary Tree Preorder Traversal"
 [590]:<https://leetcode.com/problems/n-ary-tree-postorder-traversal/> "N-ary Tree Postorder Traversal"
+[591]:<https://leetcode.com/problems/tag-validator/> "Tag Validator"
 [594]:<https://leetcode.com/problems/longest-harmonious-subsequence/> "Longest Harmonious Subsequence"
 [595]:<https://leetcode.com/problems/big-countries/> "Big Countries"
 [596]:<https://leetcode.com/problems/classes-more-than-5-students/> "Classes More Than 5 Students"
@@ -1075,6 +1088,7 @@
 [633]:<https://leetcode.com/problems/sum-of-square-numbers/> "Sum Of Square Numbers"
 [636]:<https://leetcode.com/problems/exclusive-time-of-functions/> "Exclusive Time of Functions"
 [637]:<https://leetcode.com/problems/average-of-levels-in-binary-tree/> "Average of Levels in Binary tree"
+[640]:<https://leetcode.com/problems/solve-the-equation/> "Solve the Equation"
 [643]:<https://leetcode.com/problems/maximum-average-subarray-i/> "Maximum Average Subarray I"
 [644]:<https://leetcode.com/problems/maximum-average-subarray-ii/> "Maximum Average Subarray II"
 [645]:<https://leetcode.com/problems/set-mismatch/> "Set Mismatch"
@@ -1084,6 +1098,7 @@
 [654]:<https://leetcode.com/problems/maximum-binary-tree/> "Maximum Binary Tree"
 [657]:<https://leetcode.com/problems/judge-route-circle/> "Judge Route Circle"
 [658]:<https://leetcode.com/problems/find-k-closest-elements/> "Find K Closest Elements"
+[659]:<https://leetcode.com/problems/split-array-into-consecutive-subsequences/> "Split Array Into Consecutive Subsequences"
 [661]:<https://leetcode.com/problems/image-smoother/> "Image Smoother"
 [662]:<https://leetcode.com/problems/maximum-width-of-binary-tree/> "Maximum Width of Binary Tree"
 [665]:<https://leetcode.com/problems/non-decreasing-array/> "Non-Decreasing Array"
@@ -1133,6 +1148,7 @@
 [733]:<https://leetcode.com/problems/flood-fill/> "Flood Fill"
 [734]:<https://leetcode.com/problems/sentence-similarity/> "Sentence Similarity"
 [735]:<https://leetcode.com/problems/asteroid-collision/> "Asteroid Collision"
+[737]:<https://leetcode.com/problems/sentence-similarity-ii/> "Sentence Similarity II"
 [738]:<https://leetcode.com/problems/monotone-increasing-digits/> "Monotone Incresing Digits"
 [739]:<https://leetcode.com/problems/daily-temperatures/> "Daily Temperatures"
 [740]:<https://leetcode.com/problems/delete-and-earn/> "Delete and Earn"
