@@ -23,3 +23,28 @@ class Solution {
         return ans;
     }
 }
+
+class Solution {
+    public int lengthLongestPath(String input) {
+        String[] nodes = input.split("\n");
+        int curLen = 0;
+        int ans = 0;
+        Stack<Integer> stack = new Stack<>();
+        for (String node : nodes) {
+            int lastT = node.lastIndexOf("\t");
+            int level = lastT + 2;
+            while (stack.size() >= level) {
+                curLen -= stack.pop() + 1;
+            }
+            int strLen = node.length() - (lastT + 1);
+            if (node.indexOf(".") > 0) {
+                ans = Math.max(ans, curLen + strLen);
+            }
+            else {
+                curLen += strLen + 1;
+                stack.push(strLen);
+            }
+        }
+        return ans;
+    }
+}
