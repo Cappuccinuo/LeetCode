@@ -642,6 +642,7 @@
 | 638  | 388  |              [Longest Absolute File Path][388]               |     Java     |   Medium   |       2019.2.14       |                     String                      |                                                              |                       |
 | 639  | 935  |                     [Knight Dialer][935]                     |     Java     |   Medium   |       2019.2.14       |               Dynamic Programming               |                                                              |                       |
 | 640  | 433  |               [Minimum Genetic Mutation][433]                |     Java     |   Medium   |       2019.2.14       |                       BFS                       |                                                              |                       |
+| 641  | 375  |            [Guess Number Higher or Lower II][375]            |     Java     |   Medium   |       2019.2.14       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -947,6 +948,7 @@
 [370]:<https://leetcode.com/problems/range-addition> "Range Addition"
 [371]:<https://leetcode.com/problems/sum-of-two-integers/> "Sum of Two Integers"
 [374]:<https://leetcode.com/problems/guess-number-higher-or-lower/> "Guess Number Higher or Lower"
+[375]:<https://leetcode.com/problems/guess-number-higher-or-lower-ii/> "Guess Number Higher or Lower II"
 [377]:<https://leetcode.com/problems/combination-sum-iv/> "Combination Sum IV"
 [378]:<https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/> "Kth smallest element in a sorted matrix"
 [379]:<https://leetcode.com/problems/design-phone-directory/> "Design Phone Directory"
