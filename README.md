@@ -643,6 +643,8 @@
 | 639  | 935  |                     [Knight Dialer][935]                     |     Java     |   Medium   |       2019.2.14       |               Dynamic Programming               |                                                              |                       |
 | 640  | 433  |               [Minimum Genetic Mutation][433]                |     Java     |   Medium   |       2019.2.14       |                       BFS                       |                                                              |                       |
 | 641  | 375  |            [Guess Number Higher or Lower II][375]            |     Java     |   Medium   |       2019.2.14       |               Dynamic Programming               |                                                              |                       |
+| 642  | 417  |              [Pacific Atlantic Water Flow][417]              |     Java     |   Medium   |       2019.2.14       |                    BFS, DFS                     |                                                              |                       |
+| 643  | 115  |                 [Distinct Subsequences][115]                 |     Java     |   Medium   |       2019.2.14       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -745,6 +747,7 @@
 [112]:<https://leetcode.com/problems/path-sum/> "Path Sum"
 [113]:<https://leetcode.com/problems/path-sum-ii> "Path Sum II"
 [114]:<https://leetcode.com/problems/flatten-binary-tree-to-linked-list/> "Flatten Binary Tree to Linked List"
+[115]:<https://leetcode.com/problems/distinct-subsequences/>
 [116]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/> "Populating next right pointers in each node"
 [117]:<https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/> "Populating Next Right Pointers in each node II"
 [118]:<https://leetcode.com/problems/pascals-triangle/> "Pascal's Triangle"
@@ -980,6 +983,7 @@
 [414]:<https://leetcode.com/problems/third-maximum-number/> "Third Maximum Number"
 [415]:<https://leetcode.com/problems/add-strings/> "Add Strings"
 [416]:<https://leetcode.com/problems/partition-equal-subset-sum/> "Partition Equal Subset Sum"
+[417]:<https://leetcode.com/problems/pacific-atlantic-water-flow/> "Pacific Atlantic Water Flow"
 [419]:<https://leetcode.com/problems/battleships-in-a-board/> "Battleships in a Board"
 [421]:<https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/> "Maximum XOR of Two Numbers in an array"
 [422]:<https://leetcode.com/problems/valid-word-square/> "Valid Word Square"
