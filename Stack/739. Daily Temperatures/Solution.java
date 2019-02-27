@@ -18,3 +18,27 @@ class Solution {
         return result;
     }
 }
+// Faster
+class Solution {
+    public int[] dailyTemperatures(int[] T) {
+        if (T == null || T.length == 0) {
+            return new int[0];
+        }
+        
+        int len = T.length;
+        int[] result = new int[len];
+        int[] stack = new int[len];
+        int top = -1;
+        int i;
+        for (i = 0; i < len; i++) {
+            int temp = T[i];
+            while (top > -1 && temp > T[stack[top]]) {
+                int index = stack[top--];
+                result[index] = i - index;
+            }
+            stack[++top] = i;
+        }
+
+        return result;
+    }
+}
