@@ -26,3 +26,4 @@ Then we use stack. Push the index of number in the stack. While(!stack.isEmpty()
 then result[stack.pop()] = i - temp.
 
 Then rest of number in stack all have result[stack.pop()] = 0
+
