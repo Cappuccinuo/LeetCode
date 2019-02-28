@@ -18,4 +18,14 @@ since a and b map to the same letter.
 
 Algorithm:
 
-Traverse all the words. Using two map to check each word.
+Traverse each word in words, see if the word can be formed in pattern.
+
+1. If w and p not same length, return false
+
+2. map<character, character>    
+
+   if (map.containsKey(c) && map.get(c) != word.charAt(i))
+
+   if (map.containsValue(word.charAt(i)) && !map.containsKey(c))
+
+   this two situation will return false

@@ -2,28 +2,33 @@ class Solution {
     public List<String> findAndReplacePattern(String[] words, String pattern) {
         List<String> result = new LinkedList<>();
         for (String word : words) {
-            if (matchThePattern(word, pattern)) {
+            if (canform(word, pattern)) {
                 result.add(word);
             }
         }
         return result;
     }
     
-    private boolean matchThePattern(String word, String pattern) {
-        Map<Character, Character> map = new HashMap<>();
-        Map<Character, Character> map2 = new HashMap<>();
-        char[] wordArr = word.toCharArray();
-        char[] patternArr = pattern.toCharArray();
-        
-        for (int i = 0; i < wordArr.length; i++) {
-            if (map.containsKey(wordArr[i]) && map.get(wordArr[i]) != patternArr[i] 
-                || map2.containsKey(patternArr[i]) && map2.get(patternArr[i]) != wordArr[i]) {
-                return false;
-            }
-            map.put(wordArr[i], patternArr[i]);
-            map2.put(patternArr[i], wordArr[i]);
+    private boolean canform(String word, String pattern) {
+        if (word.length() != pattern.length()) {
+            return false;
         }
         
+        Map<Character, Character> map = new HashMap<>();
+        char[] letters = word.toCharArray();
+        char[] symbols = pattern.toCharArray();
+        int i;
+        for (i = 0; i < letters.length; i++) {
+            char letter = letters[i];
+            char symbol = symbols[i];
+            if (map.containsKey(symbol) && map.get(symbol) != letter) {
+                return false;
+            }
+            if (map.containsValue(letter) && !map.containsKey(symbol)) {
+                return false;
+            }
+            map.put(symbol, letter);
+        }
         return true;
     }
 }
