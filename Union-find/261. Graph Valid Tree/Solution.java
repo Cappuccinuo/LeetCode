@@ -98,3 +98,83 @@ class Solution {
         return graph;
     }
 }
+
+// DFS
+class Solution {
+    public boolean validTree(int n, int[][] edges) {
+        if (edges.length != n - 1) {
+            return false;
+        }
+        Map<Integer, List<Integer>> graph = new HashMap<>();
+        int i;
+        for (i = 0; i < n; i++) {
+            graph.put(i, new LinkedList<>());
+        }
+        for (int[] edge : edges) {
+            int src = edge[0];
+            int dst = edge[1];
+            graph.get(src).add(dst);
+            graph.get(dst).add(src);
+        }
+        
+        Set<Integer> visited = new HashSet();
+        visited.add(0);
+        DFS(graph, visited, 0);
+        
+        return visited.size() == n;
+    }
+    
+    private void DFS(Map<Integer, List<Integer>> graph, Set<Integer> visited, int node) {
+        for (int neighbour : graph.get(node)) {
+            if (visited.contains(neighbour)) {
+                continue;
+            }
+            visited.add(neighbour);
+            DFS(graph, visited, neighbour);
+        }
+    }
+}
+
+class Solution {
+    public boolean validTree(int n, int[][] edges) {
+        if (edges.length != n - 1) {
+            return false;
+        }
+        Map<Integer, List<Integer>> graph = new HashMap<>();
+        int i;
+        for (i = 0; i < n; i++) {
+            graph.put(i, new LinkedList<>());
+        }
+        for (int[] edge : edges) {
+            int src = edge[0];
+            int dst = edge[1];
+            graph.get(src).add(dst);
+            graph.get(dst).add(src);
+        }
+        
+        Set<Integer> visited = new HashSet();
+
+        if (hasCycle(graph, visited, 0, -1)) {
+            return false;
+        }
+        
+        return visited.size() == n;
+    }
+    
+    private boolean hasCycle(Map<Integer, List<Integer>> graph, Set<Integer> visited, int node, int parent) {
+        visited.add(node);
+        
+        for (int neighbour : graph.get(node)) {
+            // The recursion is not from the neighbour itself, like 2 - 3, we recursion on 3, 2 is also the 
+            // neighbour of 3
+            if (visited.contains(neighbour) && parent != neighbour) {
+                return true;
+            }
+            if (!visited.contains(neighbour) && hasCycle(graph, visited, neighbour, node)) {
+                return true;
+            }
+        }
+        
+        return false;
+    }
+}
