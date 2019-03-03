@@ -7,6 +7,35 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+
+class Solution {
+    public boolean isSymmetric(TreeNode root) {
+        if (root == null) {
+            return true;
+        }
+        Queue<TreeNode[]> queue = new LinkedList<>();
+        queue.offer(new TreeNode[]{root, root});
+        
+        while (!queue.isEmpty()) {
+            TreeNode[] group = queue.poll();
+            TreeNode first = group[0];
+            TreeNode second = group[1];
+            if (first == null && second == null) {
+                continue;
+            }
+            if (first == null || second == null) {
+                return false;
+            }
+            if (first.val != second.val) {
+                return false;
+            }
+            queue.offer(new TreeNode[]{first.left, second.right});
+            queue.offer(new TreeNode[]{first.right, second.left});
+        }
+        return true;
+    }
+}
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
