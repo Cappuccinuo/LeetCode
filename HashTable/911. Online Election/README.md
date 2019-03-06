@@ -23,3 +23,9 @@ Algorithm:
 Using treemap, the key will be the time, and value will be current max vote person.
 
 When call the topvoted function, we get the floor key towards t, and return the corresponding value.
+
+This time complexity is O(NlogN + QlogN).
+
+
+
+Using Binary search on result list, we can reduce the time complexity to O(N + QlogN). 
