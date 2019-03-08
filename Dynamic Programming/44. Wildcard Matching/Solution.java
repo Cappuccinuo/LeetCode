@@ -1,5 +1,35 @@
 class Solution {
     public boolean isMatch(String s, String p) {
+        int slen = s.length();
+        int plen = p.length();
+        char[] ss = s.toCharArray();
+        char[] pp = p.toCharArray();
+        boolean[][] dp = new boolean[slen + 1][plen + 1];
+        dp[0][0] = true;
+        
+        int i, j;
+        for (i = 0; i <= slen; i++) {
+            for (j = 1; j <= plen; j++) {
+                if (pp[j - 1] != '*') {
+                    if (i > 0 && (pp[j - 1] == '?' || pp[j - 1] == ss[i - 1])) {
+                        dp[i][j] |= dp[i - 1][j - 1];
+                    }
+                }
+                else {
+                    dp[i][j] |= dp[i][j - 1];
+                    
+                    if (i > 0) {
+                        dp[i][j] |= dp[i - 1][j];
+                    }
+                }
+            }
+        }
+        return dp[slen][plen];
+    }
+}
+
+class Solution {
+    public boolean isMatch(String s, String p) {
         if (s == null || p == null) {
             return false;
         }
