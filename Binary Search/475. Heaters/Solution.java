@@ -2,20 +2,21 @@ class Solution {
     public int findRadius(int[] houses, int[] heaters) {
         Arrays.sort(heaters);
         int i;
-        int len = houses.length;
-        int N = heaters.length;
+        int houseLen = houses.length;
+        int heaterLen = heaters.length;
         int max = 0;
-        for (i = 0; i < len; i++) {
+        
+        for (i = 0; i < houseLen; i++) {
             int index = binarySearch(houses[i], heaters);
 
-            if (index == N) {
-                max = Math.max(max, houses[i] - heaters[N - 1]);
-            }
-            else {
-                max = Math.max(max, Math.min(Math.abs(index > 0 ? houses[i] - heaters[index - 1] : Integer.MAX_VALUE), 
-                                             Math.abs(houses[i] - heaters[index])));
-            }
+            int leftDist = index > 0 ? Math.abs(houses[i] - heaters[index - 1]) : 
+                                       Integer.MAX_VALUE;
+            int rightDist = index < heaterLen ? Math.abs(houses[i] - heaters[index]) : 
+                                                Math.abs(houses[i] - heaters[heaterLen - 1]);
+            
+            max = Math.max(Math.min(leftDist, rightDist), max);
         }
+        
         return max;
     }
     
