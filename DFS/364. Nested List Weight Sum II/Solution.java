@@ -46,3 +46,59 @@ class Solution {
         return weighted;
     }
 }
+
+class Solution {
+    int maxDepth = 1;
+    int flatSum = 0;
+    
+    public int depthSumInverse(List<NestedInteger> nestedList) {
+        int depthSum = DFS(nestedList, 1);
+        return (maxDepth + 1) * flatSum - depthSum;
+    }
+    
+    private int DFS(List<NestedInteger> nestedList, int depth) {
+        int sum = 0;
+        maxDepth = Math.max(maxDepth, depth);
+        for (NestedInteger ni : nestedList) {
+            if (ni.isInteger()) {
+                sum += ni.getInteger() * depth;
+                flatSum += ni.getInteger();
+            }
+            else {
+                sum += DFS(ni.getList(), depth + 1);
+            }
+        }
+        return sum;
+    }
+}
+
+class Solution {
+    public int depthSumInverse(List<NestedInteger> nestedList) {
+        int depth = getDepth(nestedList);
+        return DFS(nestedList, depth);
+    }
+    
+    private int getDepth(List<NestedInteger> nestedList) {
+        int depth = 0;
+        for (NestedInteger ni : nestedList) {
+            if (ni.isInteger()) {
+                continue;
+            }
+            depth = Math.max(depth, getDepth(ni.getList()));
+        }
+        return depth + 1;
+    }
+    
+    private int DFS(List<NestedInteger> nestedList, int depth) {
+        int sum = 0;
+        for (NestedInteger ni : nestedList) {
+            if (ni.isInteger()) {
+                sum += ni.getInteger() * depth;
+            }
+            else {
+                sum += DFS(ni.getList(), depth - 1);
+            }
+        }
+        return sum;
+    }
+}
