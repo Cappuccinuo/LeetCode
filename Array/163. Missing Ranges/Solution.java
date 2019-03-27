@@ -7,24 +7,15 @@ class Solution {
         long start = (long)lower - 1;
         
         for (i = 0; i < len; i++) {
-            if (nums[i] == start + 1) {
-                start = nums[i];
+            long left = start + 1;
+            long right = (long)nums[i] - 1;
+            if (left == right) {
+                result.add(left + "");
             }
-            else {
-                long left = Math.min(upper, start + 1);
-                long right = Math.min(upper, (long)nums[i] - 1);
-                if (left == right) {
-                    result.add(left + "");
-                }
-                else if (left > right) {
-                    start = nums[i];
-                    continue;
-                }
-                else {
-                    result.add(left + "->" + right);
-                }
-                start = nums[i];
-            }   
+            else if (left < right) {
+                result.add(left + "->" + right);
+            }
+            start = nums[i];
         }
         
         if (start < upper) {
