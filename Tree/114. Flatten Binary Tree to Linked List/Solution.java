@@ -1,3 +1,23 @@
+// 2019.4.17
+class Solution {
+    public void flatten(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        TreeNode right = root.right;
+        flatten(root.left);
+        root.right = root.left;
+        root.left = null;
+        flatten(right);
+        while (root.right != null) {
+            root = root.right;
+        }
+        root.right = right;
+    }
+}
+
+
+
 // 2018.4.27
 /**
  * Definition for a binary tree node.
