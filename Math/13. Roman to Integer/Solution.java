@@ -1,25 +1,23 @@
 class Solution {
     public int romanToInt(String s) {
-        int[] map = new int[400];
-        map['I'] = 1;
-        map['V'] = 5;
-        map['X'] = 10;
-        map['L'] = 50;
-        map['C'] = 100;
-        map['D'] = 500;
-        map['M'] = 1000;
+        Map<Character, Integer> vals = new HashMap<>();
+        vals.put('I', 1);
+        vals.put('V', 5);
+        vals.put('X', 10);
+        vals.put('L', 50);
+        vals.put('C', 100);
+        vals.put('D', 500);
+        vals.put('M', 1000);
         
-        int result = 0;
-        
-        for (int i = 0; i < s.length() - 1; i++) {
-            if (map[s.charAt(i)] >= map[s.charAt(i + 1)]) {
-                result += map[s.charAt(i)];
-            }
-            else {
-                result -= map[s.charAt(i)];
-            }
+        char[] array = s.toCharArray();
+        int i;
+        int res = 0;
+        int len = array.length;
+        for (i = 0; i < len; i++) {
+            int current = vals.get(array[i]);
+            int next = (i == len - 1) ? 0 : vals.get(array[i + 1]);
+            res += current < next ? -current : current;
         }
-        result += map[s.charAt(s.length() - 1)];
-        return result;
+        return res;
     }
 }
