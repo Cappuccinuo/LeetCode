@@ -731,6 +731,7 @@
 | 727  | 460  |                       [LFU Cache][460]                       |     Java     |    Hard    |       2019.4.17       |                HashTable, Design                |                                                              |                       |
 | 728  | 529  |                     [Minuesweeper][529]                      |     Java     |   Medium   |       2019.4.17       |                       BFS                       |                                                              |                       |
 | 729  | 934  |                    [Shortest Bridge][934]                    |     Java     |   Medium   |       2019.4.17       |                    DFS, BFS                     |                                                              |                       |
+| 730  | 895  |                [Maximum Frequency Stack][895]                |     Java     |    Hard    |       2019.4.21       |                      Stack                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1399,6 +1400,7 @@
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 [893]:<https://leetcode.com/problems/groups-of-special-equivalent-strings/> "Groups of Special Equivalent Strings"
 [894]:<https://leetcode.com/problems/all-possible-full-binary-trees/> "All Possible Full Binary Trees"
+[895]:<https://leetcode.com/problems/maximum-frequency-stack/> "Maximum Frequency Stack"
 [896]:<https://leetcode.com/problems/monotonic-array/> "Monotonic Array"
 [897]:<https://leetcode.com/problems/increasing-order-search-tree/> "Incresing Order Search Tree"
 [898]:<https://leetcode.com/problems/bitwise-ors-of-subarrays/> "Bitwise ORs of Subarrays"
