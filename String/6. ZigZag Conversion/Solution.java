@@ -1,3 +1,41 @@
+// 2019.4.22
+class Solution {
+    public String convert(String s, int numRows) {
+        if (numRows == 1) {
+            return s;
+        }
+        Map<Integer, StringBuilder> map = new HashMap<>();
+        int i;
+        for (i = 0; i < numRows; i++) {
+            map.put(i, new StringBuilder());
+        }
+        int currentRow = 0;
+        boolean reverse = false;
+
+        for (i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            map.get(currentRow).append(c);
+            int nextRow = getNextRow(currentRow, reverse);
+            
+            if (nextRow < 0 || nextRow >= numRows) {
+                reverse = !reverse;
+                nextRow = getNextRow(currentRow, reverse);
+            }
+            currentRow = nextRow;
+        }
+        StringBuilder sb = new StringBuilder();
+        for (i = 0; i < numRows; i++) {
+            sb.append(map.get(i));
+        }
+        return sb.toString();
+    }
+    
+    private int getNextRow(int currentRow, boolean reverse) {
+        return reverse ? currentRow - 1 : currentRow + 1;
+    }
+}
+
+
 class Solution {
     public String convert(String s, int numRows) {        
         int count = 0;
