@@ -22,3 +22,32 @@ class Solution {
             || letter == '}' && top == '{';
     }
 }
+
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        char[] letters = s.toCharArray();
+        for (char letter : letters) {
+            if (letter == '(' || letter == '[' || letter == '{') {
+                stack.push(letter);
+            }
+            else {
+                if (!stack.isEmpty()) {
+                    if (!checkEqual(stack.pop(), letter)) {
+                        return false;
+                    }
+                }
+                else {
+                    return false;
+                }
+            }
+        }
+        return stack.isEmpty();
+    }
+    
+    private boolean checkEqual(char a, char b) {
+        return a == '(' && b == ')' ||
+            a == '[' && b == ']' ||
+            a == '{' && b == '}';
+    }
+}
