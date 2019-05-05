@@ -732,6 +732,7 @@
 | 728  | 529  |                     [Minuesweeper][529]                      |     Java     |   Medium   |       2019.4.17       |                       BFS                       |                                                              |                       |
 | 729  | 934  |                    [Shortest Bridge][934]                    |     Java     |   Medium   |       2019.4.17       |                    DFS, BFS                     |                                                              |                       |
 | 730  | 895  |                [Maximum Frequency Stack][895]                |     Java     |    Hard    |       2019.4.21       |                      Stack                      |                                                              |                       |
+| 731  |  45  |                      [Jump Game II][45]                      |     Java     |    Hard    |       2019.5.5        |                     Greedy                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -775,6 +776,7 @@
 [42]:<https://leetcode.com/problems/trapping-rain-water/> "Trapping rain water"
 [43]:<https://leetcode.com/problems/multiply-strings/> "Multiply Strings"
 [44]:<https://leetcode.com/problems/wildcard-matching/> "Wildcard Matching"
+[45]:<https://leetcode.com/problems/jump-game-ii/> "Jump Game II"
 [46]:<https://leetcode.com/problems/permutations/> "Permutations"
 [47]:<https://leetcode.com/problems/permutations-ii/> "Permutations II"
 [48]:<https://leetcode.com/problems/rotate-image/> "Rotate Image"
