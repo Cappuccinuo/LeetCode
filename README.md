@@ -733,6 +733,7 @@
 | 729  | 934  |                    [Shortest Bridge][934]                    |     Java     |   Medium   |       2019.4.17       |                    DFS, BFS                     |                                                              |                       |
 | 730  | 895  |                [Maximum Frequency Stack][895]                |     Java     |    Hard    |       2019.4.21       |                      Stack                      |                                                              |                       |
 | 731  |  45  |                      [Jump Game II][45]                      |     Java     |    Hard    |       2019.5.5        |                     Greedy                      |                                                              |                       |
+| 732  | 924  |                [Minimize Malware Spread][924]                |     Java     |    Hard    |       2019.5.7        |                   Union Find                    |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1419,6 +1420,7 @@
 [918]:<https://leetcode.com/problems/maximum-sum-circular-subarray/> "Maximum Sum Circular Subarray"
 [919]:<https://leetcode.com/problems/complete-binary-tree-inserter/> "Complete Binary Tree Inserter"
 [921]:<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/> "Minimum Add to Make Parenthesis Valid"
+[924]:<https://leetcode.com/problems/minimize-malware-spread/> "Minimize Malware Spread"
 [925]:<https://leetcode.com/problems/long-pressed-name/> "Long Pressed Name"
 [926]:<https://leetcode.com/problems/flip-string-to-monotone-increasing/> "Flip String to Monotone Increasing"
 [929]:<https://leetcode.com/problems/unique-email-addresses/> "Unique Email Addresses"
