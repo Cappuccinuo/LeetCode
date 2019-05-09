@@ -734,6 +734,7 @@
 | 730  | 895  |                [Maximum Frequency Stack][895]                |     Java     |    Hard    |       2019.4.21       |                      Stack                      |                                                              |                       |
 | 731  |  45  |                      [Jump Game II][45]                      |     Java     |    Hard    |       2019.5.5        |                     Greedy                      |                                                              |                       |
 | 732  | 924  |                [Minimize Malware Spread][924]                |     Java     |    Hard    |       2019.5.7        |                   Union Find                    |                                                              |                       |
+| 733  | 609  |             [Find Duplicate File in System][609]             |     Java     |   Medium   |       2019.5.9        |                     HashMap                     |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1225,6 +1226,7 @@
 [606]:<https://leetcode.com/problems/construct-string-from-binary-tree/> "Construct String from Binary Tree"
 [607]:<https://leetcode.com/problems/sales-person/> "Sales Person"
 [608]:<https://leetcode.com/problems/tree-node/> "Tree Node"
+[609]:<https://leetcode.com/problems/find-duplicate-file-in-system/> "Find Duplicate File in System"
 [610]:<https://leetcode.com/problems/triangle-judgement/> "Triangle Judgement"
 [611]:<https://leetcode.com/problems/valid-triangle-number/> "Valid Triangle Number"
 [613]:<https://leetcode.com/problems/shortest-distance-in-a-line/> "Shortest Distance in a Line"
