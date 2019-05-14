@@ -735,6 +735,7 @@
 | 731  |  45  |                      [Jump Game II][45]                      |     Java     |    Hard    |       2019.5.5        |                     Greedy                      |                                                              |                       |
 | 732  | 924  |                [Minimize Malware Spread][924]                |     Java     |    Hard    |       2019.5.7        |                   Union Find                    |                                                              |                       |
 | 733  | 609  |             [Find Duplicate File in System][609]             |     Java     |   Medium   |       2019.5.9        |                     HashMap                     |                                                              |                       |
+| 734  | 1029 |                 [Two City Scheduling][1029]                  |     Java     |    Easy    |       2019.5.14       |                     Greedy                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1464,5 +1465,6 @@
 [1019]:<https://leetcode.com/problems/next-greater-node-in-linked-list/> "Next Greater Node in Linked List"
 [1020]:<https://leetcode.com/problems/number-of-enclaves/> "Number of Enclaves"
 [1022]:<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/> "Sum of Root to Leaf Binary Numbers"
+[1029]:<https://leetcode.com/problems/two-city-scheduling/> "Two City Scheduling"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
