@@ -736,6 +736,8 @@
 | 732  | 924  |                [Minimize Malware Spread][924]                |     Java     |    Hard    |       2019.5.7        |                   Union Find                    |                                                              |                       |
 | 733  | 609  |             [Find Duplicate File in System][609]             |     Java     |   Medium   |       2019.5.9        |                     HashMap                     |                                                              |                       |
 | 734  | 1029 |                 [Two City Scheduling][1029]                  |     Java     |    Easy    |       2019.5.14       |                     Greedy                      |                                                              |                       |
+| 735  | 1030 |            [Matrix Cells in Distance Order][1030]            |     Java     |    Easy    |       2019.5.14       |                       BFS                       |                                                              |                       |
+| 736  | 1031 |     [Maximum Sum of Two Non-Overlapping Subarrays][1031]     |     Java     |   Medium   |       2019.5.17       |               Dynamic Programming               |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1466,5 +1468,7 @@
 [1020]:<https://leetcode.com/problems/number-of-enclaves/> "Number of Enclaves"
 [1022]:<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/> "Sum of Root to Leaf Binary Numbers"
 [1029]:<https://leetcode.com/problems/two-city-scheduling/> "Two City Scheduling"
+[1030]:<https://leetcode.com/problems/matrix-cells-in-distance-order/> "Matrix Cells in Distance Order"
+[1031]:<https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/> "Maximum Sum of Two Non-overlapping Subarrays"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
