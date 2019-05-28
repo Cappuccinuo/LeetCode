@@ -738,6 +738,7 @@
 | 734  | 1029 |                 [Two City Scheduling][1029]                  |     Java     |    Easy    |       2019.5.14       |                     Greedy                      |                                                              |                       |
 | 735  | 1030 |            [Matrix Cells in Distance Order][1030]            |     Java     |    Easy    |       2019.5.14       |                       BFS                       |                                                              |                       |
 | 736  | 1031 |     [Maximum Sum of Two Non-Overlapping Subarrays][1031]     |     Java     |   Medium   |       2019.5.17       |               Dynamic Programming               |                                                              |                       |
+| 737  | 1033 |           [Moving Stones Until Consecutive][1033]            |     Java     |    Easy    |       2019.5.28       |                      Array                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1470,5 +1471,6 @@
 [1029]:<https://leetcode.com/problems/two-city-scheduling/> "Two City Scheduling"
 [1030]:<https://leetcode.com/problems/matrix-cells-in-distance-order/> "Matrix Cells in Distance Order"
 [1031]:<https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/> "Maximum Sum of Two Non-overlapping Subarrays"
+[1033]:<https://leetcode.com/problems/moving-stones-until-consecutive> "Moving Stone Until Consecutive"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
