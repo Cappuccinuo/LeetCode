@@ -739,6 +739,48 @@
 | 735  | 1030 |            [Matrix Cells in Distance Order][1030]            |     Java     |    Easy    |       2019.5.14       |                       BFS                       |                                                              |                       |
 | 736  | 1031 |     [Maximum Sum of Two Non-Overlapping Subarrays][1031]     |     Java     |   Medium   |       2019.5.17       |               Dynamic Programming               |                                                              |                       |
 | 737  | 1033 |           [Moving Stones Until Consecutive][1033]            |     Java     |    Easy    |       2019.5.28       |                      Array                      |                                                              |                       |
+| 738  | 1078 |               [Occurences After Bigram][1078]                |     Java     |    Easy    |       2019.6.12       |                     String                      |                                                              |                       |
+| 739  | 1079 |               [Letter Tile Possiblities][1079]               |     Java     |   Medium   |       2019.6.13       |                  Backtracking                   |                                                              |                       |
+| 740  | 1080 |       [Insufficient Nodes in Root to Leaf Paths][1080]       |     Java     |   Medium   |       2019.6.13       |                       DFS                       |                                                              |                       |
+| 741  | 1081 |     [Smallest Subsequence of Distinct Characters][1081]      |     Java     |   Medium   |       2019.6.13       |                      Stack                      |                                                              |                       |
+| 742  | 1085 |         [Sum of Digits in the Minimum Number][1085]          |     Java     |    Easy    |       2019.6.15       |                      Array                      |                                                              |                       |
+| 743  | 1086 |                      [High Five][1086]                       |     Java     |    Easy    |       2019.6.15       |                   Hash Table                    |                                                              |                       |
+| 744  | 1087 |                   [Brace Expansion][1087]                    |     Java     |   Medium   |       2019.6.16       |                BFS, Backtracking                |                                                              |                       |
+| 745  | 1089 |                   [Duplicate Zeros][1089]                    |     Java     |    Easy    |       2019.6.17       |                      Array                      |                                                              |                       |
+| 746  | 1071 |          [Greatest Common Divisor of Strings][1071]          |     Java     |    Easy    |       2019.6.18       |                     String                      |                                                              |                       |
+| 747  | 1064 |                     [Fixed Point][1064]                      |     Java     |    Easy    |       2019.6.20       |                  Binary Search                  |                                                              |                       |
+| 748  | 1090 |              [Largest Values From Labels][1090]              |     Java     |   Medium   |       2019.7.12       |                Greedy, HashTable                |                                                              |                       |
+| 749  | 1099 |                 [Two Sum Less Than K][1099]                  |     Java     |    Easy    |       2019.7.12       |                      Array                      |                                                              |                       |
+| 750  | 1119 |             [Remove Vowels from A String][1119]              |     Java     |    Easy    |       2019.7.26       |                     String                      |                                                              |                       |
+| 751  | 1134 |                   [Armstrong Number][1134]                   |     Java     |    Easy    |       2019.7.29       |                      Math                       |                                                              |                       |
+| 752  | 1133 |                    [Largest Number][1133]                    |     Java     |    Easy    |       2019.7.29       |                   Hash Table                    |                                                              |                       |
+| 753  | 1135 |         [Connecting Cities with Minimum Cost][1135]          |     Java     |   Medium   |       2019.7.30       |                      Graph                      |                                                              |                       |
+| 754  | 1114 |                    [Print in Order][1114]                    |     Java     |    Easy    |       2019.8.2        |                     Thread                      |                                                              |                       |
+| 755  | 1143 |              [Longest Common Subsequence][1143]              |     Java     |   Medium   |       2019.8.2        |               Dynamic Programming               |                                                              |                       |
+| 756  | 1137 |                [N-th Tribonacci Number][1137]                |     Java     |    Easy    |       2019.8.3        |                    Recursion                    |                                                              |                       |
+| 757  | 1138 |                 [Alphabet Board Path][1138]                  |     Java     |   Medium   |       2019.8.3        |                    HashTable                    |                                                              |                       |
+| 758  | 1155 |         [Number of Dice Rolls with Target Sum][1155]         |     Java     |   Medium   |       2019.8.13       |               Dynamic Programming               |                                                              |                       |
+| 759  | 1154 |                   [Day of the Year][1154]                    |     Java     |    Easy    |       2019.8.14       |                     String                      |                                                              |                       |
+| 760  | 1156 |    [Swap for Longest Repeated Character Substring][1156]     |     Java     |   Medium   |       2019.8.14       |                  Two Pointers                   |                                                              |                       |
+| 761  | 1150 | [Check if a number is Majority Element in a Sorted Array][1150] |     Java     |    Easy    |       2019.8.14       |                  Binary Search                  |                                                              |                       |
+| 762  | 1175 |                  [Prime Arrangements][1175]                  |     Java     |    Easy    |       2019.9.6        |                      Math                       |                                                              |                       |
+| 763  | 1176 |                [Diet Plan Performance][1176]                 |     Java     |    Easy    |       2019.9.6        |                  Two Pointers                   |                                                              |                       |
+| 764  | 1177 |          [Can Make Palindrome from Substring][1177]          |     Java     |   Medium   |       2019.9.6        |                     String                      |                                                              |                       |
+| 765  | 1171 |  [Remove Zero Sum Consecutive Nodes from Linked List][1171]  |     Java     |   Medium   |       2019.9.17       |                   Linked List                   |                                                              |                       |
+| 766  | 1170 | [Compare Strings by Frequency of the Smallest Character][1170] |     Java     |    Easy    |       2019.9.17       |                     String                      |                                                              |                       |
+| 767  | 1169 |                 [Invalid Transactions][1169]                 |     Java     |   Medium   |       2019.9.18       |                    HashTable                    |                                                              |                       |
+| 768  | 1167 |            [Minimum Cost to Connect Sticks][1167]            |     Java     |   Medium   |       2019.9.18       |                     Greedy                      |                                                              |                       |
+| 769  | 1165 |                 [Single-Row Keyboard][1165]                  |     Java     |    Easy    |       2019.9.18       |                     String                      |                                                              |                       |
+| 770  | 1162 |             [As Far from Land as Possible][1162]             |     Java     |   Medium   |       2019.9.20       |                       BFS                       |                                                              |                       |
+| 771  | 1180 |    [Count Substrings with Only One Distinct Letter][1180]    |     Java     |    Easy    |       2019.10.6       |                  Two Pointers                   |                                                              |                       |
+| 772  | 1181 |               [Before and After Puzzle][1181]                |     Java     |   Medium   |       2019.10.7       |                     HashMap                     |                                                              |                       |
+| 773  | 1182 |          [Shortest Distance to Target Color][1182]           |     Java     |   Medium   |       2019.10.8       |                  Binary Search                  |                                                              |                       |
+| 774  | 1184 |              [Distance Between Bus Stops][1184]              |     Java     |    Easy    |       2019.10.9       |                      Array                      |                                                              |                       |
+| 775  | 1185 |                   [Day of the Week][1185]                    |     Java     |    Easy    |      2019.10.12       |                      Array                      |                                                              |                       |
+| 776  | 1189 |              [Maximum Number of Balloons][1189]              |     Java     |    Easy    |      2019.10.13       |                      Array                      |                                                              |                       |
+| 777  | 1221 |          [Split a String in Balanced Strings][1221]          |     Java     |    Easy    |      2019.10.16       |                     Greedy                      |                                                              |                       |
+| 778  | 1219 |                [Path with Maximum Gold][1219]                |     Java     |   Medium   |      2019.10.17       |                  Backtracking                   |                                                              |                       |
+| 779  | 1243 |                 [Array Transformation][1243]                 |     Java     |    Easy    |       2019.11.2       |                      Array                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1472,5 +1514,47 @@
 [1030]:<https://leetcode.com/problems/matrix-cells-in-distance-order/> "Matrix Cells in Distance Order"
 [1031]:<https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/> "Maximum Sum of Two Non-overlapping Subarrays"
 [1033]:<https://leetcode.com/problems/moving-stones-until-consecutive> "Moving Stone Until Consecutive"
+[1064]:<https://leetcode.com/problems/fixed-point/> "Fixed Point"
+[1071]:<https://leetcode.com/problems/greatest-common-divisor-of-strings/> "Greatest Common Divisor of Strings"
+[1078]:<https://leetcode.com/problems/occurrences-after-bigram/> "Occurences After Bigram"
+[1079]:<https://leetcode.com/problems/letter-tile-possibilities/> "Letter Tile Possiblities"
+[1080]:<https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/> "Insufficient Nodes in Root to Leaf Paths"
+[1081]:<https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/> "Smallest Subsequence of Distinct Characters"
+[1085]:<https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/> "Sum of Digits in the minimum number"
+[1086]:<https://leetcode.com/problems/high-five/> "High Five"
+[1087]:<https://leetcode.com/problems/brace-expansion/> "Brace Expansion"
+[1089]:<https://leetcode.com/problems/duplicate-zeros/> "Duplicate Zeros"
+[1090]:<https://leetcode.com/problems/largest-values-from-labels/> "Largest Values From Labels"
+[1099]:<https://leetcode.com/problems/two-sum-less-than-k/> "Two Sum Less Than K"
+[1114]:<https://leetcode.com/problems/print-in-order/> "Print in order"
+[1119]:<https://leetcode.com/problems/remove-vowels-from-a-string/> "Remove Vowels from A String"
+[1133]:<https://leetcode.com/problems/largest-unique-number> "Largest unique Number"
+[1134]:<https://leetcode.com/problems/armstrong-number/> "Armstrong Number"
+[1135]:<https://leetcode.com/problems/connecting-cities-with-minimum-cost> "Connecting Cities with Minimum Cost"
+[1137]:<https://leetcode.com/problems/n-th-tribonacci-number/> "N-th Tribonacci Number"
+[1138]:<https://leetcode.com/problems/alphabet-board-path/> "Alphabet Board Path"
+[1143]:<https://leetcode.com/problems/longest-common-subsequence/> "Longest Common Subsequence"
+[1150]:<https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/> "Check if a number is majority element in a sorted array"
+[1154]:<https://leetcode.com/problems/day-of-the-year> "Day of the Year"
+[1155]:<https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/> "Number of dice rolls with Target Sum"
+[1156]:<https://leetcode.com/problems/swap-for-longest-repeated-character-substring/> "Swap for Longest Repeated Character Substring"
+[1162]:<https://leetcode.com/problems/as-far-from-land-as-possible/> "As far From Land as possible"
+[1165]:<https://leetcode.com/problems/single-row-keyboard/> "Single Row Keyboard"
+[1167]:<https://leetcode.com/problems/minimum-cost-to-connect-sticks/> "Minimum Cost to Connect Sticks"
+[1169]:<https://leetcode.com/problems/invalid-transactions/> "Invalid Transactions"
+[1170]:<https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/> "Compare Strings by Frequency of the Smallest Character"
+[1171]:<https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list> "Remove Zero Sum Consecutive Nodes From Linked List"
+[1175]:<https://leetcode.com/problems/prime-arrangements/> "Prime Arrangements"
+[1176]:<https://leetcode.com/problems/diet-plan-performance/> "Diet Plan Performance"
+[1177]:<https://leetcode.com/problems/can-make-palindrome-from-substring/> "Can Make Palindrome from Substring"
+[1180]:<https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/> "Count Substrings with Only One Distinct Letter"
+[1181]:<https://leetcode.com/problems/before-and-after-puzzle/> "Before and After Puzzle"
+[1182]:<https://leetcode.com/problems/shortest-distance-to-target-color/> "Shortest Distance to Target Color "
+[1184]:<https://leetcode.com/problems/distance-between-bus-stops/> "Distance Between Bus Stops"
+[1185]:<https://leetcode.com/problems/day-of-the-week/> "Day of the week"
+[1189]:<https://leetcode.com/problems/maximum-number-of-balloons/> "Maximum Number of Balloons"
+[1219]:<https://leetcode.com/problems/path-with-maximum-gold/> "Path with maximum old"
+[1221]:<https://leetcode.com/problems/split-a-string-in-balanced-strings> "Split a String in Balanced Strings"
+[1243]:<https://leetcode.com/problems/array-transformation/> "Array Transformation"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
