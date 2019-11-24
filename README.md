@@ -783,6 +783,8 @@
 | 779  | 1243 |                 [Array Transformation][1243]                 |     Java     |    Easy    |       2019.11.2       |                      Array                      |                                                              |                       |
 | 780  | 1258 |                 [Synonymous Sentences][1258]                 |     Java     |   Medium   |      2019.11.16       |               UnionFind, HashMap                |                                                              |                       |
 | 781  | 1260 |                    [Shift 2D Grid][1260]                     |     Java     |    Easy    |      2019.11.17       |                      Array                      |                                                              |                       |
+| 782  | 1261 |     [Find Elements in a Contaminated Binary Tree][1261]      |     Java     |   Medium   |      2019.11.20       |                       DFS                       |                                                              |                       |
+| 783  | 1265 |        [Print Immutable Linked List in Reverse][1265]        |     Java     |   Medium   |      2019.11.24       |                   LinkedList                    |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1560,5 +1562,7 @@
 [1243]:<https://leetcode.com/problems/array-transformation/> "Array Transformation"
 [1260]:<https://leetcode.com/problems/shift-2d-grid/> "Shift 2D Grid"
 [1258]:<https://leetcode.com/problems/synonymous-sentences> "Synonymous Sentences"
+[1261]:<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/> "Find Elements in a contaminated Binary Tree"
+[1265]:<https://leetcode.com/problems/print-immutable-linked-list-in-reverse/> "Print Immutable Linked List in Reverse"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
