@@ -786,6 +786,8 @@
 | 782  | 1261 |     [Find Elements in a Contaminated Binary Tree][1261]      |     Java     |   Medium   |      2019.11.20       |                       DFS                       |                                                              |                       |
 | 783  | 1265 |        [Print Immutable Linked List in Reverse][1265]        |     Java     |   Medium   |      2019.11.24       |                   LinkedList                    |                                                              |                       |
 | 784  | 1266 |           [Minimum Time Visiting All Points][1266]           |     Java     |    Easy    |      2019.11.30       |                      Array                      |                                                              |                       |
+| 785  | 1267 |            [Count Servers that Communicate][1267]            |     Java     |   Medium   |       2019.12.1       |                      Graph                      |                                                              |                       |
+| 786  | 1268 |              [Search Suggestions System][1268]               |     Java     |   Medium   |       2019.12.1       |                     String                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1566,5 +1568,7 @@
 [1261]:<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/> "Find Elements in a contaminated Binary Tree"
 [1265]:<https://leetcode.com/problems/print-immutable-linked-list-in-reverse/> "Print Immutable Linked List in Reverse"
 [1266]:<https://leetcode.com/problems/minimum-time-visiting-all-points> "Minimum Time Visiting All Points"
+[1267]:<https://leetcode.com/problems/count-servers-that-communicate/> "Count Servers That Communicate"
+[1268]:<https://leetcode.com/problems/search-suggestions-system/> "Search Suggestions System"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
