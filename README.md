@@ -789,6 +789,7 @@
 | 785  | 1267 |            [Count Servers that Communicate][1267]            |     Java     |   Medium   |       2019.12.1       |                      Graph                      |                                                              |                       |
 | 786  | 1268 |              [Search Suggestions System][1268]               |     Java     |   Medium   |       2019.12.1       |                     String                      |                                                              |                       |
 | 787  | 1271 |                       [Hexspeak][1271]                       |     Java     |    Easy    |       2019.12.8       |                     String                      |                                                              |                       |
+| 788  | 1272 |                   [Remove Interval][1272]                    |     Java     |   Medium   |      2019.12.14       |                      Array                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1572,5 +1573,6 @@
 [1267]:<https://leetcode.com/problems/count-servers-that-communicate/> "Count Servers That Communicate"
 [1268]:<https://leetcode.com/problems/search-suggestions-system/> "Search Suggestions System"
 [1271]:<https://leetcode.com/problems/hexspeak/> "Hexspeak"
+[1272]:<https://leetcode.com/problems/remove-interval/> "Remove Interval"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
