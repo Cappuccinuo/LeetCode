@@ -791,6 +791,7 @@
 | 787  | 1271 |                       [Hexspeak][1271]                       |     Java     |    Easy    |       2019.12.8       |                     String                      |                                                              |                       |
 | 788  | 1272 |                   [Remove Interval][1272]                    |     Java     |   Medium   |      2019.12.14       |                      Array                      |                                                              |                       |
 | 789  | 1342 |      [Number of Steps to Reduce a Number to Zero][1342]      |     Java     |    Easy    |       2020.2.10       |                Bit Manipulation                 |                                                              |                       |
+| 790  | 1347 | [Minimum Number of Steps to Make Two Strings Anagram][1347]  |     Java     |   Medium   |       2020.2.11       |                     String                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1576,5 +1577,6 @@
 [1271]:<https://leetcode.com/problems/hexspeak/> "Hexspeak"
 [1272]:<https://leetcode.com/problems/remove-interval/> "Remove Interval"
 [1342]:<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/> "Number of steps to reduce a number to zero"
+[1347]:<https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/> "Minimum number of steps to make two strings anagram"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
