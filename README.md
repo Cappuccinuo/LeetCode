@@ -793,6 +793,7 @@
 | 789  | 1342 |      [Number of Steps to Reduce a Number to Zero][1342]      |     Java     |    Easy    |       2020.2.10       |                Bit Manipulation                 |                                                              |                       |
 | 790  | 1347 | [Minimum Number of Steps to Make Two Strings Anagram][1347]  |     Java     |   Medium   |       2020.2.11       |                     String                      |                                                              |                       |
 | 791  | 1346 |           [Check If N and Its Double Exist][1346]            |     Java     |    Easy    |       2020.2.12       |                      Array                      |                                                              |                       |
+| 792  | 1374 | [Generate a String With Characters That Have Odd Counts][1374] |     Java     |    Easy    |       2020.3.8        |                     String                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1580,5 +1581,6 @@
 [1342]:<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/> "Number of steps to reduce a number to zero"
 [1346]:<https://leetcode.com/problems/check-if-n-and-its-double-exist/> "Check If n and Its double exist"
 [1347]:<https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/> "Minimum number of steps to make two strings anagram"
+[1374]:<https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/> "Generate a string with characters that have odd counts"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
