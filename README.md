@@ -795,6 +795,7 @@
 | 791  | 1346 |           [Check If N and Its Double Exist][1346]            |     Java     |    Easy    |       2020.2.12       |                      Array                      |                                                              |                       |
 | 792  | 1374 | [Generate a String With Characters That Have Odd Counts][1374] |     Java     |    Easy    |       2020.3.8        |                     String                      |                                                              |                       |
 | 793  | 1380 |              [Lucky Numbers in a Matrix][1380]               |     Java     |    Easy    |       2020.3.15       |                      Array                      |                                                              |                       |
+| 794  | 1381 |       [Design a Stack With Increment Operation][1381]        |     Java     |   Medium   |       2020.3.15       |                      Stack                      |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1584,5 +1585,6 @@
 [1347]:<https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/> "Minimum number of steps to make two strings anagram"
 [1374]:<https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/> "Generate a string with characters that have odd counts"
 [1380]:<https://leetcode.com/problems/lucky-numbers-in-a-matrix/> "Lucky Numbers in a Matrix"
+[1381]:<https://leetcode.com/problems/design-a-stack-with-increment-operation/> "Design a Stack With Increment Operation"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
