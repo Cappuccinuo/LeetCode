@@ -796,6 +796,7 @@
 | 792  | 1374 | [Generate a String With Characters That Have Odd Counts][1374] |     Java     |    Easy    |       2020.3.8        |                     String                      |                                                              |                       |
 | 793  | 1380 |              [Lucky Numbers in a Matrix][1380]               |     Java     |    Easy    |       2020.3.15       |                      Array                      |                                                              |                       |
 | 794  | 1381 |       [Design a Stack With Increment Operation][1381]        |     Java     |   Medium   |       2020.3.15       |                      Stack                      |                                                              |                       |
+| 795  | 1382 |             [Balance a Binary Search Tree][1382]             |     Java     |   Medium   |       2020.3.16       |                      Tree                       |                                                              |                       |
 
 
 [1]:<https://leetcode.com/problems/two-sum/> "Two Sum"
@@ -1586,5 +1587,6 @@
 [1374]:<https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/> "Generate a string with characters that have odd counts"
 [1380]:<https://leetcode.com/problems/lucky-numbers-in-a-matrix/> "Lucky Numbers in a Matrix"
 [1381]:<https://leetcode.com/problems/design-a-stack-with-increment-operation/> "Design a Stack With Increment Operation"
+[1382]:<https://leetcode.com/problems/balance-a-binary-search-tree/> "Balance a Binary Search Tree"
 [892]:<https://leetcode.com/problems/surface-area-of-3d-shapes/> "Surface area of 3d Shapes"
 
