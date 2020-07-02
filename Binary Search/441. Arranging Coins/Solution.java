@@ -1,32 +1,34 @@
-class Solution {
+vclass Solution {
     public int arrangeCoins(int n) {
-        return binarySearch(0, n, n);
-    }
-    
-    private int binarySearch(int start, int end, int n) {
-        while (start + 1 < end) {
-            long mid = start + (end - start) / 2;
-            long a = mid + 1;
-            long b = mid + 2;
-            if ((mid * a / 2) <= (long)n && (a * b / 2) > (long)n) {
-                return (int)mid;
-            }
-            else if (mid * a / 2 > (long)n) {
-                end = (int)mid;
-            }
-            else {
-                start = (int)mid;
+        int left = 1;
+        int right = n;
+        
+        while (left + 1 < right) {
+            int mid = left + (right - left) / 2;
+            
+            long expected = expectedSum((long)mid);
+            if (expected == n) {
+                return mid;
+            } else if (n < expected) {
+                right = mid;
+            } else {
+                left = mid;
             }
         }
         
-        if (end * (end + 1) / 2 <= n) {
-            return end;
+        if (expectedSum(right) <= n) {
+            return right;
         }
         
-        if (start * (start + 1) / 2 <= n) {
-            return start;
+        if (expectedSum(left) <= n) {
+            return left;
         }
         
         return -1;
+    }
+    
+    // Long is required since n * n might exceed int
+    private long expectedSum(long n) {
+        return (n * (n + 1) / 2);
     }
 }
